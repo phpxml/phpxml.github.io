@@ -10,3 +10,582 @@ http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/2866.m3u8
 #EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
 http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/2909.m3u8
 
+
+#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
+https://mn-nl.mncdn.com/blutv_trt2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᶠʰᵈ
+http://167.114.115.233:8080/trt2fhd/index.m3u8 
+#EXTINF:-1 tvg-id="  TRT.Belgesel.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="TÜRK",TRT BELGESEL ᴴᴰ
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="  TRT.Belgesel.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="TÜRK",TRT BELGESEL ᴴᴰ
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8 
+#EXTINF:-1 tvg-id=" TRT.Haber.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="TÜRK",TRT HABER ᴴᴰ
+https://trthaber.blutv.com/blutv_trthaber_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="TÜRK",TRT MÜZİK ᴴᴰ
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="  TRT.Çocuk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/YjkMYbF/trtcocuk21a.png    " group-title="TÜRK",TRT ÇOCUK ᶠʰᵈ
+https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id=" Cartoon.Network.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png     " group-title="TÜRK",CN ᴴᴰ
+https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  BOOMERANG.HD.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png    " group-title="TÜRK",BOOMERANG ᴴᴰ
+https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  TRT.TURK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="TÜRK",TRT TÜRK ᴴᴰ
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="  TRT.AVAZ.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="TÜRK",TRT AVAZ ᴴᴰ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
+
+
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/46846
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",BEIN GURME ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/26091
+#EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/8347
+#EXTINF:-1 tvg-id="  Discovery.Channel.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="   https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png?20190417174023     "   ,Discovery ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/1020.m3u8
+#EXTINF:-1 tvg-id="  National.Geographic.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/1018
+#EXTINF:-1 tvg-id=" Nat.Geo.Wild.HD.tr   " tvg-name="" group-title="TÜRK"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/1019
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
+http://sssxxx.tk:8080/Remco/RjZE2wx7mM/6620
+
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="TÜRK",Investigation Discovery ᴴᴰ
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8 
+#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᴴᴰ
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᶠʰᵈ
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="TÜRK",SHOW TÜRK ᴴᴰ
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
+https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="TÜRK",EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8 
+
+#EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/110
+
+#EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="TÜRK",EURO D 
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="  KANAL.7.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="TÜRK",KANAL 7 ᴴᴰ
+https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="TÜRK",KANAL 7 Avrupa 
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
+
+#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/112
+#EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/7135
+#EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/103.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/7136
+
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",TV8 ᴴᴰ
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=55x6qmpw8q6a&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-id="  KRT.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="TÜRK",KRT ᴴᴰ
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="  TELE.1.HD.tr   " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="TÜRK",TELE 1 ᴴᴰ
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8 
+#EXTINF:-1 tvg-id="  FlashTV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="TÜRK",FLASH HABER ᴴᴰ
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
+#EXTINF:-1 tvg-id="  TV.100.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/bLpTdYZ/tv100.png    " group-title="TÜRK",TV 100 ᴴᴰ
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png     " group-title="TÜRK",SZC ᴴᴰ
+https://mn-nl.mncdn.com/blutv_szctv/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="  CNN.TÜRK.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="TÜRK",CNN Türk ᴴᴰ
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="  HABERTURK.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="TÜRK",Habertürk ᴴᴰ
+https://haberturk.blutv.com/blutv_haberturk_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="  NTV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="TÜRK",NTV ᴴᴰ
+https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="   Bloomberg.HT.HD.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="TÜRK",Bloomberg HT ᴴᴰ
+https://mn-nl.mncdn.com/blutv_bloomberght2/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="   HABER.GLOBAL.HD.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="TÜRK",Haber Global ᴴᴰ
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",Beyaz TV ᴴᴰ
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8 
+#EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",360 ᴴᴰ
+https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="   Teve2.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="TÜRK",Teve2 ᴴᴰ
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="TÜRK",TLC ᴴᴰ
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
+#EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="TÜRK",DMAX ᴴᴰ
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8 
+#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="TÜRK",blutv|play 1 ᴴᴰ
+https://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="TÜRK",blutv|play 2 ᴴᴰ
+https://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png    " group-title="TÜRK",CiNE5 ᴴᴰ
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="  https://yerelmedya.tv/logosTV/denizpostasitv.png   " group-title="TÜRK",DENiZ POSTASI
+https://h125.artiyerelmedya.net/denizpostasitv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="TÜRK",TIVI 6
+https://waw1.artiyerelmedya.net/tivi6/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6U0FimhNMRWumIIiBOgbuQw9cDfaiLcS7c5c9ZBQ&s       " group-title="TÜRK",tivi TÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8 
+
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="TÜRK",TV4 ᴴᴰ
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/ertv.png   " group-title="TÜRK",ER TV ᴴᴰ
+https://live.artidijitalmedya.com/artidijital_ertv/ertv/chunks.m3u8
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/vuslattv.png   " group-title="TÜRK",VUSLAT TV ᴴᴰ
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="   ZDF.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF ᴴᴰ
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="      ZDFinfo.HD.de     " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png    " group-title="ALMAN",Zdfinfo ᴴᴰ
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="   ZDFneo.HD.de   " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title="ALMAN",Zdfneo ᴴᴰ
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="  ONE.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title="ALMAN",One ᴴᴰ
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="    Das.Erste.HD.de    " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title="ALMAN",Das Erste ᵁᴴᴰ
+https://mcdn.daserste.de/daserste/de/master.m3u8 
+#EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ALMAN",KIKA ᴴᴰ
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
+#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
+https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/25164
+#EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/1742
+#EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/454
+#EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/452
+
+
+#EXTINF:1 tvg-id="  3sat.HD.de    " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title="ALMAN",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="   PHOENIX.HD.de   " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/500px-Phoenix-logo-2018.svg.png" group-title="ALMAN",Phoenix 
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:1 tvg-id="     ARTE.HD.de    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/121px-Arte_Logo_2017.svg.png" group-title="ALMAN",ARTE Germany
+https://artelivezdf.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="    Bayerisches.Fernsehen.HD.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png   " group-title="ALMAN",BR Fernsehen Nord
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8 
+#EXTINF:-1 tvg-id="     hr-Fernsehen.HD.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/500px-Hr-fernsehen_Logo_2015.svg.png   " group-title="ALMAN",HR Fernsehen
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+#EXTINF:-1 tvg-id="      MDR.Fernsehen.HD.de        " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png    " group-title="ALMAN",MDR Fernsehen Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+ #EXTINF:-1 tvg-id="    NDR.Fernsehen.HD.de       " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png         " group-title="ALMAN",NDR Fernsehen Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8 
+#EXTINF:-1 tvg-id="      RadioBremenFernsehen.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Radio_Bremen_TV.svg/500px-Logo_Radio_Bremen_TV.svg.png       " group-title="ALMAN",Radio Bremen Fernsehen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="     rbb.Fernsehen.HD.de      " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/500px-Rbb_Fernsehen_Logo_2017.08.svg.png     " group-title="ALMAN",RBB Berlin
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-720p-3328.m3u8
+#EXTINF:-1 tvg-id="      SRF.1.HD.de     " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/500px-SR_Fernsehen.svg.png         " group-title="ALMAN",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="      SWR.Fernsehen.HD.de     " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SWR_FERNSEHEN_2014.png/250px-SWR_FERNSEHEN_2014.png      " group-title="ALMAN",SWR Fernsehen Baden-Wurttemberg
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3328.m3u8
+#EXTINF:-1 tvg-id="      WDR.Fernsehen.HD.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/500px-WDR_Fernsehen_Logo_2018.svg.png       " group-title="ALMAN",WDR Fernsehen Aachen
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-id="   ARD-alpha.de   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title="ALMAN",ARD-alfa 
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+ #EXTINF:-1 tvg-id="     tagesschau24.HD.de      " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png      " group-title="ALMAN",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+ #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
+https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8 
+#EXTINF:-1 tvg-id="   " tvg-language="Turkish" tvg-logo="     https://i.ibb.co/6401NQw/kraltv.png    " group-title="MÜZİK",Kral TV 
+https://dogus-live.daioncdn.net/kraltv/kraltv.m3u8
+#EXTINF:-1 tvg-id="    " tvg-language="Turkish" tvg-logo="     https://i.ibb.co/zhRwXbL/krpop.png   " group-title="MÜZİK",Kral Pop TV 
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-language="Turkish" tvg-logo="    https://i.ibb.co/wSPFds2/nr1turk.png      " group-title="MÜZİK",Number 1 Türk 
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MÜZİK",Number 1 Türk Damar 
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-language="Turkish" tvg-logo="   https://i.ibb.co/B6N9KsN/powerturk22.png      " group-title="MÜZİK",Power Türk 
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8 
+#EXTINF:-1 tvg-id=" " tvg-language="Turkish" tvg-logo=" https://i.ibb.co/FgCW885/pturkakustik.png " group-title="MÜZİK",PowerTürk Akustik 
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Turkish" tvg-logo=" https://i.ibb.co/wy1H8jM/pturkttaze.png  " group-title="MÜZİK",PowerTürk Taptaze 
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8 
+#EXTINF:-1 tvg-id="" tvg-language="Turkish" tvg-logo=" https://i.ibb.co/xS417WJ/pturkiyiler.png   " group-title="MÜZİK",PowerTürk En İyiler 
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Turkish" tvg-logo="  https://i.ibb.co/rZxNWKv/pslow.png  " group-title="MÜZİK",PowerTürk Slow 
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo=" https://1.bp.blogspot.com/-7EqKEiYowB0/XrD2cgUAc2I/AAAAAAAAYYk/W71ha0YZj_ECpsCqMMDx9zUDRyHaGsfBQCLcBGAsYHQ/s1600/05.png   " group-title="MÜZİK",Slow Karadeniz TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",POWER PLUS +
+http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",DAMAR TV 
+https://tvsms.club/tv.php?kanal=damar&file=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",ARABESK TV 
+https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="  Eurosport.1.HD.tr " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png  " group-title="SPOR",EUROSPORT 1 ᴴᴰ
+https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 tvg-id=" Eurosport.2.HD.tr  " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/9/93/Eurosport_2_HD_Logo_2015.png  " group-title="SPOR",EUROSPORT 2 ᴴᴰ
+https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
+
+
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-language="" tvg-logo="  https://i.ibb.co/4Rm7Z6Z/sports22.png " group-title="SPOR",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-language="" tvg-logo="  https://i.ibb.co/4Rm7Z6Z/sports22.png " group-title="SPOR",Sports TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/41788
+#EXTINF:-1 tvg-id=" A.Spor.HD.tr   " tvg-name="TR | A SPOR 4K+" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/613
+
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/612
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr  " tvg-name="TR | TRT SPOR 4K+" tvg-logo="   https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/7126
+#EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/25174
+#EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT 2 SPOR 4K" tvg-logo="   https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/609
+
+
+
+#EXTINF:-1 tvg-id="    beIN.MOVIES.ACTION.HD.tr   " tvg-name="TR | beIN MOVIES ACTION ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/action_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Action ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21011
+#EXTINF:-1 tvg-id="    beIN.MOVIES.ACTION.2.HD.tr   " tvg-name="TR | beIN MOVIES ACTION 2 ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/action_2_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Action 2 ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21012
+#EXTINF:-1 tvg-id="  beIN.SERIES.SCI-FI.HD.tr    " tvg-name="TR | BEIN SERIES SI-FI ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/sci_fi_hd.png     " tvg-id2="Mzk2NzI=" group-title="SINEMA",Sci-fi ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21017
+EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.HD.tr  " tvg-name="TR | BEIN MOVIES STARS ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/stars_hd.png     " tvg-id2="Mzk2NzI=" group-title="SINEMA",Stars ᵁᴴᴰ
+
+#EXTINF:-1 tvg-id="  beIN.MOVIES.PREMIERE.HD.tr    " tvg-name="TR | beIN MOVIES PREMIERE ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/premier_hd.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",Premiere ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21008
+#EXTINF:-1 tvg-id="    beIN.MOVIES.PREMIERE.2.HD.tr   " tvg-name="TR | beIN MOVIES PREMIERE 2 ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/premier_2_hd.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",Premiere 2 ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21009
+#EXTINF:-1 tvg-id="   beIN.MOVIES.FAMILY.HD.tr     " tvg-name="TR | beIN MOVIES FAMILY ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/family_hd.png      " tvg-id2="Mzk2NzI=" group-title="SINEMA",Family ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21010
+#EXTINF:-1 tvg-id="   beIN.SERIES.DRAMA.HD.tr     " tvg-name="TR | BEINSERIES DRAMA ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/drama_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Drama ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21019
+#EXTINF:-1 tvg-id="  beIN.SERIES.COMEDY.HD.tr   " tvg-name="TR | BEIN SERIES COMEDY ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/d_comedy_hd.png      " tvg-id2="Mzk2NzI=" group-title="SINEMA",Comedy ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21020
+#EXTINF:-1 tvg-id="  beIN.SERIES.VICE.HD.tr   " tvg-name="|TR.SIN| beIN SERIES VICE HD" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/vice_hd.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",Vice ᵁᴴᴰ
+http://xtra.fireottplus.com:2052/csp11/localttt77/214332
+#EXTINF:-1 tvg-id="    beIN.MOVIES.TURK.HD.tr  " tvg-name="TR | beIN MOVIES TURK ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/mm_turk_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Türk ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21006
+
+#EXTINF:-1 tvg-id="   beIN.BOX.OFFICE.1.HD.tr   " tvg-name=" beIN BOX OFFICE 1 ᵁᴴᴰ   " tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",BOX 1 ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/30805
+#EXTINF:-1 tvg-id="   beIN.BOX.OFFICE.2.HD.tr   " tvg-name=" beIN BOX OFFICE 2 ᵁᴴᴰ   " tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",BOX 2 ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/30806
+#EXTINF:-1 tvg-id="   beIN.BOX.OFFICE.3.HD.tr   " tvg-name=" beIN BOX OFFICE 3 ᵁᴴᴰ   " tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",BOX 3 ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/30807
+
+#EXTINF:-1 tvg-id="  " tvg-name="MOVIESMART TURK" tvg-logo="  https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/9.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",MOVIESMART Türk ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21022
+#EXTINF:-1 tvg-id="      " tvg-name="MOVIESMART CLASSIC" tvg-logo="  https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/9.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",MOVIESMART Classic ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21029
+#EXTINF:-1 tvg-id="      " tvg-name="dizismart premium TURK" tvg-logo="   https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/15.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",DIZISMART Premium ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/21033
+
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63598.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63601.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63603.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63604.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63602.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 4kplus ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63605.m3u8
+
+
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4649.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/18947.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4658.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4648.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4650.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 sssx ᴴᴰ
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/24511.m3u8
+
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2 4kplus
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/60126.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63608.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63610.m3u8
+
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2 sssx
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4651.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4652.m3u8
+
+#EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.1.HD.tr   " tvg-name="      " group-title="beIN" tvg-logo="   https://i.imgur.com/FjWQjdy.png  ",Max 1 4kplus
+http://4kplus.org:80/bitbust/ETGUGRlVIa/63621
+#EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.1.HD.tr   " tvg-name="      " group-title="beIN" tvg-logo="   https://i.imgur.com/FjWQjdy.png  ",Max 2
+http://4kplus.org:80/bitbust/ETGUGRlVIa/63623
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="   sky1.de  " tvg-name="DE | Sky 1 ᶠʰᵈ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/512px-Sky_One_-_Logo_2020.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky one ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/12159
+#EXTINF:-1 tvg-id="  skycinemaspecialhd.de  " tvg-name="DE | Cinema Special ᴴᴰ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/512px-Sky_Cinema_Special_DE_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Special ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/12153
+#EXTINF:-1 tvg-id="   skyaction.de  " tvg-name="DE | Sky Action 4K+" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/512px-Sky_Cinema_Action_-_Logo_2021.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Action ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/12156
+#EXTINF:-1 tvg-id="  Sky.Action.HD.de  " tvg-name="DE | Cinema Action ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/512px-Sky_Cinema_Action_-_Logo_2021.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Action ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/378
+#EXTINF:-1 tvg-id=" Sky.Atlantic.HD.de    " tvg-name="DE | Sky Atlantic ᵁᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Atlantic ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/12157
+#EXTINF:-1 tvg-id="   Sky.Atlantic.HD.de  " tvg-name="DE | Sky Atlantic ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Atlantic ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/383
+#EXTINF:-1 tvg-id="  Sky.Nostalgie.de  " tvg-name="DE | Sky Cinema Classics ᵁᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sky_Cinema_Classics_DE_Logo_2020.svg/512px-Sky_Cinema_Classics_DE_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Classics ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/45270
+#EXTINF:-1 tvg-id="   Sky.Hits.HD.de  " tvg-name="DE | Cinema Best Of  ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/512px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Best Of  ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/45273
+#EXTINF:-1 tvg-id="  Sky.Cinema.Family.HD.de  " tvg-name="DE | Sky Cinema Family ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/512px-Sky_Cinema_Family_-_Logo_2021.svg.png     " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Family ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/45274
+#EXTINF:-1 tvg-id="   Sky.Cinema.+24.HD.de   " tvg-name="DE | Sky Cinema Premieren  24 ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/512px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png  " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Premieren  24 ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/45271
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE | Cinema Thriller ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/512px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Thriller ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/45272
+#EXTINF:-1 tvg-id="   Sky.Comedy.de   " tvg-name="DE |  Sky Comedy Fun ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/512px-Sky_Comedy_logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Comedy Fun ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/25127
+#EXTINF:-1 tvg-id="   Sky.Krimi.de  " tvg-name="DE | Sky Krimi ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/512px-Sky_Krimi_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Krimi ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/367
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE | Sky Cinema Fun ᵁᴴᴰ" tvg-logo="       https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/500px-Sky_Cinema_-_Logo_2020.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Fun ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/397
+#EXTINF:-1 tvg-id="   Syfy.HD.de  " tvg-name="DE | SyFy ᵁᴴᴰ" tvg-logo="   https://i.imgur.com/4fMWhUE.png    " tvg-id2="Mzk2NzI=" group-title="KINO",SyFy ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/12160
+
+
+
+#EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="KINO",UNIVERSAL ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/25128
+#EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Warner Film ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/324
+#EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="KINO",Kabel 1 Classics ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/25111
+#EXTINF:-1 tvg-id="    Kinowelt.TV.de  " tvg-name="DE | Kinowelt Tv  ᵁᴴᴰ" tvg-logo="     https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Kinowelt-Logo.svg/320px-Kinowelt-Logo.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",Kinowelt ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/420
+#EXTINF:-1 tvg-id="  13TH.STREET.HD.de  " tvg-name="DE | 13th Street ᵁᴴᴰ" tvg-logo="       https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/243px-13th_street_logo_2020.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",13th Street ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/464
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="KINO",RTL NITRO ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/1743
+
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
+https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac 
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="    https://i.ibb.co/xSjB51j/aspor.png     " group-title="RADYO",a spor radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8 
+#EXTINF:-1 tvg-logo="  https://cdn.onlineradiobox.com/img/l/0/75080.v6.png    " group-title="RADYO",Radio KARADENİZ 
+https://22673.live.streamtheworld.com:443/SC005_SO1AAC.aac
+#EXTINF:-1 tvg-logo="  https://2.bp.blogspot.com/-M-MKSjbUK2c/XrD15uPaRbI/AAAAAAAAYYc/401TdlCB3gQMH6n6aQTFyEhXTvHTtaj8QCLcBGAsYHQ/s1600/02.png    " group-title="RADYO",SLOW KARADENİZ FM 
+https://ssl162.ozelip.com/asistan/stream/fd02a93f231cba7593e027682f8fcad5
+#EXTINF:-1 tvg-logo="  https://cdn.onlineradiobox.com/img/l/6/111526.v1.png    " group-title="RADYO",Radyo Arabesk 
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-logo="  https://cdn.onlineradiobox.com/img/l/9/76299.v14.png    " group-title="RADYO",ARABESK TÜRK 
+http://yayin.arabeskturk.com:8000/stream?icy=http
+#EXTINF:-1 tvg-logo="  https://cdn.onlineradiobox.com/img/l/9/67919.v13.png    " group-title="RADYO",ADANA FM 
+https://host.onlineradyotv.net:2020/stream/adanafm
+#EXTINF:-1 tvg-logo="   https://www.canliradyodinle.fm/wp-content/uploads/bordo-mavi-radyo.jpg   " group-title="RADYO",RADYO BORDO MAVİ
+https://ip169.ozelip.com:10975/;
+#EXTINF:-1 tvg-logo="  https://www.damarfm.com/wp-content/uploads/2022/06/damarfm-150x150.png    " group-title="RADYO",Damar Fm 
+https://yayin.damarfm.com:8080/; 
+#EXTINF:-1 tvg-logo="  https://cdn.onlineradiobox.com/img/l/2/68492.v22.png    " group-title="RADYO",DAMAR TÜRK 
+https://live.radyositesihazir.com:10997/;stream.nsv
+#EXTINF:-1 tvg-logo=" https://cdn-radiotime-logos.tunein.com/s120272g.png   " group-title="RADYO", baba radyo 
+https://s29.canli-radyo.biz/best/babaradyo.stream/chunklist_w2141732565.m3u8 
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/440px-TRT_FM_logo.svg.png   " group-title="RADYO", TRT FM 
+https://nmicenotrt.mediatriple.net/trt_fm.aac 
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_Radyo_1_logo.svg/440px-TRT_Radyo_1_logo.svg.png  " group-title="RADYO", TRT RADYO 1
+https://nmicenotrt.mediatriple.net/trt_1.aac 
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TRT_Radyo_Haber_logo.svg/440px-TRT_Radyo_Haber_logo.svg.png    " group-title="RADYO", TRT HABER 
+https://nmicenotrt.mediatriple.net/trt_haber.aac
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TRT_Memleketim_FM_logo.svg/440px-TRT_Memleketim_FM_logo.svg.png    " group-title="RADYO", TRT MEMLEKETIM 
+https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/a/ac/Istanbulfm.jpg/125px-Istanbulfm.jpg   " group-title="RADYO", İstanbul Fm
+https://stream2.rtvtakip.com:7000/stream?icy=http
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/6/61/JoyTurk_logosu.png/160px-JoyTurk_logosu.png   " group-title="RADYO", JOY TURK 
+https://22183.live.streamtheworld.com/JOY_TURKAAC.aac?ttag=vehicle&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=a5b71526-3fb9-41d1-bd9c-0b938d3520d8 
+#EXTINF:-0 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/b/bf/Alem_fm.jpg/220px-Alem_fm.jpg " group-title="RADYO", Alem Fm 
+https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg  " group-title="RADYO", SHOW RADYO
+https://showradyo.radyotvonline.net/showradyoaac
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/a/a4/Radyo-viva.png    " group-title="RADYO", radyo VİVA 
+https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/a/a3/Kral_FM.jpg   " group-title="RADYO", Kral FM
+http://kralwmp.radyotvonline.com/;stream.mp3
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Kral_Pop_logosu.png/220px-Kral_Pop_logosu.png  " group-title="RADYO", Kral POP FM 
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/9/9b/Best_FM.png  " group-title="RADYO", Best FM 
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/7/79/Numberonefm.gif/125px-Numberonefm.gif   " group-title="RADYO", Nummber ONE TÜRK 
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/f/ff/S%C3%BCper_FM_logo.png/120px-S%C3%BCper_FM_logo.png   " group-title="RADYO", Süper FM 
+https://25443.live.streamtheworld.com:443/SUPER_FM_SC?/;stream.mp3
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/0/0d/Pal_FM.png/150px-Pal_FM.png    " group-title="RADYO", PAL FM 
+https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8?listeningSessionID=63226f97020e2f8b_204452_TYPk0eyd__0000000116s&downloadSessionID=0
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-tqE_gv05kpw/XoIFsM4ovfI/AAAAAAAAYOU/Af2ljP9sSmk_Crap_SaTLru_g9spXtLQACLcBGAsYHQ/s1600/palbesk.jpg    " group-title="RADYO", PAL besk
+https://cros9.yayin.com.tr/http://shoutcast.radyogrup.com:3010/stream/1;
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-LiUVLoqDHqo/WarcmkaYxSI/AAAAAAAAUtk/dFki0aTimQkvWfiC_C5LFMKjtflrLWjxwCLcBGAs/s1600/07.jpg    " group-title="RADYO", PAL Nostalji
+https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8?listeningSessionID=63226f97020e2f8b_204656_aoosEeJR__000000011dX&downloadSessionID=0
+#EXTINF:-1 tvg-logo="  https://2.bp.blogspot.com/-YtU62gMb-_w/Wa0fCrWP_0I/AAAAAAAAU5E/g5-Kby0gCVkyoXLiM7s4E5QAXPt4DnGhACLcBGAs/s1600/d.jpg   " group-title="RADYO", radyo D 
+https://radyo.duhnet.tv/radyod
+#EXTINF:-1 tvg-logo="  https://canliradyo-dinle.com/wp-content/uploads/2021/11/Radyo-45-%E2%80%98lik-dinle.jpg   " group-title="RADYO", radyo 45'lik 
+https://stream.radyo45lik.com:4545/stream
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/3/3c/Radyo_Pop_logosu.jpg/150px-Radyo_Pop_logosu.jpg  " group-title="RADYO", POP 90 
+https://22353.live.streamtheworld.com:443/POP90.mp3
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/3/30/Radyo7logo.png/200px-Radyo7logo.png  " group-title="RADYO", radyo 7 
+http://46.20.3.251/stream/169/
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/3/30/Radyo7logo.png/200px-Radyo7logo.png    " group-title="RADYO", radyo 7 Türkü 
+https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8?listeningSessionID=6284dc8229808b37_438308_iQ98jYQM__00000008m7E&downloadSessionID=0  
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/3/30/Radyo7logo.png/200px-Radyo7logo.png    " group-title="RADYO", radyo 7 SANAT 
+https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/d/d5/Cnnturkradyo.jpg/220px-Cnnturkradyo.jpg    " group-title="RADYO", CNN TURK
+https://radyo.duhnet.tv/ak_dtvh_cnnturk?/
+#EXTINF:-1 tvg-logo="  https://canliradyo-dinle.com/wp-content/uploads/2021/10/Slow-Turk-dinle.png   " group-title="RADYO", Slow TÜRK 
+https://radyo.duhnet.tv/slowturk?/;stream.mp3/;stream.mp3
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg    " group-title="RADYO", SHOW radyo 
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title="RADYO", NTV radyo 
+https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title="RADYO", NTV SPOR 
+https://ssldyg.radyotvonline.com/smil/smil:ntvspor.smil/chunklist_w1613490002_b128000.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/0/07/Radyospor-logo.PNG/250px-Radyospor-logo.PNG   " group-title="RADYO", radyo SPOR 
+https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/a/ac/Lig_Radyo_logo.png/200px-Lig_Radyo_logo.png    " group-title="RADYO", LIG RADYO 
+https://ligradyo.radyotvonline.net/ligradyo 
+#EXTINF:-1 tvg-logo="  https://www.radyoseymen.com.tr/wp-content/uploads/2021/09/radyoseymen1a.png   " group-title="RADYO", radyo SEYMEN 
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/5/55/Akrafmlogo.jpg/220px-Akrafmlogo.jpg  " group-title="RADYO", AKRA FM 
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="   https://www.damarfm.com/wp-content/uploads/2022/06/damarfm-150x150.png   " group-title="RADYO",Damar Fm 2
+https://yayin.damarfm.com:8080/;stream/1 
+
+
+
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Aksiyon HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Aksiyon HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350845
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Aksiyon 2 HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350846
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Premier HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Premier HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350847
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Orjinal HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Orjinal HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350848
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Western HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Western HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350849
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Hint Filimleri" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Hint Filimleri
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350850
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Vizyon HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350851
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon 2 HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350852
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon 3 HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350853
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon 4 HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350854
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX 007 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX 007 HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350855
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX STAR WARS HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX STAR WARS HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350856
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX TURK HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX TURK HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350857
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX PLUS HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX PLUS HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350858
+#EXTINF:-1 tvg-id=""tvg-name="TR: MAX GOLD HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX GOLD HD
+http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/350859
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
