@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
-#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᴴᴰ
+EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᴴᴰ
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᶠʰᵈ
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 
-#EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
+EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
 http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/2866.m3u8
-#EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
+#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
 http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/2909.m3u8
 
 
-#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
+EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trt2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᶠʰᵈ
 http://167.114.115.233:8080/trt2fhd/index.m3u8 
-#EXTINF:-1 tvg-id="  TRT.Belgesel.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="TÜRK",TRT BELGESEL ᴴᴰ
+EXTINF:-1 tvg-id="  TRT.Belgesel.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="TÜRK",TRT BELGESEL ᴴᴰ
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="  TRT.Belgesel.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="TÜRK",TRT BELGESEL ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8 
@@ -57,26 +57,33 @@ http://sssxxx.tk:8080/Remco/RjZE2wx7mM/6620
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8 
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
+
+EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᴴᴰ
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-#EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᶠʰᵈ
+
+EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᶠʰᵈ
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="TÜRK",SHOW TÜRK ᴴᴰ
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
 https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
+
+EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="TÜRK",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8 
 
 #EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/110
 
-#EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
+EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="TÜRK",EURO D 
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="  KANAL.7.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="TÜRK",KANAL 7 ᴴᴰ
@@ -98,8 +105,9 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f29
 
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
+EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=55x6qmpw8q6a&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
 #EXTINF:-1 tvg-id="  KRT.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="TÜRK",KRT ᴴᴰ
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="  TELE.1.HD.tr   " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="TÜRK",TELE 1 ᴴᴰ
@@ -108,7 +116,7 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
 #EXTINF:-1 tvg-id="  TV.100.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/bLpTdYZ/tv100.png    " group-title="TÜRK",TV 100 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png     " group-title="TÜRK",SZC ᴴᴰ
+#EXTINF:-1 tvg-id=" sözcü " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png     " group-title="TÜRK",SZC ᴴᴰ
 https://mn-nl.mncdn.com/blutv_szctv/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="  CNN.TÜRK.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="TÜRK",CNN Türk ᴴᴰ
@@ -131,12 +139,12 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
 #EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="TÜRK",DMAX ᴴᴰ
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8 
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="TÜRK",blutv|play 1 ᴴᴰ
+#EXTINF:-1 tvg-id="  blutv play1   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="TÜRK",blutv|play 1 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="TÜRK",blutv|play 2 ᴴᴰ
+#EXTINF:-1 tvg-id="  blutv play2   " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="TÜRK",blutv|play 2 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png    " group-title="TÜRK",CiNE5 ᴴᴰ
+#EXTINF:-1 tvg-id="  cine5 " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png    " group-title="TÜRK",CiNE5 ᴴᴰ
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="  https://yerelmedya.tv/logosTV/denizpostasitv.png   " group-title="TÜRK",DENiZ POSTASI
