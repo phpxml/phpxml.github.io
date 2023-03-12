@@ -378,6 +378,18 @@ http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4651.m3u8
 #EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2
 http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4652.m3u8
 
+#EXTINF:-1 tvg-id="   beIN.SPORTS.HD.3.tr  " tvg-name=" BEIN SPORTS 3 UHD (1) " group-title="beIN"  tvg-logo="    https://i.imgur.com/UYSMao3.png     ",beIN 3
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63611.m3u8
+#EXTINF:-1 tvg-id="   beIN.SPORTS.HD.3.tr  " tvg-name=" BEIN SPORTS 3 UHD (1) " group-title="beIN"  tvg-logo="    https://i.imgur.com/UYSMao3.png     ",beIN 3
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63613.m3u8
+#EXTINF:-1 tvg-id="   beIN.SPORTS.HD.3.tr  " tvg-name=" BEIN SPORTS 3 UHD (1) " group-title="beIN"  tvg-logo="    https://i.imgur.com/UYSMao3.png     ",beIN 3
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63614.m3u8
+
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.4.tr   " tvg-name=" BEIN SPORTS 4 UHD (1) " group-title="beIN"  tvg-logo="  https://i.imgur.com/TmDS8Ie.png      ",beIN 4
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63616.m3u8
+#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.4.tr   " tvg-name=" BEIN SPORTS 4 UHD (1) " group-title="beIN"  tvg-logo="  https://i.imgur.com/TmDS8Ie.png      ",beIN 4
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63618.m3u8
+
 #EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.1.HD.tr   " tvg-name="      " group-title="beIN" tvg-logo="   https://i.imgur.com/FjWQjdy.png  ",Max 1 4kplus
 http://4kplus.org:80/bitbust/ETGUGRlVIa/63621
 #EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.1.HD.tr   " tvg-name="      " group-title="beIN" tvg-logo="   https://i.imgur.com/FjWQjdy.png  ",Max 2
