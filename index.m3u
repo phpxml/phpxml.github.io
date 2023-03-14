@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
+
+TÜRK
+
 EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᴴᴰ
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᶠʰᵈ
@@ -170,6 +173,7 @@ https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 
 
 
+ALMAN
 
 #EXTINF:-1 tvg-id="   ZDF.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF ᴴᴰ
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -231,7 +235,7 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/strea
 
 
 
-
+MÜZİK
 #EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
@@ -266,7 +270,7 @@ https://tvsms.club/tv.php?kanal=damar&file=.m3u8
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 
 
-
+SPOR
 #EXTINF:-1 tvg-id="  Eurosport.1.HD.tr " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png  " group-title="SPOR",EUROSPORT 1 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-id=" Eurosport.2.HD.tr  " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/9/93/Eurosport_2_HD_Logo_2015.png  " group-title="SPOR",EUROSPORT 2 ᴴᴰ
@@ -295,7 +299,7 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/25174
 http://4kplus.org:80/bitbust/ETGUGRlVIa/609
 
 
-
+SINEMA 
 #EXTINF:-1 tvg-id="    beIN.MOVIES.ACTION.HD.tr   " tvg-name="TR | beIN MOVIES ACTION ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/action_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Action ᵁᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/21011
 #EXTINF:-1 tvg-id="    beIN.MOVIES.ACTION.2.HD.tr   " tvg-name="TR | beIN MOVIES ACTION 2 ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/action_2_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Action 2 ᵁᴴᴰ
@@ -335,6 +339,8 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/21029
 http://4kplus.org:80/bitbust/ETGUGRlVIa/21033
 
 
+
+BEIN
 #EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 Maç Saati
 http://4kplus.org:80/live/bitbust/ETGUGRlVIa/60131.m3u8
 #EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 Maç Saati
@@ -400,7 +406,7 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/63623
 
 
 
-
+KINO
 #EXTINF:-1 tvg-id="   sky1.de  " tvg-name="DE | Sky 1 ᶠʰᵈ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/512px-Sky_One_-_Logo_2020.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky one ᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/12159
 #EXTINF:-1 tvg-id="  skycinemaspecialhd.de  " tvg-name="DE | Cinema Special ᴴᴰ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/512px-Sky_Cinema_Special_DE_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Special ᴴᴰ
@@ -431,9 +437,6 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/367
 http://4kplus.org:80/bitbust/ETGUGRlVIa/397
 #EXTINF:-1 tvg-id="   Syfy.HD.de  " tvg-name="DE | SyFy ᵁᴴᴰ" tvg-logo="   https://i.imgur.com/4fMWhUE.png    " tvg-id2="Mzk2NzI=" group-title="KINO",SyFy ᵁᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/12160
-
-
-
 #EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="KINO",UNIVERSAL ᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/25128
 #EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Warner Film ᴴᴰ
@@ -449,6 +452,9 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/1743
 
 
 
+
+
+RADYO
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
 https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="    https://i.ibb.co/xSjB51j/aspor.png     " group-title="RADYO",a spor radyo
@@ -537,6 +543,49 @@ https://yayin.radyoseymen.com.tr:1070/stream
 https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="   https://www.damarfm.com/wp-content/uploads/2022/06/damarfm-150x150.png   " group-title="RADYO",Damar Fm 2
 https://yayin.damarfm.com:8080/;stream/1 
+
+EXXEN 1
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 1
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 1 raw
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/21457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 2
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 2 raw
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/21458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 3
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN raw
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/21459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 4
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 5
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/23169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 6
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/23170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 7
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/24236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 8
+http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/24237.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
