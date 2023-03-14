@@ -414,6 +414,25 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/63623
 
 
 KINO
+
+#EXTINF:-1 tvg-id="   Syfy.HD.de  " tvg-name="DE | SyFy ᵁᴴᴰ" tvg-logo="   https://i.imgur.com/4fMWhUE.png    " tvg-id2="Mzk2NzI=" group-title="KINO",SyFy ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/12160
+#EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="KINO",UNIVERSAL ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/25128
+#EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Warner Film ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/324
+#EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="KINO",Kabel 1 Classics ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/25111
+#EXTINF:-1 tvg-id="    Kinowelt.TV.de  " tvg-name="DE | Kinowelt Tv  ᵁᴴᴰ" tvg-logo="     https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Kinowelt-Logo.svg/320px-Kinowelt-Logo.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",Kinowelt ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/420
+#EXTINF:-1 tvg-id="  13TH.STREET.HD.de  " tvg-name="DE | 13th Street ᵁᴴᴰ" tvg-logo="       https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/243px-13th_street_logo_2020.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",13th Street ᵁᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/464
+#EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="KINO",RTL NITRO ᴴᴰ
+http://4kplus.org:80/bitbust/ETGUGRlVIa/1743
+#EXTINF:-1 tvg-id="   SAT.1.Gold.HD.de  " tvg-name="DE | SAT 1 GOLD ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",SAT 1 GOLD ᴴᴰ
+http://4kplus.org:80/live/bitbust/ETGUGRlVIa/391.m3u8
+
+SKY
 #EXTINF:-1 tvg-id="   sky1.de  " tvg-name="DE | Sky 1 ᶠʰᵈ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/512px-Sky_One_-_Logo_2020.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky one ᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/12159
 #EXTINF:-1 tvg-id="  skycinemaspecialhd.de  " tvg-name="DE | Cinema Special ᴴᴰ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/512px-Sky_Cinema_Special_DE_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Special ᴴᴰ
@@ -442,20 +461,7 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/25127
 http://4kplus.org:80/bitbust/ETGUGRlVIa/367
 #EXTINF:-1 tvg-id="NULL" tvg-name="DE | Sky Cinema Fun ᵁᴴᴰ" tvg-logo="       https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/500px-Sky_Cinema_-_Logo_2020.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Fun ᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/397
-#EXTINF:-1 tvg-id="   Syfy.HD.de  " tvg-name="DE | SyFy ᵁᴴᴰ" tvg-logo="   https://i.imgur.com/4fMWhUE.png    " tvg-id2="Mzk2NzI=" group-title="KINO",SyFy ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/12160
-#EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="KINO",UNIVERSAL ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/25128
-#EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Warner Film ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/324
-#EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="KINO",Kabel 1 Classics ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/25111
-#EXTINF:-1 tvg-id="    Kinowelt.TV.de  " tvg-name="DE | Kinowelt Tv  ᵁᴴᴰ" tvg-logo="     https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Kinowelt-Logo.svg/320px-Kinowelt-Logo.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",Kinowelt ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/420
-#EXTINF:-1 tvg-id="  13TH.STREET.HD.de  " tvg-name="DE | 13th Street ᵁᴴᴰ" tvg-logo="       https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/243px-13th_street_logo_2020.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",13th Street ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/464
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="KINO",RTL NITRO ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/1743
+
 
 
 
