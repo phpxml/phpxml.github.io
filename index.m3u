@@ -162,7 +162,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/ertv.png   " group-title="TÜRK",ER TV ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_ertv/ertv/chunks.m3u8
-#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/vuslattv.png   " group-title="TÜRK",VUSLAT TV ᴴᴰ
+
+EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/vuslattv.png   " group-title="TÜRK",VUSLAT TV ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 
 
