@@ -190,8 +190,6 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
 #EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/442
-https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/25164
@@ -201,6 +199,9 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/1742
 http://4kplus.org:80/bitbust/ETGUGRlVIa/454
 #EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/452
+
+#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
+https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:1 tvg-id="  3sat.HD.de    " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title="ALMAN",3sat
