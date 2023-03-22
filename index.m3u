@@ -38,7 +38,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="  TRT.AVAZ.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="TÜRK",TRT AVAZ ᴴᴰ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
-
+-----
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31496
 http://4kplus.org:80/bitbust/ETGUGRlVIa/46846
@@ -61,8 +61,7 @@ http://4kplus.org:80/bitbust/ETGUGRlVIa/1019
 #EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31510
 http://sssxxx.tk:8080/Remco/RjZE2wx7mM/6620
-
-
+-----
 
 
 #EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="TÜRK",Investigation Discovery ᴴᴰ
@@ -103,10 +102,10 @@ https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="TÜRK",KANAL 7 Avrupa 
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
 
+-----
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30652
 http://4kplus.org:80/bitbust/ETGUGRlVIa/112
-
 #EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30653
 http://4kplus.org:80/bitbust/ETGUGRlVIa/7135
@@ -116,6 +115,7 @@ http://4kplus.org:80/live/bitbust/ETGUGRlVIa/103.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30651
 http://4kplus.org:80/bitbust/ETGUGRlVIa/7136
+-----
 
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",TV8 ᴴᴰ
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
@@ -181,13 +181,6 @@ EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/vu
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 
 
-
-
-
-
-
-
-
 ALMAN
 
 #EXTINF:-1 tvg-id="   ZDF.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF ᴴᴰ
@@ -202,17 +195,26 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://mcdn.daserste.de/daserste/de/master.m3u8 
 #EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ALMAN",KIKA ᴴᴰ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
+
+-----
 #EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30829
 http://4kplus.org:80/bitbust/ETGUGRlVIa/442
 
 #EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
+http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69903
 http://4kplus.org:80/bitbust/ETGUGRlVIa/25164
+
 #EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30837
 http://4kplus.org:80/bitbust/ETGUGRlVIa/1742
 #EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30843
 http://4kplus.org:80/bitbust/ETGUGRlVIa/454
 #EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30780
 http://4kplus.org:80/bitbust/ETGUGRlVIa/452
+-----
 
 #EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
 https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
@@ -299,188 +301,19 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8 
 
 
-
+-----
 #EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31464
 http://4kplus.org:80/bitbust/ETGUGRlVIa/41788
-#EXTINF:-1 tvg-id=" A.Spor.HD.tr   " tvg-name="TR | A SPOR 4K+" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/613
 
 #EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31463
 http://4kplus.org:80/bitbust/ETGUGRlVIa/612
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr  " tvg-name="TR | TRT SPOR 4K+" tvg-logo="   https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/7126
+
 #EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30699
 http://4kplus.org:80/bitbust/ETGUGRlVIa/25174
-#EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT 2 SPOR 4K" tvg-logo="   https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/609
-
-
-SINEMA 
-#EXTINF:-1 tvg-id="    beIN.MOVIES.ACTION.HD.tr   " tvg-name="TR | beIN MOVIES ACTION ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/action_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Action ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21011
-#EXTINF:-1 tvg-id="    beIN.MOVIES.ACTION.2.HD.tr   " tvg-name="TR | beIN MOVIES ACTION 2 ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/action_2_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Action 2 ᵁᴴᴰ
-http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/92382
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21012
-#EXTINF:-1 tvg-id="  beIN.SERIES.SCI-FI.HD.tr    " tvg-name="TR | BEIN SERIES SI-FI ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/sci_fi_hd.png     " tvg-id2="Mzk2NzI=" group-title="SINEMA",Sci-fi ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21017
-#EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.HD.tr  " tvg-name="TR | BEIN MOVIES STARS ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/stars_hd.png     " tvg-id2="Mzk2NzI=" group-title="SINEMA",Stars ᵁᴴᴰ
-http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/92377
-#EXTINF:-1 tvg-id="  beIN.MOVIES.PREMIERE.HD.tr    " tvg-name="TR | beIN MOVIES PREMIERE ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/premier_hd.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",Premiere ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21008
-#EXTINF:-1 tvg-id="    beIN.MOVIES.PREMIERE.2.HD.tr   " tvg-name="TR | beIN MOVIES PREMIERE 2 ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/premier_2_hd.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",Premiere 2 ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21009
-#EXTINF:-1 tvg-id="   beIN.MOVIES.FAMILY.HD.tr     " tvg-name="TR | beIN MOVIES FAMILY ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/family_hd.png      " tvg-id2="Mzk2NzI=" group-title="SINEMA",Family ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21010
-#EXTINF:-1 tvg-id="   beIN.SERIES.DRAMA.HD.tr     " tvg-name="TR | BEINSERIES DRAMA ᵁᴴᴰ" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/drama_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Drama ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21019
-#EXTINF:-1 tvg-id="  beIN.SERIES.COMEDY.HD.tr   " tvg-name="TR | BEIN SERIES COMEDY ᵁᴴᴰ" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/d_comedy_hd.png      " tvg-id2="Mzk2NzI=" group-title="SINEMA",Comedy ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21020
-#EXTINF:-1 tvg-id="  beIN.SERIES.VICE.HD.tr   " tvg-name="|TR.SIN| beIN SERIES VICE HD" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/vice_hd.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",Vice ᵁᴴᴰ
-http://xtra.fireottplus.com:2052/csp11/localttt77/214332
-#EXTINF:-1 tvg-id="    beIN.MOVIES.TURK.HD.tr  " tvg-name="TR | beIN MOVIES TURK ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/mm_turk_hd.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",Türk ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21006
-
-#EXTINF:-1 tvg-id="   beIN.BOX.OFFICE.1.HD.tr   " tvg-name=" beIN BOX OFFICE 1 ᵁᴴᴰ   " tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",BOX 1 ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/30805
-#EXTINF:-1 tvg-id="   beIN.BOX.OFFICE.2.HD.tr   " tvg-name=" beIN BOX OFFICE 2 ᵁᴴᴰ   " tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/37/Image/box_office2_205x150_2022.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",BOX 2 ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/30806
-#EXTINF:-1 tvg-id="   beIN.BOX.OFFICE.3.HD.tr   " tvg-name=" beIN BOX OFFICE 3 ᵁᴴᴰ   " tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",BOX 3 ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/30807
-
-#EXTINF:-1 tvg-id="  " tvg-name="MOVIESMART TURK" tvg-logo="  https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/9.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",MOVIESMART Türk ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21022
-#EXTINF:-1 tvg-id="      " tvg-name="MOVIESMART CLASSIC" tvg-logo="  https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/9.png    " tvg-id2="Mzk2NzI=" group-title="SINEMA",MOVIESMART Classic ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21029
-#EXTINF:-1 tvg-id="      " tvg-name="dizismart premium TURK" tvg-logo="   https://img.dsmart.com.tr/CMSFiles/file/gorsel-galeri/15.png   " tvg-id2="Mzk2NzI=" group-title="SINEMA",DIZISMART Premium ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/21033
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME YESILCAM 1" tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/d/d5/Ye%C5%9Fil%C3%A7am_TV_logosu.png?20110906094149     " tvg-id2="Mzk2NzI=" group-title="SINEMA",CINETIME YESILCAM 1
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34029
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME YESILCAM 2" tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/d/d5/Ye%C5%9Fil%C3%A7am_TV_logosu.png?20110906094149      " tvg-id2="Mzk2NzI=" group-title="SINEMA",CINETIME YESILCAM 2
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34030
-#EXTINF:-1 tvg-id="" tvg-name="TR: CINETIME YESILCAM 3" tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/d/d5/Ye%C5%9Fil%C3%A7am_TV_logosu.png?20110906094149    " tvg-id2="Mzk2NzI=" group-title="SINEMA",CINETIME YESILCAM 3
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34031
-
-
-BEIN
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 Maç Saati
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/60131.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 Maç Saati
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/60136.m3u8
-
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63598.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63601.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63603.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63604.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63602.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 4kplus ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63605.m3u8
-
-
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4649.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/18947.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4658.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4648.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 ᴴᴰ
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4650.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.1.tr    " tvg-name="" group-title="beIN", tvg-logo="  https://i.imgur.com/Vtk2cGI.png    ",beIN 1 sssx ᴴᴰ
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/24511.m3u8
-
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2 4kplus
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/60126.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63608.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63610.m3u8
-
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2 sssx
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4651.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.2.tr  " tvg-name="       " group-title="beIN" tvg-logo="  https://i.imgur.com/vUJZSvs.png     ",beIN 2
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/4652.m3u8
-
-#EXTINF:-1 tvg-id="   beIN.SPORTS.HD.3.tr  " tvg-name=" BEIN SPORTS 3 UHD (1) " group-title="beIN"  tvg-logo="    https://i.imgur.com/UYSMao3.png     ",beIN 3
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63611.m3u8
-#EXTINF:-1 tvg-id="   beIN.SPORTS.HD.3.tr  " tvg-name=" BEIN SPORTS 3 UHD (1) " group-title="beIN"  tvg-logo="    https://i.imgur.com/UYSMao3.png     ",beIN 3
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63613.m3u8
-#EXTINF:-1 tvg-id="   beIN.SPORTS.HD.3.tr  " tvg-name=" BEIN SPORTS 3 UHD (1) " group-title="beIN"  tvg-logo="    https://i.imgur.com/UYSMao3.png     ",beIN 3
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63614.m3u8
-
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.4.tr   " tvg-name=" BEIN SPORTS 4 UHD (1) " group-title="beIN"  tvg-logo="  https://i.imgur.com/TmDS8Ie.png      ",beIN 4
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63616.m3u8
-#EXTINF:-1 tvg-id="  beIN.SPORTS.HD.4.tr   " tvg-name=" BEIN SPORTS 4 UHD (1) " group-title="beIN"  tvg-logo="  https://i.imgur.com/TmDS8Ie.png      ",beIN 4
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63618.m3u8
-
-#EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.1.HD.tr   " tvg-name="      " group-title="beIN" tvg-logo="   https://i.imgur.com/FjWQjdy.png  ",Max 1 4kplus
-http://4kplus.org:80/bitbust/ETGUGRlVIa/63621
-#EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.1.HD.tr   " tvg-name="      " group-title="beIN" tvg-logo="   https://i.imgur.com/FjWQjdy.png  ",Max 2
-http://4kplus.org:80/bitbust/ETGUGRlVIa/63623
-
-
-
-
-
-KINO
-
-#EXTINF:-1 tvg-id="   Syfy.HD.de  " tvg-name="DE | SyFy ᵁᴴᴰ" tvg-logo="   https://i.imgur.com/4fMWhUE.png    " tvg-id2="Mzk2NzI=" group-title="KINO",SyFy ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/12160
-#EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="KINO",UNIVERSAL ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/25128
-#EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Warner Film ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/324
-#EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="KINO",Kabel 1 Classics ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/25111
-#EXTINF:-1 tvg-id="    Kinowelt.TV.de  " tvg-name="DE | Kinowelt Tv  ᵁᴴᴰ" tvg-logo="     https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Kinowelt-Logo.svg/320px-Kinowelt-Logo.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",Kinowelt ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/420
-#EXTINF:-1 tvg-id="  13TH.STREET.HD.de  " tvg-name="DE | 13th Street ᵁᴴᴰ" tvg-logo="       https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/243px-13th_street_logo_2020.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",13th Street ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/464
-#EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="KINO",RTL NITRO ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/1743
-#EXTINF:-1 tvg-id="   SAT.1.Gold.HD.de  " tvg-name="DE | SAT 1 GOLD ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png      " tvg-id2="Mzk2NzI=" group-title="KINO",SAT 1 GOLD ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/391.m3u8
-
-SKY
-#EXTINF:-1 tvg-id="   sky1.de  " tvg-name="DE | Sky 1 ᶠʰᵈ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_One_-_Logo_2020.png/512px-Sky_One_-_Logo_2020.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky one ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/12159
-#EXTINF:-1 tvg-id="  skycinemaspecialhd.de  " tvg-name="DE | Cinema Special ᴴᴰ" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Cinema_Special_DE_Logo_2020.svg/512px-Sky_Cinema_Special_DE_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Special ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/12153
-#EXTINF:-1 tvg-id="   skyaction.de  " tvg-name="DE | Sky Action 4K+" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/512px-Sky_Cinema_Action_-_Logo_2021.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Action ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/12156
-#EXTINF:-1 tvg-id="  Sky.Action.HD.de  " tvg-name="DE | Cinema Action ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/512px-Sky_Cinema_Action_-_Logo_2021.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Action ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/378
-#EXTINF:-1 tvg-id=" Sky.Atlantic.HD.de    " tvg-name="DE | Sky Atlantic ᵁᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Atlantic ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/12157
-#EXTINF:-1 tvg-id="   Sky.Atlantic.HD.de  " tvg-name="DE | Sky Atlantic ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Atlantic ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/383
-#EXTINF:-1 tvg-id="  Sky.Nostalgie.de  " tvg-name="DE | Sky Cinema Classics ᵁᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sky_Cinema_Classics_DE_Logo_2020.svg/512px-Sky_Cinema_Classics_DE_Logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Classics ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/45270
-#EXTINF:-1 tvg-id="   Sky.Hits.HD.de  " tvg-name="DE | Cinema Best Of  ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/512px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Best Of  ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/45273
-#EXTINF:-1 tvg-id="  Sky.Cinema.Family.HD.de  " tvg-name="DE | Sky Cinema Family ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/512px-Sky_Cinema_Family_-_Logo_2021.svg.png     " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Family ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/45274
-#EXTINF:-1 tvg-id="   Sky.Cinema.+24.HD.de   " tvg-name="DE | Sky Cinema Premieren  24 ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/512px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png  " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Premieren  24 ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/45271
-#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE | Cinema Thriller ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/512px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Cinema Thriller ᵁᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/45272
-#EXTINF:-1 tvg-id="   Sky.Comedy.de   " tvg-name="DE |  Sky Comedy Fun ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/512px-Sky_Comedy_logo_2020.svg.png    " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Comedy Fun ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/25127
-#EXTINF:-1 tvg-id="   Sky.Krimi.de  " tvg-name="DE | Sky Krimi ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/512px-Sky_Krimi_2020.svg.png   " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Krimi ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/367
-#EXTINF:-1 tvg-id="NULL" tvg-name="DE | Sky Cinema Fun ᵁᴴᴰ" tvg-logo="       https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/500px-Sky_Cinema_-_Logo_2020.svg.png       " tvg-id2="Mzk2NzI=" group-title="KINO",Sky Cinema Fun ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/397
-
-
-
-
-
+-----
 
 RADYO
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
@@ -572,91 +405,7 @@ https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="   https://www.damarfm.com/wp-content/uploads/2022/06/damarfm-150x150.png   " group-title="RADYO",Damar Fm 2
 https://yayin.damarfm.com:8080/;stream/1 
 
-EXXEN 1
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 1
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 1 raw
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/21457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 2
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 2 raw
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/21458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 3
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN raw
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/21459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 4
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/20757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 5
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/23169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 6
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/23170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 7
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/24236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exxen" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 1",EXXEN 8
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/24237.m3u8
 
-
-
-EXXEN 2
-
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 1 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.1.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 1
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63013.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 2 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.2.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 2
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63014.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 3 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.3.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 3
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/63015.m3u8
-
-
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 1 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.1.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 1
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72144.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 2 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.2.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 2
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72145.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 3 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.3.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 3
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72146.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 4 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.4.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 4
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72147.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 5 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.5.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 5
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72148.m3u8
-
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 6 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.6.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 6
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72151.m3u8
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 6 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.6.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 7
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72152.m3u8
-
-#EXTINF:-1 tvg-id=""tvg-name="[TR] EXXEN SPORTS 6 FHD" tvg-logo="http://logo.bosstv.live/Logo/TR/EXXEN.SPORT/FHD/EXXEN.SPORT.6.png" tvg-id2="Mzk2NzI=" group-title="EXXEN 2",EXXEN 8
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/72156.m3u8
-
-
-
-EXXEN 3
-
-#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ EXXEN SPORT ⓊⓈ ⓊⓈ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",EXXEN SPORT 
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/123
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sport 2K" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sport 2K
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/137452
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 1 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 1 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/124
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 1 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 1 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/125
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 1 SD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 1 SD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/126
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 2" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 2
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/127
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 3" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 3
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/128
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 4" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 4
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/129
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 5" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 5
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/130
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 6" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 6
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/131
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 7" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 7
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/132
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 8" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN 3",Exxen Sports 8
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/133
 
 
 
