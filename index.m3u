@@ -256,7 +256,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 #EXTINF:-1 tvg-id="      MDR.Fernsehen.HD.de        " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png    " group-title="ALMAN",MDR Fernsehen Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
- #EXTINF:-1 tvg-id="    NDR.Fernsehen.HD.de       " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png         " group-title="ALMAN",NDR Fernsehen Hamburg
+#EXTINF:-1 tvg-id="    NDR.Fernsehen.HD.de       " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png         " group-title="ALMAN",NDR Fernsehen Hamburg
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8 
 #EXTINF:-1 tvg-id="      RadioBremenFernsehen.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Radio_Bremen_TV.svg/500px-Logo_Radio_Bremen_TV.svg.png       " group-title="ALMAN",Radio Bremen Fernsehen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
@@ -270,12 +270,12 @@ https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3328.m3u8
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1 tvg-id="   ARD-alpha.de   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title="ALMAN",ARD-alfa 
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
- #EXTINF:-1 tvg-id="     tagesschau24.HD.de      " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png      " group-title="ALMAN",tagesschau24
+#EXTINF:-1 tvg-id="     tagesschau24.HD.de      " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png      " group-title="ALMAN",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
- #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
+#EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 
-
+--------
 
 MÜZİK
 #EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
@@ -430,8 +430,79 @@ https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8
 https://yayin.damarfm.com:8080/;stream/1 
 
 
+-----------
 
+SİNEMA 
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: b**N S*RIES VlCE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES VlCE HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/306
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: b**N S*RIES DR*MA HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-drama-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES DR*MA HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/307
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: b**N S*RIES SCFI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES SCFI HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/308
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: b**N S*RIES C0MEDY HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES C0MEDY HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/309
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: b**N M0VIES P*EMIER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES P*EMIER HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/312
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 TR 01 SINEMA",TR: b**N B0X 0FFİCE 1 HD
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/313
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 TR 01 SINEMA",TR: b**N B0X 0FFİCE 2 HD
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/314
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: b**N B*X OFFİCE 3 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 TR 01 SINEMA",TR: b**N B*X OFFİCE 3 HD
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/315
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: b**N M0VIES TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES TURK HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/316
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N MOVIES P*EMIERE 2 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/317
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR: b**N M0VIES ACTI0N 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES ACTI0N 2 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/318
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: b**N M0VIES STARS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES STARS HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/319
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DIZI SMART PREMIUM HD
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/331
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DIZI SMART MAX HD
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/332
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA AKSIYON HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 TR 01 SINEMA",TR: SINEMA AKSIYON HD
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/335
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MOVİESMART TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: MOVİESMART TURK HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/349
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVİESMART CLASSİC HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: MOVİESMART CLASSİC HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/350
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DİZİ SMART PREMIUM HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DİZİ SMART PREMIUM HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/351
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DIZI SMART MAX HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/352
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: FX HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/354
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR: FOX CRIME HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: FOX CRIME HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/356
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/358
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV 2 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/359
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV ACTION HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/360
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA TV ACTION 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV ACTION 2 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/361
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV AILE HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/362
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV AILE 2 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/363
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV KOMEDI HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/364
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV KOMEDI 2 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/365
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV YERLI  HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/366
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV YERLI 2 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/367
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV 1001 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/368
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV 1002 HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/369
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR: MOVIESMART COCUK HD+" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: MOVIESMART COCUK HD+
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/370
 
+---------
 
 
 
