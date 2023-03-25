@@ -195,28 +195,32 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ALMAN",KIKA ᴴᴰ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
 
+#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
+https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
+
 -----
 #EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30829
-http://4kplus.org:80/bitbust/ETGUGRlVIa/442
 
 #EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
 http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69903
-http://4kplus.org:80/bitbust/ETGUGRlVIa/25164
+#EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151433
 
 #EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30837
-http://4kplus.org:80/bitbust/ETGUGRlVIa/1742
+#EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151422
+
 #EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30843
-http://4kplus.org:80/bitbust/ETGUGRlVIa/454
+#EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151421
+
 #EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30780
-http://4kplus.org:80/bitbust/ETGUGRlVIa/452
------
-
-#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
-https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151431
 
 -------
 KINO
