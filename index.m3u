@@ -41,7 +41,9 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 -----
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31496
-http://4kplus.org:80/bitbust/ETGUGRlVIa/46846
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/110612
+
 
 EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",BEIN GURME ᴴᴰ
 http://4kplus.org:80/bitbust/ETGUGRlVIa/26091
