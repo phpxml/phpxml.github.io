@@ -8,12 +8,8 @@ https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᶠʰᵈ
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 
-#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/33319
-
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/2909.m3u8
-http://sssxxx.tk:8080/live/Remco/RjZE2wx7mM/2866.m3u8
+
 
 EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trt2/live_720p2000000kbps/index.m3u8
@@ -40,30 +36,17 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 -----
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31496
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/120769
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/110612
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/489
-
-EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",BEIN GURME ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/26091
 
 #EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31504
-http://4kplus.org:80/bitbust/ETGUGRlVIa/8347
 
+
+EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",BEIN GURME ᴴᴰ
 EXTINF:-1 tvg-id="  Discovery.Channel.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="   https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png?20190417174023     "   ,Discovery ᴴᴰ
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/1020.m3u8
-
 EXTINF:-1 tvg-id="  National.Geographic.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/1018
 EXTINF:-1 tvg-id=" Nat.Geo.Wild.HD.tr   " tvg-name="" group-title="TÜRK"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/1019
+EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
 
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31510
-http://sssxxx.tk:8080/Remco/RjZE2wx7mM/6620
+
 -----
 
 
@@ -107,17 +90,13 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 -----
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30652
-http://4kplus.org:80/bitbust/ETGUGRlVIa/112
-#EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30653
-http://4kplus.org:80/bitbust/ETGUGRlVIa/7135
-#EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30720
-http://4kplus.org:80/live/bitbust/ETGUGRlVIa/103.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30651
-http://4kplus.org:80/bitbust/ETGUGRlVIa/7136
+http://45.135.194.136:8080/LWU8udntBawv/mWGryj5uMQ8b/113427
+
+EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
+EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
+EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+
+
 -----
 
 #EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",TV8 ᴴᴰ
@@ -202,21 +181,16 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
 
 -----
-#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30829
 
 #EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
 http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69903
 #EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151433
 
-#EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30837
+
 #EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151422
 
-#EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30843
 #EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151421
 
@@ -228,8 +202,6 @@ http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151431
 -------
 KINO
 
-#EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="ALMAN",Kabel 1 Classics ᵁᴴᴰ
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/2295
 #EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="ALMAN",Kabel 1 Classics ᵁᴴᴰ
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/151218
 
@@ -329,17 +301,10 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 
 
 -----
-#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31464
-http://4kplus.org:80/bitbust/ETGUGRlVIa/41788
+EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
 
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31463
-http://4kplus.org:80/bitbust/ETGUGRlVIa/612
-
-#EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30699
-http://4kplus.org:80/bitbust/ETGUGRlVIa/25174
 -----
 
 RADYO
@@ -434,260 +399,6 @@ https://yayin.damarfm.com:8080/;stream/1
 
 
 -----------
-
-SİNEMA 
-#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: b**N S*RIES VlCE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES VlCE HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/306
-#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: b**N S*RIES DR*MA HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-drama-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES DR*MA HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/307
-#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: b**N S*RIES SCFI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES SCFI HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/308
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: b**N S*RIES C0MEDY HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N S*RIES C0MEDY HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/309
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: b**N M0VIES P*EMIER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES P*EMIER HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/312
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N B0X 0FFİCE 1 HD
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/313
-#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N B0X 0FFİCE 2 HD
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/314
-#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: b**N B*X OFFİCE 3 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N B*X OFFİCE 3 HD
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/315
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: b**N M0VIES TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES TURK HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/316
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N MOVIES P*EMIERE 2 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/317
-#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR: b**N M0VIES ACTI0N 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES ACTI0N 2 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/318
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: b**N M0VIES STARS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: b**N M0VIES STARS HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/319
-#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DIZI SMART PREMIUM HD
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/331
-#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DIZI SMART MAX HD
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/332
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA AKSIYON HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA AKSIYON HD
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/335
-#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MOVİESMART TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: MOVİESMART TURK HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/349
-#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVİESMART CLASSİC HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: MOVİESMART CLASSİC HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/350
-#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DİZİ SMART PREMIUM HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DİZİ SMART PREMIUM HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/351
-#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: DIZI SMART MAX HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/352
-#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: FX HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/354
-#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR: FOX CRIME HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: FOX CRIME HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/356
-#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/358
-#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV 2 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/359
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV ACTION HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/360
-#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA TV ACTION 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV ACTION 2 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/361
-#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV AILE HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/362
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV AILE 2 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/363
-#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV KOMEDI HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/364
-#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV KOMEDI 2 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/365
-#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV YERLI  HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/366
-#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV YERLI 2 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/367
-#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV 1001 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/368
-#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: SINEMA TV 1002 HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/369
-#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR: MOVIESMART COCUK HD+" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="SINEMA",TR: MOVIESMART COCUK HD+
-http://stream.live-ip.tv:8080/IptvyammaskSype/BncsMvJsA5Ks/370
-
----------
-BEIN 1
-
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS HABER HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31454
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 1 FHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31428
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 1 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31429
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS HD 1 (SD)
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31430
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 1 (MOBIL)
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31431
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 2 UHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31432
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 2 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31433
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 2 (SD)
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31434
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 3 UHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31435
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 3 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31436
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 4 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31437
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS 5 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/33267
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS MAX 1 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31452
-#EXTINF:-1, group-title="BEIN 1",  TR: beIN SPORTS MAX 2 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31453
-#EXTINF:-1, group-title="BEIN 1",  TR: S-SPORT 1 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31456
-#EXTINF:-1, group-title="BEIN 1",  TR: S-SPORT 2 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31459
-#EXTINF:-1, group-title="BEIN 1",  TR: spor SMART HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31455
-#EXTINF:-1, group-title="BEIN 1",  TR: tivibu SPOR 1 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31460
-#EXTINF:-1, group-title="BEIN 1",  TR: tivibu SPOR 2 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31461
-#EXTINF:-1, group-title="BEIN 1",  TR: tivibu SPOR 3 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31462
-#EXTINF:-1, group-title="BEIN 1",  TR: tivibu SPOR 4 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34146
-#EXTINF:-1, group-title="BEIN 1",  TR: BEIN Connect 1 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34141
-#EXTINF:-1, group-title="BEIN 1",  TR: BEIN Connect 2 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34142
-#EXTINF:-1, group-title="BEIN 1",  TR: BEIN Connect 3 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34143
-#EXTINF:-1, group-title="BEIN 1",  TR: BEIN Connect 4 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34144
-#EXTINF:-1, group-title="BEIN 1",  TR: BEIN Connect 5 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/34145
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 1
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31438
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 2
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31439
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 3
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31440
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 4
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31441
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 5
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31442
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 6
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31443
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 7
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31444
-#EXTINF:-1, group-title="BEIN 1",  TR: Exxen Spor 8
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31445
-#EXTINF:-1, group-title="BEIN 1",  TR: SSport+ 1 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31446
-#EXTINF:-1, group-title="BEIN 1",  TR: SSport+ 2 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31447
-#EXTINF:-1, group-title="BEIN 1",  TR: SSport+ 3 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31448
-#EXTINF:-1, group-title="BEIN 1",  TR: TRT SPOR HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31463
-#EXTINF:-1, group-title="BEIN 1",  TR: A SPOR HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31464
-#EXTINF:-1, group-title="BEIN 1",  TR: GS TV HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31465
-#EXTINF:-1, group-title="BEIN 1",  TR: EUROSPORT 1 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31466
-#EXTINF:-1, group-title="BEIN 1",  TR: EUROSPORT 2 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31467
-#EXTINF:-1, group-title="BEIN 1",  TR: NBA TV HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31468
-#EXTINF:-1, group-title="BEIN 1",  TR: FB TV
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31470
-#EXTINF:-1, group-title="BEIN 1",  TR: TRT SPOR 2
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/31471
-#EXTINF:-1, group-title="BEIN 1",  TR | TRT spor Yıldız
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30699
-
---------
-
-SKY
-
-#EXTINF:-1, group-title="SKY",Sky Cinema Premieren HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30732
-#EXTINF:-1, group-title="SKY",Sky Special HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30733
-#EXTINF:-1, group-title="SKY",Sky Atlantic HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30734
-
-#EXTINF:-1, group-title="SKY",Sky Cinema Classics HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30756
-#EXTINF:-1, group-title="SKY",Sky Cinema Best Of HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30758
-#EXTINF:-1, group-title="SKY",Sky Cinema Fun HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30759
-
-#EXTINF:-1, group-title="SKY",Sky Cinema Premieren  24 HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30772
-#EXTINF:-1, group-title="SKY",Sky Krimi HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30776
-
-#EXTINF:-1, group-title="SKY",Sky One HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30821
-#EXTINF:-1, group-title="SKY",Sky Replay HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30823
-
-#EXTINF:-1, group-title="SKY",Sky Cinema Thriller HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30831
-#EXTINF:-1, group-title="SKY",Sky Cinema Action HD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30834
-#EXTINF:-1, group-title="SKY",Sky Cinema Best Of FHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30835
-
-#EXTINF:-1, group-title="SKY",Sky Replay FHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30856
-#EXTINF:-1, group-title="SKY",Sky Atlantic FHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30857
-#EXTINF:-1, group-title="SKY",Sky Cinema Thriller FHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30858
-
-#EXTINF:-1, group-title="SKY",Sky Cinema Family FHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30860
-#EXTINF:-1, group-title="SKY",Sky Cinema Premieren FHD
-http://iptvsmarters.top:25461/aralkann/1Qr5v0yrTF/30861
-
-------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
