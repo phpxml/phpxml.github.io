@@ -55,9 +55,11 @@ EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload
 
 #EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="TÜRK",Investigation Discovery ᴴᴰ
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8 
+
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
-
+#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1680475852&st=y6bKHbga9IPIg38umg5uvg
 EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 
@@ -66,26 +68,25 @@ https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᶠʰᵈ
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="TÜRK",SHOW TÜRK ᴴᴰ
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8 
+
 #EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
 https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8 
-
+#EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="TÜRK",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8 
 
-EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
-http://4kplus.org:80/bitbust/ETGUGRlVIa/110
-
+#EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="TÜRK",EURO D 
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="  KANAL.7.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="TÜRK",KANAL 7 ᴴᴰ
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="TÜRK",KANAL 7 Avrupa 
@@ -111,7 +112,7 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f29
 
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
 https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="TÜRK",HALK ᴴᴰ
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=55x6qmpw8q6a&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
 #EXTINF:-1 tvg-id="  KRT.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="TÜRK",KRT ᴴᴰ
