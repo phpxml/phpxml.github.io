@@ -8,8 +8,8 @@ https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᶠʰᵈ
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 
-#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/34
+EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
+
 
 EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trt2/live_720p2000000kbps/index.m3u8
@@ -35,13 +35,13 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
 -----
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/227
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/226
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 
-#EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/225
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+
+
+EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
+
 
 EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",BEIN GURME ᴴᴰ
 EXTINF:-1 tvg-id="  Discovery.Channel.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="   https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png?20190417174023     "   ,Discovery ᴴᴰ
@@ -92,17 +92,17 @@ https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
 
 -----
-#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/41
-#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/42
+EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+
+EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+
 
 EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/9
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/49
+EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+
+EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+
 
 -----
 
@@ -186,57 +186,57 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
 https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1677
+EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
+
 -----
 
-#EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69903
-#EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69904
+EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
 
-#EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69901
-#EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69902
+EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE |  Toggo Plus ᵁᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Toggo-plus_logo.png/320px-Toggo-plus_logo.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Toggo Plus ᵁᴴᴰ
 
-#EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69886
-#EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69887
 
-#EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/69888
-#EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/75901
+EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
+
+EXTINF:-1 tvg-id="   SUPER.RTL.HD.de   " tvg-name="DE | Super Rtl ᵁᴴᴰ" tvg-logo="   https://www.superrtl.de/assets/images/logos/super-rtl-violett.png   " tvg-id2="Mzk2NzI=" group-title="ALMAN",Super RTL ᵁᴴᴰ
+
+
+EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
+
+EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name=" Boomerang " tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Boomerang-Logo.svg/320px-Boomerang-Logo.svg.png    " tvg-id2="Mzk2NzI=" group-title="ALMAN",Boomerang ᴴᴰ
+
+
+EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
+
+EXTINF:-1 tvg-id="  Cartoon.Network.de   " tvg-name="DE | Cartoon Network ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/320px-Cartoon_Network_HD_logo.svg.png  " tvg-id2="Mzk2NzI=" group-title="ALMAN",Cartoon Network ᴴᴰ
+
 
 -------
 KINO
 
-#EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="ALMAN",Kabel 1 Classics ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1137
-
-#EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="ALMAN",UNIVERSAL ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/68891
-#EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="ALMAN",UNIVERSAL ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1675
+EXTINF:-1 tvg-id="    kabel.eins.CLASSICS.de   " tvg-name="DE |  Kabel 1 Classics ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/de/thumb/a/a6/Kabel_eins_classics_logo.svg/320px-Kabel_eins_classics_logo.svg.png        " tvg-id2="Mzk2NzI=" group-title="ALMAN",Kabel 1 Classics ᵁᴴᴰ
 
 
-#EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="ALMAN",Warner Film ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1748
-#EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="ALMAN",Warner Film ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/68896
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/68897
+EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="ALMAN",UNIVERSAL ᴴᴰ
 
-#EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="ALMAN",RTL NITRO ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1121
-#EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="ALMAN",RTL NITRO ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1122
+EXTINF:-1 tvg-id="  Universal.Channel.HD.de     " tvg-name="DE | Universal Channel ᵁᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png          " tvg-id2="Mzk2NzI=" group-title="ALMAN",UNIVERSAL ᴴᴰ
 
-#EXTINF:-1 tvg-id="   SAT.1.Gold.HD.de  " tvg-name="DE | SAT 1 GOLD ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png      " tvg-id2="Mzk2NzI=" group-title="ALMAN",SAT 1 GOLD ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1648
-#EXTINF:-1 tvg-id="   SAT.1.Gold.HD.de  " tvg-name="DE | SAT 1 GOLD ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png      " tvg-id2="Mzk2NzI=" group-title="ALMAN",SAT 1 GOLD ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/1721
+
+
+EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="ALMAN",Warner Film ᴴᴰ
+
+EXTINF:-1 tvg-id="   TNT.Film.de  " tvg-name="DE | Warner Film ᴴᴰ" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/351px-WarnerTV_FILM_HD_Logo_2021.svg.png       " tvg-id2="Mzk2NzI=" group-title="ALMAN",Warner Film ᴴᴰ
+
+
+
+EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="ALMAN",RTL NITRO ᴴᴰ
+
+EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE |  RTL NITRO ᴴᴰ" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/500px-Nitro_Logo.svg.png     " tvg-id2="Mzk2NzI=" group-title="ALMAN",RTL NITRO ᴴᴰ
+
+
+EXTINF:-1 tvg-id="   SAT.1.Gold.HD.de  " tvg-name="DE | SAT 1 GOLD ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png      " tvg-id2="Mzk2NzI=" group-title="ALMAN",SAT 1 GOLD ᴴᴰ
+
+EXTINF:-1 tvg-id="   SAT.1.Gold.HD.de  " tvg-name="DE | SAT 1 GOLD ᴴᴰ" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/500px-SAT.1_Gold_2019.svg.png      " tvg-id2="Mzk2NzI=" group-title="ALMAN",SAT 1 GOLD ᴴᴰ
+
 
 -------
 
@@ -322,20 +322,20 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 
 
 -----
-#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/150
-#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/151
+EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
 
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/152
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/153
+EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
 
-#EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/154
-#EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/155
+
+EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+
+EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+
+
+EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+
+EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+
 -----
 
 -----
@@ -432,122 +432,7 @@ https://yayin.damarfm.com:8080/;stream/1
 
 
 -----------
-MAX 
 
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Aksiyon HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",Max Aksiyon 1 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12574
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Aksiyon 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",Max Aksiyon 2 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12576
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Premier HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",Max Premier HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12575
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Hint Filimleri" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",Max Premier HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12585
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Plus HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Plus HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12583
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Turk HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Turk HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12581
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Orjinal HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Orjinal HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12586
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Gold HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Gold HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12582
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Vizyon HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon 1 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12577
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Vizyon 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon 2 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12578
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Vizyon 3 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon 3 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12579
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX Vizyon 4 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX Vizyon 4 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12580
-#EXTINF:-1 tvg-id="" tvg-name="[TR] MAX 007 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",MAX 007 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12584
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Max Star Wars HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="MAX",Max Star Wars HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/12587
-
--------
-BEIN 
-
-#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ BEIN SPORT ⓊⓈ ⓊⓈ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",ⓊⓈ ⓊⓈ BEIN SPORT ⓊⓈ ⓊⓈ
-http://res73.uslive.site:8080/useupanel232/Ds22Cssc.2/86
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Haber FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Haber FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/87
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Haber HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Haber HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/88
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Feed 4k" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Feed 4k
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/89
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Feed HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Feed HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/90
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Feed Sports 1 50 Fps" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Feed Sports 1 50 Fps
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/91
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Feed Sports 1 Hevc" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Feed Sports 1 Hevc
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/92
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 1 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/93
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 Adaptive" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 1 Adaptive
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/94
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 QHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 1 QHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/95
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 1 SD Adaptİve" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 1 SD Adaptİve
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/96
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 2 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 2 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/97
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 2 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/98
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 2 SD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 2 SD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/99
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 3 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 3 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/100
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 3 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 3 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/101
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 3 SD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 3 SD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/102
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 4 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 4 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/103
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports 4 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 4 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/104
-#EXTINF:-1 tvg-id="" tvg-name="[Tr] Bein Sports 4 SD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports 4 SD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/105
-#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN SPORTS 5 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",beIN SPORTS 5 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/48684
-#EXTINF:-1 tvg-id="" tvg-name="[TR] beIN SPORTS 5 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",beIN SPORTS 5 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/80087
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 1 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Max 1 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/106
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 1 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Max 1 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/107
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 2 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Max 2 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/108
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Bein Sports Max 2 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="BEIN",Bein Sports Max 2 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/109
-
-------
-EXXEN
-
-#EXTINF:-1 tvg-id="" tvg-name="ⓊⓈ ⓊⓈ EXXEN SPORT ⓊⓈ ⓊⓈ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",ⓊⓈ ⓊⓈ EXXEN SPORT ⓊⓈ ⓊⓈ
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/123
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sport 2K" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sport 2K
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/137452
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 1 FHD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 1 FHD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/124
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 1 HD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 1 HD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/125
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 1 SD" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 1 SD
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/126
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 2" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 2
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/127
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 3" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 3
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/128
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 4" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 4
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/129
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 5" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 5
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/130
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 6" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 6
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/131
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 7" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 7
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/132
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Exxen Sports 8" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="EXXEN",Exxen Sports 8
-http://dngdnghbt.dengeresimupload.live:8080/BarLas/s3T9tmfmsA/133
-
--------
 
 
 
