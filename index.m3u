@@ -36,12 +36,12 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 -----
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://gamsgo.cyou:8080/resplice/ZRjQaEa7z6uxRhd4/5693
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5693
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://45.143.222.41:8080/dooby1312/b244f7ab/5693
 
 #EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
-http://gamsgo.cyou:8080/resplice/ZRjQaEa7z6uxRhd4/8238
+http://gamsgo.cyou:8080/stadnik/D77ZDxcJQQzNUJja/8238
 #EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
 http://45.143.222.41:8080/dooby1312/b244f7ab/8238
 
@@ -94,10 +94,10 @@ https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
 
 -----
+
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
-http://gamsgo.cyou:8080/resplice/ZRjQaEa7z6uxRhd4/521
-#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
-http://45.143.222.41:8080/dooby1312/b244f7ab/521
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
+
 
 EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
@@ -122,10 +122,14 @@ https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8 
 #EXTINF:-1 tvg-id="  FlashTV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="TÜRK",FLASH HABER ᴴᴰ
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
-#EXTINF:-1 tvg-id="  TV.100.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/bLpTdYZ/tv100.png    " group-title="TÜRK",TV 100 ᴴᴰ
-https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id=" sözcü " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png     " group-title="TÜRK",SZC ᴴᴰ
 https://mn-nl.mncdn.com/blutv_szctv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  TV.100.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/bLpTdYZ/tv100.png    " group-title="TÜRK",TV 100 ᴴᴰ
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8 
+
+
 
 #EXTINF:-1 tvg-id="  CNN.TÜRK.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="TÜRK",CNN Türk ᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
