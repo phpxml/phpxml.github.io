@@ -810,6 +810,15 @@ http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181704
 
 
 NEXTBOX
+#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: beIN Film:s Stars ᵁᴴᴰ" tvg-logo="http://epglogo.zerotv.xyz/logo/tr/beINFilm:sStars.tr.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",beIN Film:s Stars ᵁᴴᴰ
+http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/9148
+#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: beIN Film:s Premiere ᵁᴴᴰ" tvg-logo="http://epglogo.zerotv.xyz/logo/tr/beINFilm:sPremier.tr.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",beIN Film:s Premiere ᵁᴴᴰ
+http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/9149
+#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: beIN MOVIES PREMIERE 2 ᵁᴴᴰ" tvg-logo="http://epglogo.zerotv.xyz/logo/tr/beINFilm:sPremiere2.tr.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",beIN MOVIES PREMIERE 2 ᵁᴴᴰ
+http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/25405
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="GalaBox Yerli Top 10 ᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",GalaBox Yerli Top 10 ᴴᴰ
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/72707
 #EXTINF:-1 tvg-id="" tvg-name="Nextbox Film: 1 ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",Nextbox Film: 1 ᵁᴴᴰ
