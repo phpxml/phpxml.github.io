@@ -43,11 +43,11 @@ http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/123964
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5693
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77304
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77304
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/25504
 
-#EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
+EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/7531
 EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
 
@@ -447,64 +447,173 @@ https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="   https://www.damarfm.com/wp-content/uploads/2022/06/damarfm-150x150.png   " group-title="RADYO",Damar Fm 2
 https://yayin.damarfm.com:8080/;stream/1 
 
+---------------
+türkiye2 türk2 Türkiye 2 Türk 2
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Film:s Action
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77284
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action 2" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Film:s Action 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77469
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Family" tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Film:s Family
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77285
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Film:s Premier
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77281
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Film:s Premier 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77282
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Film:s Stars
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77283
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Film:s Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77286
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Series 1
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/144690
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Series 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/144691
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV" tvg-logo="http://myserveriptv.com:2082/images/3976bbb6e78d70ac9ab9232ee1e3f85c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: 24 TV
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77491
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber" tvg-logo="http://myserveriptv.com:2082/images/3a7414797b97172eb10804614f7a5e73.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: A Haber
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77395
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Para HD" tvg-logo="http://myserveriptv.com:2082/images/958c5e3d755339cf487aeb3ac3450923.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: A Para HD
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77396
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" tvg-logo="http://myserveriptv.com:2082/images/9c5e062ad3331fbe439dd901592cd8a8.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: ATV Avrupa
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77357
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="http://myserveriptv.com:2082/images/cf61ee8fca8701f1ae78077c3a706ac0.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: ATV HD
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/113560
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Gurme" tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN Gurme
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/39110
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ" tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: beIN IZ
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77302
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg" tvg-logo="http://myserveriptv.com:2082/images/1869c8bd48f7e1ee884d0a2c0f23bf34.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Bloomberg
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77397
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Boomerang
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77379
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk" tvg-logo="http://myserveriptv.com:2082/images/2f2c9ac6fa8c14f19f31b453bd7f6905.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: CNN Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77398
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Discovery Channel
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77303
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science" tvg-logo="http://myserveriptv.com:2082/images/eaab6a745c5fec4eb018f891720266d4.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Discovery Science
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77304
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Junior" tvg-logo="http://myserveriptv.com:2082/images/56ea68604747cd9d2f29655fc8465f45.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Disney Junior
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77383
+#EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart Premium" tvg-logo="http://myserveriptv.com:2082/images/e0b0d0f97c885aa2094a94890645a1b6.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: DiziSmart Premium
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/129145
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://myserveriptv.com:2082/images/2cc3b329cb404213b725d2a9f6c95af5.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Dream Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77369
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D" tvg-logo="http://myserveriptv.com:2082/images/5bd0bc3bf7ba23803ccd9034c652161a.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Euro D
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/129148
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox" tvg-logo="http://myserveriptv.com:2082/images/de7b8fdc57c8a948bc0cf52b31b617f3.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Fox
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77488
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Global" tvg-logo="http://myserveriptv.com:2082/images/943faf83f158bd16d442dafe2086f748.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Haber Global
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77399
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk" tvg-logo="http://myserveriptv.com:2082/images/943faf83f158bd16d442dafe2086f748.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Haber Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77400
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="http://myserveriptv.com:2082/images/0767e21c44b691ae209f4b0c0a864aab.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Kanal 7
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77336
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="http://myserveriptv.com:2082/images/d7f9acc969c8fea4b48a29a9ddb9efef.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Kanal 7 Avrupa
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/129150
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal B" tvg-logo="http://myserveriptv.com:2082/images/95f431609aba0400f6866f14b0b62868.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Kanal B
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77350
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D" tvg-logo="http://myserveriptv.com:2082/images/38f974d878baf2221ecfa497ca62a3bd.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Kanal D
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77326
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Pop" tvg-logo="http://myserveriptv.com:2082/images/414a1b2ad515c31a158c5e8ec252bd86.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Kral Pop
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77371
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="http://myserveriptv.com:2082/images/d8eb4d31461cf970f41cc20125cb4051.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Kral TV
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77370
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Go" tvg-logo="http://myserveriptv.com:2082/images/dc1308f95d93d4e7352227c4dbe64ccc.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Minika Go
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77385
+#EXTINF:-1 tvg-id="" tvg-name="TR: Film:smart Classic" tvg-logo="http://myserveriptv.com:2082/images/75dcb86a0f25925f6f57cea0780ccfee.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Film:smart Classic
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77297
+#EXTINF:-1 tvg-id="" tvg-name="TR: Film:smart Turk" tvg-logo="http://myserveriptv.com:2082/images/49c2fd3180b99fbc7f91f2fea3914854.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Film:smart Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/138651
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic" tvg-logo="http://myserveriptv.com:2082/images/f91c676cbee8fc9aa708334fcf26d981.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: National Geographic
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77311
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Nat Geo Wild
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77310
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://myserveriptv.com:2082/images/baf9de9c28fc83e02a855636615b4dab.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Nick Junior
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/139342
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nickelodeon" tvg-logo="http://myserveriptv.com:2082/images/cce585460ae0a79d61b104664fd4ad89.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Nickelodeon
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77387
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 Turk HD" tvg-logo="http://myserveriptv.com:2082/images/ec5221e7abe4783d9802f635e22052d9.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: NR1 Turk HD
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77351
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV Harber" tvg-logo="http://myserveriptv.com:2082/images/a37a65eb968bab355004a71cd16a660b.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: NTV Harber
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77495
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power HD" tvg-logo="http://myserveriptv.com:2082/images/6e492321532f66674e34b9a64efcae9e.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Power HD
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77376
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Max" tvg-logo="http://myserveriptv.com:2082/images/3479b9f8abb8c88cf548a8a3ad2be065.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Show Max
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/129812
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Turk" tvg-logo="http://myserveriptv.com:2082/images/62a093e4eb79f54811ed0a98ba71ec27.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Show Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77329
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="http://myserveriptv.com:2082/images/1bc03a024973727689004f12d94e7549.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Show TV
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77330
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi" tvg-logo="http://myserveriptv.com:2082/images/28277dd9d204e029009f2ad3546408b0.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Sinema Komedi
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/113593
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi 2" tvg-logo="http://myserveriptv.com:2082/images/36dcd79ad66d8d23fe8d51622652907a.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Sinema Komedi 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/138658
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001" tvg-logo="http://myserveriptv.com:2082/images/47685c68748efcc06f7cf97fb615f605.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Sinema TV 1001
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/138657
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="http://myserveriptv.com:2082/images/e34350893eb1457f7c9476f6308bab45.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Sinema TV 1002
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/113590
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2" tvg-logo="http://myserveriptv.com:2082/images/94f04d79e092c746787c7410e3488fd9.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Sinema TV 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/138654
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="http://myserveriptv.com:2082/images/0d849171f2f5937936bafc4a363276ae.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Sinema TV Yerli
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77419
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star TV" tvg-logo="http://myserveriptv.com:2082/images/3d4d73d470b83fe148cdd5954caf3367.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Star TV
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77327
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tele 1" tvg-logo="http://myserveriptv.com:2082/images/36c3fe538201168513e73c3b125aa9ee.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Tele 1
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77355
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2" tvg-logo="http://myserveriptv.com:2082/images/2d6d8b592c6d8fdc07d26d6f31c94942.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Teve 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77338
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber" tvg-logo="http://myserveriptv.com:2082/images/761f93a3a79366d9c147040f397c14f4.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TGRT Haber
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77356
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="http://myserveriptv.com:2082/images/e7439cba37ac08c95310f9d89bd0a84a.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT 1
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77322
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="http://myserveriptv.com:2082/images/f9b0a1b1133d706561e8e98f122b7fdc.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77344
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Avaz" tvg-logo="http://myserveriptv.com:2082/images/5bd2be803fba28f0bfce121c79c8888d.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT Avaz
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77346
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel" tvg-logo="http://myserveriptv.com:2082/images/04986cd5e5a89bb92c1a7cb28342f1a2.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT Belgesel
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77312
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Çocuk" tvg-logo="http://myserveriptv.com:2082/images/073bed7701dd2e95c35c29b7f79c1a67.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT Çocuk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77388
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA Ilkokul" tvg-logo="http://myserveriptv.com:2082/images/90058eef314448c3c89b5b65a4669649.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT EBA Ilkokul
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77391
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Haber" tvg-logo="http://myserveriptv.com:2082/images/3e1ec298e0c1adcb12a51c6e112cc017.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT Haber
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77405
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Muzik" tvg-logo="http://myserveriptv.com:2082/images/a7ce87a2af4709d0349001b11dac8393.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT Muzik
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77374
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk" tvg-logo="http://myserveriptv.com:2082/images/cc66588eb21fb9a99ccca76605bff2ac.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77345
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT World" tvg-logo="http://myserveriptv.com:2082/images/726b05251dee86aade2bef24376c60d9.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TRT World
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77347
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100" tvg-logo="http://myserveriptv.com:2082/images/574b86ce3bedb4f4ec880490c59bdfb8.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TV 100
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77343
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="http://myserveriptv.com:2082/images/6e036ee58f7227d6de48f6183afee307.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TV8
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77485
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 Int" tvg-logo="http://myserveriptv.com:2082/images/d27c5a861f1a1f591f7889e6e81aec28.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TV8 Int
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77361
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8.5" tvg-logo="http://myserveriptv.com:2082/images/e3e2e67c466d9523c63946d3bfb5b7d3.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: TV8.5
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77486
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulke TV" tvg-logo="http://myserveriptv.com:2082/images/b61697b5f700973e61d1d2a106c6a9d0.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Ulke TV
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77407
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam 1" tvg-logo="http://myserveriptv.com:2082/images/2ae09b8d270bbd3827f7d936ecea7a7a.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Yesilcam 1
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/208378
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam 2" tvg-logo="http://myserveriptv.com:2082/images/2ae09b8d270bbd3827f7d936ecea7a7a.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷Türk 2",TR: Yesilcam 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/215667
+
+
 
 -----------
 ALMAN 2
 
-#EXTINF:-1, group-title="ALMAN 2" ,Sky One HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157273
-#EXTINF:-1, group-title="ALMAN 2" ,Sky DOC FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157274
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Nature FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157275
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Comedy HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157276
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Replay FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157277
-#EXTINF:-1, group-title="ALMAN 2" ,SKY Replay HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157278
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Crime FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157279
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Krimi FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157280
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Atlantic FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157281
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Atlantic DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157282
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157283
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157284
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren +1 HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157285
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren +1 DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157286
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren + 24 HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157287
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema  Premieren +24 DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157288
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Action HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157289
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Action DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157290
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Mittelerde DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157291
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Family FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157292
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Family DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157293
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Nostalgie DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157294
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema THRILLER DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157295
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Fun HD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157296
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Best Of FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157297
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Special FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157298
-#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Classic FHD DE
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157299
+#EXTINF:-1, group-title="ALMAN 2" ,kabel eins Classics HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181030
+#EXTINF:-1, group-title="ALMAN 2" , Universal FHD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181058
+#EXTINF:-1, group-title="ALMAN 2" , Universal HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181059
+#EXTINF:-1, group-title="ALMAN 2" ,Warner TV Film HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181056
 
 
 #EXTINF:-1, group-title="ALMAN 2" ,-----DEUTSCHLAND-----
@@ -545,8 +654,6 @@ http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181027
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181028
 #EXTINF:-1, group-title="ALMAN 2" ,kabel eins HD
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181029
-#EXTINF:-1, group-title="ALMAN 2" ,kabel eins Classics HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181030
 #EXTINF:-1, group-title="ALMAN 2" ,VOX HD
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181031
 #EXTINF:-1, group-title="ALMAN 2" ,VOX E
@@ -597,14 +704,8 @@ http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181053
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181054
 #EXTINF:-1, group-title="ALMAN 2" ,Warner TV Serie
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181055
-#EXTINF:-1, group-title="ALMAN 2" ,Warner TV Film HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181056
 #EXTINF:-1, group-title="ALMAN 2" ,Warner TV Comedy HD
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181057
-#EXTINF:-1, group-title="ALMAN 2" , Universal FHD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181058
-#EXTINF:-1, group-title="ALMAN 2" , Universal HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181059
 #EXTINF:-1, group-title="ALMAN 2" , SIXX HD
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181060
 #EXTINF:-1, group-title="ALMAN 2" , SIXX
@@ -689,6 +790,86 @@ http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181099
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181100
 #EXTINF:-1, group-title="ALMAN 2" , NICKELODEON
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181101
+
+#EXTINF:-1, group-title="ALMAN 2" ,Sky One HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157273
+#EXTINF:-1, group-title="ALMAN 2" ,Sky DOC FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157274
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Nature FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157275
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Comedy HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157276
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Replay FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157277
+#EXTINF:-1, group-title="ALMAN 2" ,SKY Replay HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157278
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Crime FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157279
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Krimi FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157280
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Atlantic FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157281
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Atlantic DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157282
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157283
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157284
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren +1 HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157285
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren +1 DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157286
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Premieren + 24 HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157287
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema  Premieren +24 DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157288
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Action HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157289
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Action DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157290
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Mittelerde DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157291
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Family FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157292
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Family DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157293
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Nostalgie DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157294
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema THRILLER DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157295
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Fun HD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157296
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Best Of FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157297
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Special FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157298
+#EXTINF:-1, group-title="ALMAN 2" ,Sky Cinema Classic FHD DE
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/157299
+
+
+#EXTINF:-1, group-title="ALMAN 2" ,-----SELECTE -----
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181705
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 1 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181695
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 2 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181696
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 3 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181697
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 4 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181698
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 5 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181699
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 6 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181700
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 7 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181701
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 8 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181702
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 9 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181703
+#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 10 HD
+http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181704
+
 #EXTINF:-1, group-title="ALMAN 2" ,DAZN 1 Bar FHD DE
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181102
 #EXTINF:-1, group-title="ALMAN 2" ,DAZN 2 Bar FHD DE
@@ -796,29 +977,8 @@ http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181153
 #EXTINF:-1, group-title="ALMAN 2" ,Sky Sport Austria 7 HD DE
 http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181154
 
-#EXTINF:-1, group-title="ALMAN 2" ,-----SELECTE -----
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181705
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 1 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181695
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 2 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181696
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 3 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181697
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 4 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181698
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 5 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181699
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 6 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181700
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 7 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181701
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 8 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181702
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 9 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181703
-#EXTINF:-1, group-title="ALMAN 2" ,SKY SELECTE 10 HD
-http://109.238.14.83:7788/MAX@OTTKING@EXCH/hUWKxk3re6tL/181704
 
+alman 3 Alman deutsch Deutsch 
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street HD" tvg-logo="http://myserveriptv.com:2082/images/1f9a05f22cf06bd343d57add260990f1.png" tvg-id2="Mzk2NzI=" group-title="🇩🇪Alman 3",DE: 13th Street HD
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13940
@@ -982,96 +1142,6 @@ http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13961
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/44722
 #EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Neo HD" tvg-logo="http://myserveriptv.com:2082/images/e0b35b36a2d6b0124eca1e9116c18ca3.png" tvg-id2="Mzk2NzI=" group-title="🇩🇪Alman 3",DE: ZDF Neo HD
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/14022
-
-
-
-BEIN
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Action 1 ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77284
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Action 2 ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77469
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Family ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77285
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Premier ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77281
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Premier 2 ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77282
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Stars ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77283
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Türk ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77286
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Series 1 ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/144690
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="🇹🇷 SiNEMA",beIN Movies Series 2 ᴴᴰ
-http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/144691
-
-
-NEXTBOX
-#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: beIN Film:s Stars ᵁᴴᴰ" tvg-logo="http://epglogo.zerotv.xyz/logo/tr/beINFilm:sStars.tr.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",beIN Film:s Stars ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/9148
-#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: beIN Film:s Premiere ᵁᴴᴰ" tvg-logo="http://epglogo.zerotv.xyz/logo/tr/beINFilm:sPremier.tr.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",beIN Film:s Premiere ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/9149
-#EXTINF:-1 tvg-id="360 hd" tvg-name="TR: beIN MOVIES PREMIERE 2 ᵁᴴᴰ" tvg-logo="http://epglogo.zerotv.xyz/logo/tr/beINFilm:sPremiere2.tr.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",beIN MOVIES PREMIERE 2 ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/25405
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="GalaBox Yerli Top 10 ᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",GalaBox Yerli Top 10 ᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/72707
-#EXTINF:-1 tvg-id="" tvg-name="Nextbox Film: 1 ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",Nextbox Film: 1 ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/76371
-#EXTINF:-1 tvg-id="" tvg-name="Nextbox Film: 2 ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",Nextbox Film: 2 ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/76372
-#EXTINF:-1 tvg-id="" tvg-name="Nextbox Film: 3 ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",Nextbox Film: 3 ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/76373
-#EXTINF:-1 tvg-id="" tvg-name="Nextbox Film: 4 ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",Nextbox Film: 4 ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/76374
-#EXTINF:-1 tvg-id="" tvg-name="Nextbox Film: 5 ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",Nextbox Film: 5 ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/76375
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX ACTION ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",NEXTBOX ACTION ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/77540
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX DREAM ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",NEXTBOX DREAM ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/77541
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX GOLD ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",NEXTBOX GOLD ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/77542
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX TESLA ᵁᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",NEXTBOX TESLA ᵁᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/77543
-#EXTINF:-1 tvg-id="" tvg-name="NEXTBOX WALL ᴴᴰ" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",NEXTBOX WALL ᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/77544
-
-VIPMAX LOCA
-#EXTINF:-1 tvg-id="" tvg-name="VIPMAX TÜRK ᴴᴰ" tvg-logo="https://image.winudf.com/v2/image/Y29tLnZpcC5tYXguZGlhbGVyX2ljb25fMF8zZGIzNDIwMQ/icon.png?fakeurl=1&h=240&type=webp" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",VIPMAX TÜRK ᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93062
-#EXTINF:-1 tvg-id="" tvg-name="MAX Vizyon 4 ᴴᴰ" tvg-logo="https://image.shutterstock.com/image-vector/typography-max-unique-on-x-260nw-1820854622.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",MAX Vizyon 4 ᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93128
-#EXTINF:-1 tvg-id="" tvg-name="VIPMAX 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlh3QzRZKfDMqkfy6mKHKRzm_oAgIJhR3TnVdobsM2GukSRgyxohAh4yu58QObVBKcH3M&usqp=CAU" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",VIPMAX 4K
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93077
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K Aile" tvg-logo="https://i.pinimg.com/originals/02/8f/9a/028f9a69a589f5674b06dfd4f2df51c7.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K Aile
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93079
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K Oscar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSavAoeiRFGUH3XE6wLreIURXaL0CGrxi0sCw&usqp=CAU" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K Oscar
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93080
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K Romantik" tvg-logo="https://i.pinimg.com/originals/02/8f/9a/028f9a69a589f5674b06dfd4f2df51c7.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K Romantik
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93082
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K Komedi" tvg-logo="https://i.pinimg.com/originals/02/8f/9a/028f9a69a589f5674b06dfd4f2df51c7.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K Komedi
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93085
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K Fantastik" tvg-logo="https://festhomedocs.com/festivals/848/logo-uncut-848.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K Fantastik
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93086
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K Western" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnSHCMhkkb-vMv9rsFYLQKfcmJ8PrP3ymoUg&usqp=CAU" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K Western
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93087
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K  Yerli Drama" tvg-logo="https://pbs.twimg.com/profile_images/743754792757977088/8z6Ds85z_400x400.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K  Yerli Drama
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93089
-#EXTINF:-1 tvg-id="" tvg-name="LOCA 4K KEMAL SUNAL" tvg-logo="https://tr.toonpool.com/user/4955/files/kemal_sunal_2482795.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",LOCA 4K KEMAL SUNAL
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93092
-#EXTINF:-1 tvg-id="" tvg-name="VIPMAX 4K  Aile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-K1NuXtPLfmctHz-bbodJhXlx_LNO9EP1g&usqp=CAU" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",VIPMAX 4K  Aile
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93096
-#EXTINF:-1 tvg-id="" tvg-name="VIPMAX 4K Macera" tvg-logo="" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",VIPMAX 4K Macera
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93100
-#EXTINF:-1 tvg-id="" tvg-name="VIPMAX 4K Romantik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dKrO8rpGR_f8rQtABJ6A-8bhBHX4prjreg&usqp=CAU" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",VIPMAX 4K Romantik
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93101
-#EXTINF:-1 tvg-id="" tvg-name="VIPMAX 4K Turk" tvg-logo="https://image.shutterstock.com/image-vector/max-logo-text-letter-logotype-260nw-609843752.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",VIPMAX 4K Turk
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93102
-#EXTINF:-1 tvg-id="" tvg-name="VIPMAX 4K Vizyon" tvg-logo="https://i.pinimg.com/originals/02/8f/9a/028f9a69a589f5674b06dfd4f2df51c7.jpg" tvg-id2="Mzk2NzI=" group-title="🇹🇷 SiNEMA",VIPMAX 4K Vizyon
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/93103
 
 
 
