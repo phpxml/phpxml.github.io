@@ -63,8 +63,8 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123958
 #EXTINF:-1 tvg-id=" Nat.Geo.Wild.HD.tr   " tvg-name="" group-title="TÜRK"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123960
 
-EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
-
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123972
 
 -----
 
