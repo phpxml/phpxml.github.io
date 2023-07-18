@@ -348,14 +348,15 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 
 
 -----
-EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140800
+#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140801
 
-EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-
-
-EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-
-EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140798
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140799
 
 
 EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
