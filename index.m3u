@@ -41,6 +41,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/123964
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123964
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5693
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77304
@@ -49,13 +50,19 @@ http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/25504
 
 EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/7531
-EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
-
+#EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123961
 
 EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",BEIN GURME ᴴᴰ
 EXTINF:-1 tvg-id="  Discovery.Channel.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="   https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png?20190417174023     "   ,Discovery ᴴᴰ
-EXTINF:-1 tvg-id="  National.Geographic.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
-EXTINF:-1 tvg-id=" Nat.Geo.Wild.HD.tr   " tvg-name="" group-title="TÜRK"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
+
+#EXTINF:-1 tvg-id="  National.Geographic.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123958
+
+
+#EXTINF:-1 tvg-id=" Nat.Geo.Wild.HD.tr   " tvg-name="" group-title="TÜRK"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123960
+
 EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
 
 
@@ -103,10 +110,12 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 -----
 
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140727
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/2458
 
-EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140726
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/2459
 
 EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
