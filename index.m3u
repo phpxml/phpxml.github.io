@@ -58,10 +58,13 @@ EXTINF:-1 tvg-id="  Discovery.Channel.HD.tr  " tvg-name="" group-title="TÜRK"  
 
 #EXTINF:-1 tvg-id="  National.Geographic.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123958
-
+#EXTINF:-1 tvg-id="  National.Geographic.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77311
 
 #EXTINF:-1 tvg-id=" Nat.Geo.Wild.HD.tr   " tvg-name="" group-title="TÜRK"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123960
+#EXTINF:-1 tvg-id=" Nat.Geo.Wild.HD.tr   " tvg-name="" group-title="TÜRK"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77310
 
 #EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="TÜRK",VIASAT HISTORY ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123972
@@ -115,6 +118,7 @@ http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/2458
 
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/113560
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140726
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/2459
 
@@ -349,13 +353,17 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 
 -----
 #EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140800
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140800
 #EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140801
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140801
 
 #EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140798
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140798
 #EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140799
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140799
 
 
