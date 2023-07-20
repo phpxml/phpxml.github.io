@@ -16,7 +16,7 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140721
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1810
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/12014
 
-EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
+#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trt2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᶠʰᵈ
 http://167.114.115.233:8080/trt2fhd/index.m3u8 
@@ -162,6 +162,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="  HABERTURK.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="TÜRK",Habertürk ᴴᴰ
 https://haberturk.blutv.com/blutv_haberturk_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="  NTV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="TÜRK",NTV ᴴᴰ
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="   Bloomberg.HT.HD.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="TÜRK",Bloomberg HT ᴴᴰ
 https://mn-nl.mncdn.com/blutv_bloomberght2/live_720p2000000kbps/index.m3u8 
