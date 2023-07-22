@@ -53,8 +53,8 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123964
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77304
 
 
-EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
-
+#EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8238
 #EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123961
 
@@ -121,11 +121,11 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140727
+#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/2458
-
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/113560
+EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140726
 
 
@@ -133,9 +133,9 @@ EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https:/
 EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/518
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/2476
+
 EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
-http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/2477
+
 
 -----
 
