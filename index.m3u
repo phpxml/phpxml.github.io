@@ -4,16 +4,19 @@
 TÜRK
 
 #EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᴴᴰ
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140722
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/507
+
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140722
 http://iptvch.com:2082/Jure56Jurcevic01/AmK201j4N61/77322
+
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="TÜRK",TRT 1 ᶠʰᵈ
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 
 #EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140721
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1810
+
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140721
 http://erciyes-iptv.xyz:8000/haso10_gala2/Uyh9823j20K9911/12014
 
 #EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᴴᴰ
@@ -43,8 +46,9 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/123964
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123964
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5693
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123964
+
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77304
 EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="TÜRK"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
