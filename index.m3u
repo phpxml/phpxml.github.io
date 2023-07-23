@@ -161,6 +161,7 @@ https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=55x6qmpw8q6a&app=c86957
 #EXTINF:-1 tvg-id="  KRT.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="TÜRK",KRT ᴴᴰ
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="  TELE.1.HD.tr   " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="TÜRK",TELE 1 ᴴᴰ
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8 
 #EXTINF:-1 tvg-id="  FlashTV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="TÜRK",FLASH HABER ᴴᴰ
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
