@@ -88,6 +88,13 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 
+#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="TÜRK",FX ᴴᴰ
+http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
+#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="TÜRK",FX ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/580
+#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="TÜRK",FX ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/580
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140755
 
 #EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᴴᴰ
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
