@@ -144,12 +144,14 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140726
 
 EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
-http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/518
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/518
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140744
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6895/index.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/518
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6898/index.m3u8
 -----
 
