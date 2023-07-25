@@ -37,11 +37,11 @@ https://trthaber.blutv.com/blutv_trthaber_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="TÜRK",TRT MÜZİK ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
 ---
-#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",A SPOR ᵁᴴᴰ
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR Sᴰ
+#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",A SPOR Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20268
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR Sᴰ
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="TÜRK",TRT SPOR Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20189
 ---
 #EXTINF:-1 tvg-id="  TRT.Çocuk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/YjkMYbF/trtcocuk21a.png    " group-title="TÜRK",TRT ÇOCUK ᶠʰᵈ
