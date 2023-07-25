@@ -199,6 +199,8 @@ https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 https://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  blutv play2   " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="TÜRK",blutv|play 2 ᴴᴰ
 https://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  mavikaradeniztv " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/b/b0/Mavi_Karadeniz_TV_Logosu.jpg?20230104170734     " group-title="TÜRK",mavi karadeniz ᴴᴰ
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="  cine5 " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/d/d3/Cine5_logo.png    " group-title="TÜRK",CiNE5 ᴴᴰ
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://yerelmedya.tv/logosTV/denizpostasitv.png   " group-title="TÜRK",DENiZ POSTASI
