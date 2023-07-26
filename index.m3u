@@ -83,9 +83,16 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20182
+#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+https://pro35.canlitvplayer.com/nimplus3eu1.giniko.com/atv-tv/atv-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIzIDc6NTU6MDggUE0maGFzaF92YWx1ZT0vbk1XM2YzajZSZ3NFMFR2Ulh3NFVBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://pro35.canlitvplayer.com/nimplus3eu1.giniko.com/atv-tv/atv-tv/chunklist_w1933601574.m3u8?nimblesessionid=28953917&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIzIDc6NTU6MDggUE0maGFzaF92YWx1ZT0vbk1XM2YzajZSZ3NFMFR2Ulh3NFVBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv Sᴰ
+https://pro35.canlitvplayer.com/66.160.192.241/atvturk/index.m3u8
+https://pro35.canlitvplayer.com/66.160.192.241/atvturk/tracks-v1a1/mono.m3u8
+
 EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/521
-#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
 EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/113560
