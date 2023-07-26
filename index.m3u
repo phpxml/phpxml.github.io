@@ -81,22 +81,22 @@ https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="TÜRK",KANAL 7 Avrupa 
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
 
-#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv Sᴰ
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20182
-#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 https://pro35.canlitvplayer.com/nimplus3eu1.giniko.com/atv-tv/atv-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIzIDc6NTU6MDggUE0maGFzaF92YWx1ZT0vbk1XM2YzajZSZ3NFMFR2Ulh3NFVBPT0mdmFsaWRtaW51dGVzPTE0NDA=
 https://pro35.canlitvplayer.com/nimplus3eu1.giniko.com/atv-tv/atv-tv/chunklist_w1933601574.m3u8?nimblesessionid=28953917&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIzIDc6NTU6MDggUE0maGFzaF92YWx1ZT0vbk1XM2YzajZSZ3NFMFR2Ulh3NFVBPT0mdmFsaWRtaW51dGVzPTE0NDA=
-#EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv Sᴰ
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv Sᴰ
 https://pro35.canlitvplayer.com/66.160.192.241/atvturk/index.m3u8
 https://pro35.canlitvplayer.com/66.160.192.241/atvturk/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/521
-EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
-EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/113560
-EXTINF:-1 tvg-id=" ATV.HD.tr   " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140726
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140727
 
@@ -105,14 +105,14 @@ http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20267
 EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 EXTINF:-1 tvg-id="  A.Haber.HD.tr    " tvg-name="" group-title="TÜRK"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
 
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 Sᴰ
+#EXTINF:-1 tvg-id="  TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20177
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/518
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+#EXTINF:-1 tvg-id="  TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140744
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6895/index.m3u8
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
+#EXTINF:-1 tvg-id=" TV.8,5.tr   " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="TÜRK",TV 8.5 ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/518
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6898/index.m3u8
 
@@ -130,7 +130,7 @@ https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  TELE.1.HD.tr   " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="TÜRK",TELE 1 ᴴᴰ
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8 
-#EXTINF:-1 tvg-id="  FlashTV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="TÜRK",FLASH HABER ᴴᴰ
+#EXTINF:-1 tvg-id="  Flash.Haber.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="TÜRK",FLASH HABER ᴴᴰ
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
 #EXTINF:-1 tvg-id=" sözcü " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png     " group-title="TÜRK",SZC ᴴᴰ
 https://mn-nl.mncdn.com/blutv_szctv/live_720p2000000kbps/index.m3u8
@@ -310,18 +310,18 @@ https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20268
 
 
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+#EXTINF:-1 tvg-id="   TRT.SPOR.HD.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140798
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140798
 #EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140799
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140799
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT3 SPOR Sᴰ
+#EXTINF:-1 tvg-id="   TRT.3.-.TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT3 SPOR Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20189
 
 
-EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-EXTINF:-1 tvg-id="    TRT.Spor.2.HD.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+EXTINF:-1 tvg-id="   TRT.SPOR.YILDIZ.tr   " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+EXTINF:-1 tvg-id="   TRT.SPOR.YILDIZ.tr   " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
 
 ------
 ALMAN
@@ -549,68 +549,68 @@ http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1763
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Family" tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Family
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77285
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
+#EXTINF:-1 tvg-id=" beIN.MOVIES.PREMIERE.tr   " tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/135401
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
+#EXTINF:-1 tvg-id="  beIN.MOVIES.PREMIERE.tr   " tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1764
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
+#EXTINF:-1 tvg-id="  beIN.MOVIES.PREMIERE.tr   " tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1764
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
+#EXTINF:-1 tvg-id="  beIN.MOVIES.PREMIERE.tr   " tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77281
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
+#EXTINF:-1 tvg-id="   beIN.MOVIES.PREMIERE.2.tr    " tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/135400
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
+#EXTINF:-1 tvg-id="    beIN.MOVIES.PREMIERE.2.tr   " tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1765
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
+#EXTINF:-1 tvg-id="   beIN.MOVIES.PREMIERE.2.tr    " tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1765
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
+#EXTINF:-1 tvg-id="    beIN.MOVIES.PREMIERE.2.tr    " tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Premier 2
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77282
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
+#EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.tr  " tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/135402
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
+#EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.tr  " tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1766
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
+#EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.tr   " tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1766
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
+#EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.tr    " tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Stars
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77283
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
+#EXTINF:-1 tvg-id="  beIN.MOVIES.TURK.tr    " tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/135403
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
+#EXTINF:-1 tvg-id="   beIN.MOVIES.TURK.tr   " tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1767
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
+#EXTINF:-1 tvg-id="   beIN.MOVIES.TURK.tr   " tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1767
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
+#EXTINF:-1 tvg-id="   beIN.MOVIES.TURK.tr   " tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Turk
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77286
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
+#EXTINF:-1 tvg-id=" beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/135419
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
+#EXTINF:-1 tvg-id="  beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298429
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
+#EXTINF:-1 tvg-id="  beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/298429
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
+#EXTINF:-1 tvg-id="  beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 1
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/144690
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
+#EXTINF:-1 tvg-id="  beIN.SERIES.2.tr    " tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/135404
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
+#EXTINF:-1 tvg-id="   beIN.SERIES.2.tr   " tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298427
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
+#EXTINF:-1 tvg-id="  beIN.SERIES.2.tr    " tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/298427
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
+#EXTINF:-1 tvg-id="  beIN.SERIES.2.tr    " tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 2
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77419
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/255/Image/bs03_205x150_logo_sub2022.png     " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 3
+#EXTINF:-1 tvg-id="  beIN.SERIES.3.tr     " tvg-name="TR: beIN Series 3" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/255/Image/bs03_205x150_logo_sub2022.png     " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 3
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298428
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/255/Image/bs03_205x150_logo_sub2022.png     " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 3
+#EXTINF:-1 tvg-id="  beIN.SERIES.3.tr    " tvg-name="TR: beIN Series 3" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/255/Image/bs03_205x150_logo_sub2022.png     " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 3
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/298428
 ---
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/263/Image/bs04_205x150_logo_sub2022.png    " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 4
+#EXTINF:-1 tvg-id="  beIN.SERIES.4.tr    " tvg-name="TR: beIN Series 4" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/263/Image/bs04_205x150_logo_sub2022.png    " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 4
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298430
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/263/Image/bs04_205x150_logo_sub2022.png    " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 4
+#EXTINF:-1 tvg-id="  beIN.SERIES.4.tr    " tvg-name="TR: beIN Series 4" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/263/Image/bs04_205x150_logo_sub2022.png    " tvg-id2="Mzk2NzI=" group-title="🇹🇷SINEMA",Series 4
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/298430
 
 ----------
