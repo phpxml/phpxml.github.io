@@ -30,12 +30,8 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 https://trthaber.blutv.com/blutv_trthaber_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="TÜRK",TRT MÜZİK ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="  TRT.Çocuk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/YjkMYbF/trtcocuk21a.png    " group-title="TÜRK",TRT ÇOCUK ᶠʰᵈ
-https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8 
-#EXTINF:-1 tvg-id=" Cartoon.Network.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png     " group-title="TÜRK",CN ᴴᴰ
-https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  BOOMERANG.HD.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png    " group-title="TÜRK",BOOMERANG ᴴᴰ
-https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+
+
 #EXTINF:-1 tvg-id="  TRT.TURK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="TÜRK",TRT TÜRK ᴴᴰ
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="  TRT.AVAZ.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="TÜRK",TRT AVAZ ᴴᴰ
@@ -272,7 +268,15 @@ http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/32589
 #EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="BELGESEL",VIASAT HISTORY ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/32589
 
+------
+ÇOCUK
 
+#EXTINF:-1 tvg-id="  TRT.Çocuk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/YjkMYbF/trtcocuk21a.png    " group-title="ÇOCUK",TRT ÇOCUK ᶠʰᵈ
+https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id=" Cartoon.Network.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png     " group-title="ÇOCUK",CN ᴴᴰ
+https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  BOOMERANG.HD.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png    " group-title="ÇOCUK",BOOMERANG ᴴᴰ
+https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 
 ------
 SPOR
