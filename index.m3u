@@ -426,9 +426,10 @@ EXTINF:-1 tvg-id="   TRT.SPOR.YILDIZ.tr   " tvg-name="TR  | TRT2 SPOR" tvg-logo=
 EXTINF:-1 tvg-id="   TRT.SPOR.YILDIZ.tr   " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
 
 #EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᴴᴰ
-https://trkvz.daioncdn.net/aspor/aspor.m3u8?ce=3&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&st=avzqLvwOvTn7QUagRMM78w&e=1690449742&dfp_paln=AQzzBGQEVw6_6RsdocYbBoltee1T7tn4vvafAEl60KUTH55hAztX0-shwtkpFamuzf379L9yTSVP2PCVD9e1lm9ZYTXyYmxDsy96RN0XQXWgGXMI_sVpV5Ws7ZUoIEZtG1sPb3Mc8_PbE4l726mO4JKqHbcfL3Aj9FSr48oYE0Q_sdplIyDhXZMiZlc7G9qLRmvrlPOhx7Z6E7owSWGvVm0MBg3jVEkfLLh1SD_K-iaN4Y5Dk3lwwc9Sm8YUIhOtKBpOe0kBO__jaylIZL0FJflFVoTyRAZvMrqKMNsakjV5XX5uPiRg1iG0PR4vh2pNRlgBTw-wVamPeLQXU3c9hArbxe12J4ANkzsGaGsVNMX5vgRwpSbyoYYcUxMoGo6YGKaD-RUyhmucyIX3F8_WIJkwaq8coqPmRM_FRFJGjBXxvRVSrhTiT2QgrhdOsyhh5HKmnIECwXkDEbFEi9eRpvyYEU9tV-CX4FIkoz5YqKtVw2Fxz6LWGBOp-UDInRT-h4KB-JYZJwgOiVLD1pXAdHVyrADaqBXXaSPGIbTUWxCaJhKatJqjm9akSIUjxkzg-T1pHKOK3K5CU_-cqHJuMwlT95PpxO8LE85GDafGXDR5xdVLbssl2cknGBCJphEOHgE_NZT2lP_sKVCdfSu2EzE-vMM4ppzFztXEMkwDZbV4A5iQLTQhpWYlfYeeKUffgvmtgp3h00OJmebDnkZ-ZSGiaWuickilRxTNY3IFnstFB0jNom232Yefke9sJLZ1u9cEsG-P4uQdtx_j1pI6cDiLc69h4rVYiOil_JzMoCpjAiRE28-48xdrOBIVBScy1gjCOKPsYqU4coWUkQ5cCBe34zdieDbo3NwCQGb4_8QiH4ocpB4PF7WM0c9SUm1YkTQISlBKpu5W51Yqv6UiL2UfGKpVV_2VAEdUHsw1bbm5PzLsixEsJ5_iC5FeFTvtB3QX9StJpxgBFUFwc9F1183LF5wCMpy3X_ACyjgq5vRiWY2hX5_mjKvVKLhyC3Fs6dp4SJbL7ysXv1bfE7TK6FS9MTAhHFyMoNpTpUtmTKs.
-#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᴴᴰ
-https://trkvz.daioncdn.net/aspor/aspor_720p.m3u8?e=1690449742&st=avzqLvwOvTn7QUagRMM78w&sid=5lhpk88mybiw&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
+https://pro35.canlitvplayer.com/nimplus3eu1.giniko.com/aspor/aspor/chunklist_w2040599191.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIzIDg6NDY6NDQgUE0maGFzaF92YWx1ZT1weEhlQmdTWlExQkJBQm5SMWJnKy9BPT0mdmFsaWRtaW51dGVzPTE0NDA=
+
+EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᴴᴰ
+
 #EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᴴᴰ
 https://pro35.canlitvplayer.com/nimplus3eu1.giniko.com/aspor/aspor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIzIDg6NDY6NDQgUE0maGFzaF92YWx1ZT1weEhlQmdTWlExQkJBQm5SMWJnKy9BPT0mdmFsaWRtaW51dGVzPTE0NDA=
 
@@ -443,7 +444,7 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6895/index.m3u8
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/518
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6898/index.m3u8
 
-EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140800
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140800
 EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
@@ -453,7 +454,7 @@ EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo=" 
 https://live.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+#EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
 https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 EXTINF:-1 tvg-id="  A.Spor.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20268
