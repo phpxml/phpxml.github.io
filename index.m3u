@@ -402,6 +402,18 @@ https://tvsms.club/tv.php?kanal=damar&file=.m3u8
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 
 ------
+
+S SPORT
+
+#EXTINF:-1 tvg-id="   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ssport-plus-.png/1600px-Ssport-plus-.png   " group-title="S SPORT",S SPORT+ 1 ʰᵈ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140785
+#EXTINF:-1 tvg-id="   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ssport-plus-.png/1600px-Ssport-plus-.png   " group-title="S SPORT",S SPORT+ 2 ʰᵈ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140786
+#EXTINF:-1 tvg-id="   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ssport-plus-.png/1600px-Ssport-plus-.png   " group-title="S SPORT",S SPORT+ 3 ʰᵈ
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140787
+
+------
+
 SPOR
 
 #EXTINF:-1 tvg-id="  Eurosport.1.HD.tr " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png  " group-title="SPOR",EUROSPORT 1 ᴴᴰ
