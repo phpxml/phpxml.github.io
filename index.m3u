@@ -275,23 +275,23 @@ https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 ------
 MÜZİK
 
-#EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="TÜRK",TRT Müzik 
+#EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="TÜRK",Tatlıses Tv 
+#EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
 https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8 
-#EXTINF:-1 tvg-id="    " tvg-language="Turkish" tvg-logo="     https://i.ibb.co/zhRwXbL/krpop.png   " group-title="TÜRK",Kral Pop TV 
+#EXTINF:-1 tvg-id="    " tvg-language="Turkish" tvg-logo="     https://i.ibb.co/zhRwXbL/krpop.png   " group-title="MÜZİK",Kral Pop TV 
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-language="Turkish" tvg-logo="    https://i.ibb.co/wSPFds2/nr1turk.png      " group-title="TÜRK",Number 1 Türk 
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-language="Turkish" tvg-logo="    https://i.ibb.co/wSPFds2/nr1turk.png      " group-title="MÜZİK",Number 1 Türk 
 https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="TÜRK",Number 1 Türk Damar 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MÜZİK",Number 1 Türk Damar 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-language="Turkish" tvg-logo="   https://i.ibb.co/B6N9KsN/powerturk22.png      " group-title="TÜRK",Power Türk 
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-language="Turkish" tvg-logo="   https://i.ibb.co/B6N9KsN/powerturk22.png      " group-title="MÜZİK",Power Türk 
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo=" https://1.bp.blogspot.com/-7EqKEiYowB0/XrD2cgUAc2I/AAAAAAAAYYk/W71ha0YZj_ECpsCqMMDx9zUDRyHaGsfBQCLcBGAsYHQ/s1600/05.png   " group-title="TÜRK",Slow Karadeniz TV
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo=" https://1.bp.blogspot.com/-7EqKEiYowB0/XrD2cgUAc2I/AAAAAAAAYYk/W71ha0YZj_ECpsCqMMDx9zUDRyHaGsfBQCLcBGAsYHQ/s1600/05.png   " group-title="MÜZİK",Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="TÜRK",DAMAR TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",DAMAR TV 
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="TÜRK",ARABESK TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",ARABESK TV 
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 
 ------
