@@ -871,9 +871,9 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/strea
 ----------
 ALMAN 2
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HD" tvg-logo="http://myserveriptv.com:2082/images/d56156f855ad9335b7e1ff36a9bb2ff3.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2",DE: Sixx HD
+#EXTINF:-1 tvg-id="  sixx.HD.de  " tvg-name="DE: Sixx HD" tvg-logo="http://myserveriptv.com:2082/images/d56156f855ad9335b7e1ff36a9bb2ff3.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2",DE: Sixx HD
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13955
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sony AXN HD" tvg-logo="http://myserveriptv.com:2082/images/9ceff310e0bb11409f86a0ea45517d96.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2",DE: Sony AXN HD
+#EXTINF:-1 tvg-id="  AXN.HD.de  " tvg-name="DE: Sony AXN HD" tvg-logo="http://myserveriptv.com:2082/images/9ceff310e0bb11409f86a0ea45517d96.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2",DE: Sony AXN HD
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/69568
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Gold HD" tvg-logo="http://myserveriptv.com:2082/images/c1a3a0519532c6363d2b31619c177296.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2",DE: Sat 1 Gold HD
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13975
