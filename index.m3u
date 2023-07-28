@@ -323,7 +323,35 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140777
 #EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png   " group-title="beIN SPOR",beIN connect 5 ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140778
 
+#EXTINF:-1 tvg-id=" beIN.SPORTS.HABER.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg?20180322151004    " group-title="beIN SPOR",beIN HABER ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7448
+#EXTINF:-1 tvg-id="  beIN.SPORTS.1.tr  " tvg-language="" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/193/Image/bein_sport1_205x150_2022.png    " group-title="beIN SPOR",beIN 1 ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1735
+#EXTINF:-1 tvg-id="  beIN.SPORTS.2.tr  " tvg-language="" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/310/Image/bein_sport2_205x150_2022.png    " group-title="beIN SPOR",beIN 2 ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1737
+#EXTINF:-1 tvg-id="  beIN.SPORTS.3.tr  " tvg-language="" tvg-logo="    https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png   " group-title="beIN SPOR",beIN 3 ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1739
+#EXTINF:-1 tvg-id="  beIN.SPORTS.4.tr  " tvg-language="" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/495/Image/bein_sport4_205x150_2022.png    " group-title="beIN SPOR",beIN 4 ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/7450
+#EXTINF:-1 tvg-id=" beIN.SPORTS.MAX.HD.1.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/1597px-Logo_bein_sports_max_1.png  " group-title="beIN SPOR",beIN max 1 ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8224
+#EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.HD.2.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/1600px-Logo_bein_sports_max_2.png   " group-title="beIN SPOR",beIN max 2 ᴴᴰ
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16878
 
+#EXTINF:-1 tvg-id=" beIN.SPORTS.HABER.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/9/9a/BeIN_SPORTS_Haber_HD.jpg?20180322151004    " group-title="beIN SPOR",beIN HABER ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/7448
+#EXTINF:-1 tvg-id="  beIN.SPORTS.1.tr  " tvg-language="" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/193/Image/bein_sport1_205x150_2022.png    " group-title="beIN SPOR",beIN 1 ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1735
+#EXTINF:-1 tvg-id="  beIN.SPORTS.2.tr  " tvg-language="" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/310/Image/bein_sport2_205x150_2022.png    " group-title="beIN SPOR",beIN 2 ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1737
+#EXTINF:-1 tvg-id="  beIN.SPORTS.3.tr  " tvg-language="" tvg-logo="    https://contentlibrary.digiturk.com.tr/Channel/312/Image/bein_sport3_205x150_2022.png   " group-title="beIN SPOR",beIN 3 ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1739
+#EXTINF:-1 tvg-id="  beIN.SPORTS.4.tr  " tvg-language="" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/495/Image/bein_sport4_205x150_2022.png    " group-title="beIN SPOR",beIN 4 ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/7450
+#EXTINF:-1 tvg-id=" beIN.SPORTS.MAX.HD.1.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_bein_sports_max_1.png/1597px-Logo_bein_sports_max_1.png  " group-title="beIN SPOR",beIN max 1 ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8224
+#EXTINF:-1 tvg-id="  beIN.SPORTS.MAX.HD.2.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/1600px-Logo_bein_sports_max_2.png   " group-title="beIN SPOR",beIN max 2 ᴴᴰ
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/16878
 
 ------
 ÇOCUK
