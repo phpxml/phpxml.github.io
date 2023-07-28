@@ -965,42 +965,44 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128141
 ------
 MAX KINO
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO HD" tvg-logo=" https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png   " group-title="MAX KINO", MAX KINO HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX KINO HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290248
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 2 HD" tvg-logo=" https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png   " group-title="MAX KINO", MAX KINO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 2 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX KINO 2 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290249
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 3 HD" tvg-logo="  https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png   " group-title="MAX KINO", MAX KINO 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 3 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX KINO 3 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290250
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 4 HD" tvg-logo="" group-title="MAX KINO", MAX KINO 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 4 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX KINO 4 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290251
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 5 HD" tvg-logo="" group-title="MAX KINO", MAX KINO 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 5 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX KINO 5 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290252
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO COLLECTION" tvg-logo="" group-title="MAX KINO", MAX KINO COLLECTION
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO COLLECTION" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX KINO COLLECTION
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290253
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere HD" tvg-logo="" group-title="MAX KINO", MAX Premiere HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX Premiere HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290263
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 1 HD" tvg-logo="" group-title="MAX KINO", MAX SELECT 1 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290254
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 2 HD" tvg-logo="" group-title="MAX KINO", MAX SELECT 2 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290255
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 3 HD" tvg-logo="" group-title="MAX KINO", MAX SELECT 3 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290256
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 4 HD" tvg-logo="" group-title="MAX KINO", MAX SELECT 4 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290257
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 5 HD" tvg-logo="" group-title="MAX KINO", MAX SELECT 5 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290258
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 6 HD" tvg-logo="" group-title="MAX KINO", MAX SELECT 6 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290259
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 7 HD" tvg-logo="" group-title="MAX KINO", MAX SELECT 7 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290260
-#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 1 4K" tvg-logo="" group-title="MAX KINO", Max Select 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 1 4K" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", Max Select 1 4K
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290264
-#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 2 4K" tvg-logo="" group-title="MAX KINO", Max Select 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 2 4K" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", Max Select 2 4K
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290265
-#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 3 4K" tvg-logo="" group-title="MAX KINO", Max Select 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 3 4K" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", Max Select 3 4K
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290266
-#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 4 4K" tvg-logo="" group-title="MAX KINO", Max Select 4 4K
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select 4 4K" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", Max Select 4 4K
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290267
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 1 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX SELECT 1 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290254
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 2 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX SELECT 2 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290255
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 3 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX SELECT 3 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290256
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 4 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX SELECT 4 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290257
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 5 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX SELECT 5 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290258
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 6 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX SELECT 6 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290259
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 7 HD" tvg-logo="https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png" group-title="MAX KINO", MAX SELECT 7 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290260
+
+
 
 
 
