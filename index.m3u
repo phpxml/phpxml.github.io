@@ -965,11 +965,11 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128141
 ------
 MAX KINO
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO HD" tvg-logo="" group-title="MAX KINO", MAX KINO HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO HD" tvg-logo=" https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png   " group-title="MAX KINO", MAX KINO HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290248
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 2 HD" tvg-logo="" group-title="MAX KINO", MAX KINO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 2 HD" tvg-logo=" https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png   " group-title="MAX KINO", MAX KINO 2 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290249
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 3 HD" tvg-logo="" group-title="MAX KINO", MAX KINO 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 3 HD" tvg-logo="  https://jute-center.de/wp-content/uploads/2022/03/Maxx_Logo.png   " group-title="MAX KINO", MAX KINO 3 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290250
 #EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 4 HD" tvg-logo="" group-title="MAX KINO", MAX KINO 4 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290251
