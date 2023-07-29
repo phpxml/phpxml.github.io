@@ -89,8 +89,11 @@ http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77485
 
 #EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",Beyaz TV ᴴᴰ
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8 
+#EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",Beyaz TV ᴴᴰ
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",360 ᴴᴰ
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",360 ᴴᴰ
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 -----
@@ -108,8 +111,12 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 
 #EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
+#EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="BELGESEL",DMAX ᴴᴰ
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8 
+#EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="BELGESEL",DMAX ᴴᴰ
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123964
@@ -626,6 +633,8 @@ MÜZİK
 
 #EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
 https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8 
 #EXTINF:-1 tvg-id="    " tvg-language="Turkish" tvg-logo="     https://i.ibb.co/zhRwXbL/krpop.png   " group-title="MÜZİK",Kral Pop TV 
