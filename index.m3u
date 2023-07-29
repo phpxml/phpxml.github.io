@@ -1020,40 +1020,69 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/290260
 SKY
 
 #EXTINF:-1 tvg-id="  Sky.1.HD.de    " tvg-name="Sky One FHD DE" tvg-logo="" group-title="SKY",Sky One
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2115
+#EXTINF:-1 tvg-id="  Sky.1.HD.de    " tvg-name="Sky One FHD DE" tvg-logo="" group-title="SKY",Sky One
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128114
+#EXTINF:-1 tvg-id="   Sky.Action.HD.de    " tvg-name="Sky Cinema Action FHD DE" tvg-logo="" group-title="SKY",Sky Action
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1659
 #EXTINF:-1 tvg-id="   Sky.Action.HD.de    " tvg-name="Sky Cinema Action FHD DE" tvg-logo="" group-title="SKY",Sky Action
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128090
 #EXTINF:-1 tvg-id="  Sky.Action.HD.de   " tvg-name="Sky Cinema Action HD DE" tvg-logo="" group-title="SKY",Sky Action
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128091
 #EXTINF:-1 tvg-id="  Sky.Atlantic.HD.de   " tvg-name="Sky Atlantic FHD DE" tvg-logo="" group-title="SKY",Sky Atlantic
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1661
+#EXTINF:-1 tvg-id="  Sky.Atlantic.HD.de   " tvg-name="Sky Atlantic FHD DE" tvg-logo="" group-title="SKY",Sky Atlantic
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128109
 #EXTINF:-1 tvg-id="   Sky.Atlantic.HD.de   " tvg-name="Sky Atlantic HD DE" tvg-logo="" group-title="SKY",Sky Atlantic
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128110
-#EXTINF:-1 tvg-id="   Sky.Cinema.HD.de   " tvg-name="Sky Cinema Special FHD DE" tvg-logo="" group-title="SKY",Sky Special
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128092
-#EXTINF:-1 tvg-id="    Sky.Cinema.HD.de   " tvg-name="Sky Cinema Special HD DE" tvg-logo="" group-title="SKY",Sky Special
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128093
+#EXTINF:-1 tvg-id="   Sky.Bundesliga.HD.1.de   " tvg-name="" tvg-logo="" group-title="SKY",Sky Bundesliga 1
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298592
+#EXTINF:-1 tvg-id="   Sky.Bundesliga.HD.2.de   " tvg-name="" tvg-logo="" group-title="SKY",Sky Bundesliga 2
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4493
+#EXTINF:-1 tvg-id="   Sky.Bundesliga.HD.3.de   " tvg-name="" tvg-logo="" group-title="SKY",Sky Bundesliga 3
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2135
+#EXTINF:-1 tvg-id="   Sky.Bundesliga.HD.4.de   " tvg-name="" tvg-logo="" group-title="SKY",Sky Bundesliga 4
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/3513
+#EXTINF:-1 tvg-id="   Sky.Cinema.+1.HD.de   " tvg-name="Sky Cinema Special FHD DE" tvg-logo="" group-title="SKY",Sky Cinema +1
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1660
+#EXTINF:-1 tvg-id="    Sky.Cinema.+24.HD.de    " tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="" group-title="SKY",Sky +24
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4458
 #EXTINF:-1 tvg-id="    Sky.Cinema.+24.HD.de    " tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="" group-title="SKY",Sky +24
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128097
 #EXTINF:-1 tvg-id="  Sky.Cinema.+24.HD.de    " tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="" group-title="SKY",Sky +24
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128098
 #EXTINF:-1 tvg-id="   Sky.Cinema.Family.HD.de  " tvg-name="Sky Cinema Family FHD DE" tvg-logo="" group-title="SKY",Sky Family
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2118
+#EXTINF:-1 tvg-id="   Sky.Cinema.Family.HD.de  " tvg-name="Sky Cinema Family FHD DE" tvg-logo="" group-title="SKY",Sky Family
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128103
 #EXTINF:-1 tvg-id="   Sky.Cinema.Family.HD.de  " tvg-name="Sky Cinema Family HD DE" tvg-logo="" group-title="SKY",Sky Family
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128104
+#EXTINF:-1 tvg-id="   Sky.Cinema.HD.de   " tvg-name="Sky Cinema Special FHD DE" tvg-logo="" group-title="SKY",Sky Cinema
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/291082
+#EXTINF:-1 tvg-id="   Sky.Cinema.HD.de   " tvg-name="Sky Cinema Special FHD DE" tvg-logo="" group-title="SKY",Sky Special
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128092
+#EXTINF:-1 tvg-id="    Sky.Cinema.HD.de   " tvg-name="Sky Cinema Special HD DE" tvg-logo="" group-title="SKY",Sky Special
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128093
+#EXTINF:-1 tvg-id="    Sky.Comedy.de   " tvg-name="Sky Cinema Comedy HD VIP DE" tvg-logo="" group-title="SKY",Sky Comedy
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/291082
 #EXTINF:-1 tvg-id="    Sky.Comedy.de   " tvg-name="Sky Cinema Comedy HD VIP DE" tvg-logo="" group-title="SKY",Sky Comedy
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128107
-#EXTINF:-1 tvg-id="   Sky.Nostalgie.de   " tvg-name="Sky Cinema Classics HD DE" tvg-logo="" group-title="SKY",Sky Classics
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128105
-#EXTINF:-1 tvg-id="   Sky.Nostalgie.de    " tvg-name="Sky Cinema Classics DE" tvg-logo="" group-title="SKY",Sky Classics DE
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128106
+#EXTINF:-1 tvg-id=" Sky.Hits.HD.de     " tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="" group-title="SKY",Sky Hits
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281886
 #EXTINF:-1 tvg-id="   Sky.Cinema.+1.HD.de   " tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="" group-title="SKY",Sky Hits
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128101
 #EXTINF:-1 tvg-id="   Sky.Cinema.+1.HD.de    " tvg-name="Sky Cinema Best Of HD DE" tvg-logo="" group-title="SKY",Sky Hits
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128102
 #EXTINF:-1 tvg-id="   Sky.Krimi.de    " tvg-name="Sky Krimi VIP HD DE" tvg-logo="" group-title="SKY",Sky Krimi
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2122
+#EXTINF:-1 tvg-id="   Sky.Krimi.de    " tvg-name="Sky Krimi VIP HD DE" tvg-logo="" group-title="SKY",Sky Krimi
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128108
-
+#EXTINF:-1 tvg-id="   Sky.Nostalgie.de   " tvg-name="Sky Cinema Classics HD DE" tvg-logo="" group-title="SKY",Sky Nostalgie
+http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2116
+#EXTINF:-1 tvg-id="   Sky.Nostalgie.de   " tvg-name="Sky Cinema Classics HD DE" tvg-logo="" group-title="SKY",Sky Nostalgie
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128105
+#EXTINF:-1 tvg-id="   Sky.Nostalgie.de    " tvg-name="Sky Cinema Classics DE" tvg-logo="" group-title="SKY",Sky Nostalgie
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128106
 
 
 
