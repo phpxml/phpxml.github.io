@@ -115,6 +115,8 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",Discovery Science TR VPN ᴴᴰ
 http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/5693
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",Discovery Science TR VPN ᴴᴰ
+http://sysadminhost.net:8080/Streamteam5723/257KBV6fXGrQMKLV/5693
 
 #EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
