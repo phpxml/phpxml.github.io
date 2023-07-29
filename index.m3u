@@ -113,6 +113,9 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 #EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="BELGESEL",Investigation Discovery ᴴᴰ
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_2.m3u8
 
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",Discovery Science TR VPN ᴴᴰ
+http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/5693
+
 #EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
 #EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
