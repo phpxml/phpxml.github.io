@@ -243,10 +243,6 @@ http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110456
 http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110457
 #EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|TR| ANIMAUX HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/animaux.png" group-title="BELGESEL 2",ANIMAUX HD
 http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110461
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="|TR| TGRT BELGESEL HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tgrt_belgesel.png" group-title="BELGESEL 2",TGRT BELGESEL HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110462
-#EXTINF:-1 tvg-id="    TRT.Belgesel.HD.tr     " tvg-name="|TR| TRT BELGESEL HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" group-title="BELGESEL 2",TRT BELGESEL HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110463
 
 ------
 
@@ -565,6 +561,19 @@ http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110275
 #EXTINF:-1 tvg-id="" tvg-name="|TR| HÜLYA KOÇYİĞİT TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/sltv_yesilcam1.png" group-title="FİLM",HÜLYA KOÇYİĞİT
 http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110276
 
+------
+FUCHS SPORTS
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FUCHS SPORTS 1 FHD (Mac Zamani)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/fuchs_sports.png" group-title="FUCHS SPORTS",FUCHS SPORTS 1 FHD (Mac Zamani)
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/167612
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FUCHS SPORTS 2 FHD (Mac Zamani)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/fuchs_sports.png" group-title="FUCHS SPORTS",FUCHS SPORTS 2 FHD (Mac Zamani)
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/167613
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FUCHS SPORTS 3 FHD (Mac Zamani)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/fuchs_sports.png" group-title="FUCHS SPORTS",FUCHS SPORTS 3 FHD (Mac Zamani)
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/167614
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FUCHS SPORTS 4 FHD (Mac Zamani)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/fuchs_sports.png" group-title="FUCHS SPORTS",FUCHS SPORTS 4 FHD (Mac Zamani)
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/167615
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FUCHS SPORTS 5 FHD (Mac Zamani)" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/fuchs_sports.png" group-title="FUCHS SPORTS",FUCHS SPORTS 5 FHD (Mac Zamani)
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/167616
 
 ------
 HABER
