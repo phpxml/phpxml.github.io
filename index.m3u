@@ -106,6 +106,80 @@ https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",360 ᴴᴰ
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
+---------
+#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-name="|TR| TRT 1 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="ULUSAL",TRT 1 HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109951
+#EXTINF:-1 tvg-id="  TRT.1.HD.tr     " tvg-name="|TR| TRT 1 FHD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="ULUSAL",,TRT 1 FHD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/136463
+#EXTINF:-1 tvg-id="  TRT.2.HD.tr    " tvg-name="|TR| TRT 2 HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_2.png" group-title="ULUSAL",TRT 2 HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109952
+#EXTINF:-1 tvg-id="    TRT.TURK.tr  " tvg-name="|TR| TRT TÜRK HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/trt_turk.png" group-title="ULUSAL",TRT TÜRK HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109953
+#EXTINF:-1 tvg-id="    ATV.tr   " tvg-name="|TR| ATV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/ATVHD.png" group-title="ULUSAL",ATV HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/118979
+#EXTINF:-1 tvg-id="   ATV.tr     " tvg-name="|TR| ATV FHD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/ATVHD.png" group-title="ULUSAL",ATV FHD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/136457
+#EXTINF:-1 tvg-id="         " tvg-name="|TR| ATV AVRUPA HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/atv_avrupa.png" group-title="ULUSAL",ATV AVRUPA HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109955
+#EXTINF:-1 tvg-id="   Show.TV.HD.tr      " tvg-name="|TR| SHOW TV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/show.png" group-title="ULUSAL",SHOW TV HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109956
+#EXTINF:-1 tvg-id="    Show.TV.HD.tr     " tvg-name="|TR| SHOW TV FHD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/show.png" group-title="ULUSAL",SHOW TV FHD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/136462
+#EXTINF:-1 tvg-id="         " tvg-name="|TR| SHOW TÜRK HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/show_turk.png" group-title="ULUSAL",SHOW TÜRK HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109957
+#EXTINF:-1 tvg-id="    Kanal.D.HD.tr      " tvg-name="|TR| KANAL D HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/kanald.png" group-title="ULUSAL",KANAL D HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109958
+#EXTINF:-1 tvg-id="   Kanal.D.HD.tr       " tvg-name="|TR| KANAL D FHD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/kanald.png" group-title="ULUSAL",KANAL D FHD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/136461
+#EXTINF:-1 tvg-id="          " tvg-name="|TR| EURO D HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/KANALDEUROPA.png" group-title="ULUSAL", EURO D HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109959
+#EXTINF:-1 tvg-id="     Star.TV.HD.tr     " tvg-name="|TR| STAR TV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/star.png" group-title="ULUSAL",STAR TV HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109960
+#EXTINF:-1 tvg-id="   Star.TV.HD.tr       " tvg-name="|TR| STAR TV FHD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/star.png" group-title="ULUSAL",STAR TV FHD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/136460
+#EXTINF:-1 tvg-id="           " tvg-name="|TR| EURO STAR HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/eurostar.png" group-title="ULUSAL",EURO STAR HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109961
+#EXTINF:-1 tvg-id="     FOX.HD.tr      " tvg-name="|TR| FOX TV  HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/FOX.png" group-title="ULUSAL",FOX TV  HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109962
+#EXTINF:-1 tvg-id="     FOX.HD.tr      " tvg-name="|TR| FOX TV FHD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/FOX.png" group-title="ULUSAL",FOX TV FHD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/136459
+#EXTINF:-1 tvg-id="     BEYAZ.TV.HD.tr      " tvg-name="|TR| BEYAZ TV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/beyaz.png" group-title="ULUSAL",BEYAZ TV HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109963
+#EXTINF:-1 tvg-id="    TV8.HD.tr       " tvg-name="|TR| TV 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ULUSAL",TV 8 HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109964
+#EXTINF:-1 tvg-id="     TV8.HD.tr      " tvg-name="|TR| TV 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ULUSAL",TV 8 FHD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/136458
+#EXTINF:-1 tvg-id="      TV.8,5.tr      " tvg-name="|TR| TV 8.5 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/TV8.5HD.png" group-title="ULUSAL",TV 8.5 HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109965
+#EXTINF:-1 tvg-id="    360.HD.tr         " tvg-name="|TR| 360 TV" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/360.png" group-title="ULUSAL",360 TV
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109966
+#EXTINF:-1 tvg-id="      KANAL.7.HD.tr      " tvg-name="|TR| KANAL 7 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/KANAL7.png" group-title="ULUSAL",KANAL 7 HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109967
+#EXTINF:-1 tvg-id="     A2.HD.tr      " tvg-name="|TR| A2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/A2HDPLUS.png" group-title="ULUSAL",A2 HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109968
+#EXTINF:-1 tvg-id="     Teve2.HD.tr      " tvg-name="|TR| TEVE 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/teve2.png" group-title="ULUSAL",TEVE 2 HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/109969
+
+#EXTINF:-1 tvg-id="     TRT.1.HD.tr     " tvg-name="|TR| TRT 1 HEVC" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="ULUSAL",TRT 1 HEVC
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/155201
+#EXTINF:-1 tvg-id="    ATV.HD.tr      " tvg-name="|TR| ATV HEVC" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/ATVHD.png" group-title="ULUSAL",ATV HEVC
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/155202
+#EXTINF:-1 tvg-id="    Star.TV.HD.tr     " tvg-name="|TR| STAR TV HEVC" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/star.png" group-title="ULUSAL",STAR TV HEVC
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/155203
+#EXTINF:-1 tvg-id="    Show.TV.HD.tr      " tvg-name="|TR| SHOW TV HEVC" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/show.png" group-title="ULUSAL",SHOW TV HEVC
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/155204
+#EXTINF:-1 tvg-id="     Kanal.D.HD.tr      " tvg-name="|TR| KANAL D HEVC" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/kanald.png" group-title="ULUSAL",KANAL D HEVC
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/155205
+#EXTINF:-1 tvg-id="     FOX.HD.tr      " tvg-name="|TR| FOX TV HEVC" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/TURKIYE/FOX.png" group-title="ULUSAL",FOX TV HEVC
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/155206
+#EXTINF:-1 tvg-id="     TV8.HD.tr       " tvg-name="|TR| TV 8 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="ULUSAL",TV 8 HEVC
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/155207
+
+#EXTINF:-1 tvg-id="   TRT.SPOR.HD.tr    " tvg-name="|TR| TRT SPOR HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/trt_spor.png" group-title="ULUSAL",TRT SPOR HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110501
+#EXTINF:-1 tvg-id="   A.Spor.HD.tr     " tvg-name="|TR| A Spor HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/a_spor.png" group-title="ULUSAL",A Spor HD
+http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110504
+
 -----
 BELGESEL
 
