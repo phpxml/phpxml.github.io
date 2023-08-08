@@ -834,6 +834,15 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-language="" tvg-logo="  https://i.ibb.co/4Rm7Z6Z/sports22.png " group-title="SPOR",Sports TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8 
 
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259371
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259372
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277910
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371856
+
 #EXTINF:-1 tvg-id="   TRT.SPOR.HD.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140798
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140798
@@ -848,15 +857,6 @@ http://premiumiptvmk.com:8080/kodicologne/48e237edd2/528
 http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110501
 #EXTINF:-1 tvg-id="   TRT.3.-.TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT3 SPOR Sᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20189
-
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259371
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259372
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277910
-#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371856
 
 EXTINF:-1 tvg-id="   TRT.SPOR.YILDIZ.tr   " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
 EXTINF:-1 tvg-id="   TRT.SPOR.YILDIZ.tr   " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
