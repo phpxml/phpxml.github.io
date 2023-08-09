@@ -703,6 +703,8 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371849
 RADYO
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
 https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac 
+#EXTINF:-1 tvg-logo="   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHWdsiYiZj9_LZRHS6Aac6gVqfxcr7Z02xpmmrMiCz3spPz1P-iv46-eHm3oJsTx8Pf9DwXwRNaWad9qzIpTqGoax_9T08h-ij3jkv0yob6yN5l8EAUFqqA-fitKZ-w21TYvMkpUg4MnUY6wCi2mU8fV1D2f-uOq3gUOCSdV2GmZkoK52w6OkNQIAtbg/s1600/turkuaz.jpeg  " group-title="RADYO",radyo TURKUVAZ
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8
 #EXTINF:-1 tvg-logo="  https://cdn.onlineradiobox.com/img/l/6/111526.v1.png    " group-title="RADYO",radyo Arabesk 
 https://yayin.radyoarabesk.com.tr:8000/stream
 #EXTINF:-1 tvg-logo=" https://cdn-radiotime-logos.tunein.com/s120272g.png   " group-title="RADYO", baba radyo 
@@ -723,6 +725,8 @@ https://host.onlineradyotv.net:2020/stream/adanafm
 https://live.radyositesihazir.com:10997/;stream.nsv
 #EXTINF:-1 tvg-logo="  https://www.radyoseymen.com.tr/wp-content/uploads/2021/09/radyoseymen1a.png   " group-title="RADYO", radyo SEYMEN 
 https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 tvg-logo="  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPsam6pn0mWsm-ozXUXcsT6gc7lEc7qdqWf9hgHez5eNLO2vJiWMi9P7PSaijZbTE4-JbePeI3dYnpvJx3SHCTPYdls2330a7GZpHapg6tbLsyZ1wyBau82zcza3iLZdtAxF7cYolTWpYzK6QTbs0NGkOdRU91dA6hdQi7MmGvyJ8uf_qSZbvBbcte_Q/s1600/r44.jpg   " group-title="RADYO", radyo 44
+https://radyo44.80.yayin.com.tr/stream
 #EXTINF:-1 tvg-logo="  https://cdn.onlineradiobox.com/img/l/0/75080.v6.png    " group-title="RADYO",Radio KARADENİZ 
 https://22673.live.streamtheworld.com:443/SC005_SO1AAC.aac
 #EXTINF:-1 tvg-logo="  https://2.bp.blogspot.com/-M-MKSjbUK2c/XrD15uPaRbI/AAAAAAAAYYc/401TdlCB3gQMH6n6aQTFyEhXTvHTtaj8QCLcBGAsYHQ/s1600/02.png    " group-title="RADYO",SLOW KARADENİZ FM 
