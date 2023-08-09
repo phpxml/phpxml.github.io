@@ -733,6 +733,11 @@ https://22673.live.streamtheworld.com:443/SC005_SO1AAC.aac
 https://ssl162.ozelip.com/asistan/stream/fd02a93f231cba7593e027682f8fcad5
 #EXTINF:-1 tvg-logo="   https://www.canliradyodinle.fm/wp-content/uploads/bordo-mavi-radyo.jpg   " group-title="RADYO",RADYO BORDO MAVİ
 https://ip169.ozelip.com:10975/;
+#EXTINF:-1 tvg-logo="  https://canliradyo-dinle.com/wp-content/uploads/2021/10/Slow-Turk-dinle.png   " group-title="RADYO", Slow TÜRK 
+https://radyo.duhnet.tv/slowturk?/;stream.mp3/;stream.mp3
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg    " group-title="RADYO", SHOW radyo 
+https://showradyo.radyotvonline.net/hls/chunks_BRpBpIhX.m3u8
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/440px-TRT_FM_logo.svg.png   " group-title="RADYO", TRT FM 
 https://nmicenotrt.mediatriple.net/trt_fm.aac 
 #EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_Radyo_1_logo.svg/440px-TRT_Radyo_1_logo.svg.png  " group-title="RADYO", TRT RADYO 1
@@ -745,10 +750,10 @@ https://stream2.rtvtakip.com:7000/stream?icy=http
 https://22183.live.streamtheworld.com/JOY_TURKAAC.aac?ttag=vehicle&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=a5b71526-3fb9-41d1-bd9c-0b938d3520d8 
 #EXTINF:-0 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/b/bf/Alem_fm.jpg/220px-Alem_fm.jpg " group-title="RADYO", Alem Fm 
 https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg  " group-title="RADYO", SHOW RADYO
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg  " group-title="RADYO",show RADYO
 https://showradyo.radyotvonline.net/showradyoaac
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/a/a4/Radyo-viva.png    " group-title="RADYO", radyo VİVA 
-https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
+https://radyoviva.radyotvonline.net/radyovivaaac
 #EXTINF:-1 tvg-logo="  https://canliradyo-dinle.com/wp-content/uploads/2021/11/Radyo-45-%E2%80%98lik-dinle.jpg   " group-title="RADYO", radyo 45'lik 
 https://stream.radyo45lik.com:4545/stream
 #EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/3/3c/Radyo_Pop_logosu.jpg/150px-Radyo_Pop_logosu.jpg  " group-title="RADYO", POP 90 
@@ -773,12 +778,6 @@ http://46.20.3.251/stream/169/
 https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8?listeningSessionID=6284dc8229808b37_438308_iQ98jYQM__00000008m7E&downloadSessionID=0  
 #EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/3/30/Radyo7logo.png/200px-Radyo7logo.png    " group-title="RADYO", radyo 7 SANAT 
 https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/d/d5/Cnnturkradyo.jpg/220px-Cnnturkradyo.jpg    " group-title="RADYO", CNN TURK
-https://radyo.duhnet.tv/ak_dtvh_cnnturk?/
-#EXTINF:-1 tvg-logo="  https://canliradyo-dinle.com/wp-content/uploads/2021/10/Slow-Turk-dinle.png   " group-title="RADYO", Slow TÜRK 
-https://radyo.duhnet.tv/slowturk?/;stream.mp3/;stream.mp3
-#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg    " group-title="RADYO", SHOW radyo 
-https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title="RADYO", NTV radyo 
 https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
 #EXTINF:-1 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title="RADYO", NTV SPOR 
