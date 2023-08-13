@@ -160,7 +160,7 @@ https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   ",Discovery Science ᴴᴰ -1
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123964
-EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   ",Discovery Science ᴴᴰ -2
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   ",Discovery Science ᴴᴰ -2
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/123964
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   ",Discovery Science ᴴᴰ -3
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5693
@@ -180,6 +180,10 @@ http://104.244.73.237:8080/veliyadirgi/mL9aDE3BTkvZ/59943
 http://104.244.73.237:8080/veliyadirgi/mL9aDE3BTkvZ/126
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",Discovery Science ᴴᴰ -11
 http://iptvch.com:2082/Yakup1235/barhanneiptv/77304
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",Discovery Science ᴴᴰ -12
+http://dk.tgt6373.online:8080/gr3503/gr00/123964
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",Discovery Science ᴴᴰ -13
+http://dk.tgt6373.online:8080/dvrm3265/dvrm.1924/123964
 ---
 #EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/8238
