@@ -126,13 +126,28 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8 
 #EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="BELGESEL",Investigation Discovery ᴴᴰ
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_2.m3u8
+---
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ -bh
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259820
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/374328
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/371884
 
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259820
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371884
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/374328
+
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://rasayvip.ddns.me:8080/23452345776684/3566244578635/259820
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://rasayvip.ddns.me:8080/23452345776684/3566244578635/371884
+EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+http://rasayvip.ddns.me:8080/23452345776684/3566244578635/374328
+---
 
 #EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
@@ -143,7 +158,7 @@ https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="BELGESEL",DMAX ᴴᴰ
 https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
+#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ -dk
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123964
 #EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/123964
@@ -169,20 +184,7 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123961
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8238
 #EXTINF:-1 tvg-id="  BBC.EARTH.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6855/index.m3u8
----
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://rasayvip.ddns.me:8080/23452345776684/3566244578635/259820
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://rasayvip.ddns.me:8080/23452345776684/3566244578635/371884
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://rasayvip.ddns.me:8080/23452345776684/3566244578635/374328
 
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259820
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/374328
-#EXTINF:-1 tvg-id="  Discovery.Science.HD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png   "   ,Discovery Science ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/371884
 ---
 #EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="BELGESEL",BEIN GURME ᴴᴰ
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6804/index.m3u8
@@ -223,38 +225,6 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/123972
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/32589
 #EXTINF:-1 tvg-id="" tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="BELGESEL",VIASAT HISTORY ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/32589
-
-------
-BELGESEL 2
-
-#EXTINF:-1 tvg-id="   National.Geographic.HD.tr   " tvg-name="|TR| NATIONAL GEO HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/national_geo.png" group-title="BELGESEL 2",NATIONAL GEO HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110432
-#EXTINF:-1 tvg-id="    Nat.Geo.Wild.HD.tr   " tvg-name="|TR| NATIONAL GEO WILD HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" group-title="BELGESEL 2",NATIONAL GEO WILD HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110433
-#EXTINF:-1 tvg-id="    Discovery.Channel.HD.tr   " tvg-name="|TR| DISCOVERY CHANNEL HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/discovery_channel.png" group-title="BELGESEL 2",DISCOVERY CHANNEL HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110434
-#EXTINF:-1 tvg-id="        " tvg-name="|TR| DISCOVERY IDX HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/discovery_idx.png" group-title="BELGESEL 2",DISCOVERY IDX HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110435
-#EXTINF:-1 tvg-id="    Discovery.Science.HD.tr    " tvg-name="|TR| DISCOVERY SCIENCE HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/discovery_science.png" group-title="BELGESEL 2",DISCOVERY SCIENCE HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110436
-#EXTINF:-1 tvg-id="   BBC.EARTH.HD.tr     " tvg-name="|TR| BBC EARTH HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/bbc_earth.png" group-title="BELGESEL 2",BBC EARTH HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110449
-#EXTINF:-1 tvg-id="      " tvg-name="|TR| OUTDOOR HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/Outdoor.png" group-title="BELGESEL 2",OUTDOOR HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110450
-#EXTINF:-1 tvg-id="         " tvg-name="|TR| HISTORY HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/history_channel.png" group-title="BELGESEL 2",HISTORY HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110452
-#EXTINF:-1 tvg-id="       " tvg-name="|TR| TARIM TURK HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tarim_turk.png" group-title="BELGESEL 2",TARIM TURK HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110453
-#EXTINF:-1 tvg-id="       " tvg-name="|TR| 24 KITCHEN TV HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/24kitchen.png" group-title="BELGESEL 2",24 KITCHEN TV HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110454
-#EXTINF:-1 tvg-id="    DMAX.HD.tr    " tvg-name="|TR| DMAX HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/dmax.png" group-title="BELGESEL 2",DMAX HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110455
-#EXTINF:-1 tvg-id="  Yaban.TV.tr     " tvg-name="|TR| YABAN TV HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/yaban_tv.png" group-title="BELGESEL 2",YABAN TV HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110456
-#EXTINF:-1 tvg-id="    TLC.HD.tr     " tvg-name="|TR| TLC TV HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/tlc.png" group-title="BELGESEL 2",TLC TV HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110457
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|TR| ANIMAUX HD" tvg-logo="https://profesyonel-tv-logo.cf/tv-tum-dunya-logolar/turkeyT/animaux.png" group-title="BELGESEL 2",ANIMAUX HD
-http://mac-keyf-3.pw:8080/gUbA68nWqG/PQkfGEAwHJ/110461
 
 ------
 
