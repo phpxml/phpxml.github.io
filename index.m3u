@@ -449,6 +449,7 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_1080p3500000kbps/index.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live_1080p3500000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  Flash.Haber.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="HABER",FLASH HABER ᴴᴰ
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8 
 #EXTINF:-1 tvg-id=" sözcü " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png     " group-title="HABER",SZC ᴴᴰ
 https://mn-nl.mncdn.com/blutv_szctv/live_720p2000000kbps/index.m3u8
