@@ -28,11 +28,11 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77344
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6884/index.m3u8
 http://167.114.115.233:8080/trt2fhd/index.m3u8 
-#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="TÜRK",TRT MÜZİK ᴴᴰ
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="TÜRK",ᴴᴰ
 https://mn-nl.mncdn.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="  TRT.TURK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="TÜRK",TRT TÜRK ᴴᴰ
+#EXTINF:-1 tvg-id="  TRT.TURK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="TÜRK",ᴴᴰ
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="  TRT.AVAZ.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="TÜRK",TRT AVAZ ᴴᴰ
+#EXTINF:-1 tvg-id="  TRT.AVAZ.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="TÜRK",ᴴᴰ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",ᴴᴰ
@@ -40,85 +40,85 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="TÜRK",FOX ᴴᴰ
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 
-EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",SHOW ᴴᴰ
+EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",ᴴᴰ
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="TÜRK",ᴴᴰ
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="TÜRK",SHOW TÜRK ᴴᴰ
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="TÜRK",ᴴᴰ
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
-EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
+EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",ᴴᴰ
 https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
 https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
+#EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",ᴴᴰ
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
-EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",STAR ᴴᴰ
+EXTINF:-1 tvg-id="   Star.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="TÜRK",ᴴᴰ
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-EXTINF:-1 tvg-id="EuroStar.tr" tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="TÜRK",EURO STAR
+EXTINF:-1 tvg-id="EuroStar.tr" tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="TÜRK",ᴴᴰ
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1628000.m3u8?st=M-hw0a5S4TfuD2_MbGttZg&e=1689980006
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8 
 
-EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
+EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",ᴴᴰ
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
-#EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",KANAL D ᶠʰᵈ
+#EXTINF:-1 tvg-id="  Kanal.D.HD.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",ᴴᴰ
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="TÜRK",EURO D 
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="TÜRK",ᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="  KANAL.7.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="TÜRK",KANAL 7 ᴴᴰ
+#EXTINF:-1 tvg-id="  KANAL.7.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="TÜRK",ᴴᴰ
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="TÜRK",KANAL 7 Avrupa 
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="TÜRK",ᴴᴰ
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
 
-EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv Sᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20182
-#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113428
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140727
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140727
-EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
-#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/113560
-#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/521
 
 
-EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140726
-EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",atv ᴴᴰ
+EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/521
 
-EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",TV8 ᴴᴰ
+EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",TV8 ᴴᴰ
+#EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
-EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",TV8 Sᴰ
+EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20176
-EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",TV8 ᴴᴰ
+EXTINF:-1 tvg-id="TV8.HD.tr" tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77485
 
-EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",Beyaz TV ᴴᴰ
+EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",ᴴᴰ
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8 
-#EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",Beyaz TV ᴴᴰ
+#EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",ᴴᴰ
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",360 ᴴᴰ
+#EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",ᴴᴰ
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8 
-EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",360 ᴴᴰ
+EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="TÜRK",ᴴᴰ
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",Akıllı TV ᴴᴰ
+#EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/16809
-#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",Akıllı TV ᴴᴰ
+#EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16809
 
 -----
