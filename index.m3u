@@ -19,10 +19,10 @@ EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
-#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="TÜRK",TRT 2 ᴴᴰ
+#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="TÜRK",ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/635
 https://mn-nl.mncdn.com/blutv_trt2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",TRT 2 ᶠʰᵈ
+#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",ᴴᴰ
 http://dk.tgt6373.online:8080/dvrm3265/dvrm.1924/140725
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77344
