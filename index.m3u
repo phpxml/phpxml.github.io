@@ -376,29 +376,45 @@ http://premiumiptvmk.com:8080/kodicologne/48e237edd2/298430
 
 #EXTINF:-1 tvg-id="  TRT.Çocuk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/YjkMYbF/trtcocuk21a.png    " group-title="ÇOCUK",TRT ÇOCUK ᶠʰᵈ
 https://trtcocuk.blutv.com/blutv_trtcocuk_2/smil:trtcocuk.smil/chunklist_b3128000.m3u8
-https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8 
+ 
 #EXTINF:-1 tvg-id=" Cartoon.Network.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png     " group-title="ÇOCUK",CN ᴴᴰ
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-id="  BOOMERANG.HD.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png    " group-title="ÇOCUK",BOOMERANG ᴴᴰ
 https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
+
 #EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ÇOCUK",KIKA ᴴᴰ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
+#EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ÇOCUK",KIKA ᴴᴰ
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275849
 
-#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ÇOCUK" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
+EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ÇOCUK" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
 https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name="DE: Boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Boomerang
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/15877
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260061
+#EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name="DE: Boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Boomerang
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96449
+
 #EXTINF:-1 tvg-id="   Cartoon.Network.de   " tvg-name="DE: Cartoon Network" tvg-logo="http://myserveriptv.com:2082/images/8384404719f745b303e5c2d0b292f6fa.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Cartoon Network
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/15879
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260062
+#EXTINF:-1 tvg-id="   Cartoon.Network.de   " tvg-name="DE: Cartoon Network" tvg-logo="http://myserveriptv.com:2082/images/8384404719f745b303e5c2d0b292f6fa.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Cartoon Network
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96450
+
 #EXTINF:-1 tvg-id="  Disney.Channel.HD.de    " tvg-name="DE: Disney Channel HD" tvg-logo="http://myserveriptv.com:2082/images/f240a4a08ef4d49a9b643168779d8491.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Disney Channel HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/15881
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96364
+#EXTINF:-1 tvg-id="  Disney.Channel.HD.de    " tvg-name="DE: Disney Channel HD" tvg-logo="http://myserveriptv.com:2082/images/f240a4a08ef4d49a9b643168779d8491.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Disney Channel HD
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96451
+
 #EXTINF:-1 tvg-id="  SUPER.RTL.HD.de  " tvg-name="DE: Super RTL HD" tvg-logo="http://myserveriptv.com:2082/images/d64baab004530fff74f8bc011ec14719.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Super RTL HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13954
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96459
+#EXTINF:-1 tvg-id="  SUPER.RTL.HD.de  " tvg-name="DE: Super RTL HD" tvg-logo="http://myserveriptv.com:2082/images/d64baab004530fff74f8bc011ec14719.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Super RTL HD
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96365
+
 #EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE: Toggo Plus" tvg-logo="http://myserveriptv.com:2082/images/e543febb169a01bbd47ed9811471cefd.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Toggo Plus
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/69720
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96460
+#EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE: Toggo Plus" tvg-logo="http://myserveriptv.com:2082/images/e543febb169a01bbd47ed9811471cefd.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Toggo Plus
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275820
 
 ------
 FİLM
