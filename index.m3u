@@ -118,10 +118,50 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8 
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
+#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/160629
+#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="TÜRK",TRT 4K
+http://germanydnsx15.com:8080/muratkms/28092019/89002
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1810
 
-#EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",ᴴᴰ
+#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="TÜRK",FX ᴴᴰ
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92392
+http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
+#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="TÜRK",FX ᴴᴰ
+http://germanydnsx15.com:8080/muratkms/28092019/89206
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/580
+
+#EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371816
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371840
+#EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="TÜRK"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
+http://germanydnsx15.com:8080/muratkms/28092019/89813
+http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20267
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/523
+
+#EXTINF:-1 tvg-id="   Teve2.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="TÜRK",Teve2 ᴴᴰ
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="  blutv play1   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="TÜRK",blutv|play 1 ᴴᴰ
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  blutv play2   " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="TÜRK",blutv|play 2 ᴴᴰ
+https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
+
+#EXTINF:-1 tvg-logo="  https://yerelmedya.tv/logosTV/denizpostasitv.png   " group-title="TÜRK",DENiZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="TÜRK",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6U0FimhNMRWumIIiBOgbuQw9cDfaiLcS7c5c9ZBQ&s       " group-title="TÜRK",tivi TÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8 
+
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="TÜRK",TV4 ᴴᴰ
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/16809
-#EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",ᴴᴰ
+EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="TÜRK",ᴴᴰ
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16809
 
 -----
@@ -442,50 +482,6 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96365
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96460
 #EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE: Toggo Plus" tvg-logo="http://myserveriptv.com:2082/images/e543febb169a01bbd47ed9811471cefd.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Toggo Plus
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275820
-
-------
-FİLM
-#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="FİLM",TRT 4K
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/160629
-#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="FİLM",TRT 4K
-http://germanydnsx15.com:8080/muratkms/28092019/89002
-http://premiumiptvmk.com:8080/kodicologne/48e237edd2/1810
-
-#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="FİLM",FX ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92392
-http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
-#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="FİLM",FX ᴴᴰ
-http://germanydnsx15.com:8080/muratkms/28092019/89206
-http://premiumiptvmk.com:8080/kodicologne/48e237edd2/580
-
-
-#EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="FİLM"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371816
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371840
-#EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="FİLM"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
-http://germanydnsx15.com:8080/muratkms/28092019/89813
-http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20267
-http://premiumiptvmk.com:8080/kodicologne/48e237edd2/523
-
-#EXTINF:-1 tvg-id="   Teve2.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="FİLM",Teve2 ᴴᴰ
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-
-#EXTINF:-1 tvg-id="  blutv play1   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="FİLM",blutv|play 1 ᴴᴰ
-https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  blutv play2   " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="FİLM",blutv|play 2 ᴴᴰ
-https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
-
-#EXTINF:-1 tvg-logo="  https://yerelmedya.tv/logosTV/denizpostasitv.png   " group-title="FİLM",DENiZ POSTASI
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="FİLM",TIVI 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6U0FimhNMRWumIIiBOgbuQw9cDfaiLcS7c5c9ZBQ&s       " group-title="FİLM",tivi TÜRK 
-https://stream.tiviturk.de/live/tiviturk.m3u8 
-
-#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="FİLM",TV4 ᴴᴰ
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 ------
 HABER
