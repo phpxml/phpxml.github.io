@@ -17,10 +17,10 @@ EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/
 https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
-#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="TÜRK",ᴴᴰ
+#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="TÜRK",ᴴᴰ
 https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id=" TRT.2.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",ᴴᴰ
+#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="TÜRK",ᴴᴰ
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/635
