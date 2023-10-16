@@ -680,15 +680,19 @@ https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 SPOR
 
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://premiumiptvmk.com:8080/kodicologne/48e237edd2/528
+http://elaiptv.xyz:8080/hf60388T300016102021/G626yLNX849M/49437
 #EXTINF:-1 tvg-id="   TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://dk.tgt6373.online:8080/dvrm3265/dvrm.1924/140798
+http://elaiptv.xyz:8080/hf60388T300016102021/G626yLNX849M/49438
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://dk.tgt6373.online:8080/dvrm3265/dvrm.1924/140799
-#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://dk.tgt6373.online:8080/gr3503/gr00/140798
-#EXTINF:-1 tvg-id="   TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://dk.tgt6373.online:8080/gr3503/gr00/140799
+http://elaiptv.xyz:8080/hf60388T300016102021/G626yLNX849M/61833
+
+#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+http://elaiptv.xyz:8080/hf60388T300016102021/G626yLNX849M/49439
+
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://elaiptv.xyz:8080/hf60388T300016102021/G626yLNX849M/49435
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://elaiptv.xyz:8080/hf60388T300016102021/G626yLNX849M/49436
 
 #EXTINF:-1 tvg-id="  Eurosport.tr " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png  " group-title="SPOR",EUROSPORT 1 ᴴᴰ
 https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
