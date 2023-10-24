@@ -72,7 +72,7 @@ EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.c
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 tvg-id="  Kanal.D.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="TÜRK",ᴴᴰ
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="TÜRK",ᴴᴰ
+EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="TÜRK",ᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -90,6 +90,7 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113427
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/113560
 #EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371812
+
 http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20182
 http://trs.mh89tv.xyz:80/tv2204/tvlnk2204/140727
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140727
@@ -98,22 +99,16 @@ http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/521
 EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/521
 
-
 EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140726
 EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="TÜRK"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
 http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/521
 
-EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
+#EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-
-EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
-http://pro-solut-xi.eu:5436/@muhammad_ashan/Tekegram@muhammad.ashan/20176
-EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="TÜRK",ᴴᴰ
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77485
 
 #EXTINF:-1 tvg-id="  Beyaz.TV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="TÜRK",ᴴᴰ
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -178,8 +173,6 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259820
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371884
 #EXTINF:-1 tvg-id=" Discovery.Science.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/374328
-#EXTINF:-1 tvg-id="  Discovery.Science.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
-http://germanydnsx15.com:8080/muratkms/28092019/89181
 
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="BELGESEL",TRT BELGESEL ᴴᴰ
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
