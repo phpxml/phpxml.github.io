@@ -855,31 +855,70 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275804
 
 SKY KABEL
 
-#EXTINF:-1 tvg-id="one.de" tvg-name="DE-Kabel: Sky One HD" tvg-logo="https://imagizer.imageshack.com/img924/9848/aROccN.png" group-title="SKY KABEL",DE-Kabel: Sky One HD
+#EXTINF:-1 tvg-id="Sky.1.HD.de" tvg-name="DE-Kabel: Sky One HD" tvg-logo="https://imagizer.imageshack.com/img924/9848/aROccN.png" group-title="SKY KABEL",DE-Kabel: Sky One HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260113
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE-Kabel: Sky Atlantic HD" tvg-logo="https://imagizer.imageshack.com/img923/499/T71oF4.png" group-title="SKY KABEL",DE-Kabel: Sky Atlantic HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260114
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE-Kabel: Sky Cinema Action HD" tvg-logo="https://imagizer.imageshack.com/img924/9805/urezrr.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Action HD
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.de" tvg-name="DE-Kabel: Sky Cinema Action HD" tvg-logo="https://imagizer.imageshack.com/img924/9805/urezrr.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Action HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260115
-#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="DE-Kabel: Sky Cinema Best Of HD" tvg-logo="https://imagizer.imageshack.com/img922/8403/nROfS7.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Best Of HD
+#EXTINF:-1 tvg-id="Sky.Action.HD.de" tvg-name="DE-Kabel: Sky Cinema Action HD" tvg-logo="https://imagizer.imageshack.com/img924/9805/urezrr.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Action HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96333
+
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.de" tvg-name="DE-Kabel: Sky Atlantic HD" tvg-logo="https://imagizer.imageshack.com/img923/499/T71oF4.png" group-title="SKY KABEL",DE-Kabel: Sky Atlantic HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260114
+
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Best.Of.de" tvg-name="DE-Kabel: Sky Cinema Best Of HD" tvg-logo="https://imagizer.imageshack.com/img922/8403/nROfS7.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Best Of HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260116
-#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE-Kabel: Sky Cinema Classics FHD" tvg-logo="https://imagizer.imageshack.com/img923/1408/oxlVTJ.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Classics FHD
+#EXTINF:-1 tvg-id="Sky.Cinema.Best.Of.de" tvg-name="DE-Kabel: Sky Cinema Best Of HD" tvg-logo="https://imagizer.imageshack.com/img922/8403/nROfS7.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Best Of HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96334
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="DE-Kabel: Sky Cinema Classics FHD" tvg-logo="https://imagizer.imageshack.com/img923/1408/oxlVTJ.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Classics FHD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260117
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE-Kabel: Sky Cinema Family HD" tvg-logo="https://imagizer.imageshack.com/img924/7443/d5ER0G.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Family HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260118
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE-Kabel: Sky Cinema Fun HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.FUN.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Fun HD
+#EXTINF:-1 tvg-id="Sky.Cinema.Fun.de" tvg-name="DE-Kabel: Sky Cinema Fun HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.FUN.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Fun HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260119
-#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE-Kabel: Sky Cinema Thriller HD" tvg-logo="https://imagizer.imageshack.com/img922/9243/TwKdOI.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Thriller HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260120
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE-Kabel: Sky Cinema Premieren HD" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260121
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE-Kabel: Sky Cinema Premieren +24" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren +24
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.+24.de" tvg-name="DE-Kabel: Sky Cinema Premieren +24" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren +24
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260122
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE-Kabel: Sky Cinema Special HD" tvg-logo="https://imagizer.imageshack.com/img924/9248/Em2mOD.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Special HD
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.+24.de" tvg-name="DE-Kabel: Sky Cinema Premieren +24" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren +24
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96336
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="DE-Kabel: Sky Cinema Premieren HD" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260121
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="DE-Kabel: Sky Cinema Premieren HD" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96337
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Special.HD.de" tvg-name="DE-Kabel: Sky Cinema Special HD" tvg-logo="https://imagizer.imageshack.com/img924/9248/Em2mOD.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Special HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260123
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Showcase FHD" tvg-logo="https://imagizer.imageshack.com/img923/6505/oTG6DJ.png" group-title="SKY KABEL",DE: Sky Showcase FHD
+#EXTINF:-1 tvg-id="Sky.Cinema.Special.HD.de" tvg-name="DE-Kabel: Sky Cinema Special HD" tvg-logo="https://imagizer.imageshack.com/img924/9248/Em2mOD.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Special HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96338
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Thriller.HD.de" tvg-name="DE-Kabel: Sky Cinema Thriller HD" tvg-logo="https://imagizer.imageshack.com/img922/9243/TwKdOI.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Thriller HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260120
+#EXTINF:-1 tvg-id="Sky.Cinema.Thriller.HD.de" tvg-name="DE-Kabel: Sky Cinema Thriller HD" tvg-logo="https://imagizer.imageshack.com/img922/9243/TwKdOI.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Thriller HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96339
+
+#EXTINF:-1 tvg-id="Sky.Comedy.de" tvg-name="DE: Sky Comedy HEVC" tvg-logo="https://imagizer.imageshack.com/img923/2510/KqmnF4.png" group-title="SKY KABEL",DE: Sky Comedy HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96341
+#EXTINF:-1 tvg-id="Sky.Comedy.de" tvg-name="DE: Sky Comedy HEVC" tvg-logo="https://imagizer.imageshack.com/img923/2510/KqmnF4.png" group-title="SKY KABEL",DE: Sky Comedy HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96341
+
+#EXTINF:-1 tvg-id="Sky.Crime.de" tvg-name="DE: Sky Crime HEVC" tvg-logo="https://imagizer.imageshack.com/img923/7706/ADO7nY.png" group-title="SKY KABEL",DE: Sky Crime HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96340
+
+#EXTINF:-1 tvg-id="Sky.Family.de" tvg-name="DE-Kabel: Sky Cinema Family HD" tvg-logo="https://imagizer.imageshack.com/img924/7443/d5ER0G.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Family HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260118
+#EXTINF:-1 tvg-id="Sky.Family.de" tvg-name="DE-Kabel: Sky Cinema Family HD" tvg-logo="https://imagizer.imageshack.com/img924/7443/d5ER0G.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Family HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96335
+
+#EXTINF:-1 tvg-id="Sky.Krimi.de" tvg-name="DE: Sky Krimi HD+" tvg-logo="https://imagizer.imageshack.com/img923/3974/gLHiCf.png" group-title="SKY KABEL",DE: Sky Krimi HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/249299
+#EXTINF:-1 tvg-id="Sky.Nature.de" tvg-name="DE-Kabel: Sky Nature HD" tvg-logo="https://imagizer.imageshack.com/img922/173/BXwbUf.png" group-title="SKY KABEL",DE-Kabel: Sky Nature HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260086
+#EXTINF:-1 tvg-id="sky.replay.de" tvg-name="DE-Kabel: Sky Replay HD (Fox)" tvg-logo="https://imagizer.imageshack.com/img922/4922/QFH6oR.png" group-title="SKY KABEL",DE-Kabel: Sky Replay HD (Fox)
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260092
+#EXTINF:-1 tvg-id="sky.showcase.de" tvg-name="DE: Sky Showcase FHD" tvg-logo="https://imagizer.imageshack.com/img923/6505/oTG6DJ.png" group-title="SKY KABEL",DE: Sky Showcase FHD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/352543
-#EXTINF:-1 tvg-id="" tvg-name="Sky Showcase HD" tvg-logo="https://imagizer.imageshack.com/img923/6505/oTG6DJ.png" group-title="SKY KABEL",Sky Showcase HD
+#EXTINF:-1 tvg-id="" tvg-name="sky.showcase.de" tvg-logo="https://imagizer.imageshack.com/img923/6505/oTG6DJ.png" group-title="SKY KABEL",Sky Showcase HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/352544
 
 SKY SELECT
