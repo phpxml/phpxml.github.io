@@ -704,7 +704,8 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96362
 
 #EXTINF:-1 tvg-id="  kabel.eins.HD.de   " tvg-name="DE: Kabel Eins HD" tvg-logo="http://myserveriptv.com:2082/images/8589677e9b794693efc00d0c0c5983df.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins HD
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260057
-EXTINF:-1 tvg-id="  kabel.eins.HD.de   " tvg-name="DE: Kabel Eins HD" tvg-logo="http://myserveriptv.com:2082/images/8589677e9b794693efc00d0c0c5983df.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins HD
+#EXTINF:-1 tvg-id="  kabel.eins.HD.de   " tvg-name="DE: Kabel Eins HD" tvg-logo="http://myserveriptv.com:2082/images/8589677e9b794693efc00d0c0c5983df.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96412
 
 #EXTINF:-1 tvg-id=" Heimatkanal.de   " tvg-name="DE: Heimat Kanal" tvg-logo="http://myserveriptv.com:2082/images/9ff91ec32a5bbbd0d1f038e8acd578b5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Heimat Kanal
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96439
@@ -736,6 +737,9 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260110
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249312
 
 #EXTINF:-1 tvg-id="   ONE.HD.de   " tvg-name="DE: One HD" tvg-logo="http://myserveriptv.com:2082/images/d79fbcf3a30220433a0e855992303f3c.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", One HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96380
+#EXTINF:-1 tvg-id="   ONE.HD.de   " tvg-name="DE: One HD" tvg-logo="http://myserveriptv.com:2082/images/d79fbcf3a30220433a0e855992303f3c.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", One HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260113
 
 #EXTINF:-1 tvg-id="  Kinowelt.TV.de   " tvg-name="DE: Kinowelt TV" tvg-logo="http://myserveriptv.com:2082/images/91ddf381153232fac523454fa849015e.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kinowelt TV
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249313
@@ -748,12 +752,12 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260101
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260102
 
 #EXTINF:-1 tvg-id=" Classica.de     " tvg-name="DE: Classica" tvg-logo="http://myserveriptv.com:2082/images/00b019e31a9a263c549b89630cd6146b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Classica
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96436
+http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275846
 #EXTINF:-1 tvg-id=" Classica.de     " tvg-name="DE: Classica" tvg-logo="http://myserveriptv.com:2082/images/00b019e31a9a263c549b89630cd6146b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Classica
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275846
 
 #EXTINF:-1 tvg-id="   Comedy.Central.HD.de   " tvg-name="DE: Comedy Central HD" tvg-logo="http://myserveriptv.com:2082/images/d85df652c2f313b2e66b5489e59774b0.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Comedy Central HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/16507
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260070
 
 #EXTINF:-1 tvg-id="   DELUXE.MUSIC.HD.de   " tvg-name="DE: Deluxe Müzik: HD" tvg-logo="http://myserveriptv.com:2082/images/76d814db4dcbdc0e322f3db4855ce139.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Deluxe Müzik: HD
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96367
@@ -761,62 +765,153 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96367
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96525
 
 #EXTINF:-1 tvg-id="   Discovery.Channel.HD.de  " tvg-name="DE: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Discovery Channel
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13935
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96354
+
 #EXTINF:-1 tvg-id="  DMAX.HD.de    " tvg-name="DE: DMax HD" tvg-logo="http://myserveriptv.com:2082/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", DMax HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13953
-#EXTINF:-1 tvg-id="   Fox.HD.de    " tvg-name="DE: Fox HD" tvg-logo="http://myserveriptv.com:2082/images/68c7baa5e7f979c4e8806dc871e98929.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Fox HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13928
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96358
+
+EXTINF:-1 tvg-id="   Fox.HD.de    " tvg-name="DE: Fox HD" tvg-logo="http://myserveriptv.com:2082/images/68c7baa5e7f979c4e8806dc871e98929.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Fox HD
+
 #EXTINF:-1 tvg-id="  HISTORY.HD.de   " tvg-name="DE: History HD" tvg-logo="http://myserveriptv.com:2082/images/65b50b04a6af50bb2f174db30a8c6dad.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", History HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13978
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96357
+
 #EXTINF:-1 tvg-id="  MTV.HD.de   " tvg-name="DE: MTV Alman:" tvg-logo="http://myserveriptv.com:2082/images/b49882eae96bb41a7fa1feb6aa7acc18.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", MTV Alman:
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/69703
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96369
+
 #EXTINF:-1 tvg-id="  n-tv.HD.de   " tvg-name="DE: N-TV HD" tvg-logo="http://myserveriptv.com:2082/images/10c94beea26a866094637c7e0d794673.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", N-TV HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/14019
-#EXTINF:-1 tvg-id="  N24.Doku.de  " tvg-name="DE: N24 Doku" tvg-logo="http://myserveriptv.com:2082/images/f147f795819bb6de5db87a79700dc3d5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", N24 Doku
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/44728
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96361
+
+EXTINF:-1 tvg-id="  N24.Doku.de  " tvg-name="DE: N24 Doku" tvg-logo="http://myserveriptv.com:2082/images/f147f795819bb6de5db87a79700dc3d5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", N24 Doku
+
 #EXTINF:-1 tvg-id="  Nat.Geo.HD.de   " tvg-name="DE: National Geographic" tvg-logo="http://myserveriptv.com:2082/images/f91c676cbee8fc9aa708334fcf26d981.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", National Geographic
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/16514
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96356
 #EXTINF:-1 tvg-id="  Nat.Geo.Wild.HD.de   " tvg-name="DE: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Nat Geo Wild
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13949
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96355
+
 
 #EXTINF:-1 tvg-id="   ProSieben.Fun.HD.de  " tvg-name="DE: Pro7 Fun HD" tvg-logo="http://myserveriptv.com:2082/images/887ae385e9e4839719ea21f26ce62763.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Pro7 Fun HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/16518
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96389
 #EXTINF:-1 tvg-id="  ProSieben.HD.de   " tvg-name="DE: ProSieben HD" tvg-logo="http://myserveriptv.com:2082/images/d47c316e92c6c31c4501dee2be260c5f.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", ProSieben HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/106983
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96383
 #EXTINF:-1 tvg-id="   ProSieben.MAXX.HD.de  " tvg-name="DE: Pro7 Maxx HD" tvg-logo="http://myserveriptv.com:2082/images/456ee978aa497e533fcb584253b91fc5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Pro7 Maxx HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13959
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96386
 
 #EXTINF:-1 tvg-id="   Romance.TV.de  " tvg-name="DE: Romance" tvg-logo="http://myserveriptv.com:2082/images/081fc8e8bd39e1dc72ca3f5a5fdf6697.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Romance
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13965
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260098
+#EXTINF:-1 tvg-id="   Romance.TV.de  " tvg-name="DE: Romance" tvg-logo="http://myserveriptv.com:2082/images/081fc8e8bd39e1dc72ca3f5a5fdf6697.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Romance
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260099
+
+#EXTINF:-1 tvg-id="  RTL.HD.de   " tvg-name="DE: RTL HD" tvg-logo="http://myserveriptv.com:2082/images/ae32688de6c25f78870d58e6caa81dea.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96391
+#EXTINF:-1 tvg-id="  RTL.HD.de   " tvg-name="DE: RTL HD" tvg-logo="http://myserveriptv.com:2082/images/ae32688de6c25f78870d58e6caa81dea.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96392
+
+#EXTINF:-1 tvg-id="  RTL.II.HD.de    " tvg-name="DE: RTL Zwei" tvg-logo="http://myserveriptv.com:2082/images/63ffe7c9891bcdd728270239a0e984f4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Zwei
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96394
+#EXTINF:-1 tvg-id="  RTL.II.HD.de    " tvg-name="DE: RTL Zwei" tvg-logo="http://myserveriptv.com:2082/images/63ffe7c9891bcdd728270239a0e984f4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Zwei
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96395
 
 #EXTINF:-1 tvg-id="  RTL.Crime.HD.de  " tvg-name="DE: RTL Crime HD" tvg-logo="http://myserveriptv.com:2082/images/3abefa32ba573eabb52eea70fd63cb7f.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Crime HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13993
-#EXTINF:-1 tvg-id="  RTL.HD.de   " tvg-name="DE: RTL HD" tvg-logo="http://myserveriptv.com:2082/images/ae32688de6c25f78870d58e6caa81dea.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13942
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260095
+#EXTINF:-1 tvg-id="  RTL.Crime.HD.de  " tvg-name="DE: RTL Crime HD" tvg-logo="http://myserveriptv.com:2082/images/3abefa32ba573eabb52eea70fd63cb7f.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Crime HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275811
+
 #EXTINF:-1 tvg-id="  RTL.Living.de   " tvg-name="DE: RTL Living HD" tvg-logo="http://myserveriptv.com:2082/images/767eee04d1adcd5aa88802d721cf8433.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Living HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13960
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275813
+#EXTINF:-1 tvg-id="  RTL.Living.de   " tvg-name="DE: RTL Living HD" tvg-logo="http://myserveriptv.com:2082/images/767eee04d1adcd5aa88802d721cf8433.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Living HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260096
+
 #EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE: RTL Nitro HD" tvg-logo="http://myserveriptv.com:2082/images/85a0f1e495fbe22315c45587aac2f0a4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Nitro HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/106987
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275814
+#EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE: RTL Nitro HD" tvg-logo="http://myserveriptv.com:2082/images/85a0f1e495fbe22315c45587aac2f0a4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Nitro HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96326
+
 #EXTINF:-1 tvg-id="     " tvg-name="DE: RTL Passion HD" tvg-logo="http://myserveriptv.com:2082/images/2e5956f5be1e4054c4f50f36a62b2449.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Passion HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13958
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275812
+#EXTINF:-1 tvg-id="     " tvg-name="DE: RTL Passion HD" tvg-logo="http://myserveriptv.com:2082/images/2e5956f5be1e4054c4f50f36a62b2449.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Passion HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275807
+
 #EXTINF:-1 tvg-id="      " tvg-name="DE: RTL Up HD" tvg-logo="http://myserveriptv.com:2082/images/1d439188ce5729677da3455b3b218321.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Up HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/67447
-#EXTINF:-1 tvg-id="  RTL.II.HD.de    " tvg-name="DE: RTL Zwei" tvg-logo="http://myserveriptv.com:2082/images/63ffe7c9891bcdd728270239a0e984f4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Zwei
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/191696
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/233864
+
 
 #EXTINF:-1 tvg-id="  SAT.1.emotions.de   " tvg-name="DE: Sat 1 Emotions" tvg-logo="http://myserveriptv.com:2082/images/6787e46ec953ce371df68eb8cac8db68.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sat 1 Emotions
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/67448
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275828
+
 #EXTINF:-1 tvg-id="   SAT.1.HD.de   " tvg-name="DE: Sat 1 HD" tvg-logo="http://myserveriptv.com:2082/images/7111e091e19431700db0f96331686c12.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sat 1 HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13956
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260052
 
 #EXTINF:-1 tvg-id="   TELE.5.HD.de   " tvg-name="DE: Tele 5 HD" tvg-logo="http://myserveriptv.com:2082/images/06c60aa1a810aefd575bf267a6333882.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Tele 5 HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13989
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96446
 #EXTINF:-1 tvg-id="  TLC.HD.de    " tvg-name="DE: TLC HD" tvg-logo="http://myserveriptv.com:2082/images/8b37002b896dfc27a7e7cf1c347d4215.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", TLC HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13994
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96331
 #EXTINF:-1 tvg-id="  VOX.HD.de   " tvg-name="DE: VOX HD" tvg-logo="http://myserveriptv.com:2082/images/ccda5ae0852a58ca19ec280be9db8ee5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", VOX HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/13945
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260045
 #EXTINF:-1 tvg-id="    " tvg-name="DE: VOX Up" tvg-logo="http://myserveriptv.com:2082/images/148e82cc29c838159166337f3d9f0946.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", VOX Up
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/98400
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275804
+
+--------
+
+
+SKY KABEL
+
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE-Kabel: Sky One HD" tvg-logo="https://imagizer.imageshack.com/img924/9848/aROccN.png" group-title="SKY KABEL",DE-Kabel: Sky One HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260113
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE-Kabel: Sky Atlantic HD" tvg-logo="https://imagizer.imageshack.com/img923/499/T71oF4.png" group-title="SKY KABEL",DE-Kabel: Sky Atlantic HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260114
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE-Kabel: Sky Cinema Action HD" tvg-logo="https://imagizer.imageshack.com/img924/9805/urezrr.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Action HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260115
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="DE-Kabel: Sky Cinema Best Of HD" tvg-logo="https://imagizer.imageshack.com/img922/8403/nROfS7.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Best Of HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260116
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE-Kabel: Sky Cinema Classics FHD" tvg-logo="https://imagizer.imageshack.com/img923/1408/oxlVTJ.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Classics FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260117
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE-Kabel: Sky Cinema Family HD" tvg-logo="https://imagizer.imageshack.com/img924/7443/d5ER0G.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Family HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260118
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE-Kabel: Sky Cinema Fun HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/ENTERTAINMENT/HD/SKY.CINEMA.FUN.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Fun HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260119
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE-Kabel: Sky Cinema Thriller HD" tvg-logo="https://imagizer.imageshack.com/img922/9243/TwKdOI.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Thriller HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260120
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE-Kabel: Sky Cinema Premieren HD" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260121
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE-Kabel: Sky Cinema Premieren +24" tvg-logo="https://imagizer.imageshack.com/img923/9136/VXwtrs.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Premieren +24
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260122
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE-Kabel: Sky Cinema Special HD" tvg-logo="https://imagizer.imageshack.com/img924/9248/Em2mOD.png" group-title="SKY KABEL",DE-Kabel: Sky Cinema Special HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260123
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Showcase FHD" tvg-logo="https://imagizer.imageshack.com/img923/6505/oTG6DJ.png" group-title="SKY KABEL",DE: Sky Showcase FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/352543
+#EXTINF:-1 tvg-id="" tvg-name="Sky Showcase HD" tvg-logo="https://imagizer.imageshack.com/img923/6505/oTG6DJ.png" group-title="SKY KABEL",Sky Showcase HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/352544
+
+SKY SELECT
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select Programmübersicht" tvg-logo="http://89.163.242.179:8080/images/3cd0c72ba5be1292eec3d657b3409f52.png" group-title="SKY KABEL",DE: Sky Select Programmübersicht
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357094
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 1 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357095
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 2 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357096
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 3 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357097
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 4 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357098
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 5 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357099
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 6 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357100
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 7 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357101
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 8 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357102
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 9 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357103
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 10 HD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="SKY KABEL",DE: Sky Select 10 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/357104
+-----------
+
+
+
+
+
 
 ----------
 
