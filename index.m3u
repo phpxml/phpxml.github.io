@@ -8,7 +8,8 @@ ULUSAL
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",ᴴᴰ
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",ᴴᴰ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",hevcᴴᴰ
+http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154045
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113425
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113425
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
@@ -35,6 +36,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",ᴴᴰ
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154049
 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",hevcᴴᴰ
 http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154050
@@ -43,7 +45,7 @@ http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154046
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",hevcᴴᴰ
 http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154048
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",hevcᴴᴰ
-http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/766
+http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154049
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",hevcᴴᴰ
 http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154047
 
@@ -178,6 +180,11 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259820
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371884
 #EXTINF:-1 tvg-id=" Discovery.Science.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/374328
+
+#EXTINF:-1 tvg-id=" Discovery.Science.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
+http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/612
+#EXTINF:-1 tvg-id=" Discovery.Science.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
+http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/172330
 
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="BELGESEL",TRT BELGESEL ᴴᴰ
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
