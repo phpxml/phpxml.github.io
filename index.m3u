@@ -32,6 +32,13 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="  TRT.Avaz.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",ᴴᴰ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
+#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
+https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b4128000.m3u8
+#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
+https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b2064000.m3u8
+#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
+https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b1314000.m3u8
+
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",ᴴᴰ
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",ᴴᴰ
