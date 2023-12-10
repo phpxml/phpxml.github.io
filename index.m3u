@@ -8,6 +8,8 @@ ULUSAL
 
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",ᶠʰᵈ
+http://41k.space:8080/tarzanbaba/10032022tbb/216394
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",ᶠʰᵈ
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",ᴴᴰ
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
@@ -25,6 +27,8 @@ https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
+#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136447
 
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",ᴴᴰ
 https://trtmuzik.blutv.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
@@ -46,27 +50,11 @@ https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smi
 https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b1314000.m3u8
 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136425
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",ᴴᴰ
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",ᴴᴰ
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
-http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154049
-
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",hevcᴴᴰ
-http://41k.space:8080/tarzanbaba/10032022tbb/136425
-http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154050
-#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",hevcᴴᴰ
-http://41k.space:8080/tarzanbaba/10032022tbb/136419
-http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154046
-#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",hevcᴴᴰ
-http://41k.space:8080/tarzanbaba/10032022tbb/136421
-http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154048
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",hevcᴴᴰ
-http://41k.space:8080/tarzanbaba/10032022tbb/136422
-http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154049
-#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",hevcᴴᴰ
-http://41k.space:8080/tarzanbaba/10032022tbb/136427
-http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/154047
-
 
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",ᴴᴰ
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
@@ -78,8 +66,8 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",ᶠʰᵈ
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",ᶠʰᵈ
-http://41k.space:8080/tarzanbaba/10032022tbb/136420
 http://41k.space:8080/tarzanbaba/10032022tbb/136421
+http://41k.space:8080/tarzanbaba/10032022tbb/136420
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393158
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113449
 
@@ -99,6 +87,7 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113430
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136422
 https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 
@@ -114,6 +103,8 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/393159
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393159
 #EXTINF:-1 tvg-id="  Kanal.D.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",ᴴᴰ
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="  Kanal.D.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136427
 
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113438
@@ -128,6 +119,7 @@ https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
 
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136419
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113428
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113427
 http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/113560
@@ -452,8 +444,10 @@ https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 SPOR
 
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136578
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259371
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136577
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371856
 #EXTINF:-1 tvg-id="   TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259371
@@ -464,8 +458,10 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277910
 
 
 #EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136580
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277912
 #EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136579
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371861
 #EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259373
@@ -473,8 +469,10 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259373
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259374
 
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136581
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277913
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136582
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371826
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371849
@@ -491,6 +489,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="  Sports.Tv.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Rm7Z6Z/sports22.png " group-title="SPOR",Sports TV
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136437
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
+http://41k.space:8080/tarzanbaba/10032022tbb/136436
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371839
 #EXTINF:-1 tvg-id="  TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
@@ -1845,8 +1847,100 @@ http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/149091
 http://tv.uhdizle.com:8080/Ismailtame/3ACQyEa1gP/149093
 
 
+beIN SPOR
+
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS HABER HD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS HABER HD
+http://41k.space:8080/tarzanbaba/10032022tbb/136523
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1 SD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1 SD
+http://41k.space:8080/tarzanbaba/10032022tbb/216321
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1000K" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1000K
+http://41k.space:8080/tarzanbaba/10032022tbb/216322
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1800K" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1800K
+http://41k.space:8080/tarzanbaba/10032022tbb/216323
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1 HD (720P)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1 HD (720P)
+http://41k.space:8080/tarzanbaba/10032022tbb/216324
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1 HD (1080P)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1 HD (1080P)
+http://41k.space:8080/tarzanbaba/10032022tbb/216325
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1 UHD (1080P)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1 UHD (1080P)
+http://41k.space:8080/tarzanbaba/10032022tbb/216326
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1 FEED" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1 FEED
+http://41k.space:8080/tarzanbaba/10032022tbb/216327
+#EXTINF:-1 tvg-id="" tvg-name="l TR l BEINSPORTS 1 4K" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="beIN SPOR",l TR l BEINSPORTS 1 4K
+http://41k.space:8080/tarzanbaba/10032022tbb/216328
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 2 SD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 2 SD
+http://41k.space:8080/tarzanbaba/10032022tbb/136531
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 2 HD (720P)" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 2 HD (720P)
+http://41k.space:8080/tarzanbaba/10032022tbb/136532
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 2 FEED YAYIN  TRANSCODE" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 2 FEED YAYIN  TRANSCODE
+http://41k.space:8080/tarzanbaba/10032022tbb/136534
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 2 UHD &UYDU ALMANYA&" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 2 UHD &UYDU ALMANYA&
+http://41k.space:8080/tarzanbaba/10032022tbb/136533
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 3 HD (720P)" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 3 HD (720P)
+http://41k.space:8080/tarzanbaba/10032022tbb/136535
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 3 UHD  &UYDU ALMANYA&" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 3 UHD  &UYDU ALMANYA&
+http://41k.space:8080/tarzanbaba/10032022tbb/136536
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 4 HD (720P)" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 4 HD (720P)
+http://41k.space:8080/tarzanbaba/10032022tbb/136537
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 4 UHD  &UYDU ALMANYA&" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 4 UHD  &UYDU ALMANYA&
+http://41k.space:8080/tarzanbaba/10032022tbb/136538
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 5 SD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 5 SD
+http://41k.space:8080/tarzanbaba/10032022tbb/136539
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 5 HD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 5 HD
+http://41k.space:8080/tarzanbaba/10032022tbb/136540
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS 5 UHD" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS 5 UHD
+http://41k.space:8080/tarzanbaba/10032022tbb/136541
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS MAX HD 1 (720P)" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS MAX HD 1 (720P)
+http://41k.space:8080/tarzanbaba/10032022tbb/136542
+#EXTINF:-1 tvg-id="" tvg-name="I TR I beIN SPORTS MAX HD 2 (720P)" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg" group-title="beIN SPOR",I TR I beIN SPORTS MAX HD 2 (720P)
+http://41k.space:8080/tarzanbaba/10032022tbb/136543
+#EXTINF:-1 tvg-id="" tvg-name="I TR I BEINCONNET HD -1 (MAC SAATI)" tvg-logo="https://adba.tv/wp-content/uploads/2019/10/bein.jpg" group-title="beIN SPOR",I TR I BEINCONNET HD -1 (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/136587
+#EXTINF:-1 tvg-id="" tvg-name="I TR I BEINCONNET HD -2 (MAC SAATI)" tvg-logo="https://adba.tv/wp-content/uploads/2019/10/bein.jpg" group-title="beIN SPOR",I TR I BEINCONNET HD -2 (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/136588
+#EXTINF:-1 tvg-id="" tvg-name="I TR I BEINCONNET HD -3 (MAC SAATI)" tvg-logo="https://adba.tv/wp-content/uploads/2019/10/bein.jpg" group-title="beIN SPOR",I TR I BEINCONNET HD -3 (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/136589
+#EXTINF:-1 tvg-id="" tvg-name="I TR I BEINCONNET HD -4 (MAC SAATI)" tvg-logo="https://adba.tv/wp-content/uploads/2019/10/bein.jpg" group-title="beIN SPOR",I TR I BEINCONNET HD -4 (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/136590
+#EXTINF:-1 tvg-id="" tvg-name="I TR I BEINCONNET HD -5 (MAC SAATI)" tvg-logo="https://adba.tv/wp-content/uploads/2019/10/bein.jpg" group-title="beIN SPOR",I TR I BEINCONNET HD -5 (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/136591
+#EXTINF:-1 tvg-id="" tvg-name="I TR I BEINCONNET HD -6 (MAC SAATI)" tvg-logo="https://adba.tv/wp-content/uploads/2019/10/bein.jpg" group-title="beIN SPOR",I TR I BEINCONNET HD -6 (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/136592
 
 
+exxen SPOR
+
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN SPOR BİLGİLENDİRME EKRANI" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="exxen SPOR",I TR I EXXEN SPOR BİLGİLENDİRME EKRANI
+http://41k.space:8080/tarzanbaba/10032022tbb/216098
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN TV HD
+http://41k.space:8080/tarzanbaba/10032022tbb/216310
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 1 SD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 1 SD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216311
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 1 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 1 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216312
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 1 FHD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 1 FHD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216313
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 2 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 2 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216314
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 3 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 3 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216315
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 4 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 4 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216316
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 5 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 5 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216317
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 6 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 6 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216318
+#EXTINF:-1 tvg-id="" tvg-name="I TR I EXXEN 7 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",I TR I EXXEN 7 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216319
+#EXTINF:-1 tvg-id="" tvg-name="l TR l EXXEN 8 HD (MAC SAATI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/640px-Exxen.png" group-title="exxen SPOR",l TR l EXXEN 8 HD (MAC SAATI)
+http://41k.space:8080/tarzanbaba/10032022tbb/216320
+#EXTINF:-1 tvg-id="" tvg-name="I TR I AVRUPA LIGI MACLARI 1" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="exxen SPOR",I TR I AVRUPA LIGI MACLARI 1
+http://41k.space:8080/tarzanbaba/10032022tbb/127839
+#EXTINF:-1 tvg-id="" tvg-name="I TR I AVRUPA LIGI MACLARI 2" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="exxen SPOR",I TR I AVRUPA LIGI MACLARI 2
+http://41k.space:8080/tarzanbaba/10032022tbb/127840
+#EXTINF:-1 tvg-id="" tvg-name="I TR I AVRUPA LIGI MACLARI 3" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="exxen SPOR",I TR I AVRUPA LIGI MACLARI 3
+http://41k.space:8080/tarzanbaba/10032022tbb/127994
+#EXTINF:-1 tvg-id="" tvg-name="I TR I AVRUPA LIGI MACLARI 4" tvg-logo="https://i.ibb.co/SNS5KMZ/02.png" group-title="exxen SPOR",I TR I AVRUPA LIGI MACLARI 4
+http://41k.space:8080/tarzanbaba/10032022tbb/127995
 
 
 
