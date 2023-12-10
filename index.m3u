@@ -623,188 +623,234 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 
 ----------
-ALMAN 2
+KABEL EINS CLASSIC
 
-#EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins Classic HD
+#EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="KABEL EINS CLASSICS", Kabel Eins Classic HD
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96415
-#EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins Classic HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275829
-#EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins Classic HD
+#EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="KABEL EINS CLASSICS", Kabel Eins Classic HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413546
+#EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="KABEL EINS CLASSICS", Kabel Eins Classic HD
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260059
-
-#EXTINF:-1 tvg-id="  sixx.HD.de  " tvg-name="DE: Sixx HD" tvg-logo="http://myserveriptv.com:2082/images/d56156f855ad9335b7e1ff36a9bb2ff3.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sixx HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96405
-#EXTINF:-1 tvg-id="  sixx.HD.de  " tvg-name="DE: Sixx HD" tvg-logo="http://myserveriptv.com:2082/images/d56156f855ad9335b7e1ff36a9bb2ff3.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sixx HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96406
-
-#EXTINF:-1 tvg-id="  AXN.HD.de  " tvg-name="DE: Sony AXN HD" tvg-logo="http://myserveriptv.com:2082/images/9ceff310e0bb11409f86a0ea45517d96.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sony AXN HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260112
-#EXTINF:-1 tvg-id="  AXN.HD.de  " tvg-name="DE: Sony AXN HD" tvg-logo="http://myserveriptv.com:2082/images/9ceff310e0bb11409f86a0ea45517d96.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sony AXN HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249315
-
-#EXTINF:-1 tvg-id="  SAT.1.Gold.HD.de  " tvg-name="DE: Sat 1 Gold HD" tvg-logo="http://myserveriptv.com:2082/images/c1a3a0519532c6363d2b31619c177296.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sat 1 Gold HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96401
-#EXTINF:-1 tvg-id="  SAT.1.Gold.HD.de  " tvg-name="DE: Sat 1 Gold HD" tvg-logo="http://myserveriptv.com:2082/images/c1a3a0519532c6363d2b31619c177296.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sat 1 Gold HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96402
-
-#EXTINF:-1 tvg-id=" 13TH.STREET.HD.de   " tvg-name="DE: 13th Street HD" tvg-logo="http://myserveriptv.com:2082/images/1f9a05f22cf06bd343d57add260990f1.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", 13th Street HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260090
-#EXTINF:-1 tvg-id=" 13TH.STREET.HD.de   " tvg-name="DE: 13th Street HD" tvg-logo="http://myserveriptv.com:2082/images/1f9a05f22cf06bd343d57add260990f1.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", 13th Street HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260091
-
-#EXTINF:-1 tvg-id="  Kabel.Eins.Doku.HD.de  " tvg-name="DE: Kabel Eins Doku" tvg-logo="http://myserveriptv.com:2082/images/fee6549ed134387efdfdd5d9ef52f13b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins Doku
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260081
-#EXTINF:-1 tvg-id="  Kabel.Eins.Doku.HD.de  " tvg-name="DE: Kabel Eins Doku" tvg-logo="http://myserveriptv.com:2082/images/fee6549ed134387efdfdd5d9ef52f13b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins Doku
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96362
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name=" Kabel 1 Classics" tvg-logo="https://imagizer.imageshack.com/img923/3083/G5C5J3.png" group-title="KABEL EINS CLASSICS", Kabel 1 Classics
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96415
 
 
-#EXTINF:-1 tvg-id="  kabel.eins.HD.de   " tvg-name="DE: Kabel Eins HD" tvg-logo="http://myserveriptv.com:2082/images/8589677e9b794693efc00d0c0c5983df.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260057
-#EXTINF:-1 tvg-id="  kabel.eins.HD.de   " tvg-name="DE: Kabel Eins HD" tvg-logo="http://myserveriptv.com:2082/images/8589677e9b794693efc00d0c0c5983df.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kabel Eins HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96412
+D-HEVC
 
-#EXTINF:-1 tvg-id=" Heimatkanal.de   " tvg-name="DE: Heimat Kanal" tvg-logo="http://myserveriptv.com:2082/images/9ff91ec32a5bbbd0d1f038e8acd578b5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Heimat Kanal
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96439
-#EXTINF:-1 tvg-id=" Heimatkanal.de   " tvg-name="DE: Heimat Kanal" tvg-logo="http://myserveriptv.com:2082/images/9ff91ec32a5bbbd0d1f038e8acd578b5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Heimat Kanal
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275836
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name=" Kabel 1 Classics" tvg-logo="https://imagizer.imageshack.com/img923/3083/G5C5J3.png" group-title="D-HEVC", Kabel 1 Classics
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413546
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name=" Kabel 1 HEVC" tvg-logo="https://imagizer.imageshack.com/img922/4039/yDoFPq.png" group-title="D-HEVC", Kabel 1 HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413545
+#EXTINF:-1 tvg-id="rtl.de" tvg-name=" RTL HEVC" tvg-logo="https://imagizer.imageshack.com/img922/713/lI0Cqb.png" group-title="D-HEVC", RTL HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96324
+#EXTINF:-1 tvg-id="ard.de" tvg-name=" Das Erste HEVC" tvg-logo="https://imagizer.imageshack.com/img924/8054/B4CcHz.png" group-title="D-HEVC", Das Erste HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413533
+#EXTINF:-1 tvg-id="zdf.de" tvg-name=" ZDF HEVC" tvg-logo="https://imagizer.imageshack.com/img922/5704/vv94QR.png" group-title="D-HEVC", ZDF HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413534
+#EXTINF:-1 tvg-id="wdr.de" tvg-name=" WDR HEVC" tvg-logo="https://imagizer.imageshack.com/img922/4916/8I5pgx.png" group-title="D-HEVC", WDR HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413535
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name=" RTL 2 HEVC" tvg-logo="https://imagizer.imageshack.com/img923/6820/9fadr0.png" group-title="D-HEVC", RTL 2 HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413537
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="|DE| RTL UP" tvg-logo="https://imagizer.imageshack.com/img923/5040/mPDjHw.png" group-title="D-HEVC",|DE| RTL UP
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413538
+#EXTINF:-1 tvg-id="pro7.de" tvg-name=" Pro 7 HEVC" tvg-logo="https://imagizer.imageshack.com/img922/1521/xp8j9N.png" group-title="D-HEVC", Pro 7 HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413539
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name=" Pro 7 Maxx HEVC" tvg-logo="https://imagizer.imageshack.com/img924/950/FI2oOX.png" group-title="D-HEVC", Pro 7 Maxx HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413540
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name=" Pro 7 Fun HEVC" tvg-logo="https://imagizer.imageshack.com/img923/7091/y62vld.png" group-title="D-HEVC", Pro 7 Fun HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413541
+#EXTINF:-1 tvg-id="sat1.de" tvg-name=" Sat 1 HEVC" tvg-logo="https://imagizer.imageshack.com/img922/9782/6OtwU6.png" group-title="D-HEVC", Sat 1 HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413542
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name=" SAT 1 Gold HEVC" tvg-logo="https://imagizer.imageshack.com/img923/7349/B2O7DT.png" group-title="D-HEVC", SAT 1 Gold HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413543
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name=" SAT 1 Emotions" tvg-logo="https://imagizer.imageshack.com/img924/5728/Fm7lgh.png" group-title="D-HEVC", SAT 1 Emotions
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413544
+#EXTINF:-1 tvg-id="vox.de" tvg-name=" VOX HEVC" tvg-logo="https://imagizer.imageshack.com/img923/8990/HOEFx3.png" group-title="D-HEVC", VOX HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413547
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name=" ZDFinfo HEVC" tvg-logo="https://imagizer.imageshack.com/img923/2205/y5snEe.png" group-title="D-HEVC", ZDFinfo HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413548
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name=" ZDFneo HEVC" tvg-logo="https://imagizer.imageshack.com/img922/9356/63qsjG.png" group-title="D-HEVC", ZDFneo HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413549
+#EXTINF:-1 tvg-id="br.de" tvg-name=" BR" tvg-logo="https://imagizer.imageshack.com/img923/8028/swWQlr.png" group-title="D-HEVC", BR
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413550
+#EXTINF:-1 tvg-id="hr.de" tvg-name=" HR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hr_fernsehen_de.png" group-title="D-HEVC", HR
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413551
+#EXTINF:-1 tvg-id="ndr.de" tvg-name=" NDR HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen_hh.png" group-title="D-HEVC", NDR HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413552
+#EXTINF:-1 tvg-id="rbb.de" tvg-name=" rbb HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rbb-berlin-de.png" group-title="D-HEVC", rbb HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413553
+#EXTINF:-1 tvg-id="one.de" tvg-name=" ONE HEVC" tvg-logo="https://imagizer.imageshack.com/img922/3411/wbZM6M.png" group-title="D-HEVC", ONE HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413554
+#EXTINF:-1 tvg-id="3sat.de" tvg-name=" 3 sat HEVC" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="D-HEVC", 3 sat HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413555
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name=" Tagesschau 24" tvg-logo="https://imagizer.imageshack.com/img923/9564/ZUiaXB.png" group-title="D-HEVC", Tagesschau 24
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413556
+#EXTINF:-1 tvg-id="sixx.de" tvg-name=" Sixx HEVC" tvg-logo="https://imagizer.imageshack.com/img924/5882/ZP5GX7.png" group-title="D-HEVC", Sixx HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413557
+#EXTINF:-1 tvg-id="vox.de" tvg-name=" VOXup" tvg-logo="https://imagizer.imageshack.com/img924/8470/VbWqgQ.png" group-title="D-HEVC", VOXup
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413558
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name=" NITRO HEVC" tvg-logo="https://imagizer.imageshack.com/img923/6789/i1U7z0.png" group-title="D-HEVC", NITRO HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413559
+#EXTINF:-1 tvg-id="" tvg-name=" ServusTv Deutschland HEVC" tvg-logo="https://imagizer.imageshack.com/img924/1571/LNeFDD.png" group-title="D-HEVC", ServusTv Deutschland HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413560
+#EXTINF:-1 tvg-id="" tvg-name=" ServusTv Oesterreich HEVC" tvg-logo="https://imagizer.imageshack.com/img924/1571/LNeFDD.png" group-title="D-HEVC", ServusTv Oesterreich HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413561
+#EXTINF:-1 tvg-id="anixe.de" tvg-name=" Anixe HEVC" tvg-logo="https://imagizer.imageshack.com/img922/9924/IAkuXL.png" group-title="D-HEVC", Anixe HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413562
+#EXTINF:-1 tvg-id="arte.de" tvg-name=" arte HEVC" tvg-logo="https://imagizer.imageshack.com/img922/6632/Rjz9uU.png" group-title="D-HEVC", arte HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413563
+#EXTINF:-1 tvg-id="classica.de" tvg-name=" Classica" tvg-logo="https://imagizer.imageshack.com/img923/2160/ouS2HK.png" group-title="D-HEVC", Classica
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413564
+#EXTINF:-1 tvg-id="euronews.de" tvg-name=" Euronews Germany HEVC" tvg-logo="https://imagizer.imageshack.com/img924/2149/lTqCTJ.png" group-title="D-HEVC", Euronews Germany HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413565
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name=" Heimatkanal" tvg-logo="https://imagizer.imageshack.com/img924/1182/sHEVC61n.png" group-title="D-HEVC", Heimatkanal
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413566
+#EXTINF:-1 tvg-id="" tvg-name=" pearl tv Shop HEVC" tvg-logo="https://imagizer.imageshack.com/img922/4820/3n1DPN.png" group-title="D-HEVC", pearl tv Shop HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413567
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name=" Phoenix" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="D-HEVC", Phoenix
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413568
+#EXTINF:-1 tvg-id="romance.de" tvg-name=" Romance TV" tvg-logo="https://imagizer.imageshack.com/img923/206/F1plII.png" group-title="D-HEVC", Romance TV
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413569
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name=" Sonnenklar TV" tvg-logo="https://imagizer.imageshack.com/img922/8891/sCsZ0J.png" group-title="D-HEVC", Sonnenklar TV
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413570
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name=" SWR BW HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="D-HEVC", SWR BW HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413571
+#EXTINF:-1 tvg-id="tele5.de" tvg-name=" TELE 5 HEVC" tvg-logo="https://imagizer.imageshack.com/img924/5722/ssCc5Q.png" group-title="D-HEVC", TELE 5 HEVC
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413572
 
-#EXTINF:-1 tvg-id="  TNT.Comedy.HD.de  " tvg-name="DE: Warner TV Comedy" tvg-logo="http://myserveriptv.com:2082/images/931fd1ac8169ca5efc1afafec02e118b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Warner TV Comedy
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249306
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260104
-#EXTINF:-1 tvg-id="  TNT.Comedy.HD.de  " tvg-name="DE: Warner TV Comedy" tvg-logo="http://myserveriptv.com:2082/images/931fd1ac8169ca5efc1afafec02e118b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Warner TV Comedy
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249305
+D-HD
 
-#EXTINF:-1 tvg-id="  TNT.Film.de   " tvg-name="DE: Warner TV Film" tvg-logo="http://myserveriptv.com:2082/images/d407749085fe1e8c962f9eab1260dcc5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Warner TV Film
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249303
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260106
-#EXTINF:-1 tvg-id="  TNT.Film.de   " tvg-name="DE: Warner TV Film" tvg-logo="http://myserveriptv.com:2082/images/d407749085fe1e8c962f9eab1260dcc5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Warner TV Film
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249304
-
-#EXTINF:-1 tvg-id="  TNT.Serie.HD.de   " tvg-name="DE: Warner TV Serie" tvg-logo="http://myserveriptv.com:2082/images/6098351841849b7cee6c06031d6fd6e5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Warner TV Serie
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249301
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260108
-#EXTINF:-1 tvg-id="  TNT.Serie.HD.de   " tvg-name="DE: Warner TV Serie" tvg-logo="http://myserveriptv.com:2082/images/6098351841849b7cee6c06031d6fd6e5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Warner TV Serie
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249302
-
-#EXTINF:-1 tvg-id="  Universal.Channel.HD.de   " tvg-name="DE: Universal HD" tvg-logo="http://myserveriptv.com:2082/images/7641e5f4e7e8517bd0477fd81e3de1b8.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Universal HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249311
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260110
-#EXTINF:-1 tvg-id="  Universal.Channel.HD.de   " tvg-name="DE: Universal HD" tvg-logo="http://myserveriptv.com:2082/images/7641e5f4e7e8517bd0477fd81e3de1b8.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Universal HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249312
-
-#EXTINF:-1 tvg-id="   ONE.HD.de   " tvg-name="DE: One HD" tvg-logo="http://myserveriptv.com:2082/images/d79fbcf3a30220433a0e855992303f3c.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", One HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96380
-#EXTINF:-1 tvg-id="   ONE.HD.de   " tvg-name="DE: One HD" tvg-logo="http://myserveriptv.com:2082/images/d79fbcf3a30220433a0e855992303f3c.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", One HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260113
-
-#EXTINF:-1 tvg-id="  Kinowelt.TV.de   " tvg-name="DE: Kinowelt TV" tvg-logo="http://myserveriptv.com:2082/images/91ddf381153232fac523454fa849015e.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kinowelt TV
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/249313
-#EXTINF:-1 tvg-id="  Kinowelt.TV.de   " tvg-name="DE: Kinowelt TV" tvg-logo="http://myserveriptv.com:2082/images/91ddf381153232fac523454fa849015e.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Kinowelt TV
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260093
-
-#EXTINF:-1 tvg-id="   Syfy.HD.de  " tvg-name="DE: SyFy HD" tvg-logo="http://myserveriptv.com:2082/images/5bbff0b816140d5e05c5a1ed646f4288.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", SyFy HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260101
-#EXTINF:-1 tvg-id="   Syfy.HD.de  " tvg-name="DE: SyFy HD" tvg-logo="http://myserveriptv.com:2082/images/5bbff0b816140d5e05c5a1ed646f4288.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", SyFy HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260102
-
-#EXTINF:-1 tvg-id=" Classica.de     " tvg-name="DE: Classica" tvg-logo="http://myserveriptv.com:2082/images/00b019e31a9a263c549b89630cd6146b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Classica
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275846
-#EXTINF:-1 tvg-id=" Classica.de     " tvg-name="DE: Classica" tvg-logo="http://myserveriptv.com:2082/images/00b019e31a9a263c549b89630cd6146b.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Classica
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/275846
-
-#EXTINF:-1 tvg-id="   Comedy.Central.HD.de   " tvg-name="DE: Comedy Central HD" tvg-logo="http://myserveriptv.com:2082/images/d85df652c2f313b2e66b5489e59774b0.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Comedy Central HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260070
-
-#EXTINF:-1 tvg-id="   DELUXE.MUSIC.HD.de   " tvg-name="DE: Deluxe Müzik: HD" tvg-logo="http://myserveriptv.com:2082/images/76d814db4dcbdc0e322f3db4855ce139.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Deluxe Müzik: HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96367
-#EXTINF:-1 tvg-id="   DELUXE.MUSIC.HD.de   " tvg-name="DE: Deluxe Müzik: HD" tvg-logo="http://myserveriptv.com:2082/images/76d814db4dcbdc0e322f3db4855ce139.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Deluxe Müzik: HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96525
-
-#EXTINF:-1 tvg-id="   Discovery.Channel.HD.de  " tvg-name="DE: Discovery Channel" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Discovery Channel
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96354
-
-#EXTINF:-1 tvg-id="  DMAX.HD.de    " tvg-name="DE: DMax HD" tvg-logo="http://myserveriptv.com:2082/images/3357426c5ec8bd0e0419c1f8d5a9937e.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", DMax HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96358
-
-EXTINF:-1 tvg-id="   Fox.HD.de    " tvg-name="DE: Fox HD" tvg-logo="http://myserveriptv.com:2082/images/68c7baa5e7f979c4e8806dc871e98929.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Fox HD
-
-#EXTINF:-1 tvg-id="  HISTORY.HD.de   " tvg-name="DE: History HD" tvg-logo="http://myserveriptv.com:2082/images/65b50b04a6af50bb2f174db30a8c6dad.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", History HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96357
-
-#EXTINF:-1 tvg-id="  MTV.HD.de   " tvg-name="DE: MTV Alman:" tvg-logo="http://myserveriptv.com:2082/images/b49882eae96bb41a7fa1feb6aa7acc18.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", MTV Alman:
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96369
-
-#EXTINF:-1 tvg-id="  n-tv.HD.de   " tvg-name="DE: N-TV HD" tvg-logo="http://myserveriptv.com:2082/images/10c94beea26a866094637c7e0d794673.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", N-TV HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96361
-
-EXTINF:-1 tvg-id="  N24.Doku.de  " tvg-name="DE: N24 Doku" tvg-logo="http://myserveriptv.com:2082/images/f147f795819bb6de5db87a79700dc3d5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", N24 Doku
-
-#EXTINF:-1 tvg-id="  Nat.Geo.HD.de   " tvg-name="DE: National Geographic" tvg-logo="http://myserveriptv.com:2082/images/f91c676cbee8fc9aa708334fcf26d981.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", National Geographic
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96356
-#EXTINF:-1 tvg-id="  Nat.Geo.Wild.HD.de   " tvg-name="DE: Nat Geo Wild" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Nat Geo Wild
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96355
-
-
-#EXTINF:-1 tvg-id="   ProSieben.Fun.HD.de  " tvg-name="DE: Pro7 Fun HD" tvg-logo="http://myserveriptv.com:2082/images/887ae385e9e4839719ea21f26ce62763.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Pro7 Fun HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96389
-#EXTINF:-1 tvg-id="  ProSieben.HD.de   " tvg-name="DE: ProSieben HD" tvg-logo="http://myserveriptv.com:2082/images/d47c316e92c6c31c4501dee2be260c5f.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", ProSieben HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96383
-#EXTINF:-1 tvg-id="   ProSieben.MAXX.HD.de  " tvg-name="DE: Pro7 Maxx HD" tvg-logo="http://myserveriptv.com:2082/images/456ee978aa497e533fcb584253b91fc5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Pro7 Maxx HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96386
-
-#EXTINF:-1 tvg-id="   Romance.TV.de  " tvg-name="DE: Romance" tvg-logo="http://myserveriptv.com:2082/images/081fc8e8bd39e1dc72ca3f5a5fdf6697.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Romance
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260098
-#EXTINF:-1 tvg-id="   Romance.TV.de  " tvg-name="DE: Romance" tvg-logo="http://myserveriptv.com:2082/images/081fc8e8bd39e1dc72ca3f5a5fdf6697.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Romance
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260099
-
-#EXTINF:-1 tvg-id="  RTL.HD.de   " tvg-name="DE: RTL HD" tvg-logo="http://myserveriptv.com:2082/images/ae32688de6c25f78870d58e6caa81dea.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL HD
+#EXTINF:-1 tvg-id="" tvg-name=" Heimatkanal HD" tvg-logo="" group-title="D-HD", Heimatkanal HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412079
+#EXTINF:-1 tvg-id="" tvg-name=" 13th STREET TH HD" tvg-logo="" group-title="D-HD", 13th STREET TH HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412080
+#EXTINF:-1 tvg-id="" tvg-name=" 13TH STREET FHD" tvg-logo="" group-title="D-HD", 13TH STREET FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412081
+#EXTINF:-1 tvg-id="" tvg-name=" Sky Replay FHD" tvg-logo="" group-title="D-HD", Sky Replay FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412082
+#EXTINF:-1 tvg-id="" tvg-name=" Warner TV Comedy FHD" tvg-logo="" group-title="D-HD", Warner TV Comedy FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412083
+#EXTINF:-1 tvg-id="" tvg-name=" Warner TV Comedy HD" tvg-logo="" group-title="D-HD", Warner TV Comedy HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412084
+#EXTINF:-1 tvg-id="" tvg-name=" Warner Film HD" tvg-logo="" group-title="D-HD", Warner Film HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412085
+#EXTINF:-1 tvg-id="" tvg-name=" Warner Serie HD" tvg-logo="" group-title="D-HD", Warner Serie HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412086
+#EXTINF:-1 tvg-id="" tvg-name=" Warner Serie FHD" tvg-logo="" group-title="D-HD", Warner Serie FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412087
+#EXTINF:-1 tvg-id="" tvg-name=" Kinowelt TV" tvg-logo="" group-title="D-HD", Kinowelt TV
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412088
+#EXTINF:-1 tvg-id="" tvg-name=" Universal TV HD" tvg-logo="" group-title="D-HD", Universal TV HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412092
+#EXTINF:-1 tvg-id="ard.de" tvg-name=" Das Erste HD" tvg-logo="https://imagizer.imageshack.com/img924/8054/B4CcHz.png" group-title="D-HD", Das Erste HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96370
+#EXTINF:-1 tvg-id="zdf.de" tvg-name=" ZDF HD" tvg-logo="https://imagizer.imageshack.com/img922/5704/vv94QR.png" group-title="D-HD", ZDF HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96371
+#EXTINF:-1 tvg-id="wdr.de" tvg-name=" WDR HD" tvg-logo="https://imagizer.imageshack.com/img922/4916/8I5pgx.png" group-title="D-HD", WDR HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96379
+#EXTINF:-1 tvg-id="rtl.de" tvg-name=" RTL HD+" tvg-logo="https://imagizer.imageshack.com/img922/713/lI0Cqb.png" group-title="D-HD", RTL HD+
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96391
-#EXTINF:-1 tvg-id="  RTL.HD.de   " tvg-name="DE: RTL HD" tvg-logo="http://myserveriptv.com:2082/images/ae32688de6c25f78870d58e6caa81dea.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL HD
+#EXTINF:-1 tvg-id="rtl.de" tvg-name=" RTL HD" tvg-logo="https://imagizer.imageshack.com/img922/713/lI0Cqb.png" group-title="D-HD", RTL HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96392
-
-#EXTINF:-1 tvg-id="  RTL.II.HD.de    " tvg-name="DE: RTL Zwei" tvg-logo="http://myserveriptv.com:2082/images/63ffe7c9891bcdd728270239a0e984f4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Zwei
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name=" RTL 2 HD+" tvg-logo="https://imagizer.imageshack.com/img923/6820/9fadr0.png" group-title="D-HD", RTL 2 HD+
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96394
-#EXTINF:-1 tvg-id="  RTL.II.HD.de    " tvg-name="DE: RTL Zwei" tvg-logo="http://myserveriptv.com:2082/images/63ffe7c9891bcdd728270239a0e984f4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Zwei
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name=" RTL 2 HD" tvg-logo="https://imagizer.imageshack.com/img923/6820/9fadr0.png" group-title="D-HD", RTL 2 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96395
-
-#EXTINF:-1 tvg-id="  RTL.Crime.HD.de  " tvg-name="DE: RTL Crime HD" tvg-logo="http://myserveriptv.com:2082/images/3abefa32ba573eabb52eea70fd63cb7f.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Crime HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260095
-#EXTINF:-1 tvg-id="  RTL.Crime.HD.de  " tvg-name="DE: RTL Crime HD" tvg-logo="http://myserveriptv.com:2082/images/3abefa32ba573eabb52eea70fd63cb7f.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Crime HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275811
-
-#EXTINF:-1 tvg-id="  RTL.Living.de   " tvg-name="DE: RTL Living HD" tvg-logo="http://myserveriptv.com:2082/images/767eee04d1adcd5aa88802d721cf8433.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Living HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275813
-#EXTINF:-1 tvg-id="  RTL.Living.de   " tvg-name="DE: RTL Living HD" tvg-logo="http://myserveriptv.com:2082/images/767eee04d1adcd5aa88802d721cf8433.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Living HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260096
-
-#EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE: RTL Nitro HD" tvg-logo="http://myserveriptv.com:2082/images/85a0f1e495fbe22315c45587aac2f0a4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Nitro HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275814
-#EXTINF:-1 tvg-id="  NITRO.HD.de   " tvg-name="DE: RTL Nitro HD" tvg-logo="http://myserveriptv.com:2082/images/85a0f1e495fbe22315c45587aac2f0a4.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Nitro HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96326
-
-#EXTINF:-1 tvg-id="     " tvg-name="DE: RTL Passion HD" tvg-logo="http://myserveriptv.com:2082/images/2e5956f5be1e4054c4f50f36a62b2449.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Passion HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275812
-#EXTINF:-1 tvg-id="     " tvg-name="DE: RTL Passion HD" tvg-logo="http://myserveriptv.com:2082/images/2e5956f5be1e4054c4f50f36a62b2449.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Passion HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275807
-
-#EXTINF:-1 tvg-id="      " tvg-name="DE: RTL Up HD" tvg-logo="http://myserveriptv.com:2082/images/1d439188ce5729677da3455b3b218321.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", RTL Up HD
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="|DE| RTL UP" tvg-logo="https://imagizer.imageshack.com/img923/5040/mPDjHw.png" group-title="D-HD",|DE| RTL UP
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/233864
-
-
-#EXTINF:-1 tvg-id="  SAT.1.emotions.de   " tvg-name="DE: Sat 1 Emotions" tvg-logo="http://myserveriptv.com:2082/images/6787e46ec953ce371df68eb8cac8db68.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sat 1 Emotions
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275828
-
-#EXTINF:-1 tvg-id="   SAT.1.HD.de   " tvg-name="DE: Sat 1 HD" tvg-logo="http://myserveriptv.com:2082/images/7111e091e19431700db0f96331686c12.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Sat 1 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260052
-
-#EXTINF:-1 tvg-id="   TELE.5.HD.de   " tvg-name="DE: Tele 5 HD" tvg-logo="http://myserveriptv.com:2082/images/06c60aa1a810aefd575bf267a6333882.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", Tele 5 HD
+#EXTINF:-1 tvg-id="pro7.de" tvg-name=" Pro 7 HD+" tvg-logo="https://imagizer.imageshack.com/img922/1521/xp8j9N.png" group-title="D-HD", Pro 7 HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96383
+#EXTINF:-1 tvg-id="pro7.de" tvg-name=" Pro 7 HD" tvg-logo="https://imagizer.imageshack.com/img922/1521/xp8j9N.png" group-title="D-HD", Pro 7 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96384
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name=" Pro 7 Maxx HD+" tvg-logo="https://imagizer.imageshack.com/img924/950/FI2oOX.png" group-title="D-HD", Pro 7 Maxx HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96386
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name=" Pro 7 Maxx HD" tvg-logo="https://imagizer.imageshack.com/img924/6971/kJfrFw.png" group-title="D-HD", Pro 7 Maxx HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96387
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name=" Pro 7 Fun HD+" tvg-logo="https://imagizer.imageshack.com/img923/7091/y62vld.png" group-title="D-HD", Pro 7 Fun HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96389
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name=" Pro 7 Fun HD" tvg-logo="https://imagizer.imageshack.com/img923/7091/y62vld.png" group-title="D-HD", Pro 7 Fun HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96390
+#EXTINF:-1 tvg-id="sat1.de" tvg-name=" Sat 1 HD+" tvg-logo="https://imagizer.imageshack.com/img922/9782/6OtwU6.png" group-title="D-HD", Sat 1 HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96398
+#EXTINF:-1 tvg-id="sat1.de" tvg-name=" Sat 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/9782/6OtwU6.png" group-title="D-HD", Sat 1 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96399
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name=" SAT 1 Gold HD+" tvg-logo="https://imagizer.imageshack.com/img923/7349/B2O7DT.png" group-title="D-HD", SAT 1 Gold HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96401
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name=" SAT 1 Gold HD" tvg-logo="https://imagizer.imageshack.com/img923/7349/B2O7DT.png" group-title="D-HD", SAT 1 Gold HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96402
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name=" SAT 1 Emotions" tvg-logo="https://imagizer.imageshack.com/img924/5728/Fm7lgh.png" group-title="D-HD", SAT 1 Emotions
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96404
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name=" Kabel 1 HD+" tvg-logo="https://imagizer.imageshack.com/img922/4039/yDoFPq.png" group-title="D-HD", Kabel 1 HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96412
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name=" Kabel 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/4039/yDoFPq.png" group-title="D-HD", Kabel 1 HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96413
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name=" Kabel 1 Classics" tvg-logo="https://imagizer.imageshack.com/img923/3083/G5C5J3.png" group-title="D-HD", Kabel 1 Classics
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96415
+#EXTINF:-1 tvg-id="vox.de" tvg-name=" VOX HD+" tvg-logo="https://imagizer.imageshack.com/img923/8990/HOEFx3.png" group-title="D-HD", VOX HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96408
+#EXTINF:-1 tvg-id="vox.de" tvg-name=" VOX HD" tvg-logo="https://imagizer.imageshack.com/img923/8990/HOEFx3.png" group-title="D-HD", VOX HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96409
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name=" ZDFinfo HD" tvg-logo="https://imagizer.imageshack.com/img923/2205/y5snEe.png" group-title="D-HD", ZDFinfo HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96372
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name=" ZDFneo HD" tvg-logo="https://imagizer.imageshack.com/img922/9356/63qsjG.png" group-title="D-HD", ZDFneo HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96373
+#EXTINF:-1 tvg-id="br.de" tvg-name=" BR" tvg-logo="https://imagizer.imageshack.com/img923/8028/swWQlr.png" group-title="D-HD", BR
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96375
+#EXTINF:-1 tvg-id="hr.de" tvg-name=" HR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hr_fernsehen_de.png" group-title="D-HD", HR
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96376
+#EXTINF:-1 tvg-id="ndr.de" tvg-name=" NDR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen_hh.png" group-title="D-HD", NDR HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96377
+#EXTINF:-1 tvg-id="rbb.de" tvg-name=" rbb HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rbb-berlin-de.png" group-title="D-HD", rbb HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96378
+#EXTINF:-1 tvg-id="one.de" tvg-name=" ONE HD" tvg-logo="https://imagizer.imageshack.com/img922/3411/wbZM6M.png" group-title="D-HD", ONE HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96380
+#EXTINF:-1 tvg-id="3sat.de" tvg-name=" 3 sat HD" tvg-logo="https://imagizer.imageshack.com/img924/1268/MBDOgn.png" group-title="D-HD", 3 sat HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96381
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name=" Tagesschau 24" tvg-logo="https://imagizer.imageshack.com/img923/9564/ZUiaXB.png" group-title="D-HD", Tagesschau 24
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96382
+#EXTINF:-1 tvg-id="sixx.de" tvg-name=" Sixx HD+" tvg-logo="https://imagizer.imageshack.com/img924/5882/ZP5GX7.png" group-title="D-HD", Sixx HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96405
+#EXTINF:-1 tvg-id="sixx.de" tvg-name=" Sixx HD" tvg-logo="https://imagizer.imageshack.com/img924/5882/ZP5GX7.png" group-title="D-HD", Sixx HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96406
+#EXTINF:-1 tvg-id="vox.de" tvg-name=" VOXup" tvg-logo="https://imagizer.imageshack.com/img924/8470/VbWqgQ.png" group-title="D-HD", VOXup
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96411
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name=" NITRO HD+" tvg-logo="https://imagizer.imageshack.com/img923/6789/i1U7z0.png" group-title="D-HD", NITRO HD+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96416
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name=" NITRO HD" tvg-logo="https://imagizer.imageshack.com/img923/6789/i1U7z0.png" group-title="D-HD", NITRO HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96417
+#EXTINF:-1 tvg-id="" tvg-name=" ServusTv Deutschland HD" tvg-logo="https://imagizer.imageshack.com/img924/1571/LNeFDD.png" group-title="D-HD", ServusTv Deutschland HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96431
+#EXTINF:-1 tvg-id="" tvg-name=" ServusTv Oesterreich HD" tvg-logo="https://imagizer.imageshack.com/img924/1571/LNeFDD.png" group-title="D-HD", ServusTv Oesterreich HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96432
+#EXTINF:-1 tvg-id="anixe.de" tvg-name=" Anixe FHD" tvg-logo="https://imagizer.imageshack.com/img922/9924/IAkuXL.png" group-title="D-HD", Anixe FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96433
+#EXTINF:-1 tvg-id="anixe.de" tvg-name=" Anixe HD" tvg-logo="https://imagizer.imageshack.com/img922/9924/IAkuXL.png" group-title="D-HD", Anixe HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96434
+#EXTINF:-1 tvg-id="arte.de" tvg-name=" arte HD" tvg-logo="https://imagizer.imageshack.com/img922/6632/Rjz9uU.png" group-title="D-HD", arte HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96435
+#EXTINF:-1 tvg-id="classica.de" tvg-name=" Classica" tvg-logo="https://imagizer.imageshack.com/img923/2160/ouS2HK.png" group-title="D-HD", Classica
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96436
+#EXTINF:-1 tvg-id="euronews.de" tvg-name=" Euronews Germany HD" tvg-logo="https://imagizer.imageshack.com/img924/2149/lTqCTJ.png" group-title="D-HD", Euronews Germany HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96438
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name=" Heimatkanal" tvg-logo="https://imagizer.imageshack.com/img924/1182/sHd61n.png" group-title="D-HD", Heimatkanal
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96439
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name=" Phoenix" tvg-logo="https://imagizer.imageshack.com/img923/8954/7TGMy2.png" group-title="D-HD", Phoenix
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96441
+#EXTINF:-1 tvg-id="romance.de" tvg-name=" Romance TV" tvg-logo="https://imagizer.imageshack.com/img923/206/F1plII.png" group-title="D-HD", Romance TV
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96443
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name=" Sonnenklar TV" tvg-logo="https://imagizer.imageshack.com/img922/8891/sCsZ0J.png" group-title="D-HD", Sonnenklar TV
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96444
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name=" SWR BW HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/swr_de_fernsehen_bw.png" group-title="D-HD", SWR BW HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96445
+#EXTINF:-1 tvg-id="tele5.de" tvg-name=" TELE 5 HD" tvg-logo="https://imagizer.imageshack.com/img924/5722/ssCc5Q.png" group-title="D-HD", TELE 5 HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96446
-#EXTINF:-1 tvg-id="  TLC.HD.de    " tvg-name="DE: TLC HD" tvg-logo="http://myserveriptv.com:2082/images/8b37002b896dfc27a7e7cf1c347d4215.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", TLC HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96331
-#EXTINF:-1 tvg-id="  VOX.HD.de   " tvg-name="DE: VOX HD" tvg-logo="http://myserveriptv.com:2082/images/ccda5ae0852a58ca19ec280be9db8ee5.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", VOX HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/260045
-#EXTINF:-1 tvg-id="    " tvg-name="DE: VOX Up" tvg-logo="http://myserveriptv.com:2082/images/148e82cc29c838159166337f3d9f0946.png" tvg-id2="Mzk2NzI=" group-title="ALMAN 2", VOX Up
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/275804
+#EXTINF:-1 tvg-id="" tvg-name="Medellin DE 4K (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Hp8o8iMQUWyR3MVuZqSDc4nCI1.jpg" group-title="DE | Amazon Prime Filme ",Medellin DE 4K (2023)
+http://rasayvip.ddns.me:8080/movie/bhNFRqbWxTAA/Y7Ew9cuDKHTF/390196.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" RTL LIVING HD" tvg-logo="" group-title="D-HD", RTL LIVING HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/415341
+
+
+
 
 --------
 SKY CINEMA
