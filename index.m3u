@@ -20,15 +20,20 @@ https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",ᴴᴰ
 https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
-https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",ᴴᴰ
+https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
 
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",ᴴᴰ
 https://trtmuzik.blutv.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",ᴴᴰ
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",ᴴᴰ
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",ᴴᴰ
+https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  TRT.Avaz.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",ᴴᴰ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8 
 
