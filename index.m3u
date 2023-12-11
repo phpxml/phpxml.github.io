@@ -206,6 +206,9 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id=" TV4.tr  " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="ULUSAL",TV4 ᴴᴰ
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
+#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",AFYON TÜRK ᴴᴰ
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
+
 EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
 
 EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
