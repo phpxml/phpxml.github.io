@@ -83,6 +83,9 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6890/index.m3u8
 
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",ᴴᴰ
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",sd
+https://showturk.blutv.com/blutv_showturk2/live_540p1250000kbps/index.m3u8
+
 
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",ᴴᴰ
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
