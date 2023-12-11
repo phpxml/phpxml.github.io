@@ -279,39 +279,61 @@ http://germanydnsx15.com:8080/muratkms/28092019/89182
 
 BEIN MOVIES
 
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name=" Bein IZ HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beiniz.png" group-title="beIN MOVIES", Bein IZ HD
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/105919
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name=" beIN Gurme HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_gurne.png" group-title="beIN MOVIES", beIN Gurme HD
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6302
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Action
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6198
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92381
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action 2" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Action 2
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6199
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action 2" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Action 2
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92382
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Family" tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Family
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6204
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Family" tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Family
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92380
 
+#EXTINF:-1 tvg-id=" beIN.MOVIES.PREMIERE.tr   " tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Premier
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6200
 #EXTINF:-1 tvg-id=" beIN.MOVIES.PREMIERE.tr   " tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Premier
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92378
 
 #EXTINF:-1 tvg-id="   beIN.MOVIES.PREMIERE.2.tr    " tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Premier 2
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6201
+#EXTINF:-1 tvg-id="   beIN.MOVIES.PREMIERE.2.tr    " tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Premier 2
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92379
 
+#EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.tr  " tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Stars
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/125800
 #EXTINF:-1 tvg-id="   beIN.MOVIES.STARS.tr  " tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Stars
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92377
 
 #EXTINF:-1 tvg-id="  beIN.MOVIES.TURK.tr    " tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Turk
+http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6202
+#EXTINF:-1 tvg-id="  beIN.MOVIES.TURK.tr    " tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Turk
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92376
 
-EXTINF:-1 tvg-id="  beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 1
-
-EXTINF:-1 tvg-id="  beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 1
+#EXTINF:-1 tvg-id="  beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 1
+http://41k.space:8080/tarzanbaba/10032022tbb/136637
+#EXTINF:-1 tvg-id="  beIN.SERIES.1.tr   " tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 1
 
 
 #EXTINF:-1 tvg-id="   beIN.SERIES.2.tr   " tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 2
+http://41k.space:8080/tarzanbaba/10032022tbb/136638
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92375
 
 #EXTINF:-1 tvg-id="  beIN.SERIES.3.tr     " tvg-name="TR: beIN Series 3" tvg-logo="  https://contentlibrary.digiturk.com.tr/Channel/255/Image/bs03_205x150_logo_sub2022.png     " tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 3
+http://41k.space:8080/tarzanbaba/10032022tbb/136639
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92374
 
 #EXTINF:-1 tvg-id="  beIN.SERIES.4.tr    " tvg-name="TR: beIN Series 4" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/263/Image/bs04_205x150_logo_sub2022.png    " tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 4
+http://41k.space:8080/tarzanbaba/10032022tbb/136640
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92373
 
 -----
