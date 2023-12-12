@@ -7,11 +7,11 @@ https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz
 ULUSAL
 
 
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",ᶠʰᵈ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",bhNᶠʰᵈ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113425
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",ᶠʰᵈ
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",ᴴᴰ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",bluᴴᴰ
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113425
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113419
@@ -27,7 +27,7 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 
-#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",ᴴᴰ
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",bluᴴᴰ
 https://trtmuzik.blutv.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",ᴴᴰ
