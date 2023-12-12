@@ -27,6 +27,11 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
 EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
+https://trtspordvr.blutv.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
+https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",bluᴴᴰ
 https://trtmuzik.blutv.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
@@ -125,17 +130,17 @@ https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
 
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",bhNᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113431
-#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",demirörenᴴᴰ
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",dmrᴴᴰ
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393159
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/393159
-#EXTINF:-1 tvg-id="  Kanal.D.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",demirörenᴴᴰ
+#EXTINF:-1 tvg-id="  Kanal.D.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",dmrᴴᴰ
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",bhNᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113438
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",demirörenᴴᴰ
+#EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",dmrᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
@@ -196,7 +201,7 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371816
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113418
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371840
 
-#EXTINF:-1 tvg-id="   Teve2.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="ULUSAL",Teve2 demirörenᴴᴰ
+#EXTINF:-1 tvg-id="   Teve2.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="ULUSAL",Teve2 dmrᴴᴰ
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 #EXTINF:-1 tvg-id="  blutv play1   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="ULUSAL",blutv|play 1 bluᴴᴰ
@@ -349,30 +354,6 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92374
 
 #EXTINF:-1 tvg-id="  beIN.SERIES.4.tr    " tvg-name="TR: beIN Series 4" tvg-logo="   https://contentlibrary.digiturk.com.tr/Channel/263/Image/bs04_205x150_logo_sub2022.png    " tvg-id2="Mzk2NzI=" group-title="beIN MOVIES",Series 4
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92373
-
------
-Sinema
-
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 1 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 1
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102233
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 2 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 2
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102234
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 3 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 3
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102235
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 4 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 4
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102236
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 5 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 5
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102237
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV  6 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 6
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102238
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 7 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 7
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102239
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 8 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 8
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102240
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 9 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 9
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102241
-#EXTINF:-1 tvg-id="" tvg-name=" 4K Sinema TV 10 HD" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png" group-title="Sinema", Sinema TV 10
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/102242
 
 -----
 ÇOCUK
