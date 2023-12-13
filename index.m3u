@@ -488,14 +488,18 @@ https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="    " tvg-language="Turkish" tvg-logo="     https://i.ibb.co/zhRwXbL/krpop.png   " group-title="MÜZİK",Kral Pop TV 
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-language="Turkish" tvg-logo="    https://i.ibb.co/wSPFds2/nr1turk.png      " group-title="MÜZİK",Number 1 Türk 
+https://pull1-poc.blutv.com/live/U6D3B4S2/U6D3B4S2_720p.m3u8?pkg_hm=index.m3u8&pkg_svc=1
 https://nr1turk.blutv.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
- 
+#EXTINF:-1 tvg-id="milyontv.tr" tvg-language="Turkish" tvg-logo="    https://static.wixstatic.com/media/86e281_df1090d9ef2e4a4da93f571496ee70f2~mv2.png/v1/fill/w_360,h_360,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/milyontv.png      " group-title="MÜZİK",milyontv
+https://pull1-poc.blutv.com/live/2ZJ6X7A9/2ZJ6X7A9_720p.m3u8?pkg_hm=index.m3u8&pkg_svc=1
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MÜZİK",Number 1 Türk Damar 
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-language="Turkish" tvg-logo="   https://i.ibb.co/B6N9KsN/powerturk22.png      " group-title="MÜZİK",Power Türk 
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo=" https://1.bp.blogspot.com/-7EqKEiYowB0/XrD2cgUAc2I/AAAAAAAAYYk/W71ha0YZj_ECpsCqMMDx9zUDRyHaGsfBQCLcBGAsYHQ/s1600/05.png   " group-title="MÜZİK",Slow Karadeniz TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play_720.m3u8
+https://yayin.slowkaradeniztv.com:3390/multi_web/play_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",DAMAR TV 
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",ARABESK TV 
