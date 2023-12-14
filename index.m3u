@@ -7,7 +7,8 @@ https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz
 ULUSAL
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",trtʰᵈ
-https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8 (1080p)
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",bhNᶠʰᵈ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113425
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",bluᴴᴰ
