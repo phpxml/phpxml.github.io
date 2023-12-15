@@ -10,11 +10,11 @@ TRT 1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",trtʰᵈ
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8 (1080p)
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",bhNᶠʰᵈ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",bluliveᶠʰᵈ
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113425
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png   " group-title="ULUSAL",bludvrᴴᴰ
 https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
 
@@ -24,10 +24,10 @@ https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
 TRT 2
-#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",bluliveᴴᴰ
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",bludvrᴴᴰ
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",fhdᴴᴰ
@@ -37,10 +37,10 @@ EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 
 TRT SPOR
-#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR bluʰᵈ
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR bluliveʰᵈ
 https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR bluʰᵈ
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR bludvrʰᵈ
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
 
@@ -48,7 +48,7 @@ TRT MÜZİK
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",trtᴴᴰ
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",bluliveᴴᴰ
 https://trtmuzik.blutv.com/blutv_trtmuzik2/live.m3u8
 https://trtmuzik.blutv.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
 
@@ -56,7 +56,7 @@ TRT TÜRK
 #EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",trtᴴᴰ
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",bluliveᴴᴰ
 https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
 
@@ -69,7 +69,7 @@ TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL trtᴴᴰ
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL bluᴴᴰ
+#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL bludvrᴴᴰ
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live_720p2000000kbps/index.m3u8
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/243222
@@ -94,10 +94,10 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6855/index.m3u8
 http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6294
 
 FOX
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",bluliveᴴᴰ
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",bludvrᴴᴰ
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",blusd
@@ -124,10 +124,10 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",filboxᶠʰᵈ
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/11/index.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",blusd
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",bluliveᴴᴰ
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6889/index.m3u8
-#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",bludvrᴴᴰ
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_540p1250000kbps/index.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
@@ -144,9 +144,9 @@ http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/199289
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6890/index.m3u8
 
 SHOWTÜRK
-#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",bluliveᴴᴰ
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
-#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",blusd
+#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",bluliveᴴᴰ
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 https://showturk.blutv.com/blutv_showturk2/live_540p1250000kbps/index.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6889/index.m3u8
@@ -186,12 +186,11 @@ EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",dmrᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",bhNᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113438
 
 KANAL 7
-#EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="ULUSAL",bluliveᴴᴰ
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="ULUSAL",liveᴴᴰ
@@ -242,7 +241,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 360
-#EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="ULUSAL",bluᴴᴰ
+#EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="ULUSAL",bluliveᴴᴰ
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="ULUSAL",liveᴴᴰ
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -263,11 +263,12 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371840
 TEVE2
 #EXTINF:-1 tvg-id="   Teve2.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="ULUSAL",Teve2 dmrᴴᴰ
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 BLUTV PLAY
-#EXTINF:-1 tvg-id="  blutv play1   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="ULUSAL",blutv|play 1 bluᴴᴰ
+#EXTINF:-1 tvg-id="  blutv play1   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="ULUSAL",blutv|play 1 bludvrᴴᴰ
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  blutv play2   " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="ULUSAL",blutv|play 2 bluᴴᴰ
+#EXTINF:-1 tvg-id="  blutv play2   " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="ULUSAL",blutv|play 2 bludvrᴴᴰ
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
 DENİZ POSTASI
