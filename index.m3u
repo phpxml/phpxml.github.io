@@ -44,6 +44,10 @@ https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
 
+ASPOR
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
+https://corsproxy.org/?https://cakal.click/yayinas.m3u8
+
 TRT MÜZİK
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",trtᴴᴰ
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
