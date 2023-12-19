@@ -2025,7 +2025,20 @@ http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/118291
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/276700
 
 
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 HD" tvg-logo="" group-title="beIN SPORT 2⚽",-2-b**N SPORTS 1 HD
+BEIN SPOR 2
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png  " group-title="beIN SPORT 2 ⚽",beIN 1
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 2 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png   " group-title="beIN SPORT 2 ⚽",beIN 2
+https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 3 HD**" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png  " group-title="beIN SPORT 2 ⚽",beIN 3
+https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 4 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png    " group-title="beIN SPORT 2 ⚽",beIN 4
+https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 5 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/home_hd.png  " group-title="beIN SPORT 2 ⚽",beIN 5
+https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT max1  HD**" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/home_hd.png   " group-title="beIN SPORT 2 ⚽",max 1
+https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT max2  HD**" tvg-logo="    http://www.digiturk.com.tr/icerik/2015logos/home_hd.png   " group-title="beIN SPORT 2 ⚽",max 2
+https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
 
 
