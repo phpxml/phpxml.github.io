@@ -92,6 +92,8 @@ https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smi
 https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b2064000.m3u8
 #EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",blusd
 https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b1314000.m3u8
+#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",veb56
+http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/259820
 
 BBC EARTH
 #EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH vebᶠʰᵈ
