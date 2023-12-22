@@ -239,6 +239,8 @@ https://corsproxy.org/?https://cakal.click/yayintv8.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",bhNʰᵈ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/169160
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",cakalʰᵈ
+https://corsproxy.org/?https://cakal.click/yayintv8.m3u8
 
 TV 8.5
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 liveᴴᴰ
