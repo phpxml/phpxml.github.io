@@ -535,6 +535,8 @@ https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",Habertürk ᴴᴰ
 https://haberturk.blutv.com/blutv_haberturk_live/live_720p2000000kbps/index.m3u8 
+#EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",Habertürk ciner ᴴᴰ
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8 
