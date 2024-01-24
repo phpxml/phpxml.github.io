@@ -1560,9 +1560,9 @@ http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/276700
 
 
 BEIN SPOR 2
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png  " group-title="beIN SPORT 2 ⚽",beIN 1
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png  " group-title="beIN SPORT 2 ⚽",beIN 1 trgoals
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png  " group-title="beIN SPORT 2 ⚽",beIN 1
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png  " group-title="beIN SPORT 2 ⚽",beIN 1 taraftarium24x
 https://cakal.click/yayinstar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 2 HD**" tvg-logo="   http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png   " group-title="beIN SPORT 2 ⚽",beIN 2
 https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
