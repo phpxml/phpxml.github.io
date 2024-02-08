@@ -84,14 +84,14 @@ https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live_720p2000000kbps/inde
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/243222
 
 DISCOVERY
-#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",bluᶠʰᵈ
+EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",bluᶠʰᵈ
 https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist.m3u8
 https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b4128000.m3u8
-#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",bluᴴᴰ
+EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",bluᴴᴰ
 https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b2064000.m3u8
-#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",blusd
+EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",blusd
 https://discoveryscidrm.blutv.com/blutv_discoverysci_drm/discoverysci_hd_drm.smil/chunklist_w1964654874_b1314000.m3u8
-#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",veb56
+EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",veb56
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/259820
 
 BBC EARTH
@@ -115,7 +115,7 @@ EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4ty
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_540p1250000kbps/index.m3u8
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",bhNᶠʰᵈ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113432
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",filboxᶠʰᵈ
+EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",filboxᶠʰᵈ
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
 
 FX
@@ -132,7 +132,7 @@ http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/92392
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",cinerᴴᴰ
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",filboxᶠʰᵈ
+EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",filboxᶠʰᵈ
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/11/index.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",bluliveᴴᴰ
@@ -171,7 +171,7 @@ https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",bhNᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113430
 https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",filboxᴴᴰ
+EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",filboxᴴᴰ
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/14/index.m3u8
 
 EUROSTAR
@@ -214,9 +214,9 @@ http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113427
 #EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",cakalᴴᴰ
 https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371812
-#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",filboxᴴᴰ
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",vebᴴᴰ
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/113428
+https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6886/index.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6885/index.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6887/index.m3u8
