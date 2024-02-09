@@ -311,6 +311,11 @@ AFYON TÜRK
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",AFYON TÜRK liveᴴᴰ
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
+LIONBOX KORKU
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIONBOX KORKU" tvg-logo="http://portal.bylr-tv.com:8080/images/afa24dac790afbff8d4991c8da5926f3.png" group-title="ULUSAL",TR: LIONBOX KORKU
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/259
+
+
 EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
 
 EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
