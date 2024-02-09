@@ -29,10 +29,10 @@ https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",bludvrᴴᴰ
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",fhdᴴᴰ
+EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",fhdᴴᴰ
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
-EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",ᴴᴰ
+#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 
 TRT SPOR
@@ -1351,6 +1351,30 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64776
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64777
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 ʜᴅ" tvg-logo="http://carmeltv.live:80/images/iZKKwuVtN197YXfRWVCVoxrWVdPFHJxxqRzXh8rJl_eksmg-O5nqxiZzMEWDoyJnw-8uHsRMug5XUFf9XcUGZPW_3HjDlHPNNzYuYIN3bs6fAovB1d5BPcS6ueeIS793-4ZrdAcycvvTMJqlNqiCPXw0GizWMHysQjVgUfWpblsT9QrYgdOuZ-iqPb92sXgZDktqIl5xM3wCTlcPh2lBzmW3clco4l1jFGuBlIFhjQY.png" group-title="MAX",TR: MAX 007 ʜᴅ
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64778
+
+MOVIE TIME
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 1 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 1 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/279
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 2 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 2 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/278
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 3 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 3 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/277
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 4 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 4 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/276
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 5 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 5 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/275
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 6 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 6 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/266
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 7 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 7 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/264
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 8 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 8 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/263
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 9 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 9 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/262
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TIME 10 HD" tvg-logo="http://portal.bylr-tv.com:8080/images/c7fecc9c2a518a7c74c3e80139f70bce.png" group-title="MOVIE TIME",TR: MOVIE TIME 10 HD
+http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/261
+
 
 --------
 
