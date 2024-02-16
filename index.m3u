@@ -86,6 +86,7 @@ https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL bludvrᴴᴰ
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL veb56ᴴᴰ
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/243222
 
 DISCOVERY
