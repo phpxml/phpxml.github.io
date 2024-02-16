@@ -44,11 +44,13 @@ https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR bludvrʰᵈ
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR cakalʰᵈ
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR mxʰᵈ
+http://panelmx.xyz:8080/mr8457/bh.mr203/263134
 https://corsproxy.org/?https://cakal.click/yayintrtspor.m3u8
 
 ASPOR
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR cakalᵁᴴᴰ
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR mxᵁᴴᴰ
+http://panelmx.xyz:8080/mr8457/bh.mr203/263105
 https://corsproxy.org/?https://cakal.click/yayinas.m3u8
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR bhNᵁᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/277913
@@ -103,8 +105,8 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6854/index.m3u8
 #EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH vebᶠʰᵈ
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/374326
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6855/index.m3u8
-#EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH playssᶠʰᵈ
-http://play.ssiptvglobal.xyz:8080/gkn7027/zUwZpXZXRFUq/6294
+#EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH mxᶠʰᵈ
+http://panelmx.xyz:8080/mr8457/bh.mr203/6294
 
 FOX
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW bluliveᴴᴰ
@@ -220,7 +222,8 @@ https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371812
 #EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",vebᴴᴰ
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/113428
-#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",uhdᴴᴰ
+#EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",mxᴴᴰ
+http://panelmx.xyz:8080/mr8457/bh.mr203/6266
 http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/759
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6886/index.m3u8
@@ -250,6 +253,8 @@ http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/773
 http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/154051
 http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/774
 https://corsproxy.org/?https://cakal.click/yayintv8.m3u8
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",mxʰᵈ
+http://panelmx.xyz:8080/mr8457/bh.mr203/20742
 
 TV 8.5
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 liveᴴᴰ
@@ -258,7 +263,8 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=5tsamucat8rt&app=bf58a
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/371813
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 bhNᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113433
-#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 cakalᴴᴰ
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 mxᴴᴰ
+http://panelmx.xyz:8080/mr8457/bh.mr203/6281
 https://cakal.click/yayintv85.m3u8
 
 BEYAZ
