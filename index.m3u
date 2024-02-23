@@ -32,10 +32,11 @@ https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",bludvrᴴᴰ
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
-EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",fhdᴴᴰ
+#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",trtᴴᴰ
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
-#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",vebᴴᴰ
+EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",vebᴴᴰ
 http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/113426
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 
