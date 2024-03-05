@@ -94,17 +94,17 @@ https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live_720p2000000kbps/index.m3u8
 
 INVESTIGATION DISCOVERY
-#EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="BELGESEL",Investigation Discovery ᴴᴰ
+#EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8 
-#EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="BELGESEL",Investigation Discovery ᴴᴰ
+#EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_2.m3u8
 
 DISCOVERY
-#EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
+#EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ʰᵈ
+#EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ʰᵈ
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b2064000.m3u8
-EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel sd
+EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel sd
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b1314000.m3u8
 
 BBC EARTH
