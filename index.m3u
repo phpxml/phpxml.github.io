@@ -244,7 +244,7 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 ATV
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113428
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113427
 https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113427
 #EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
@@ -331,8 +331,13 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 BLUTV PLAY
 #EXTINF:-1 tvg-id="  blutv play1   " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png    " group-title="ULUSAL",blutv|play 1 ᴴᴰ
+https://play1.blutv.com/blutv_play1/live_720p2000000kbps/index.m3u8
+https://play1.blutv.com/blutv_play1/live.m3u8
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
+https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
 #EXTINF:-1 tvg-id="  blutv play2   " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/800px-BluTV.svg.png     " group-title="ULUSAL",blutv|play 2 ᴴᴰ
+https://play2.blutv.com/blutv_play2/live_720p2000000kbps/index.m3u8
+https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
 DENİZ POSTASI
@@ -350,6 +355,8 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 TV4
 #EXTINF:-1 tvg-id=" TV4.tr  " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="ULUSAL",TV4 ᴴᴰ
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-id=" TV4.tr  " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="ULUSAL",TV4 ᴴᴰ
+https://tv4.blutv.com/blutv_tv4/live_720p2000000kbps/index.m3u8
 
 AFYON TÜRK
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",AFYONTÜRK ᴴᴰ
