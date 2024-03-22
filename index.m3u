@@ -388,6 +388,15 @@ EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli
 
 EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
 
+BEIN SERIES
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR | beIN SERIES VICE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.VICE.png" group-title="ULUSAL",beIN SERIES 1
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/92373
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR | beIN SERIES SCI-FI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.SCI.FI.png" group-title="ULUSAL",beIN SERIES 2
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/92375
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR | beIN SERIES COMEDY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.COMEDY.png" group-title="ULUSAL",beIN SERIES 3
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/92374
+
+
 
 -----
 BELGESEL
@@ -890,103 +899,6 @@ EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic H
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260059
 EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name=" Kabel 1 Classics" tvg-logo="https://imagizer.imageshack.com/img923/3083/G5C5J3.png" group-title="KABEL EINS CLASSICS", Kabel 1 Classics
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96415
-
-
---------
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT" tvg-logo="" group-title="SKY CINEMA",SKY SELECT
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412063
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 2
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412064
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 3" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 3
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412065
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 4" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 4
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412066
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 5" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 5
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412067
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 6" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 6
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412068
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 7" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 7
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412069
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 8" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 8
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412070
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 9" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 9
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412071
-#EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 10" tvg-logo="" group-title="SKY CINEMA",SKY SELECT 10
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412072
-
-
-------
-
---------
-BEIN DSMART
-
-#EXTINF:-1 tvg-id="" tvg-name="✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪" tvg-logo="" group-title="beIN & D-SMART",✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/97391
-#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR | beIN SERIES VICE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.VICE.png" group-title="beIN & D-SMART",TR | beIN SERIES VICE HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92373
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR | beIN SERIES COMEDY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.COMEDY.png" group-title="beIN & D-SMART",TR | beIN SERIES COMEDY HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92374
-#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR | beIN SERIES SCI-FI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.SCI.FI.png" group-title="beIN & D-SMART",TR | beIN SERIES SCI-FI HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92375
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR | beIN MOVIES TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.TURK.png" group-title="beIN & D-SMART",TR | beIN MOVIES TURK HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92376
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR | beIN MOVIES STARS HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.STARS.png" group-title="beIN & D-SMART",TR | beIN MOVIES STARS HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92377
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR | beIN MOVIES PREMIER HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.png" group-title="beIN & D-SMART",TR | beIN MOVIES PREMIER HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92378
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR | beIN MOVIES PREMIER 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.2.png" group-title="beIN & D-SMART",TR | beIN MOVIES PREMIER 2 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92379
-#EXTINF:-1 tvg-id="360.tr" tvg-name="TR | beIN MOVIES FAMILY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.FAMILY.png" group-title="beIN & D-SMART",TR | beIN MOVIES FAMILY HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92380
-#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR | beIN MOVIES ACTION HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.png" group-title="beIN & D-SMART",TR | beIN MOVIES ACTION HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92381
-#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR | beIN MOVIES ACTION 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.2.png" group-title="beIN & D-SMART",TR | beIN MOVIES ACTION 2 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92382
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR | beINBOX OFFICE 1 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.1.png" group-title="beIN & D-SMART",TR | beINBOX OFFICE 1 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92383
-#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR | beINBOX OFFICE 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.2.png" group-title="beIN & D-SMART",TR | beINBOX OFFICE 2 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92384
-#EXTINF:-1 tvg-id="" tvg-name="TR: b**N B*X OFFİCE 3 HD" tvg-logo="" group-title="beIN & D-SMART",TR: b**N B*X OFFİCE 3 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/374071
-#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR | MOVIESMART TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.TURK.png" group-title="beIN & D-SMART",TR | MOVIESMART TURK HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92385
-#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="TR | MOVIESMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.PREMIUM.png" group-title="beIN & D-SMART",TR | MOVIESMART PREMIUM HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92386
-#EXTINF:-1 tvg-id="moviesmartpremium2.tr" tvg-name="TR | MOVIESMART PREMIUM 2 HD" tvg-logo="http:..." group-title="beIN & D-SMART",TR | MOVIESMART PREMIUM 2 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92387
-#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR | MOVIESMART CLASSIC HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.CLASSIC.png" group-title="beIN & D-SMART",TR | MOVIESMART CLASSIC HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92388
-#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR | DIZISMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.PREMIUM.png" group-title="beIN & D-SMART",TR | DIZISMART PREMIUM HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92389
-#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR | DIZI SMART MAX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.MAX.png" group-title="beIN & D-SMART",TR | DIZI SMART MAX HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92390
-#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR | FOX CRIME HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/FOX.CRIME.png" group-title="beIN & D-SMART",TR | FOX CRIME HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92391
-#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR | FX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/FX.png" group-title="beIN & D-SMART",TR | FX HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92392
-#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR | SiNEMA TV YERLi HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.YERLI.png" group-title="beIN & D-SMART",TR | SiNEMA TV YERLi HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92393
-#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR | SiNEMA TV 1001 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1001.png" group-title="beIN & D-SMART",TR | SiNEMA TV 1001 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92394
-#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR | SiNEMA TV AiLE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AILE.png" group-title="beIN & D-SMART",TR | SiNEMA TV AiLE HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92395
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR | SiNEMA TV AKSiYON HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AKSIYON.png" group-title="beIN & D-SMART",TR | SiNEMA TV AKSiYON HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92396
-#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SiNEMA TV HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.png" group-title="beIN & D-SMART",TR | SiNEMA TV HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92397
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR | SINEMA TV AKSIYON 2 HD" tvg-logo="http:..." group-title="beIN & D-SMART",TR | SINEMA TV AKSIYON 2 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92398
-#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR | SINEMA TV 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.2.png" group-title="beIN & D-SMART",TR | SINEMA TV 2 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92399
-#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR | SINEMA TV KOMEDI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.KOMEDI.png" group-title="beIN & D-SMART",TR | SINEMA TV KOMEDI HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92400
-#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR | SINEMA TV 1002 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1002.png" group-title="beIN & D-SMART",TR | SINEMA TV 1002 HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92402
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam" tvg-logo="" group-title="beIN & D-SMART",TR: FILMAX Yesilcam
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/350956
-#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Sinema HD" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="beIN & D-SMART",TR: Yesilcam Sinema HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/350959
 
 -------
 
