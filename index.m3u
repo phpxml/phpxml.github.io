@@ -245,7 +245,8 @@ KANAL 7
 #EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="ULUSAL",KANAL 7 ᴴᴰ
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
-EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="ULUSAL",KANAL 7 ᴴᴰ
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="ULUSAL",KANAL 7 ᴴᴰ
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64580
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
