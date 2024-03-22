@@ -368,10 +368,6 @@ EM TV
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",em TV ᴴᴰ
 https://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w966794791.m3u8
 
-LIONBOX KORKU
-EXTINF:-1 tvg-id="" tvg-name="TR: LIONBOX KORKU" tvg-logo="http://portal.bylr-tv.com:8080/images/afa24dac790afbff8d4991c8da5926f3.png" group-title="ULUSAL",LIONBOX KORKU
-http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/259
-
 
 EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
 
@@ -496,38 +492,43 @@ EXTINF:-1 tvg-id="  cine5 " tvg-language="" tvg-logo=" https://upload.wikimedia.
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
 TRT HABER
-#EXTINF:-1 tvg-id=" TRT.Haber.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER ᴴᴰ
+EXTINF:-1 tvg-id=" TRT.Haber.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER ᴴᴰ
+https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
 https://trthaber.blutv.com/blutv_trthaber_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id=" TRT.Haber.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER ᴴᴰ
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="HABER",HALK ᴴᴰ
+https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live_720p2000000kbps/index.m3u8
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="HABER",HALK ᴴᴰ
+EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="HABER",HALK ᴴᴰ
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=55x6qmpw8q6a&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
 KRT
 #EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
+https://krt.blutv.com/blutv_krt_live/live.m3u8
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8 
-#EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
+EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
 https://krtdvr.blutv.com/blutv_krt_live_dvr/live_720p2000000kbps/index.m3u8
 
 TELE 1
 #EXTINF:-1 tvg-id="   Tele.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="HABER",TELE 1 ᴴᴰ
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8 
-#EXTINF:-1 tvg-id="   Tele.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="HABER",TELE 1 ᴴᴰ
+EXTINF:-1 tvg-id="   Tele.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="HABER",TELE 1 ᴴᴰ
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_1080p3500000kbps/index.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live_1080p3500000kbps/index.m3u8
 
 FLASH HABER
 #EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="HABER",FLASH HABER ᴴᴰ
+https://flashtvdvr.blutv.com/blutv_flashtv_dvr/live.m3u8
 https://flashtvdvr.blutv.com/blutv_flashtv_dvr/live_720p2000000kbps/index.m3u8
 https://flashtvdvr.blutv.com/blutv_flashtv_dvr/live_1080p3500000kbps/index.m3u8
 https://flashtv.blutv.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="HABER",FLASH HABER ᴴᴰ
+EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="    https://i.ibb.co/F5FcvbZ/flash4ok.png   " group-title="HABER",FLASH HABER ᴴᴰ
 https://flashtv.blutv.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 https://flashtv.blutv.com/blutv_flashtv/live_1080p3500000kbps/index.m3u8
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
