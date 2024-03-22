@@ -181,6 +181,11 @@ https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᶠʰᵈ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393158
 
+ATV
+#EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
+http://panelmx.xyz:8080/mr8457/bh.mr203/6276
+
+
 SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/199289
