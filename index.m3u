@@ -840,52 +840,93 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96402
 ---------
 ALMAN
 
+ZDF
 #EXTINF:-1 tvg-id="   ZDF.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF ᴴᴰ
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+ZDF INFO
 #EXTINF:-1 tvg-id="      ZDFinfo.HD.de     " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png    " group-title="ALMAN",Zdfinfo ᴴᴰ
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
+ZDF NEO
 #EXTINF:-1 tvg-id="   ZDFneo.HD.de   " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title="ALMAN",Zdfneo ᴴᴰ
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+
+ONE
 #EXTINF:-1 tvg-id="  ONE.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title="ALMAN",One ᴴᴰ
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
+
+DAS ERSTE
 #EXTINF:-1 tvg-id="    Das.Erste.HD.de    " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title="ALMAN",Das Erste ᵁᴴᴰ
 https://mcdn.daserste.de/daserste/de/master.m3u8 
+
+KIKA
 #EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ALMAN",KIKA ᴴᴰ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
 
+DISNEY CHANNEL
 EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
 https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
 EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ALMAN" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
 
+3SAT
 #EXTINF:1 tvg-id="  3sat.HD.de    " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/500px-3sat_2019.svg.png" group-title="ALMAN",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+PHOENIX
 #EXTINF:-1 tvg-id="   PHOENIX.HD.de   " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/500px-Phoenix-logo-2018.svg.png" group-title="ALMAN",Phoenix 
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+ARTE
 #EXTINF:1 tvg-id="     ARTE.HD.de    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/121px-Arte_Logo_2017.svg.png" group-title="ALMAN",ARTE Germany
 https://artelivezdf.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
+BR
 #EXTINF:-1 tvg-id="    Bayerisches.Fernsehen.HD.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/500px-Logo_BR_Fernsehen_2021.svg.png   " group-title="ALMAN",BR Fernsehen Nord
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8 
+
+HR
 #EXTINF:-1 tvg-id="     hr-Fernsehen.HD.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/500px-Hr-fernsehen_Logo_2015.svg.png   " group-title="ALMAN",HR Fernsehen
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+
+MDR
 #EXTINF:-1 tvg-id="      MDR.Fernsehen.HD.de        " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png    " group-title="ALMAN",MDR Fernsehen Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+
+NDR
 #EXTINF:-1 tvg-id="    NDR.Fernsehen.HD.de       " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png         " group-title="ALMAN",NDR Fernsehen Hamburg
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8 
+
+RB
 #EXTINF:-1 tvg-id="      RadioBremenFernsehen.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Radio_Bremen_TV.svg/500px-Logo_Radio_Bremen_TV.svg.png       " group-title="ALMAN",Radio Bremen Fernsehen
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+
+RBB
 #EXTINF:-1 tvg-id="     rbb.Fernsehen.HD.de      " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/500px-Rbb_Fernsehen_Logo_2017.08.svg.png     " group-title="ALMAN",RBB Berlin
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-720p-3328.m3u8
+
+SRF
 #EXTINF:-1 tvg-id="      SRF.1.HD.de     " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/500px-SR_Fernsehen.svg.png         " group-title="ALMAN",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+SWR
 #EXTINF:-1 tvg-id="      SWR.Fernsehen.HD.de     " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SWR_FERNSEHEN_2014.png/250px-SWR_FERNSEHEN_2014.png      " group-title="ALMAN",SWR Fernsehen Baden-Wurttemberg
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3328.m3u8
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
+
+WDR
 #EXTINF:-1 tvg-id="      WDR.Fernsehen.HD.de     " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/500px-WDR_Fernsehen_Logo_2018.svg.png       " group-title="ALMAN",WDR Fernsehen Aachen
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+
+ARD ALPHA
 #EXTINF:-1 tvg-id="   ARD-alpha.de   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png  " group-title="ALMAN",ARD-alfa 
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+TAGESSCHAU
 #EXTINF:-1 tvg-id="     tagesschau24.HD.de      " tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/500px-Tagesschau24-2012.svg.png      " group-title="ALMAN",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+DW
 #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 
