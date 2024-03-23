@@ -831,11 +831,18 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412047
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412037
 #EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="" group-title="ALMAN",SYFY
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412073
-
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: Universal TV HD" tvg-logo="" group-title="ALMAN",Universal
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412092
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 Gold HD+" tvg-logo="https://imagizer.imageshack.com/img923/7349/B2O7DT.png" group-title="ALMAN",SAT 1 Gold HD+
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96401
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 Gold HD" tvg-logo="https://imagizer.imageshack.com/img923/7349/B2O7DT.png" group-title="ALMAN",SAT 1 Gold HD
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96402
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY DISNEY+" tvg-logo="" group-title="ALMAN",ONEPLAY DISNEY+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425235
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere" tvg-logo="" group-title="ALMAN",MAX Premiere
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425274
+
+
 
 ---------
 ALMAN
