@@ -823,6 +823,47 @@ https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 ------
 ALMAN
 
+SKY
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky ONE FHD" tvg-logo="" group-title="SKY",Sky ONE FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412037
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: Sky Cinema Action FHD" tvg-logo="" group-title="SKY",Sky Cinema Action FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412040
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="DE: Sky Cinema Best of FHD" tvg-logo="" group-title="SKY",Sky Cinema Best of FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412042
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: Sky Cinema Family FHD" tvg-logo="" group-title="SKY",Sky Cinema Family FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412044
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: Sky Cinema Premieren +24 FHD" tvg-logo="" group-title="SKY",Sky Cinema Premieren +24 FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412046
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: Sky Cinema Premieren FHD" tvg-logo="" group-title="SKY",Sky Cinema Premieren FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412047
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="" group-title="SKY",Sky Cinema Fun HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412051
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: Sky Cinema Special FHD" tvg-logo="" group-title="SKY",Sky Cinema Special FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412052
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE: Sky Cinema Thriller FHD" tvg-logo="" group-title="SKY",Sky Cinema Thriller FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412054
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: Sky Atlantic FHD" tvg-logo="" group-title="SKY",Sky Atlantic FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412055
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: Sky Atlantic HD" tvg-logo="" group-title="SKY",Sky Atlantic HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412056
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: Sky Krimi HD" tvg-logo="" group-title="SKY",Sky Krimi HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412057
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: Sky Krimi FHD" tvg-logo="" group-title="SKY",Sky Krimi FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412058
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: Sky Nature HD" tvg-logo="" group-title="SKY",Sky Nature HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412059
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: Sky Documentaries HD" tvg-logo="" group-title="SKY",Sky Documentaries HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412062
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY FHD" tvg-logo="" group-title="SKY",SYFY FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412073
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: Sky Romance TV FHD" tvg-logo="" group-title="SKY",Sky Romance TV FHD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412075
+#EXTINF:-1 tvg-id="skyreplay.de" tvg-name="DE: Sky Replay HD" tvg-logo="" group-title="SKY",Sky Replay HD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412077
+
+-------
+
 MAX KINO
 
 #EXTINF:-1 tvg-id="" tvg-name=" MAX KINO COLLECTION" tvg-logo="" group-title="MAX KINO", MAX KINO COLLECTION
@@ -897,10 +938,6 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425223
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425224
 
 --------
-
-
-
-
 
 ---------
 ALMAN
