@@ -823,28 +823,82 @@ https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 ------
 ALMAN
 
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: Sky Atlantic FHD" tvg-logo="" group-title="ALMAN",Sky Atlantic
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412055
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: Sky Cinema Action FHD" tvg-logo="" group-title="ALMAN",Sky Cinema Action
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412040
-#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="DE: Sky Cinema Best of FHD" tvg-logo="" group-title="ALMAN",Sky Cinema Best of
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412042
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: Sky Cinema Premieren FHD" tvg-logo="" group-title="ALMAN",Sky Cinema Premieren
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412047
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky ONE FHD" tvg-logo="" group-title="ALMAN",Sky ONE
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412037
-#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="" group-title="ALMAN",SYFY
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412073
-#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: Universal TV HD" tvg-logo="" group-title="ALMAN",Universal
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412092
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 Gold HD+" tvg-logo="https://imagizer.imageshack.com/img923/7349/B2O7DT.png" group-title="ALMAN",SAT 1 Gold HD+
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96401
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 Gold HD" tvg-logo="https://imagizer.imageshack.com/img923/7349/B2O7DT.png" group-title="ALMAN",SAT 1 Gold HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96402
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY DISNEY+" tvg-logo="" group-title="ALMAN",ONEPLAY DISNEY+
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425235
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere" tvg-logo="" group-title="ALMAN",MAX Premiere
+MAX KINO
+
+#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO COLLECTION" tvg-logo="" group-title="MAX KINO", MAX KINO COLLECTION
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425271
+#EXTINF:-1 tvg-id="" tvg-name=" MAX Premiere" tvg-logo="" group-title="MAX KINO", MAX Premiere
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425274
+#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 1" tvg-logo="" group-title="MAX KINO", MAX KINO 1
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425266
+#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 2" tvg-logo="" group-title="MAX KINO", MAX KINO 2
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425267
+#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 3" tvg-logo="" group-title="MAX KINO", MAX KINO 3
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425268
+#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 4" tvg-logo="" group-title="MAX KINO", MAX KINO 4
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425269
+#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 5" tvg-logo="" group-title="MAX KINO", MAX KINO 5
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425270
+
+#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 1" tvg-logo="" group-title="MAX KINO", MAX SELECT 1
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425237
+#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 2" tvg-logo="" group-title="MAX KINO", MAX SELECT 2
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425238
+#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 3" tvg-logo="" group-title="MAX KINO", MAX SELECT 3
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425239
+#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 4" tvg-logo="" group-title="MAX KINO", MAX SELECT 4
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425240
+#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 5" tvg-logo="" group-title="MAX KINO", MAX SELECT 5
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425241
+#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 6" tvg-logo="" group-title="MAX KINO", MAX SELECT 6
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425242
+#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 7" tvg-logo="" group-title="MAX KINO", MAX SELECT 7
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425243
+
+-------
+ONEPLAY
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY BOLLYWOOD" tvg-logo="" group-title="ONEPLAY",ONEPLAY BOLLYWOOD
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425225
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY ROMANTISCH" tvg-logo="" group-title="ONEPLAY",ONEPLAY ROMANTISCH
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425226
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY FAMILIE" tvg-logo="" group-title="ONEPLAY",ONEPLAY FAMILIE
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425227
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY HORROR" tvg-logo="" group-title="ONEPLAY",ONEPLAY HORROR
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425228
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY KOMIE" tvg-logo="" group-title="ONEPLAY",ONEPLAY KOMIE
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425229
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY AKTION+1" tvg-logo="" group-title="ONEPLAY",ONEPLAY AKTION+1
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425230
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY AKTION" tvg-logo="" group-title="ONEPLAY",ONEPLAY AKTION
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425231
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY COLLECTION" tvg-logo="" group-title="ONEPLAY",ONEPLAY COLLECTION
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425232
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY BEST OF" tvg-logo="" group-title="ONEPLAY",ONEPLAY BEST OF
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425233
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY NETFLIX" tvg-logo="" group-title="ONEPLAY",ONEPLAY NETFLIX
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425234
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY DISNEY+" tvg-logo="" group-title="ONEPLAY",ONEPLAY DISNEY+
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425235
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY EXTRA" tvg-logo="" group-title="ONEPLAY",ONEPLAY EXTRA
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425236
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 1" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 1
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425219
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 2" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 2
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425220
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 3" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 3
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425221
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 4" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 4
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425222
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 5" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 5
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425223
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 6" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 6
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425224
+
+--------
+
+
 
 
 
