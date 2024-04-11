@@ -260,17 +260,18 @@ KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="ULUSAL",KANAL 7 ᴴᴰ
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64580
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64580
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
 
 ATV
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64553
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/371812
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/64554
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113427
+
 https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113427
 EXTINF:-1 tvg-id="  ATV.tr  " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
