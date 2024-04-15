@@ -100,13 +100,17 @@ https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live_720p2000000kbps/inde
 
 INVESTIGATION DISCOVERY
 #EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b4128000.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8 
 EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b2064000.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_2.m3u8
 
 DISCOVERY
 #EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4128000.m3u8
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b2064000.m3u8
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist.m3u8
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
 EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ʰᵈ
@@ -158,7 +162,6 @@ http://veb56.online:8080/Yasvar8750/XcR9mmSwq64u/371890
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
 EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
 
-
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
@@ -191,8 +194,6 @@ http://panelmx.xyz:8080/mr8457/bh.mr203/6276
 http://panelmx.xyz:8080/zlh0935/zlh.1905/192065
 http://panelmx.xyz:8080/zlh0935/zlh.1905/6266
 http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/154046
-
-
 
 SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
@@ -427,12 +428,15 @@ INVESTIGATION DISCOVERY
 EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="BELGESEL",Investigation Discovery ᴴᴰ
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8 
 #EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="BELGESEL",Investigation Discovery ᴴᴰ
+https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b2064000.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_2.m3u8
 
 DISCOVERY
 EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ʰᵈ
+https://discoveryturkiye.blutv.com/blutv_discoveryturkiye/smil:discovery_hd.smil/chunklist_b4128000.m3u8
+https://discoveryturkiye.blutv.com/blutv_discoveryturkiye/smil:discovery_hd.smil/chunklist_b2064000.m3u8
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b2064000.m3u8
 EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel sd
 https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b1314000.m3u8
