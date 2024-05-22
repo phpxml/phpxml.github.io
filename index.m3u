@@ -165,10 +165,12 @@ EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikime
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393158
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
@@ -186,7 +188,7 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6889/index.m3u8
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_540p1250000kbps/index.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᶠʰᵈ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393158
+
 
 ATV
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
