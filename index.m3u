@@ -28,6 +28,7 @@ https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 
 TRT 2
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
 EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ
@@ -91,6 +92,7 @@ https://trtavaz.blutv.com/blutv_trtavaz/live.m3u8
 
 TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL ᴴᴰ
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL ᴴᴰ
