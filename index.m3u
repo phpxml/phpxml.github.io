@@ -13,10 +13,16 @@ TRT 1
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113425
 ----
 EURO-2024
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1 ᶠʰᵈ
-http://onlineiptvserver.xyz:8080/yasemin3698885/JdfyqPUPXR/87
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1 ᶠʰᵈ
-http://onlineiptvserver.xyz:8080/yasemin3698885/JdfyqPUPXR/86
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1-1080
+https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1-720
+https://tv-trt1.medya.trt.com.tr/master_720p.m3u8
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1-480
+https://tv-trt1.medya.trt.com.tr/master_480p.m3u8
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1-1080-2
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?=&sid=6je8zra8h18k&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1-720-2
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?=&sid=6je8zra8h18k&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1 ʰᵈ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113419
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="EURO-2024",TRT 1 ᶠʰᵈ
