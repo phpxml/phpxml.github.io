@@ -339,11 +339,11 @@ http://panelmx.xyz:8080/mr8457/bh.mr203/20742
 TV 8.5
 EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=5tsamucat8rt&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
+EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/371813
 EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113433
-EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 http://panelmx.xyz:8080/mr8457/bh.mr203/6281
 EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 https://cakal.click/yayintv85.m3u8
@@ -410,11 +410,11 @@ EXTINF:-1 tvg-id=" TV4.tr  " tvg-language="" tvg-logo="  https://www.turkmedya.c
 https://tv4.blutv.com/blutv_tv4/live_720p2000000kbps/index.m3u8
 
 AFYON TÜRK
-#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",AFYONTÜRK ᴴᴰ
+EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",AFYONTÜRK ᴴᴰ
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 EM TV
-#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",em TV ᴴᴰ
+EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",em TV ᴴᴰ
 https://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w966794791.m3u8
 
 
