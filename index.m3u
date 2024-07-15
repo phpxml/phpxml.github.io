@@ -47,7 +47,9 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
-EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/6364
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/101506
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
 https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
 
@@ -63,6 +65,8 @@ TRT SPOR
 https://bozztv.com/gin-dvrfl05/gin-trtspor/index.m3u8
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/49
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/163515
 http://panelmx.xyz:8080/mr8457/bh.mr203/6109
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259371
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259372
@@ -78,6 +82,12 @@ TRT SPOR YILDIZ
 https://bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
 https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR* ᴴᴰ
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/19805
+
+BEIN SPOR
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 4K UYDU" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_4k.png" group-title="ULUSAL",TR • BEIN SPORTS 1 4K UYDU
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/151112
 
 ASPOR
 
@@ -171,7 +181,8 @@ FX
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92392
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/92392
 
-EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
+#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/90
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
 
 SHOW
@@ -213,6 +224,8 @@ http://tv.uhdizle.com:8080/Cuneytmerdin/G67476885859S/154046
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ 2
 http://panelmx.xyz:8080/mr8457/bh.mr203/6266
 https://proxy.canlitvplayer.com/tgn.bozztv.com/gin-trn09/gin-atvv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgMTE6NTE6MTggQU0maGFzaF92YWx1ZT0wbjFEQ3pVbnZ1RmlmMXFrbFJrQndRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTg=
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/11
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/6366
 
 SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
