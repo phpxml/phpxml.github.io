@@ -185,6 +185,10 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/92392
 http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/90
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
 
+BEIN MOVIES STARS
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="TR • SINEMA UYDU YAYINLARI",TR • BEIN MOVIES STARS HD
+http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/84
+
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
