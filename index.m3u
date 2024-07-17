@@ -354,6 +354,10 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113441
 https://bozztv.com/gin-dvrfl05/gin-atvavrupa/index.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6888/index.m3u8
 
+MELTEM TV
+#EXTINF:-1 tvg-id="meltemtv.tr " tvg-language="" tvg-logo="        " group-title="ULUSAL",MELTEM ᴴᴰ
+https://canlitvulusal.xyz/live/meltemtv/index.m3u8
+
 TV8
 EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᴴᴰ
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
