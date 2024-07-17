@@ -209,6 +209,8 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://bozztv.com/gin-trn09/gin-showtv/index.m3u8
 https://bozztv.com/gin-trn09/gin-showtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
+https://canlitvulusal.xyz/live/showtv/index.m3u8
 
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393158
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
