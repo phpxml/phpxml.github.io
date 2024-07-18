@@ -357,6 +357,8 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6888/index.m3u8
 MELTEM TV
 #EXTINF:-1 tvg-id="meltemtv.tr " tvg-language="" tvg-logo="        " group-title="ULUSAL",MELTEM ᴴᴰ
 https://canlitvulusal.xyz/live/meltemtv/index.m3u8
+#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo="   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXsqtoKc10BTLcThfnRo4HJbuswOtEW5sV82Nz9WhwycAKxq2Vtleokah-sujiKcOcQwUZ0QtHDLr-LqG81esFisE5vkPMT3HM4XWdnSTc5CztgBJnHP5cgLkv7TzXRKX4P1Gd34hvvcvg/s1600-rw/tv5.jpg" group-title="ULUSAL",5 ᴴᴰ
+https://canlitvulusal.xyz/live/tv5/index.m3u8
 
 TV8
 EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᴴᴰ
