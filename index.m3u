@@ -175,12 +175,20 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
 BEIN MOVIES STARS
 #EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
 http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/84
+
 BEIN MOVIES PREMIERE
 #EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR • BEIN MOVIES PIREMIERE HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
 http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/88
 #EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR • BEIN MOVIES PREMIERE 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
 http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/87
 
+MAX TURK
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://i.hizliresim.com/s8v7rmr.png" group-title="ULUSAL",MAX TURK HD
+http://panelmx.xyz:8080/mr8457/bh.mr203/446827
+
+MAX GOLD
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://i.hizliresim.com/s8v7rmr.png" group-title="ULUSAL",MAX GOLD HD
+http://panelmx.xyz:8080/mr8457/bh.mr203/446828
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ 1
