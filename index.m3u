@@ -130,6 +130,9 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 
+DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/6291
 
 INVESTIGATION DISCOVERY
 #EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
@@ -437,8 +440,7 @@ http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/92374
 
 -----
 BELGESEL
-
-#EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
+EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
 http://maxbestugr.xyz:8080/yvz8742/yvz.1905/6291
 http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259820
 EXTINF:-1 tvg-id="  Discovery.Science.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
