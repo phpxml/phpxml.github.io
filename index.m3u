@@ -42,23 +42,12 @@ https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
 
 TRT 2
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ
+http://panelmx.xyz:8080/mr8457/bh.mr203/186242
 https://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 https://canlitvulusal.xyz/live/trt2/index.m3u8
-
-
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-https://trt2.blutv.com/blutv_trt2/live.m3u8
-https://trt2.blutv.com/blutv_trt2/live_720p2000000kbps/index.m3u8
-http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/6364
-http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/101506
-https://trt2dvr.blutv.com/blutv_trt2_dvr/live.m3u8
-https://trt2dvr.blutv.com/blutv_trt2_dvr/live_720p2000000kbps/index.m3u8
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-http://167.114.115.233:8080/trt2fhd/index.m3u8
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113426
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
@@ -86,7 +75,7 @@ https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
 
 TRT SPOR YILDIZ
-#EXTINF:-1 tvg-id="" tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR YILDIZ HD
+#EXTINF:-1 tvg-id="" tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR*
 https://hw1.jemtv.com/app/trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR* ᴴᴰ
 https://bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
@@ -166,8 +155,11 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6855/index.m3u8
 
 FOX/NOW
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW ᴴᴰ 1
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1725363325&st=cryrsxLSpXGeayZ_bPvz3Q
 https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW ᴴᴰ 2
+https://nowtv.daioncdn.net/nowtv/nowtv_720p.m3u8?ex=1725330925&st=xicZ3_LCgkJDRV0DBQP9Gw&sid=6pj3n6bvzogd&app=996168fb-8e2f-42bf-9eff-fd12490d05f9&ce=3
+https://nowtv.daioncdn.net/nowtv/nowtv_720p.m3u8?ex=1725330925&st=xicZ3_LCgkJDRV0DBQP9Gw&sid=6pj3n6byrb1t&app=844bbadd-228f-4419-bb03-d5a0fa47dea4&ce=3
 https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 
 https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live_720p2000000kbps/index.m3u8
