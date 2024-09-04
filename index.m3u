@@ -156,13 +156,11 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6855/index.m3u8
 FOX/NOW
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW ᴴᴰ 1
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113420
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1725363325&st=cryrsxLSpXGeayZ_bPvz3Q
-
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW ᴴᴰ 2
 http://panelmx.xyz:8080/mr8457/bh.mr203/6276
-https://nowtv.daioncdn.net/nowtv/nowtv_720p.m3u8?ex=1725330925&st=xicZ3_LCgkJDRV0DBQP9Gw&sid=6pj3n6bvzogd&app=996168fb-8e2f-42bf-9eff-fd12490d05f9&ce=3
-https://nowtv.daioncdn.net/nowtv/nowtv_720p.m3u8?ex=1725330925&st=xicZ3_LCgkJDRV0DBQP9Gw&sid=6pj3n6byrb1t&app=844bbadd-228f-4419-bb03-d5a0fa47dea4&ce=3
-https://nowtv.blutv.com/blutv_nowtv/live.m3u8
+
+
+
 
 https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live_720p2000000kbps/index.m3u8
 https://nowtv.blutv.com/blutv_nowtv/live_720p2000000kbps/index.m3u8
@@ -254,6 +252,7 @@ http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6889/index.m3u8
 
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ 1
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ 2
 https://canlitvulusal.xyz/live/star/index.m3u8
