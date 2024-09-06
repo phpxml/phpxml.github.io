@@ -42,12 +42,13 @@ https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
 
 TRT 2
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ
+https://canlitvulusal.xyz/live/trt2/index.m3u8
 http://panelmx.xyz:8080/mr8457/bh.mr203/186242
 https://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
-https://canlitvulusal.xyz/live/trt2/index.m3u8
+
 
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
@@ -342,7 +343,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
 TV5
-#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo="   https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXsqtoKc10BTLcThfnRo4HJbuswOtEW5sV82Nz9WhwycAKxq2Vtleokah-sujiKcOcQwUZ0QtHDLr-LqG81esFisE5vkPMT3HM4XWdnSTc5CztgBJnHP5cgLkv7TzXRKX4P1Gd34hvvcvg/s1600-rw/tv5.jpg" group-title="ULUSAL",5 ᴴᴰ
+#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo="  https://canlitvulusal.com/wp-content/uploads/2023/12/tv-5-logo.png   " group-title="ULUSAL",5 ᴴᴰ
 https://canlitvulusal.xyz/live/tv5/index.m3u8
 
 TV8
