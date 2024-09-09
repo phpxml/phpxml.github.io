@@ -11,6 +11,7 @@ ULUSAL
 TRT 1
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ 1
+https://hw1.jemtv.com/app/trt1/playlist.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ 2
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
@@ -48,6 +49,7 @@ https://canlitvulusal.xyz/live/trt2/index.m3u8
 http://panelmx.xyz:8080/mr8457/bh.mr203/186242
 https://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
+https://hw1.jemtv.com/app/trt2/playlist.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
 
