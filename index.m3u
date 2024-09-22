@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz"
-https://hw1.jemtv.com/app/trt1/playlist.m3u8
 https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz
@@ -25,10 +24,9 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 https://bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 https://proxy.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trt1eu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgMTE6MTQ6MzAgQU0maGFzaF92YWx1ZT00UnRDWkJTZWNFV1Rlc09TOGdjWlhBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113425
+
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?=&sid=6je8zra8h18k&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
 http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/49
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113419
 http://panelmx.xyz:8080/mr8457/bh.mr203/358053
 http://panelmx.xyz:8080/mr8457/bh.mr203/20484
 
@@ -745,67 +743,6 @@ ARABESK TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",ARABESK TV 
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 
---------
-SPOR
-
-#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259371
-#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371856
-#EXTINF:-1 tvg-id="   TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259371
-#EXTINF:-1 tvg-id="   TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR 3 ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259372
-#EXTINF:-1 tvg-id="   TRT.Spor.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR 3 ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277910
-
-
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277912
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371861
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259373
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="SPOR",TRT SPOR* ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259374
-
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277913
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371826
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371849
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259367
-
-
-#EXTINF:-1 tvg-id="  Eurosport.tr " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png  " group-title="SPOR",EUROSPORT 1 ᴴᴰ
-https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="  Eurosport.2.tr " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/9/93/Eurosport_2_HD_Logo_2015.png  " group-title="SPOR",EUROSPORT 2 ᴴᴰ
-https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="  Sports.Tv.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Rm7Z6Z/sports22.png " group-title="SPOR",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-id="  Sports.Tv.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Rm7Z6Z/sports22.png " group-title="SPOR",Sports TV
-https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
-
-#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
-
-#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371839
-#EXTINF:-1 tvg-id="  TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="SPOR",TV 8.5 ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371813
-
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/259367
-#EXTINF:-1 tvg-id="  a.Spor.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/277913
-#EXTINF:-1 tvg-id="  a.Spor.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371826
-#EXTINF:-1 tvg-id="  a.Spor.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="SPOR",A SPOR ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371849
-
 ------
 FILMBOX
 
@@ -940,125 +877,6 @@ https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 ------
 ALMAN
 
-SKY
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky ONE FHD" tvg-logo="" group-title="SKY",Sky ONE FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412037
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: Sky Cinema Action FHD" tvg-logo="" group-title="SKY",Sky Cinema Action FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412040
-#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="DE: Sky Cinema Best of FHD" tvg-logo="" group-title="SKY",Sky Cinema Best of FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412042
-#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: Sky Cinema Family FHD" tvg-logo="" group-title="SKY",Sky Cinema Family FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412044
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: Sky Cinema Premieren +24 FHD" tvg-logo="" group-title="SKY",Sky Cinema Premieren +24 FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412046
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: Sky Cinema Premieren FHD" tvg-logo="" group-title="SKY",Sky Cinema Premieren FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412047
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="" group-title="SKY",Sky Cinema Fun HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412051
-#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: Sky Cinema Special FHD" tvg-logo="" group-title="SKY",Sky Cinema Special FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412052
-#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE: Sky Cinema Thriller FHD" tvg-logo="" group-title="SKY",Sky Cinema Thriller FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412054
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: Sky Atlantic FHD" tvg-logo="" group-title="SKY",Sky Atlantic FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412055
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: Sky Atlantic HD" tvg-logo="" group-title="SKY",Sky Atlantic HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412056
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: Sky Krimi HD" tvg-logo="" group-title="SKY",Sky Krimi HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412057
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: Sky Krimi FHD" tvg-logo="" group-title="SKY",Sky Krimi FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412058
-#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: Sky Nature HD" tvg-logo="" group-title="SKY",Sky Nature HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412059
-#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: Sky Documentaries HD" tvg-logo="" group-title="SKY",Sky Documentaries HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412062
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY FHD" tvg-logo="" group-title="SKY",SYFY FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412073
-#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: Sky Romance TV FHD" tvg-logo="" group-title="SKY",Sky Romance TV FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412075
-#EXTINF:-1 tvg-id="skyreplay.de" tvg-name="DE: Sky Replay HD" tvg-logo="" group-title="SKY",Sky Replay HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412077
-
--------
-
-MAX KINO
-
-#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO COLLECTION" tvg-logo="" group-title="MAX KINO", MAX KINO COLLECTION
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425271
-#EXTINF:-1 tvg-id="" tvg-name=" MAX Premiere" tvg-logo="" group-title="MAX KINO", MAX Premiere
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425274
-#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 1" tvg-logo="" group-title="MAX KINO", MAX KINO 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425266
-#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 2" tvg-logo="" group-title="MAX KINO", MAX KINO 2
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425267
-#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 3" tvg-logo="" group-title="MAX KINO", MAX KINO 3
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425268
-#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 4" tvg-logo="" group-title="MAX KINO", MAX KINO 4
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425269
-#EXTINF:-1 tvg-id="" tvg-name=" MAX KINO 5" tvg-logo="" group-title="MAX KINO", MAX KINO 5
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425270
-
-#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 1" tvg-logo="" group-title="MAX KINO", MAX SELECT 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425237
-#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 2" tvg-logo="" group-title="MAX KINO", MAX SELECT 2
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425238
-#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 3" tvg-logo="" group-title="MAX KINO", MAX SELECT 3
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425239
-#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 4" tvg-logo="" group-title="MAX KINO", MAX SELECT 4
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425240
-#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 5" tvg-logo="" group-title="MAX KINO", MAX SELECT 5
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425241
-#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 6" tvg-logo="" group-title="MAX KINO", MAX SELECT 6
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425242
-#EXTINF:-1 tvg-id="" tvg-name=" MAX SELECT 7" tvg-logo="" group-title="MAX KINO", MAX SELECT 7
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425243
-
--------
-ONEPLAY
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY BOLLYWOOD" tvg-logo="" group-title="ONEPLAY",ONEPLAY BOLLYWOOD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425225
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY ROMANTISCH" tvg-logo="" group-title="ONEPLAY",ONEPLAY ROMANTISCH
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425226
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY FAMILIE" tvg-logo="" group-title="ONEPLAY",ONEPLAY FAMILIE
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425227
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY HORROR" tvg-logo="" group-title="ONEPLAY",ONEPLAY HORROR
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425228
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY KOMIE" tvg-logo="" group-title="ONEPLAY",ONEPLAY KOMIE
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425229
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY AKTION+1" tvg-logo="" group-title="ONEPLAY",ONEPLAY AKTION+1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425230
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY AKTION" tvg-logo="" group-title="ONEPLAY",ONEPLAY AKTION
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425231
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY COLLECTION" tvg-logo="" group-title="ONEPLAY",ONEPLAY COLLECTION
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425232
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY BEST OF" tvg-logo="" group-title="ONEPLAY",ONEPLAY BEST OF
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425233
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY NETFLIX" tvg-logo="" group-title="ONEPLAY",ONEPLAY NETFLIX
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425234
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY DISNEY+" tvg-logo="" group-title="ONEPLAY",ONEPLAY DISNEY+
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425235
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY EXTRA" tvg-logo="" group-title="ONEPLAY",ONEPLAY EXTRA
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425236
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 1" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425219
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 2" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 2
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425220
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 3" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 3
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425221
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 4" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 4
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425222
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 5" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 5
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425223
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 6" tvg-logo="" group-title="ONEPLAY",ONEPLAY SELECT 6
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/425224
-
---------
-
----------
-ALMAN
-
 ZDF
 #EXTINF:-1 tvg-id="   ZDF.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF ᴴᴰ
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -1149,7 +967,6 @@ DW
 #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 
-
 --------
 BEIN SPOR 
 
@@ -1174,20 +991,24 @@ http://maxbestugr.xyz:8080/yvz8742/yvz.1905/456568
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BOX)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 HD (BOX)
 http://maxbestugr.xyz:8080/yvz8742/yvz.1905/456567
 
-
-EXXEN
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    " group-title="EXXEN",EXXEN
-http://panelmx.xyz:8080/zlh0935/zlh.1905/453643
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    " group-title="EXXEN",EXXEN
-http://panelmx.xyz:8080/zlh0935/zlh.1905/452750
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    " group-title="EXXEN",EXXEN
-http://panelmx.xyz:8080/zlh0935/zlh.1905/452752
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    " group-title="EXXEN",EXXEN
-http://panelmx.xyz:8080/zlh0935/zlh.1905/452753
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    " group-title="EXXEN",EXXEN
-http://panelmx.xyz:8080/zlh0935/zlh.1905/452754
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    " group-title="EXXEN",EXXEN
-http://panelmx.xyz:8080/zlh0935/zlh.1905/452755
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 SD
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/84
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 HD
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/89
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 FHD
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/77238
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS" tvg-name="TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/237081
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Bein Xtra" tvg-logo="https://logo.multicms.info/tvlogo/BeinsportsXtra.jpg" group-title="TR-SPOR",TR: Bein Xtra
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/256065
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN FEED 4K Maç Zamanı" tvg-logo="http://logo.multicms.info/tvlogo/beinsport-feed.jpg" group-title="TR-SPOR",TR: beIN FEED 4K Maç Zamanı
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/32070
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN FEED FHD Maç Zamanı" tvg-logo="http://logo.multicms.info/tvlogo/beinsport-feed.jpg" group-title="TR-SPOR",TR: beIN FEED FHD Maç Zamanı
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/64144
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN FEED HD Maç Zamanı" tvg-logo="http://logo.multicms.info/tvlogo/beinsport-feed.jpg" group-title="TR-SPOR",TR: beIN FEED HD Maç Zamanı
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/96971
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN FEED SD Maç Zamanı" tvg-logo="http://logo.multicms.info/tvlogo/beinsport-feed.jpg" group-title="TR-SPOR",TR: beIN FEED SD Maç Zamanı
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/64849
 
 
 
