@@ -11,6 +11,7 @@ ULUSAL
 TRT 1
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ 1
+https://canlitvulusal.xyz/live/trt1/index.m3u8
 https://hw1.jemtv.com/app/trt1/playlist.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ 2
@@ -19,7 +20,7 @@ https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3
 https://bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-https://canlitvulusal.xyz/live/trt1/index.m3u8
+
 
 
 https://bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
@@ -1148,87 +1149,31 @@ DW
 #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 
-----------
-KABEL EINS CLASSIC
-
-EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="KABEL EINS CLASSICS", Kabel Eins Classic HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/96415
-EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="KABEL EINS CLASSICS", Kabel Eins Classic HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/413546
-EXTINF:-1 tvg-id="  kabel.eins.CLASSICS.de  " tvg-name="DE: Kabel Eins Classic HD" tvg-logo="http://myserveriptv.com:2082/images/8ee25521d5055926e9b484111b7bf2fe.png" tvg-id2="Mzk2NzI=" group-title="KABEL EINS CLASSICS", Kabel Eins Classic HD
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/260059
-EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name=" Kabel 1 Classics" tvg-logo="https://imagizer.imageshack.com/img923/3083/G5C5J3.png" group-title="KABEL EINS CLASSICS", Kabel 1 Classics
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/96415
 
 --------
+BEIN SPOR 
 
-BEIN SPOR 3 BHN
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="[TR] BEIN SPORTS 1 SD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="beIN SPORT 3 ⚽",[TR] BEIN SPORTS 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412957
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="[TR] BEIN SPORTS 1 HD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="beIN SPORT 3 ⚽",[TR] BEIN SPORTS 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/428027
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="[TR] BEIN-SPORTS 1 FHD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="beIN SPORT 3 ⚽",[TR] BEIN-SPORTS 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/428028
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 HD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | b**N SPORTS 1 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399652
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR | beIN SPORT 1 HD*" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/78345
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="[TR] BEIN SPORTS 1 FHD¹ 50 FPS" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="beIN SPORT 3 ⚽",[TR] BEIN SPORTS 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/428030
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 FHD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | b**N SPORTS 1 FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399650
-#EXTINF:-1 tvg-id="" tvg-name="| TR | b**N SPORTS 1 FHD HEVC" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | b**N SPORTS 1 FHD HEVC
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399649
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 1 FHD¹ 50 FPS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 1 FHD¹ 50 FPS
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/409462
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 1 [ 4K ]" tvg-logo="http://iptv.blackkill.org:5487/chmediaswe@FGDkh/suER7EuR1huxgWJ/11104" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 1 [ 4K ]
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/411955
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="[TR] BeIN SPORTS 1 4K HECV" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="beIN SPORT 3 ⚽",[TR] BeIN SPORTS 1 4K HECV
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/428029
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="[TR] BEIN SPORTS 1 4K UYDU" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="beIN SPORT 3 ⚽",[TR] BEIN SPORTS 1 4K UYDU
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/428031
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 HD**" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT 1 HD**
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/350195
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT HABER FHD" tvg-logo="" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT HABER FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412301
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 SD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 2 SD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399656
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 HD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 2 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399655
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 2 FHD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 2 FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399654
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 SD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 3 SD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399659
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 HD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 3 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399658
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 3 FHD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 3 FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399657
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 SD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 4 SD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399662
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 HD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 4 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399661
-#EXTINF:-1 tvg-id="" tvg-name="| TR | BEIN SPORTS 4 FHD" tvg-logo="" group-title="beIN SPORT 3 ⚽",| TR | BEIN SPORTS 4 FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/399660
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="beIN SPORT 3 ⚽",TR: b**N SP0RT MAX 2 HD+
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/408714
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: b**N SP0RT MAX 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="beIN SPORT 3 ⚽",TR: b**N SP0RT MAX 2 HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/408715
-#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT 1 PLATINUM X HD+ (MAC SAATİ ACIK)
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/121354
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORT 2 HD**" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT 2 HD**
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259317
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR | beIN SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img922/9745/uNKvor.png" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT 2 FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259318
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR | beIN SPORT 3 FHD*" tvg-logo="https://imagizer.imageshack.com/img923/992/M0TRnx.png" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT 3 FHD*
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/78351
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR | beIN SPORT 4 HD*" tvg-logo="https://imagizer.imageshack.com/img924/3697/nLaSJB.png" group-title="beIN SPORT 3 ⚽",TR | beIN SPORT 4 HD*
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/78352
-#EXTINF:-1 tvg-id="beinsport5.tr" tvg-name="TR| beIN SPORT 5 FHD" tvg-logo="https://imagizer.imageshack.com/img922/6243/VgqcyQ.png" group-title="beIN SPORT 3 ⚽",TR| beIN SPORT 5 FHD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/285817
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORT 1 FEED" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="beIN SPORT 3 ⚽",TR: beIN SPORT 1 FEED
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/248301
-#EXTINF:-1 tvg-id="" tvg-name="TR: b**N CNNECT 2 maczamani" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="beIN SPORT 3 ⚽",TR: b**N CNNECT 2 maczamani
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/408717
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 (TTNET ÖZEL)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 (TTNET ÖZEL)
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/334642
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 SD [480p]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 SD [480p]
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/35762
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 720p" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 720p
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/351541
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 HD [VIP]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 HD [VIP]
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/98925
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 FHD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/126272
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 VIP H265" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 VIP H265
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/190072
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 4K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 4K [Feed]
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/35650
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 8K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 8K [Feed]
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/191152
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (Kutu Yayin)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 HD (Kutu Yayin)
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/456568
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BOX)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 HD (BOX)
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/456567
+
 
 EXXEN
 #EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="    " group-title="EXXEN",EXXEN
