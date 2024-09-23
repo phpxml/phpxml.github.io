@@ -25,22 +25,11 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://bozztv.com/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 https://proxy.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trt1eu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgMTE6MTQ6MzAgQU0maGFzaF92YWx1ZT00UnRDWkJTZWNFV1Rlc09TOGdjWlhBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?=&sid=6je8zra8h18k&app=e435840d-2653-45a3-afef-082d4ea998f3&ce=2
 http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/49
 http://panelmx.xyz:8080/mr8457/bh.mr203/358053
 http://panelmx.xyz:8080/mr8457/bh.mr203/20484
 
-
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113425
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113419
-https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-https://trt1.blutv.com/blutv_trt1_live/live_720p2000000kbps/index.m3u8
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113425
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live_720p2000000kbps/index.m3u8
-
+i
 
 TRT 2
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ
@@ -50,7 +39,7 @@ https://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
 https://hw1.jemtv.com/app/trt2/playlist.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113426
+
 
 
 TRT SPOR
@@ -66,17 +55,14 @@ https://canlitvulusal.xyz/live/trtspor/index.m3u8
 https://canlitvulusal3.xyz/live/trtspor/index.m3u8
 
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
-
-http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/49
-http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/163515
 http://panelmx.xyz:8080/mr8457/bh.mr203/6109
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259371
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/259372
 
-https://trtspor.blutv.com/blutv_trtspor/live.m3u8
-https://trtspor.blutv.com/blutv_trtspor/live_720p2000000kbps/index.m3u8
-https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
-https://trtspordvr.blutv.com/blutv_trtspor_dvr/live_720p2000000kbps/index.m3u8
+
+
+
+
+
+
 
 TRT SPOR YILDIZ
 #EXTINF:-1 tvg-id="" tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR*
@@ -84,34 +70,14 @@ https://hw1.jemtv.com/app/trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR* ᴴᴰ
 https://bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
 https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
-
-
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
-https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8
-http://live.limontv.ru:8080/welat47/hEEQaXdhZXha/19805
-
-BEIN SPOR
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 4K UYDU" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_4k.png" group-title="ULUSAL",beIN 1
-http://panelmx.xyz:8080/zlh0935/zlh.1905/35650
-http://panelmx.xyz:8080/mr8457/bh.mr203/35650
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 4K UYDU" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_4k.png" group-title="ULUSAL",beIN 1
-http://panelmx.xyz:8080/zlh0935/zlh.1905/191152
-http://panelmx.xyz:8080/mr8457/bh.mr203/191152
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 4K UYDU" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_4k.png" group-title="ULUSAL",beIN 1
-http://panelmx.xyz:8080/zlh0935/zlh.1905/351541
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR • BEIN SPORTS 1 4K UYDU" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/beIN-SPORTS_4k.png" group-title="ULUSAL",beIN 1
-http://panelmx.xyz:8080/zlh0935/zlh.1905/98925
 
 ASPOR
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ 1
 http://panelmx.xyz:8080/mr8457/bh.mr203/6113
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ 2
 https://bozztv.com/gin-dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
-
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/277913
-
-
 
 TRT MÜZİK
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",TRT MÜZİK ᴴᴰ
@@ -131,7 +97,7 @@ TRT AVAZ
 #EXTINF:-1 tvg-id="  TRT.Avaz.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᴴᴰ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8 
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-https://trtavaz.blutv.com/blutv_trtavaz/live.m3u8
+
 
 TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL ᴴᴰ
@@ -157,35 +123,25 @@ https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b20640
 
 BBC EARTH
 #EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᶠʰᵈ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/243198
 http://panelmx.xyz:8080/mr8457/bh.mr203/6294
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243198
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/374326
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6855/index.m3u8
 
 FOX/NOW
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW ᴴᴰ 1
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113420
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/6276
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW ᴴᴰ 1
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/358052
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/4tyCssZ/fox.png     " group-title="ULUSAL",NOW ᴴᴰ 2
-http://panelmx.xyz:8080/mr8457/bh.mr203/6276
-
-
-
-
-https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live_720p2000000kbps/index.m3u8
-https://nowtv.blutv.com/blutv_nowtv/live_720p2000000kbps/index.m3u8
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113432
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393161
 http://panelmx.xyz:8080/mr8457/bh.mr203/6276
 
 FX
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/393161
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/92392
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/92392
+
+
+
 
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113432
+
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6805/index.m3u8
 
 BEIN MOVIES STARS
@@ -319,15 +275,15 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 ATV
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/371812
+
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113427
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/113427
+
+
 
 ATV AVRUPA
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
 https://canlitvulusal.xyz/live/atvavrupa/index.m3u8
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113441
+
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
 https://bozztv.com/gin-dvrfl05/gin-atvavrupa/index.m3u8
 http://a91bb716.megogo.xyz/iptv/NFFLRXMKSXRPPQ/6888/index.m3u8
@@ -783,6 +739,50 @@ http://beinplay.xyz:8080/cngz2141/rs404/371801
 http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371753
 
 ------
+FILMBOX SINEVIZYON
+
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON INFO" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON INFO
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371770
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 1" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 1
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371771
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 2" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 2
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371772
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 3" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 3
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371773
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 4" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 4
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371774
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 5" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 5
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371775
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 6" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 6
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371776
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 7" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 7
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371777
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 8" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 8
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371778
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 9" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 9
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371779
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 10" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 10
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371780
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 11" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 11
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371781
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 12" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 12
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371782
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 13" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 13
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371783
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 14" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 14
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371784
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 15" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 15
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371785
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 16" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 16
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371786
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 17" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 17
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371787
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 18" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 18
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371788
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 19" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 19
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371789
+#EXTINF:-1 tvg-id="" tvg-name="TR.FILMBOX SINEVIZYON 20" tvg-logo="https://i.hizliresim.com/fpeyp58.png" group-title="TR/ Mag Box Cinema",TR.FILMBOX SINEVIZYON 20
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/371790
 
 RADYO
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
@@ -991,6 +991,13 @@ http://maxbestugr.xyz:8080/yvz8742/yvz.1905/456568
 #EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BOX)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",beIN Sports 1 HD (BOX)
 http://maxbestugr.xyz:8080/yvz8742/yvz.1905/456567
 
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 2 SD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/196216
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 2 HD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/35730
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 2 UHD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/195811
+
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 SD
 http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/84
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 HD
@@ -1009,6 +1016,65 @@ http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/64144
 http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/96971
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN FEED SD Maç Zamanı" tvg-logo="http://logo.multicms.info/tvlogo/beinsport-feed.jpg" group-title="TR-SPOR",TR: beIN FEED SD Maç Zamanı
 http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/64849
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: BEIN SPORTS 2 SD
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/116675
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: BEIN SPORTS 2 HD
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/31408
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: beIN SPORTS 2 FHD
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/87
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: Bein Sports 2 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: Bein Sports 2 (Yuksek Kalite) Mac Zamani
+http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/223132
+
+#EXTINF:-1 tvg-id="" tvg-name="TR/ Duyurular" tvg-logo="https://derbisports.com/maxguncelbilgiler.png" group-title="TR/ RelaxTV Duyurular",TR/ Duyurular
+http://panelmx.xyz:8080/mr8457/bh.mr203/183792
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 (TTNET ÖZEL)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 (TTNET ÖZEL)
+http://panelmx.xyz:8080/mr8457/bh.mr203/334642
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 SD [480p]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 SD [480p]
+http://panelmx.xyz:8080/mr8457/bh.mr203/35762
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 720p" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 720p
+http://panelmx.xyz:8080/mr8457/bh.mr203/351541
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 HD [VIP]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 HD [VIP]
+http://panelmx.xyz:8080/mr8457/bh.mr203/98925
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 FHD
+http://panelmx.xyz:8080/mr8457/bh.mr203/126272
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 VIP H265" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 VIP H265
+http://panelmx.xyz:8080/mr8457/bh.mr203/190072
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 4K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 4K [Feed]
+http://panelmx.xyz:8080/mr8457/bh.mr203/35650
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 8K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 8K [Feed]
+http://panelmx.xyz:8080/mr8457/bh.mr203/191152
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (Kutu Yayin)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 HD (Kutu Yayin)
+http://panelmx.xyz:8080/mr8457/bh.mr203/456568
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BOX)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 1 HD (BOX)
+http://panelmx.xyz:8080/mr8457/bh.mr203/456567
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 2 SD
+http://panelmx.xyz:8080/mr8457/bh.mr203/196216
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 2 HD
+http://panelmx.xyz:8080/mr8457/bh.mr203/35730
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ Digitürk Spor",|TR| beIN Sports 2 UHD
+http://panelmx.xyz:8080/mr8457/bh.mr203/195811
+
+--------
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 1 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ Tabii Spor",TR: Tabii Spor 1 HD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/454312
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 2 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ Tabii Spor",TR: Tabii Spor 2 HD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/454316
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 3 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ Tabii Spor",TR: Tabii Spor 3 HD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/454318
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 4 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ Tabii Spor",TR: Tabii Spor 4 HD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/454320
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 5 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ Tabii Spor",TR: Tabii Spor 5 HD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/454322
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 6 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ Tabii Spor",TR: Tabii Spor 6 HD
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/454324
+
+--------
+
+
+
+
 
 
 
