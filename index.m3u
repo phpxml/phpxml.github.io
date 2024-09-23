@@ -102,17 +102,16 @@ https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b2064000.m3u8
 
 TLC
-EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
+#EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
 #EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
 DMAX
-EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
+#EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
 https://dmax.blutv.com/blutv_dmax2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
 https://dogus-live.daioncdn.net/dmax/playlist.m3u8
-
 
 DISCOVERY
 #EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
@@ -137,11 +136,8 @@ FX
 
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
 
-
-
 BEIN MOVIES STARS
 EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
-
 
 BEIN MOVIES PREMIERE
 EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR • BEIN MOVIES PIREMIERE HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
@@ -188,23 +184,22 @@ http://panelmx.xyz:8080/zlh0935/zlh.1905/6266
 http://panelmx.xyz:8080/mr8457/bh.mr203/6266
 https://proxy.canlitvplayer.com/tgn.bozztv.com/gin-trn09/gin-atvv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjQgMTE6NTE6MTggQU0maGFzaF92YWx1ZT0wbjFEQ3pVbnZ1RmlmMXFrbFJrQndRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTg=
 
-
-
+ATV AVRUPA
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
+https://canlitvulusal.xyz/live/atvavrupa/index.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
+https://bozztv.com/gin-dvrfl05/gin-atvavrupa/index.m3u8
 
 SHOWMAX
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
+EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
 https://canlitvulusal.xyz/live/showmax/index.m3u8
 
-
 SHOWTÜRK
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
 https://canlitvulusal.xyz/live/showturk/index.m3u8
-
-#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
-
-
+EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
 
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ 1
@@ -222,15 +217,13 @@ EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/P
 https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
-
 https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
 
 EUROSTAR
-EXTINF:-1 tvg-id=" Euro.Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="ULUSAL",EUROSTAR ᴴᴰ
-https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
-https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id=" Euro.Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="ULUSAL",EUROSTAR ᴴᴰ
-
+https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
+#EXTINF:-1 tvg-id=" Euro.Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="ULUSAL",EUROSTAR ᴴᴰ
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D 720 ᴴᴰ
@@ -241,14 +234,12 @@ http://panelmx.xyz:8080/mr8457/bh.mr203/6275
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald_480p.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113431
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/393159
 
 EURO D
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",EURO D ᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",EURO D ᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/113438
 
 KANAL 7
 #EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="ULUSAL",KANAL 7 ᴴᴰ
@@ -259,21 +250,6 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 
-
-ATV
-#EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
-
-#EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
-
-
-
-ATV AVRUPA
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
-https://canlitvulusal.xyz/live/atvavrupa/index.m3u8
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
-https://bozztv.com/gin-dvrfl05/gin-atvavrupa/index.m3u8
-
 
 BEYAZ
 #EXTINF:-1 tvg-id="  Beyaz.TV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="ULUSAL",BEYAZ ᶠʰᵈ
@@ -302,45 +278,33 @@ https://canlitvulusal.xyz/live/tv5/index.m3u8
 TV8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
 https://hw1.jemtv.com/app/tv8/playlist.m3u8
-EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-
-
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-
 EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ʰᵈ
-
-
-
-
 EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ʰᵈ
 http://panelmx.xyz:8080/mr8457/bh.mr203/20742
-
 
 TV 8.5
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 https://hw1.jemtv.com/app/tv85/playlist.m3u8
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=5tsamucat8rt&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-
 http://panelmx.xyz:8080/mr8457/bh.mr203/6281
 
 TRT 4K
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
-
-#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
-
+EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
 
 A2
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 https://stream.tvcdn.net/eglence/a2.m3u8
 
 EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᶠʰᵈ
-
-
 
 TEVE2
 #EXTINF:-1 tvg-id="   Teve2.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="ULUSAL",Teve2 ᴴᴰ
@@ -377,114 +341,6 @@ https://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w966794791.m3u8
 EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
 
 EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
-
-
------
-BELGESEL
-EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
-EXTINF:-1 tvg-id="  Discovery.Science.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
-EXTINF:-1 tvg-id=" Discovery.Science.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
-
-
-EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="BELGESEL",TRT BELGESEL ᴴᴰ
-
-
-INVESTIGATION DISCOVERY
-
-
-DISCOVERY
-EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
-https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ʰᵈ
-https://discoveryturkiye.blutv.com/blutv_discoveryturkiye/smil:discovery_hd.smil/chunklist_b4128000.m3u8
-https://discoveryturkiye.blutv.com/blutv_discoveryturkiye/smil:discovery_hd.smil/chunklist_b2064000.m3u8
-https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b2064000.m3u8
-EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel sd
-https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/chunklist_b1314000.m3u8
-
-
-
-BBC EARTH
-#EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="BELGESEL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᶠʰᵈ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243198
-EXTINF:-1 tvg-id="  BBC.Earth.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/374326
-EXTINF:-1 tvg-id=" BBC.Earth.tr   " tvg-name="" group-title="BELGESEL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243198
-
-BEIN GURME
-#EXTINF:-1 tvg-id="beIN.GURME.HD.tr" tvg-name="TR | BEIN GURME ᵁᴴᴰ" tvg-logo="  http://www.digiturk.com.tr/icerik/2015logos/turkmax_hd.png   " tvg-id2="Mzk2NzI=" group-title="BELGESEL",BEIN GURME ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243200
-
-DISCOVERY
-#EXTINF:-1 tvg-id="  Discovery.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png?20190417174023",Discovery ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243202
-EXTINF:-1 tvg-id="  Discovery.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png?20190417174023",Discovery ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243203
-
-NATIONAL GEO
-#EXTINF:-1 tvg-id="   National.Geographic.tr " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243218
-EXTINF:-1 tvg-id="  National.Geographic.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png   "   ,NAT GEO ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243219
-
-NATIONAL GEO WILD
-#EXTINF:-1 tvg-id="  National.Geographic.WILD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243221
-EXTINF:-1 tvg-id="  National.Geographic.WILD.tr  " tvg-name="" group-title="BELGESEL"  tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/320px-National_Geographic_Wild_logo.svg.png  "   ,NAT GEO WILD ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/371895
-
-VIASAT HISTORY
-#EXTINF:-1 tvg-id=" Viasat.History.tr  " tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="BELGESEL",VIASAT HISTORY ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243206
-EXTINF:-1 tvg-id=" Viasat.History.tr  " tvg-name="[TR] Viasat History HD" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/167px-Viasat_History_Logo.jpg   " tvg-id2="Mzk2NzI=" group-title="BELGESEL",VIASAT HISTORY ᴴᴰ
-http://rasayvip.ddns.me:8080/Zeynepteyz/rNkMGEJjBsuu/243207
-
-
------
-ÇOCUK
-
-TRT ÇOCUK
-#EXTINF:-1 tvg-id="  TRT.Çocuk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/YjkMYbF/trtcocuk21a.png    " group-title="ÇOCUK",TRT ÇOCUK ᶠʰᵈ
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-https://trtcocukdvr.blutv.com/blutv_trtcocuk_dvr/live_720p2000000kbps/index.m3u8
-EXTINF:-1 tvg-id="  TRT.Çocuk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/YjkMYbF/trtcocuk21a.png    " group-title="ÇOCUK",TRT ÇOCUK ᶠʰᵈ
-https://trtcocuk.blutv.com/blutv_trtcocuk/live_720p2000000kbps/index.m3u8
-https://trtcocuk.blutv.com/blutv_trtcocuk_2/smil:trtcocuk.smil/chunklist_b3128000.m3u8
-
-CARTOON NETWORK
-#EXTINF:-1 tvg-id=" Cartoon.Network.tr   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png     " group-title="ÇOCUK",CN ᴴᴰ
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
-
-BOOMERANG
-#EXTINF:-1 tvg-id="   Boomerang.tr " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/304px-Boomerang_tv_logo.png    " group-title="ÇOCUK",BOOMERANG ᴴᴰ
-https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
-
-KIKA
-#EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ÇOCUK",KIKA ᴴᴰ
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
-
-DISNEY CHANNEL
-#EXTINF:-1 tvg-id="    Disney.Channel.HD.de     " tvg-name="" group-title="ÇOCUK" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/500px-Disney%2B_logo.svg.png     ",Disney Channel ᵁᴴᴰ
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412013
-
-BOOMERANG DE
-#EXTINF:-1 tvg-id="   Boomerang.de   " tvg-name="DE: Boomerang" tvg-logo="http://myserveriptv.com:2082/images/8c9d96b1ef82662dd41a42e8528876b6.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Boomerang
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412011
-
-CARTOON NETWORK DE
-#EXTINF:-1 tvg-id="   Cartoon.Network.de   " tvg-name="DE: Cartoon Network" tvg-logo="http://myserveriptv.com:2082/images/8384404719f745b303e5c2d0b292f6fa.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Cartoon Network
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412012
-
-SUPER RTL
-#EXTINF:-1 tvg-id="  SUPER.RTL.HD.de  " tvg-name="DE: Super RTL HD" tvg-logo="http://myserveriptv.com:2082/images/d64baab004530fff74f8bc011ec14719.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Super RTL HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412009
-#EXTINF:-1 tvg-id="  SUPER.RTL.HD.de  " tvg-name="DE: Super RTL HD" tvg-logo="http://myserveriptv.com:2082/images/d64baab004530fff74f8bc011ec14719.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Super RTL HD
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412008
-
-TOGGO PLUS
-#EXTINF:-1 tvg-id="  ToggoPlus.de   " tvg-name="DE: Toggo Plus" tvg-logo="http://myserveriptv.com:2082/images/e543febb169a01bbd47ed9811471cefd.png" tvg-id2="Mzk2NzI=" group-title="ÇOCUK", Toggo Plus
-http://rasayvip.ddns.me:8080/bhNFRqbWxTAA/Y7Ew9cuDKHTF/412007
 
 ------
 HABER
@@ -602,12 +458,6 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u
 
 ------
 MÜZİK
-
-TRT MÜZİK
-#EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
-https://trtmuzik.blutv.com/blutv_trtmuzik2/live_720p2000000kbps/index.m3u8
-EXTINF:-1 tvg-id="   TRT.Müzik.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT Müzik 
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 TATLISES TV
 #EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
