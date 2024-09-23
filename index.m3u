@@ -27,7 +27,6 @@ http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/49
 http://panelmx.xyz:8080/mr8457/bh.mr203/358053
 http://panelmx.xyz:8080/mr8457/bh.mr203/20484
 
-
 TRT 2
 #EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ
 https://canlitvulusal.xyz/live/trt2/index.m3u8
@@ -36,8 +35,6 @@ https://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
 https://hw1.jemtv.com/app/trt2/playlist.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-
-
 
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
@@ -142,15 +139,6 @@ BEIN MOVIES PREMIERE
 EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR • BEIN MOVIES PIREMIERE HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
 
 EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR • BEIN MOVIES PREMIERE 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
-
-
-MAX TURK
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://i.hizliresim.com/s8v7rmr.png" group-title="ULUSAL",MAX TURK HD
-http://panelmx.xyz:8080/mr8457/bh.mr203/446827
-
-MAX GOLD
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://i.hizliresim.com/s8v7rmr.png" group-title="ULUSAL",MAX GOLD HD
-http://panelmx.xyz:8080/mr8457/bh.mr203/446828
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ 1
