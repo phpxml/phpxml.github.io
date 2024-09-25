@@ -127,7 +127,10 @@ http://panelmx.xyz:8080/mr8457/bh.mr203/6276
 FX
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
 http://29867120268878391.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878391.ts
-#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="FX Hd" tvg-logo="https://i.hizliresim.com/2t6777u.png" group-title="ULUSAL",FX Hd
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/2075.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX TV QHD" tvg-logo="https://i.hizliresim.com/2t6777u.png" group-title="ULUSAL",FX TV QHD
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302089.ts
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ 1
