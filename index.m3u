@@ -6,9 +6,7 @@ https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz
 
 ULUSAL
 
-
 TRT 1
-
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ 1
 https://canlitvulusal.xyz/live/trt1/index.m3u8
 https://hw1.jemtv.com/app/trt1/playlist.m3u8
@@ -51,7 +49,6 @@ https://canlitvulusal3.xyz/live/trtspor/index.m3u8
 
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
 http://panelmx.xyz:8080/mr8457/bh.mr203/6109
-
 
 TRT SPOR YILDIZ
 #EXTINF:-1 tvg-id="" tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR*
@@ -130,7 +127,7 @@ http://panelmx.xyz:8080/mr8457/bh.mr203/6276
 FX
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
 http://29867120268878391.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878391.ts
-EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
+#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ 1
