@@ -449,7 +449,6 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/245581.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASPOR FHD (50FPS)" tvg-logo="" group-title="ULUSAL 2",ASPOR FHD (50FPS)
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301840.ts
 
-
 MAX
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX ANIMASYON FHD" tvg-logo="" group-title="ULUSAL 2",MAX ANIMASYON
 http://29867120268878423.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878423.ts
@@ -1647,4 +1646,14 @@ http://up.central0854.com:8080/dariod/pWWbDUfYuPQM/435949
 #EXTINF:-1 tvg-id="" tvg-name="DE: Al Pacino" tvg-logo="" group-title="DE | ACTOR KINO",DE: Al Pacino
 http://up.central0854.com:8080/dariod/pWWbDUfYuPQM/435948
 --------
+SUN-X SPORT
+#EXTINF:-1 tvg-id="" tvg-name="SUN-X SPORTS HD" tvg-logo="https://i.hizliresim.com/aoa3w9b.png" group-title="SUN-X SPORTS",SUN-X SPORTS HD
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/308873.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN-X SPORTS FHD" tvg-logo="https://i.hizliresim.com/aoa3w9b.png" group-title="SUN-X SPORTS",SUN-X SPORTS FHD
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/308874.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN-X SPORTS RAW" tvg-logo="https://i.hizliresim.com/aoa3w9b.png" group-title="SUN-X SPORTS",SUN-X SPORTS RAW
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/308875.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN-X SPORTS FEED 4K" tvg-logo="https://i.hizliresim.com/aoa3w9b.png" group-title="SUN-X SPORTS",SUN-X SPORTS FEED 4K
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/308876.ts
+------
 
