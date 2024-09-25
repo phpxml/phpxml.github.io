@@ -334,15 +334,7 @@ EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli
 ------
 ULUSAL 2
 
-
 TRT 1
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="ULUSAL 2",TRT 1 HD
-http://29867120268878498.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878498.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD LOCAL FHD" tvg-logo="" group-title="ULUSAL 2",TRT 1 LOCAL FHD
-http://29867120268911007.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/911007.ts
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HEVC" tvg-logo="" group-title="ULUSAL 2",TRT 1 HEVC
-http://29867120268878499.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878499.ts
-
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 Fhd" tvg-logo="https://i.hizliresim.com/4qfi773.png" group-title="ULUSAL 2",TRT 1 Fhd
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/31.ts
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 Hd" tvg-logo="https://i.hizliresim.com/4qfi773.png" group-title="ULUSAL 2",TRT 1 Hd
@@ -358,15 +350,6 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301828.ts
 
 
 NOW
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD TR HD" tvg-logo="   https://asiagrandiptv.us/logo/fox.png  " group-title="ULUSAL 2",NOW HD
-http://29867120268910971.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/910971.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD LOCAL FHD" tvg-logo="" group-title="ULUSAL 2",NOW LOCAL FHD
-http://29867120268910972.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/910972.ts
-#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX HD" tvg-logo="https://asiagrandiptv.us/logo/fox.png" group-title="ULUSAL 2",NOW HD
-http://29867120268923054.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/923054.ts
-#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX HEVC" tvg-logo="https://asiagrandiptv.us/logo/fox.png" group-title="ULUSAL 2",NOW HEVC
-http://29867120268878389.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878389.ts
-
 #EXTINF:-1 tvg-id="fox.tr" tvg-name="NOW Hd" tvg-logo="https://i.hizliresim.com/ecblxwe.png" group-title="ULUSAL 2",NOW Hd
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/27.ts
 #EXTINF:-1 tvg-id="fox.tr" tvg-name="NOW Fhd" tvg-logo="https://i.hizliresim.com/ecblxwe.png" group-title="ULUSAL 2",NOW Fhd
@@ -382,42 +365,14 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/245567.ts
 
 
 STAR
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY_mzo_onIvCz1p-xArV7pELt6s6qOcoiWaEhGwoi0qr0.png" group-title="ULUSAL 2",STAR HD
-http://29867120268878481.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878481.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD LOCAL FHD" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY_mzo_onIvCz1p-xArV7pELt6s6qOcoiWaEhGwoi0qr0.png" group-title="ULUSAL 2",STAR LOCAL FHD
-http://29867120268911002.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/911002.ts
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV FHD" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY_mzo_onIvCz1p-xArV7pELt6s6qOcoiWaEhGwoi0qr0.png" group-title="ULUSAL 2",STAR HEVC
-http://29867120268878482.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878482.ts
 
 SHOW
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY8qyX6OlIPvtGmqKHtCZ8OXsX0tkmhiDy0eZKNJBb5vC.png" group-title="ULUSAL 2",SHOW HD
-http://29867120268897605.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/897605.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD LOCAL FHD" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY8qyX6OlIPvtGmqKHtCZ8OXsX0tkmhiDy0eZKNJBb5vC.png" group-title="ULUSAL 2",SHOW LOCAL FHD
-http://29867120268910990.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/910990.ts
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HEVC" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY8qyX6OlIPvtGmqKHtCZ8OXsX0tkmhiDy0eZKNJBb5vC.png" group-title="ULUSAL 2",SHOW HEVC
-http://29867120268878463.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878463.ts
 
 ATV
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://asiagrandiptv.us/logo/atv.png" group-title="ULUSAL 2",ATV HD
-http://29867120268900666.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/900666.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD LOCAL FHD" tvg-logo="https://asiagrandiptv.us/logo/atv.png" group-title="ULUSAL 2",ATV HD LOCAL FHD
-http://29867120268915977.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/915977.ts
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HEVC" tvg-logo="https://asiagrandiptv.us/logo/atv.png" group-title="ULUSAL 2",ATV HEVC
-http://29867120268686565.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/686565.ts
 
 KANAL D
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY7gRIH2oxGZgsAvSXTsVOpuPgSbp4DoHdCGfFC_ScNQa.png" group-title="ULUSAL 2",TR: KANAL D HD
-http://29867120268878411.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878411.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD LOCAL FHD" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY7gRIH2oxGZgsAvSXTsVOpuPgSbp4DoHdCGfFC_ScNQa.png" group-title="ULUSAL 2",KANAL D LOCAL FHD
-http://29867120268910983.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/910983.ts
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HEVC" tvg-logo="http://estoxy.net:80/images/tAMEysP4gkZCw5tGuBhL3LLwAOCM7Oe6-TC3wmpAxi6moURKzq1n5_ByQ5pcU-TUyFuWoeIOfoTZu1wLvLbHY7gRIH2oxGZgsAvSXTsVOpuPgSbp4DoHdCGfFC_ScNQa.png" group-title="ULUSAL 2",KANAL D HEVC
-http://29867120268878412.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878412.ts
 
 TRT SPOR
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://asiagrandiptv.us/logo//trtspor.png" group-title="ULUSAL 2",TRT SPOR HD
-http://29867120268878510.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878510.ts
-#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: TRT SPOR 2 FHD" tvg-logo="" group-title="ULUSAL 2",TRT SPOR 2 FHD
-http://29867120268923100.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/923100.ts
 
 MAX
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX ANIMASYON FHD" tvg-logo="" group-title="ULUSAL 2",MAX ANIMASYON
