@@ -343,6 +343,20 @@ http://29867120268911007.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/911007.ts
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HEVC" tvg-logo="" group-title="ULUSAL 2",TRT 1 HEVC
 http://29867120268878499.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/878499.ts
 
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 Fhd" tvg-logo="https://i.hizliresim.com/4qfi773.png" group-title="ULUSAL 2",TRT 1 Fhd
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/31.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 Hd" tvg-logo="https://i.hizliresim.com/4qfi773.png" group-title="ULUSAL 2",TRT 1 Hd
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD" tvg-logo="https://i.hizliresim.com/4qfi773.png" group-title="ULUSAL 2",TRT 1 FHD
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301842.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="https://i.hizliresim.com/4qfi773.png" group-title=" ULUSAL 2",TRT 1 HD
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301843.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt 1 H.265 [ Hevc ]" tvg-logo="https://i.hizliresim.com/vzx578z.png" group-title="ULUSAL 2",TRT 1 H.265
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/245569.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD (50FPS)" tvg-logo="https://i.hizliresim.com/4qfi773.png" group-title="ULUSAL 2",TRT 1 50FPS
+http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301828.ts
+
+
 NOW
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX HD TR HD" tvg-logo="   https://asiagrandiptv.us/logo/fox.png  " group-title="ULUSAL 2",NOW HD
 http://29867120268910971.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/910971.ts
