@@ -132,6 +132,16 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/2075.ts
 #EXTINF:-1 tvg-id="" tvg-name="FX TV QHD" tvg-logo="https://i.hizliresim.com/2t6777u.png" group-title="ULUSAL",FX TV QHD
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302089.ts
 
+BEIN MOVIES STARS
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
+http://29867120268750231.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750231.ts
+
+BEIN MOVIES PREMIERE
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR • BEIN MOVIES PIREMIERE HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
+http://29867120268750228.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750228.ts
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR • BEIN MOVIES PREMIERE 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
+http://29867120268750229.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750229.ts
+
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ 1
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -220,16 +230,6 @@ EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",EURO D ᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-
-BEIN MOVIES STARS
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
-http://29867120268750231.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750231.ts
-
-BEIN MOVIES PREMIERE
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR • BEIN MOVIES PIREMIERE HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
-http://29867120268750228.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750228.ts
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR • BEIN MOVIES PREMIERE 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
-http://29867120268750229.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750229.ts
 
 KANAL 7
 #EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="ULUSAL",KANAL 7 ᴴᴰ
