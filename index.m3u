@@ -145,13 +145,24 @@ DINAMIK BILIMKURGU
 #EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BILIMKURGU" tvg-logo="https://i.imgur.com/jQI8W8S.png" group-title="ULUSAL",DINAMIK BILIMKURGU
 http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446181.m3u
 
+MAX GOLD
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX GOLD
+http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446165.m3u
+MAX PREMIER
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PREMIER HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_premier.png" group-title="ULUSAL",MAX PREMIER
+http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446164.m3u
+MAX AKSIYON 1
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKSION HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_aksiyon.png" group-title="ULUSAL",MAX AKSION
+http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446162.m3u
+MAX AKSIYON 2
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKSIYON 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_aksiyon2.png" group-title="ULUSAL",MAX AKSIYON 2
+http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446163.m3u
 
 SINEMA TV AKSIYON
 #EXTINF:-1 tvg-id="" tvg-name="SINEMA TV ACTION QHD" tvg-logo="https://i.hizliresim.com/9ihmd3d.png" group-title="ULUSAL",SINEMA TV ACTION
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302081.ts
 #EXTINF:-1 tvg-id="" tvg-name="SINEMA TV ACTION 2 QHD" tvg-logo="https://i.hizliresim.com/9ihmd3d.png" group-title="ULUSAL",SINEMA TV ACTION 2
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302082.ts
-
 
 BEIN MOVIES PREMIERE
 #EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR • BEIN MOVIES PIREMIERE HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
