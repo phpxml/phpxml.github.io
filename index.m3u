@@ -622,6 +622,11 @@ https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 ------
 
 RADYO
+
+BEST FM
+#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/9/9b/Best_FM.png  " group-title="RADYO", Best FM 
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+
 METROPOL BERLIN
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
 https://135-125-135-127-85878c.sfn.edge-ovh-de1.streams.radiosphere.io/516f5978-5ba0-4c2a-96ea-0998d59c47a5/channels/252cbd88-bbec-459e-a8ee-79392644dff2/stream.aac?quality=4&quality=4&source=metropol-fm.api.radiosphere.io
@@ -680,16 +685,15 @@ https://radyo.duhnet.tv/slowturk?/;stream.mp3/;stream.mp3
 
 SHOW RADYO
 #EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/e/e7/Showradyo.jpg/200px-Showradyo.jpg    " group-title="RADYO", SHOW radyo 
-https://showradyo.radyotvonline.net/hls/chunks_BRpBpIhX.m3u8
-https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+https://edge1.radyotvonline.net/shoutcast/play/showradyo
 
 TRT FM
 #EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TRT_FM_logo.svg/440px-TRT_FM_logo.svg.png   " group-title="RADYO", TRT FM 
-https://nmicenotrt.mediatriple.net/trt_fm.aac 
-
+https://trt.radyotvonline.net/trtfm
+ 
 TRT RADYO 1
 #EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_Radyo_1_logo.svg/440px-TRT_Radyo_1_logo.svg.png  " group-title="RADYO", TRT RADYO 1
-https://nmicenotrt.mediatriple.net/trt_1.aac 
+https://trt.radyotvonline.net/trt1
 
 ALEM FM
 #EXTINF:-0 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/b/bf/Alem_fm.jpg/220px-Alem_fm.jpg " group-title="RADYO", Alem Fm 
@@ -709,11 +713,7 @@ https://stream.radyo45lik.com:4545/stream
 
 RADYO 90
 #EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/thumb/3/3c/Radyo_Pop_logosu.jpg/150px-Radyo_Pop_logosu.jpg  " group-title="RADYO", POP 90 
-https://22353.live.streamtheworld.com:443/POP90.mp3
-
-BEST FM
-#EXTINF:-1 tvg-logo="   https://upload.wikimedia.org/wikipedia/tr/9/9b/Best_FM.png  " group-title="RADYO", Best FM 
-http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+https://live.radyo.in/9054/stream
 
 NUMBER ONE TÜRK
 #EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/7/79/Numberonefm.gif/125px-Numberonefm.gif   " group-title="RADYO", Nummber ONE TÜRK 
@@ -733,6 +733,7 @@ https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8?listeningS
 
 RADYO D
 #EXTINF:-1 tvg-logo="  https://2.bp.blogspot.com/-YtU62gMb-_w/Wa0fCrWP_0I/AAAAAAAAU5E/g5-Kby0gCVkyoXLiM7s4E5QAXPt4DnGhACLcBGAs/s1600/d.jpg   " group-title="RADYO", radyo D 
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8?listeningSessionID=669e367246737fe5_6596133_ZHlVoaJB__0000001BCEe&downloadSessionID=0
 https://radyo.duhnet.tv/radyod
 
 RADYO 7
