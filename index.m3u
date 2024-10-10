@@ -53,15 +53,17 @@ http://panelmx.xyz:8080/mr8457/bh.mr203/6109
 TRT SPOR YILDIZ
 #EXTINF:-1 tvg-id="" tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR*
 https://hw1.jemtv.com/app/trtspor2/playlist.m3u8
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR* ᴴᴰ
+#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR*
 https://bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR* ᴴᴰ
+#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR*
 https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
 
 ASPOR
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ 1
-http://panelmx.xyz:8080/mr8457/bh.mr203/6113
+https://canlitvulusal.xyz/live/aspor/index.m3u8
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ 1
+https://canlitvulusal3.xyz/live/aspor/index.m3u8
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ 2
 https://bozztv.com/gin-dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
 https://api1.canlitvplayer.com/bozztv.com/gin-dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMTE6MDU6NDAgQU0maGFzaF92YWx1ZT0vdDhKSG9kNkZaTVh5NnNMSzUxOUpRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
