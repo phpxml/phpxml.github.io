@@ -345,6 +345,18 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 EXTINF:-1 tvg-id=" TV4.tr  " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="ULUSAL",TV4 ᴴᴰ
 https://tv4.blutv.com/blutv_tv4/live_720p2000000kbps/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 1 HD" tvg-logo="" group-title="ULUSAL",Dolby Premier 1
+http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435937
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 2 HD" tvg-logo="" group-title="ULUSAL",Dolby Premier 2
+http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435938
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 3 HD" tvg-logo="" group-title="ULUSAL",Dolby Premier 3
+http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435939
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 4 HD" tvg-logo="" group-title="ULUSAL",Dolby Premier 4
+http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435940
+#EXTINF:-1 tvg-id="" tvg-name="TR: Premier 5 HD" tvg-logo="" group-title="ULUSAL",Dolby Premier 5
+http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435941
+
+
 AFYON TÜRK
 EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",AFYONTÜRK ᴴᴰ
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
