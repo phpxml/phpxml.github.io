@@ -126,18 +126,6 @@ MAX GOLD
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX GOLD
 http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446165.m3u
 
-SINEMA TV AKSIYON
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV ACTION QHD" tvg-logo="https://i.hizliresim.com/9ihmd3d.png" group-title="ULUSAL",SINEMA TV ACTION
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302081.ts
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV ACTION 2 QHD" tvg-logo="https://i.hizliresim.com/9ihmd3d.png" group-title="ULUSAL",SINEMA TV ACTION 2
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302082.ts
-
-BEIN MOVIES PREMIERE
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR • BEIN MOVIES PIREMIERE HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
-http://29867120268750228.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750228.ts
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR • BEIN MOVIES PREMIERE 2 HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Premieren.png" group-title="ULUSAL",beIN PREMIERE ᴴᴰ
-http://29867120268750229.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/750229.ts
-
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
