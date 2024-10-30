@@ -141,13 +141,8 @@ ATV
 https://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 
 ATV AVRUPA
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
-https://canlitvulusal.xyz/live/atvavrupa/index.m3u8
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
-https://bozztv.com/gin-dvrfl05/gin-atvavrupa/index.m3u8
-
-SHOWMAX
-EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
+EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
+EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://imagizer.imageshack.com/img922/8932/XakUPf.png" group-title="ULUSAL",SHOWMAX ᴴᴰ
 https://canlitvulusal.xyz/live/showmax/index.m3u8
@@ -155,7 +150,6 @@ https://canlitvulusal.xyz/live/showmax/index.m3u8
 SHOWTÜRK
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
 https://canlitvulusal.xyz/live/showturk/index.m3u8
-EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
 
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ 1
@@ -164,11 +158,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ 2
 https://canlitvulusal.xyz/live/star/index.m3u8
 https://canlitvulusal3.xyz/live/startv/index.m3u8
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ 3
-https://bozztv.com/gin-trn09/gin-startv/index.m3u8
 
-http://panelmx.xyz:8080/mr8457/bh.mr203/6270
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/14/index.m3u8
 EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR sd
 https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
