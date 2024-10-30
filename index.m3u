@@ -189,12 +189,13 @@ http://panelmx.xyz:8080/mr8457/bh.mr203/6273
 
 
 ATV
-#EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ 1
+#EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
+https://hw1.jemtv.com/app/ATVHD/chunks.m3u8
 https://bozztv.com/gin-trn09/gin-atvv/index.m3u8
-#EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ 2
+EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 https://canlitvulusal3.xyz/live/atv/index.m3u8
-#EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ 3
+EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
 https://bozztv.com/gin-trn09/gin-atv-tv/index.m3u8
 http://29867120268686565.ofkp0923.xyz:80/live/JoseA226B/Afmppfeda123/686565.ts
 
