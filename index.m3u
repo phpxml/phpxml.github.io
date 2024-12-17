@@ -9,8 +9,7 @@ ULUSAL
 
 TRT 1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ 1
-https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8
-
+https://trn03.tulix.tv/gt-trt4k/tracks-v1a1/mono.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://hw1.jemtv.com/app/trt1/playlist.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ 2
@@ -143,6 +142,8 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://canlitvulusal3.xyz/live/showtv/index.m3u8
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
+http://116.202.238.88/SHOWTV_TR/tracks-v1a1/mono.m3u8
 
 https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -154,6 +155,7 @@ http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/139.ts
 http://maxbestugr.xyz:8080/yvz8742/yvz.1905/192065
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/108.ts
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
+http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/798297.ts
 
 EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
