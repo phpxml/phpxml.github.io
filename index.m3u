@@ -31,11 +31,13 @@ TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
 https://helga.iptv2022.com/sh/trt_spor/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/6109
 https://hw1.jemtv.com/app/trtspor/playlist.m3u8
 
 
 TRT SPOR YILDIZ
 #EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr   " tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR*
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/353402
 https://hw1.jemtv.com/app/trtspor2/playlist.m3u8
 #EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR*
 https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
@@ -44,6 +46,8 @@ https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
 ASPOR
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/22503.ts
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/6113
 https://canlitvulusal.xyz/live/aspor/index.m3u8
 
 TRT MÜZİK
@@ -145,6 +149,7 @@ ATV
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/139.ts
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
+http://maxbestugr.xyz:8080/yvz8742/yvz.1905/192065
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/108.ts
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/798297.ts
