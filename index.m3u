@@ -142,14 +142,12 @@ EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="
 
 FOX/NOW
 
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzOTg1MDQ5NjFmNDI0ZjBlY2M2NTU==
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
+http://garaveli.serv00.net/Gledai?ID=foxtv&e=.m3u8
 
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/135.ts
 https://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
-EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
-http://garaveli.serv00.net/Gledai?ID=foxtv&e=.m3u8
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
 
