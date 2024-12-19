@@ -192,6 +192,15 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 
 ATV
+
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="NET ➾ SPORT",ATV ʜᴅ 
+#EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://aaa.cdn.saintcdn.live/e/160.m3u8
+#https://ded0web.b-cdn.net/live/050.m3u8?|referer=https://netspor146.link/
+
+
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/139.ts
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
