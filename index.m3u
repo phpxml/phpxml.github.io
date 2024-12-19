@@ -14,14 +14,6 @@ http://116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://hw1.jemtv.com/app/trt1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="NET ➾ SPORT",TRT 1 ʜᴅ
-#EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
-#EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/200.m3u8
-#https://abd1.cdn.saintcdn.live/e/150.m3u8
-#https://ded0web.b-cdn.net/live/3067.m3u8?|referer=https://netspor146.link/
-
 
 EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
@@ -192,13 +184,6 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 
 ATV
-
-#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="NET ➾ SPORT",ATV ʜᴅ 
-#EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
-#EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aaa.cdn.saintcdn.live/e/160.m3u8
-#https://ded0web.b-cdn.net/live/050.m3u8?|referer=https://netspor146.link/
 
 
 #EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
