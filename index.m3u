@@ -232,7 +232,6 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/96.ts
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/82324.ts
 
 
-
 EURO D
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",EURO D ᴴᴰ
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -287,8 +286,12 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
 http://tgn.bozztv.com/trn03/gt-tv8-tv/playlist.m3u8
 http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301833.ts
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="ULUSAL",TV8 ʜᴅ
+#EXTVLCOPT:http-referrer=https://playhls.com/
+#EXTVLCOPT:http-origin=https://playhls.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintv8.m3u8
+
 
 
 TV 8.5
