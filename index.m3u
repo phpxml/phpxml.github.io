@@ -40,14 +40,14 @@ EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wi
 http://tgn.bozztv.com/trn03/gt-trt4k/tracks-v1a1/mono.m3u8
 
 TRT 2
-#EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ trt
-http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40722
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-https://canlitvulusal.xyz/live/trt2/index.m3u8
 
-EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
+#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
 https://trn03.tulix.tv/gt-trt2/playlist.m3u8
 https://hw1.jemtv.com/app/trt2/playlist.m3u8
+
+EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ trt
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+https://canlitvulusal.xyz/live/trt2/index.m3u8
 
 
 TRT SPOR
@@ -63,21 +63,23 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301839.ts
 
 
 TRT SPOR YILDIZ
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr   " tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR*
+EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr   " tvg-name="TR • TRT SPOR YILDIZ HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR*
 http://maxbestugr.xyz:8080/yvz8742/yvz.1905/353402
 https://hw1.jemtv.com/app/trtspor2/playlist.m3u8
-#EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR*
+EXTINF:-1 tvg-id=" Trt.Spor.Yıldız.tr  " tvg-name="TR  | TRT2 SPOR" tvg-logo="  https://i.ibb.co/ky3qVPc/trtspory2.png  " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR*
 https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
 
 
 ASPOR
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
-http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/22503.ts
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=2021&extension=m3u8&live=true
-https://canlitvulusal.xyz/live/aspor/index.m3u8
+
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301840.ts
+
+EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
+http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/22503.ts
+EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
+http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=2021&extension=m3u8&live=true
+https://canlitvulusal.xyz/live/aspor/index.m3u8
 
 
 TRT MÜZİK
@@ -139,15 +141,17 @@ EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="
 
 
 FOX/NOW
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
-http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/135.ts
-https://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
-http://garaveli.serv00.net/Gledai?ID=foxtv&e=.m3u8
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
-http://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzOTg1MDQ5NjFmNDI0ZjBlY2M2NTU==
+
+EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
+http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/135.ts
+https://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
+EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
+http://garaveli.serv00.net/Gledai?ID=foxtv&e=.m3u8
+EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
+http://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
 
 FX
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
