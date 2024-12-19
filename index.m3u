@@ -145,13 +145,22 @@ BEIN MOVIES STARS
 #EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/6093.ts
 
-DINAMIK IMBD
+DINAMIK
 #EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.imgur.com/jQI8W8S.png" group-title="ULUSAL",DINAMIK IMBD
 http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446184.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.imgur.com/jQI8W8S.png" group-title="ULUSAL",DINAMIK BILIMKURGU
+http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446181.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.imgur.com/jQI8W8S.png" group-title="ULUSAL",DINAMIK KORKU
+http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446187.m3u
 
-MAX GOLD
+
+MAX
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX GOLD
 http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446165.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX PREMIER
+http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446164.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX KINO
+http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446167.m3u
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
