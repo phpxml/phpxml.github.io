@@ -23,7 +23,14 @@ https://aaa.cdn.saintcdn.live/e/200.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://aaa.cdn.saintcdn.live/e/160.m3u8
 #https://ded0web.b-cdn.net/live/050.m3u8?|referer=https://netspor146.link/
-
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://picon-13398.kxcdn.com/trtsporhdtr.jpg" group-title="NET ➾ SPORT",TRT spor ʜᴅ
+#EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://aaa.cdn.saintcdn.live/e/157.m3u8
+#https://ded0web.b-cdn.net/live/3068.m3u8
+#https://ded0web.b-cdn.net/live/8888884.m3u8 
+#https://scr013.b-cdn.net/live/8888884.m3u8 
 
 
 
