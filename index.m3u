@@ -16,7 +16,7 @@ TRT 1
 https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintrt1.m3u8
 #https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintrt1.m3u8|referer=https://koprulu.global.ssl.fastly.net/spor.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="  https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ʜᴅ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -27,9 +27,6 @@ https://aaa.cdn.saintcdn.live/e/200.m3u8
 
 EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
-
-
-
 EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 http://garaveli.serv00.net/Gledai?ID=trt1&e=.m3u8
 http://116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
