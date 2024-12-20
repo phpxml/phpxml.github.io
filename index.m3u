@@ -7,6 +7,27 @@ EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 
 ULUSAL
 
+
+#EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg" group-title="NET ➾ SPORT",TRT 1 ʜᴅ
+#EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://aaa.cdn.saintcdn.live/e/200.m3u8
+#https://abd1.cdn.saintcdn.live/e/150.m3u8
+#https://ded0web.b-cdn.net/live/3067.m3u8?|referer=https://netspor146.link/
+
+
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="NET ➾ SPORT",ATV ʜᴅ 
+#EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://aaa.cdn.saintcdn.live/e/160.m3u8
+#https://ded0web.b-cdn.net/live/050.m3u8?|referer=https://netspor146.link/
+
+
+
+
+
 TRT 1
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
