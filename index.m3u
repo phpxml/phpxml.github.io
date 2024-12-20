@@ -9,12 +9,6 @@ ULUSAL
 
 TRT 1
 
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᴴᴰ
-#EXTVLCOPT:http-referrer=https://google.com
-#EXTVLCOPT:http-origin=https://google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintrt1.m3u8
-#https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintrt1.m3u8|referer=https://koprulu.global.ssl.fastly.net/spor.m3u8
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
@@ -25,7 +19,7 @@ https://aaa.cdn.saintcdn.live/e/200.m3u8
 #https://ded0web.b-cdn.net/live/3067.m3u8?|referer=https://netspor146.link/
 
 
-EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
 EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 http://garaveli.serv00.net/Gledai?ID=trt1&e=.m3u8
@@ -46,11 +40,12 @@ TRT 4K
 
 #EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
 https://trn03.tulix.tv/gt-trt4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
+http://tgn.bozztv.com/trn03/gt-trt4k/tracks-v1a1/mono.m3u8
+
 
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
 http://garaveli.serv00.net/GinikoHD?ID=786&e=.m3u8
-EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
-http://tgn.bozztv.com/trn03/gt-trt4k/tracks-v1a1/mono.m3u8
 
 TRT 2
 
@@ -65,13 +60,13 @@ https://canlitvulusal.xyz/live/trt2/index.m3u8
 
 TRT SPOR
 
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="ULUSAL",TRT SPOR ʜᴅ
+EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="ULUSAL",TRT SPOR ʜᴅ
 #EXTVLCOPT:http-referrer=https://google.com
 #EXTVLCOPT:http-origin=https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintrtspor.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="   https://i.ibb.co/3WmLjwG/trtspor22c.png  " group-title="ULUSAL",TRT spor ʜᴅ
+EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="   https://i.ibb.co/3WmLjwG/trtspor22c.png  " group-title="ULUSAL",TRT spor ʜᴅ
 #EXTVLCOPT:http-referrer=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-origin=https://390307c602253fe877777f5206c295c564452252.ytvidcdn.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -93,7 +88,7 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301839.ts
 
 TRT SPOR YILDIZ
 
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="ULUSAL",TRT SPOR YILDIZ ʜᴅ
+EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="ULUSAL",TRT SPOR YILDIZ ʜᴅ
 #EXTVLCOPT:http-referrer=https://google.com
 #EXTVLCOPT:http-origin=https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -109,7 +104,7 @@ https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
 
 ASPOR
 
-#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
+EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301840.ts
 
 EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
@@ -181,12 +176,12 @@ FOX/NOW
 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://garaveli.serv00.net/Gledai?ID=foxtv&e=.m3u8
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
+http://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
 
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/135.ts
 https://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
-EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
-http://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
 
 FX
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
