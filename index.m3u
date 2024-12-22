@@ -129,7 +129,6 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/82324.ts
 
 
 TRT 4K
-
 #EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
 https://trn03.tulix.tv/gt-trt4k/tracks-v1a1/mono.m3u8
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
@@ -138,7 +137,6 @@ EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wi
 http://garaveli.serv00.net/GinikoHD?ID=786&e=.m3u8
 
 TRT 2
-
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᴴᴰ
 https://trn03.tulix.tv/gt-trt2/playlist.m3u8
 https://hw1.jemtv.com/app/trt2/playlist.m3u8
@@ -149,14 +147,12 @@ https://canlitvulusal.xyz/live/trt2/index.m3u8
 
 
 TRT SPOR
-
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
 https://helga.iptv2022.com/sh/trt_spor/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
 EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
 
 
 TRT SPOR YILDIZ
-
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="ULUSAL",TRT SPOR YILDIZ ʜᴅ
 #EXTVLCOPT:http-referrer=https://google.com
 #EXTVLCOPT:http-origin=https://google.com
@@ -172,7 +168,6 @@ https://canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
 
 
 ASPOR
-
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/22503.ts
 EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
@@ -212,14 +207,12 @@ EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   http
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b2064000.m3u8
 
 TLC
-
 #EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8 
 
 DMAX
-
 #EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
 https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
@@ -271,9 +264,9 @@ http://185.234.111.229:8000/play/a018
 
 SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
-https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/showmax.m3u8
-EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
 http://65.21.85.175:8000/play/a02d/index.m3u8?&token=livetv
+https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/showmax.m3u8
+
 
 
 SHOWTÜRK
