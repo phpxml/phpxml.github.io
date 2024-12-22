@@ -12,7 +12,7 @@ TRT 1
 https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/161.ts
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40721
 
 EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
@@ -41,6 +41,8 @@ FOX/NOW
 http://garaveli.serv00.net/Gledai?ID=foxtv&e=.m3u8
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40734
 
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/135.ts
@@ -52,9 +54,11 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://canlitvulusal3.xyz/live/showtv/index.m3u8
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40729
+
 
 EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 http://116.202.238.88/SHOWTV_TR/tracks-v1a1/mono.m3u8
@@ -76,6 +80,8 @@ https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayinatv.m3u8
 https://aaa.cdn.saintcdn.live/e/160.m3u8
 #https://ded0web.b-cdn.net/live/050.m3u8?|referer=https://netspor146.link/
 
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40742
 
 
 EXTINF:-1 tvg-id="  ATV.tr " tvg-name="" group-title="ULUSAL"tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png  ",ATV ᴴᴰ
@@ -99,6 +105,9 @@ http://trn03.tulix.tv/gt-startv/tracks-v1a1/mono.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
+#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40731
+
 EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
 http://garaveli.serv00.net/Gledai?ID=startv&e=.m3u8
 http://116.202.238.88/STARTV_TR/tracks-v1a1/mono.m3u8
@@ -117,8 +126,13 @@ https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ avrp
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301853.ts
+
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40741
+
 
 EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ
 http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
@@ -265,6 +279,7 @@ http://185.234.111.229:8000/play/a018
 
 SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX ᵁᴴᴰ⁺™
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40730
 http://65.21.85.175:8000/play/a02d/index.m3u8?&token=livetv
 https://github.com/worldmediaman/YouTubeToURL/raw/main/output/streams/showmax.m3u8
 
@@ -332,8 +347,6 @@ https://canlitvulusal.xyz/live/tv5/index.m3u8
 TV8
 
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
-http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40725
-#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/798302.ts
 http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/63947.ts
 https://hw1.jemtv.com/app/tv8/playlist.m3u8
@@ -348,7 +361,8 @@ http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-origin=https://playhls.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintv8.m3u8
-
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
+http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40725
 
 
 TV 8.5
