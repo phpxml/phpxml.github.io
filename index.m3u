@@ -261,8 +261,6 @@ https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b20640
 BBC EARTH
 EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᶠʰᵈ
 
-
-
 FX
 #EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/2075.ts
@@ -273,23 +271,6 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302089.ts
 BEIN MOVIES STARS
 #EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/6093.ts
-
-DINAMIK
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.imgur.com/jQI8W8S.png" group-title="ULUSAL",DINAMIK IMBD
-http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446184.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.imgur.com/jQI8W8S.png" group-title="ULUSAL",DINAMIK BILIMKURGU
-http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446181.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="https://i.imgur.com/jQI8W8S.png" group-title="ULUSAL",DINAMIK KORKU
-http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446187.m3u
-
-
-MAX
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX GOLD
-http://mick1.shop:80/live/sultan.1218/hMSzaDEBEC/1446165.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX PREMIER
-http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446164.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/max_gold.png" group-title="ULUSAL",MAX KINO
-http://mick1.shop/live/sultan.1218/hMSzaDEBEC/1446167.m3u
 
 ATV AVRUPA
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
@@ -452,340 +433,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
 
-EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " group-title="ULUSAL",ᴴᴰ
-
-------
-
-
-DOLBY
-#EXTINF:-1 tvg-id="" tvg-name="USK Yerli" tvg-logo="" group-title="ULUSAL",USK Yerli
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/436299
-#EXTINF:-1 tvg-id="" tvg-name="USK Yerli" tvg-logo="" group-title="ULUSAL",USK Yerli
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/436299
-#EXTINF:-1 tvg-id="" tvg-name="USK Yerli" tvg-logo="" group-title="ULUSAL",USK Yerli
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/436299
-
-#EXTINF:-1 tvg-id="" tvg-name="USK Dublaj" tvg-logo="" group-title="ULUSAL",USK Dublaj
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/436300
-#EXTINF:-1 tvg-id="" tvg-name="USK Dublaj" tvg-logo="" group-title="ULUSAL",USK Dublaj
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/436300
-#EXTINF:-1 tvg-id="" tvg-name="USK Dublaj" tvg-logo="" group-title="ULUSAL",USK Dublaj
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/436300
-
-#EXTINF:-1 tvg-id="" tvg-name="USK Altyazı" tvg-logo="" group-title="ULUSAL",USK Altyazı
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/436298
-#EXTINF:-1 tvg-id="" tvg-name="USK Altyazı" tvg-logo="" group-title="ULUSAL",USK Altyazı
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/436298
-#EXTINF:-1 tvg-id="" tvg-name="USK Altyazı" tvg-logo="" group-title="ULUSAL",USK Altyazı
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/436298
-
-#EXTINF:-1 tvg-id="" tvg-name="Vizyon" tvg-logo="" group-title="ULUSAL",Vizyon
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435906
-#EXTINF:-1 tvg-id="" tvg-name="Vizyon" tvg-logo="" group-title="ULUSAL",Vizyon
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435906
-#EXTINF:-1 tvg-id="" tvg-name="Vizyon" tvg-logo="" group-title="ULUSAL",Vizyon
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435906
-
-#EXTINF:-1 tvg-id="" tvg-name="Vizyon 2" tvg-logo="" group-title="ULUSAL",Vizyon 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435907
-#EXTINF:-1 tvg-id="" tvg-name="Vizyon 2" tvg-logo="" group-title="ULUSAL",Vizyon 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435907
-#EXTINF:-1 tvg-id="" tvg-name="Vizyon 2" tvg-logo="" group-title="ULUSAL",Vizyon 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435907
-
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Vizyon 1" tvg-logo="" group-title="ULUSAL",Yerli Vizyon 1
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435905
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Vizyon 1" tvg-logo="" group-title="ULUSAL",Yerli Vizyon 1
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435905
-#EXTINF:-1 tvg-id="" tvg-name="Yerli Vizyon 1" tvg-logo="" group-title="ULUSAL",Yerli Vizyon 1
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435905
-
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 1" tvg-logo="" group-title="ULUSAL",Yerli 1
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435908
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 1" tvg-logo="" group-title="ULUSAL",Yerli 1
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435908
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 1" tvg-logo="" group-title="ULUSAL",Yerli 1
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435908
-
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 2" tvg-logo="" group-title="ULUSAL",Yerli 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435909
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 2" tvg-logo="" group-title="ULUSAL",Yerli 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435909
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 2" tvg-logo="" group-title="ULUSAL",Yerli 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435909
-
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 3" tvg-logo="" group-title="ULUSAL",Yerli 3
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435910
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 3" tvg-logo="" group-title="ULUSAL",Yerli 3
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435910
-#EXTINF:-1 tvg-id="" tvg-name="Yerli 3" tvg-logo="" group-title="ULUSAL",Yerli 3
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435910
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier 1" tvg-logo="" group-title="ULUSAL",Premier 1
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435937
-#EXTINF:-1 tvg-id="" tvg-name="Premier 1" tvg-logo="" group-title="ULUSAL",Premier 1
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435937
-#EXTINF:-1 tvg-id="" tvg-name="Premier 1" tvg-logo="" group-title="ULUSAL",Premier 1
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435937
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier 2" tvg-logo="" group-title="ULUSAL",Premier 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435938
-#EXTINF:-1 tvg-id="" tvg-name="Premier 2" tvg-logo="" group-title="ULUSAL",Premier 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435938
-#EXTINF:-1 tvg-id="" tvg-name="Premier 2" tvg-logo="" group-title="ULUSAL",Premier 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435938
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier 3" tvg-logo="" group-title="ULUSAL",Premier 3
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435939
-#EXTINF:-1 tvg-id="" tvg-name="Premier 3" tvg-logo="" group-title="ULUSAL",Premier 3
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435939
-#EXTINF:-1 tvg-id="" tvg-name="Premier 3" tvg-logo="" group-title="ULUSAL",Premier 3
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435939
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier 4" tvg-logo="" group-title="ULUSAL",Premier 4
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435940
-#EXTINF:-1 tvg-id="" tvg-name="Premier 4" tvg-logo="" group-title="ULUSAL",Premier 4
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435940
-#EXTINF:-1 tvg-id="" tvg-name="Premier 4" tvg-logo="" group-title="ULUSAL",Premier 4
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435940
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier 5" tvg-logo="" group-title="ULUSAL",Premier 5
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435941
-#EXTINF:-1 tvg-id="" tvg-name="Premier 5" tvg-logo="" group-title="ULUSAL",Premier 5
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435941
-#EXTINF:-1 tvg-id="" tvg-name="Premier 5" tvg-logo="" group-title="ULUSAL",Premier 5
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435941
-
-#EXTINF:-1 tvg-id="" tvg-name="Loca 1" tvg-logo="" group-title="ULUSAL",Loca 1
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435942
-#EXTINF:-1 tvg-id="" tvg-name="Loca 1" tvg-logo="" group-title="ULUSAL",Loca 1
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435942
-#EXTINF:-1 tvg-id="" tvg-name="Loca 1" tvg-logo="" group-title="ULUSAL",Loca 1
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435942
-
-#EXTINF:-1 tvg-id="" tvg-name="Loca 2" tvg-logo="" group-title="ULUSAL",Loca 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435943
-#EXTINF:-1 tvg-id="" tvg-name="Loca 2" tvg-logo="" group-title="ULUSAL",Loca 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435943
-#EXTINF:-1 tvg-id="" tvg-name="Loca 2" tvg-logo="" group-title="ULUSAL",Loca 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435943
-
-#EXTINF:-1 tvg-id="" tvg-name="Loca 3" tvg-logo="" group-title="ULUSAL",Loca 3
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435944
-#EXTINF:-1 tvg-id="" tvg-name="Loca 3" tvg-logo="" group-title="ULUSAL",Loca 3
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435944
-#EXTINF:-1 tvg-id="" tvg-name="Loca 3" tvg-logo="" group-title="ULUSAL",Loca 3
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435944
-
-#EXTINF:-1 tvg-id="" tvg-name="Loca 4" tvg-logo="" group-title="ULUSAL",Loca 4
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435945
-#EXTINF:-1 tvg-id="" tvg-name="Loca 4" tvg-logo="" group-title="ULUSAL",Loca 4
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435945
-#EXTINF:-1 tvg-id="" tvg-name="Loca 4" tvg-logo="" group-title="ULUSAL",Loca 4
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435945
-
-#EXTINF:-1 tvg-id="" tvg-name="Loca 5" tvg-logo="" group-title="ULUSAL",Loca 5
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435946
-#EXTINF:-1 tvg-id="" tvg-name="Loca 5" tvg-logo="" group-title="ULUSAL",Loca 5
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435946
-#EXTINF:-1 tvg-id="" tvg-name="Loca 5" tvg-logo="" group-title="ULUSAL",Loca 5
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435946
-
-#EXTINF:-1 tvg-id="" tvg-name="Aksiyon" tvg-logo="" group-title="ULUSAL",Aksiyon
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435911
-#EXTINF:-1 tvg-id="" tvg-name="Aksiyon" tvg-logo="" group-title="ULUSAL",Aksiyon
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435911
-#EXTINF:-1 tvg-id="" tvg-name="Aksiyon" tvg-logo="" group-title="ULUSAL",Aksiyon
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435911
-
-#EXTINF:-1 tvg-id="" tvg-name="Aksiyon 2" tvg-logo="" group-title="ULUSAL",Aksiyon 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435912
-#EXTINF:-1 tvg-id="" tvg-name="Aksiyon 2" tvg-logo="" group-title="ULUSAL",Aksiyon 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435912
-#EXTINF:-1 tvg-id="" tvg-name="Aksiyon 2" tvg-logo="" group-title="ULUSAL",Aksiyon 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435912
-
-#EXTINF:-1 tvg-id="" tvg-name="Nostalji " tvg-logo="" group-title="ULUSAL",Nostalji 
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435936
-#EXTINF:-1 tvg-id="" tvg-name="Nostalji " tvg-logo="" group-title="ULUSAL",Nostalji 
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435936
-#EXTINF:-1 tvg-id="" tvg-name="Nostalji " tvg-logo="" group-title="ULUSAL",Nostalji 
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435936
-
-#EXTINF:-1 tvg-id="" tvg-name="Savaş" tvg-logo="" group-title="ULUSAL",Savaş
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435935
-#EXTINF:-1 tvg-id="" tvg-name="Savaş" tvg-logo="" group-title="ULUSAL",Savaş
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435935
-#EXTINF:-1 tvg-id="" tvg-name="Savaş" tvg-logo="" group-title="ULUSAL",Savaş
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435935
-
-#EXTINF:-1 tvg-id="" tvg-name="Western" tvg-logo="" group-title="ULUSAL",Western
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435933
-#EXTINF:-1 tvg-id="" tvg-name="Western" tvg-logo="" group-title="ULUSAL",Western
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435933
-#EXTINF:-1 tvg-id="" tvg-name="Western" tvg-logo="" group-title="ULUSAL",Western
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435933
-
-#EXTINF:-1 tvg-id="" tvg-name="Western 2" tvg-logo="" group-title="ULUSAL",Western 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435934
-#EXTINF:-1 tvg-id="" tvg-name="Western 2" tvg-logo="" group-title="ULUSAL",Western 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435934
-#EXTINF:-1 tvg-id="" tvg-name="Western 2" tvg-logo="" group-title="ULUSAL",Western 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435934
-
-#EXTINF:-1 tvg-id="" tvg-name="Uzakdoğu" tvg-logo="" group-title="ULUSAL",Uzakdoğu
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435931
-#EXTINF:-1 tvg-id="" tvg-name="Uzakdoğu" tvg-logo="" group-title="ULUSAL",Uzakdoğu
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435931
-#EXTINF:-1 tvg-id="" tvg-name="Uzakdoğu" tvg-logo="" group-title="ULUSAL",Uzakdoğu
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435931
-
-#EXTINF:-1 tvg-id="" tvg-name="Uzakdoğu 2" tvg-logo="" group-title="ULUSAL",Uzakdoğu 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435932
-#EXTINF:-1 tvg-id="" tvg-name="Uzakdoğu 2" tvg-logo="" group-title="ULUSAL",Uzakdoğu 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435932
-#EXTINF:-1 tvg-id="" tvg-name="Uzakdoğu 2" tvg-logo="" group-title="ULUSAL",Uzakdoğu 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435932
-
-#EXTINF:-1 tvg-id="" tvg-name="Dram 1" tvg-logo="" group-title="ULUSAL",Dram 1
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435929
-#EXTINF:-1 tvg-id="" tvg-name="Dram 1" tvg-logo="" group-title="ULUSAL",Dram 1
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435929
-#EXTINF:-1 tvg-id="" tvg-name="Dram 1" tvg-logo="" group-title="ULUSAL",Dram 1
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435929
-
-#EXTINF:-1 tvg-id="" tvg-name="Dram 2" tvg-logo="" group-title="ULUSAL",Dram 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435930
-#EXTINF:-1 tvg-id="" tvg-name="Dram 2" tvg-logo="" group-title="ULUSAL",Dram 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435930
-#EXTINF:-1 tvg-id="" tvg-name="Dram 2" tvg-logo="" group-title="ULUSAL",Dram 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435930
-
-#EXTINF:-1 tvg-id="" tvg-name="IMDB " tvg-logo="" group-title="ULUSAL",IMDB 
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435928
-#EXTINF:-1 tvg-id="" tvg-name="IMDB " tvg-logo="" group-title="ULUSAL",IMDB 
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435928
-#EXTINF:-1 tvg-id="" tvg-name="IMDB " tvg-logo="" group-title="ULUSAL",IMDB 
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435928
-
-#EXTINF:-1 tvg-id="" tvg-name="Romantik" tvg-logo="" group-title="ULUSAL",Romantik
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435926
-#EXTINF:-1 tvg-id="" tvg-name="Romantik" tvg-logo="" group-title="ULUSAL",Romantik
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435926
-#EXTINF:-1 tvg-id="" tvg-name="Romantik" tvg-logo="" group-title="ULUSAL",Romantik
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435926
-
-#EXTINF:-1 tvg-id="" tvg-name="Romantik 2" tvg-logo="" group-title="ULUSAL",Romantik 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435927
-#EXTINF:-1 tvg-id="" tvg-name="Romantik 2" tvg-logo="" group-title="ULUSAL",Romantik 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435927
-#EXTINF:-1 tvg-id="" tvg-name="Romantik 2" tvg-logo="" group-title="ULUSAL",Romantik 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435927
-
-#EXTINF:-1 tvg-id="" tvg-name="Komedi" tvg-logo="" group-title="ULUSAL",Komedi
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435924
-#EXTINF:-1 tvg-id="" tvg-name="Komedi" tvg-logo="" group-title="ULUSAL",Komedi
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435924
-#EXTINF:-1 tvg-id="" tvg-name="Komedi" tvg-logo="" group-title="ULUSAL",Komedi
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435924
-
-#EXTINF:-1 tvg-id="" tvg-name="Komedi 2 " tvg-logo="" group-title="ULUSAL",Komedi 2 
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435925
-#EXTINF:-1 tvg-id="" tvg-name="Komedi 2 " tvg-logo="" group-title="ULUSAL",Komedi 2 
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435925
-#EXTINF:-1 tvg-id="" tvg-name="Komedi 2 " tvg-logo="" group-title="ULUSAL",Komedi 2 
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435925
-
-#EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="" group-title="ULUSAL",Netflix
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435922
-#EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="" group-title="ULUSAL",Netflix
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435922
-#EXTINF:-1 tvg-id="" tvg-name="Netflix" tvg-logo="" group-title="ULUSAL",Netflix
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435922
-
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title="ULUSAL",Netflix 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435923
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title="ULUSAL",Netflix 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435923
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title="ULUSAL",Netflix 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435923
-
-#EXTINF:-1 tvg-id="" tvg-name="Macera" tvg-logo="" group-title="ULUSAL",Macera
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435920
-#EXTINF:-1 tvg-id="" tvg-name="Macera" tvg-logo="" group-title="ULUSAL",Macera
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435920
-#EXTINF:-1 tvg-id="" tvg-name="Macera" tvg-logo="" group-title="ULUSAL",Macera
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435920
-
-#EXTINF:-1 tvg-id="" tvg-name="Macera 2" tvg-logo="" group-title="ULUSAL",Macera 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435921
-#EXTINF:-1 tvg-id="" tvg-name="Macera 2" tvg-logo="" group-title="ULUSAL",Macera 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435921
-#EXTINF:-1 tvg-id="" tvg-name="Macera 2" tvg-logo="" group-title="ULUSAL",Macera 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435921
-
-#EXTINF:-1 tvg-id="" tvg-name="Gerilim" tvg-logo="" group-title="ULUSAL",Gerilim
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435919
-#EXTINF:-1 tvg-id="" tvg-name="Gerilim" tvg-logo="" group-title="ULUSAL",Gerilim
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435919
-#EXTINF:-1 tvg-id="" tvg-name="Gerilim" tvg-logo="" group-title="ULUSAL",Gerilim
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435919
-
-#EXTINF:-1 tvg-id="" tvg-name="Korku" tvg-logo="" group-title="ULUSAL",Korku
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435917
-#EXTINF:-1 tvg-id="" tvg-name="Korku" tvg-logo="" group-title="ULUSAL",Korku
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435917
-#EXTINF:-1 tvg-id="" tvg-name="Korku" tvg-logo="" group-title="ULUSAL",Korku
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435917
-
-#EXTINF:-1 tvg-id="" tvg-name="Korku 2 " tvg-logo="" group-title="ULUSAL",Korku 2 
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435918
-#EXTINF:-1 tvg-id="" tvg-name="Korku 2 " tvg-logo="" group-title="ULUSAL",Korku 2 
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435918
-#EXTINF:-1 tvg-id="" tvg-name="Korku 2 " tvg-logo="" group-title="ULUSAL",Korku 2 
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435918
-
-#EXTINF:-1 tvg-id="" tvg-name="Bilimkurgu " tvg-logo="" group-title="ULUSAL",Bilimkurgu 
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435915
-#EXTINF:-1 tvg-id="" tvg-name="Bilimkurgu " tvg-logo="" group-title="ULUSAL",Bilimkurgu 
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435915
-#EXTINF:-1 tvg-id="" tvg-name="Bilimkurgu " tvg-logo="" group-title="ULUSAL",Bilimkurgu 
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435915
-
-#EXTINF:-1 tvg-id="" tvg-name="Bilimkurgu 2" tvg-logo="" group-title="ULUSAL",Bilimkurgu 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435916
-#EXTINF:-1 tvg-id="" tvg-name="Bilimkurgu 2" tvg-logo="" group-title="ULUSAL",Bilimkurgu 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435916
-#EXTINF:-1 tvg-id="" tvg-name="Bilimkurgu 2" tvg-logo="" group-title="ULUSAL",Bilimkurgu 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435916
-
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy" tvg-logo="" group-title="ULUSAL",Fantasy
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435913
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy" tvg-logo="" group-title="ULUSAL",Fantasy
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435913
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy" tvg-logo="" group-title="ULUSAL",Fantasy
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435913
-
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy 2" tvg-logo="" group-title="ULUSAL",Fantasy 2
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435914
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy 2" tvg-logo="" group-title="ULUSAL",Fantasy 2
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435914
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy 2" tvg-logo="" group-title="ULUSAL",Fantasy 2
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435914
-
-#EXTINF:-1 tvg-id="" tvg-name="Animasyon" tvg-logo="" group-title="ULUSAL",Animasyon
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/435947
-#EXTINF:-1 tvg-id="" tvg-name="Animasyon" tvg-logo="" group-title="ULUSAL",Animasyon
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/435947
-#EXTINF:-1 tvg-id="" tvg-name="Animasyon" tvg-logo="" group-title="ULUSAL",Animasyon
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/435947
-
-#EXTINF:-1 tvg-id="" tvg-name="USK Animasyon" tvg-logo="" group-title="ULUSAL",USK Animasyon
-http://up.central0854.com:8080/ttAGwYn2zt1/PgBZzQf6Qc1/436301
-#EXTINF:-1 tvg-id="" tvg-name="USK Animasyon" tvg-logo="" group-title="ULUSAL",USK Animasyon
-http://up.central0854.com:8080/turgayatar/fBDvCrdLNyW7/436301
-#EXTINF:-1 tvg-id="" tvg-name="USK Animasyon" tvg-logo="" group-title="ULUSAL",USK Animasyon
-http://up.central0854.com:8080/turhaytuyantr/BA85eVqTZ7sM/436301
+EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " 
 
 ------
 HABER
@@ -1114,11 +762,11 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
 ONE
 #EXTINF:-1 tvg-id="  ONE.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title="ALMAN",One ᴴᴰ
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 
 DAS ERSTE
 #EXTINF:-1 tvg-id="    Das.Erste.HD.de    " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title="ALMAN",Das Erste ᵁᴴᴰ
-https://mcdn.daserste.de/daserste/de/master.m3u8 
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 KIKA
 #EXTINF:1 tvg-id="  KiKA.HD.de    " tvg-language="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="ALMAN",KIKA ᴴᴰ
@@ -1188,7 +836,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 
 DW
 #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
-https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 --------
 BEIN 2
