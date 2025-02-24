@@ -10,9 +10,8 @@ TRT 1
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
 http://89.187.191.41:80/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
-https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1843&extension=m3u8&live=true
+http://116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40721
 
@@ -20,11 +19,10 @@ http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1843&extensi
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1844&extension=m3u8&live=true
 
 
-EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᶠʰᵈ
-http://garaveli.serv00.net/Gledai?ID=trt1&e=.m3u8
-http://116.202.238.88/TRT1_TR/tracks-v1a1/mono.m3u8
+
+
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-https://hw1.jemtv.com/app/trt1/playlist.m3u8
+
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -44,8 +42,9 @@ FOX/NOW
 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1855&extension=m3u8&live=true
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1856&extension=m3u8&live=true
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
+http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40734
 
