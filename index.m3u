@@ -345,21 +345,8 @@ TV5
 https://canlitvulusal.xyz/live/tv5/index.m3u8
 
 TV8
-
-#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
-
-
-
-#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
-http://tgn.bozztv.com/trn03/gt-tv8-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
 http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="ULUSAL",TV8 ʜᴅ
-#EXTVLCOPT:http-referrer=https://playhls.com/
-#EXTVLCOPT:http-origin=https://playhls.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://koprulu1.global.ssl.fastly.net/spor.m3u8/?id=yayintv8.m3u8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40725
 
