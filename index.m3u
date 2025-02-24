@@ -721,6 +721,14 @@ https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 ------
 ALMAN
 
+KABEL 1
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="DE055:KABEL 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE055SkyCinemaAction.png" group-title="ALMAN",KABEL 1
+http://yesimes.oknirvana.club:8880/D12m3577/71335529/2628
+
+KABEL 1 CLASSICS
+#EXTINF:-1 tvg-id="kabel.eins.classics.de" tvg-name="DE056:KABEL 1 CLASSICS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE056SkyCinemaComedy.png" group-title="ALMAN",KABEL 1 CLASSICS
+http://yesimes.oknirvana.club:8880/D12m3577/71335529/2627
+
 ZDF
 #EXTINF:-1 tvg-id="   ZDF.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF ᴴᴰ
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
