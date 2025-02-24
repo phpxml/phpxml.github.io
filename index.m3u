@@ -436,9 +436,9 @@ https://krttv-live.daioncdn.net/krttv/krttv_720p.m3u8
 https://krttv-live.daioncdn.net/krttv/krttv_1080p.m3u8
 https://canlitvulusal.xyz/live/krt/index.m3u8
 
-
 TELE 1
 #EXTINF:-1 tvg-id="   Tele.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="HABER",TELE 1 ᴴᴰ
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://canlitvulusal.xyz/live/tele1/index.m3u8
 
 FLASH HABER
@@ -447,11 +447,12 @@ https://canlitvulusal.xyz/live/flashhaber/index.m3u8
 
 SÖZCÜ
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="    https://canlitvulusal.com/wp-content/uploads/2024/01/sozcu-tv-logo.png     " group-title="HABER",SZC ᴴᴰ
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 https://canlitvulusal.xyz/live/sozcutv/index.m3u8
 
 TV100
 #EXTINF:-1 tvg-id="  Tv.100.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/bLpTdYZ/tv100.png    " group-title="HABER",TV 100 ᴴᴰ
-
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 CNNTÜRK
 #EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN Türk ᴴᴰ
@@ -470,16 +471,15 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8 
 
 BLOOMBERG
-#EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
-
+EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
 
 HABER GLOBAL
 #EXTINF:-1 tvg-id="   Haber.Global.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="HABER",Haber Global ᴴᴰ
-
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
 ER TV
 #EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/ertv.png   " group-title="HABER",ER TV ᴴᴰ
-
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
 
 VUSLAT TV
 EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/vuslattv.png   " group-title="HABER",VUSLAT TV ᴴᴰ
