@@ -44,16 +44,10 @@ FOX/NOW
 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1855&extension=m3u8&live=true
-http://garaveli.serv00.net/Gledai?ID=foxtv&e=.m3u8
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1856&extension=m3u8&live=true
-http://trn03.tulix.tv/gt-foxturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40734
-
-EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png      " group-title="ULUSAL",NOW ᴴᴰ
-http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/135.ts
-https://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
