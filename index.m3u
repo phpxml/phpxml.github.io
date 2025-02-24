@@ -333,9 +333,6 @@ http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1862&extensi
 360
 #EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="ULUSAL",360 ᴴᴰ
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-https://360tv.blutv.com/blutv_360tv_live/live.m3u8
-https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8 
-EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="ULUSAL",360 ᴴᴰ
 
 
 MELTEM TV
@@ -352,11 +349,10 @@ https://canlitvulusal.xyz/live/tv5/index.m3u8
 TV8
 
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
-http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/798302.ts
-http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/63947.ts
-https://hw1.jemtv.com/app/tv8/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
-http://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 ᶠʰᵈ
 http://tgn.bozztv.com/trn03/gt-tv8-tv/playlist.m3u8
@@ -390,9 +386,7 @@ http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1860&extensi
 
 A2
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
-http://livahizmet.xyz:80/live/senolbulut/FGEqwZkax2/147.ts
-https://stream.tvcdn.net/eglence/a2.m3u8
-http://hw1.jemtv.com/app/a2hd/chunks.m3u8
+https://canlitvulusal.xyz/live/a2tv/index.m3u8
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 http://116.202.238.88/A2_TR/playlist.m3u8
 
