@@ -18,11 +18,7 @@ http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40721
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1843&extension=m3u8&live=true
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1844&extension=m3u8&live=true
 
-
-
-
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -39,7 +35,6 @@ https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8
 
 
 FOX/NOW
-
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1855&extension=m3u8&live=true
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1856&extension=m3u8&live=true
@@ -55,36 +50,24 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
+http://116.202.238.88/SHOWTV_TR/tracks-v1a1/mono.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40729
 
-
-EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
-http://116.202.238.88/SHOWTV_TR/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
-http://trn03.tulix.tv/gt-show-tv/tracks-v1a1/mono.m3u8
-
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1847&extension=m3u8&live=true
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1848&extension=m3u8&live=true
 
-
-
 ATV
-
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
 http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40742
 
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1849&extension=m3u8&live=true
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1850&extension=m3u8&live=true
-https://hw1.jemtv.com/app/ATVHD/chunks.m3u8
-http://tgn.bozztv.com/trn03/gt-atv-tv/playlist.m3u8
-
 
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
