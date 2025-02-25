@@ -165,13 +165,6 @@ http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=268138&exten
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=2021&extension=m3u8&live=true
 
-TRT MÜZİK
-#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",TRT MÜZİK ᴴᴰ
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",TRT MÜZİK ᴴᴰ
-https://canlitvulusal.xyz/live/trtmuzik/index.m3u8
-
 TRT TÜRK
 #EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᴴᴰ
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -471,6 +464,12 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u
 ------
 MÜZİK
 
+TRT MÜZİK
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",TRT MÜZİK ᴴᴰ
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL",TRT MÜZİK ᴴᴰ
+https://canlitvulusal.xyz/live/trtmuzik/index.m3u8
+
 TATLISES TV
 #EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
 https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8 
@@ -478,15 +477,6 @@ https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 KRAL POP
 #EXTINF:-1 tvg-id="    " tvg-language="Turkish" tvg-logo="     https://i.ibb.co/zhRwXbL/krpop.png   " group-title="MÜZİK",Kral Pop TV 
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-
-NUMBER ONE TÜRK
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-language="Turkish" tvg-logo="    https://i.ibb.co/wSPFds2/nr1turk.png      " group-title="MÜZİK",Number 1 Türk 
-https://pull1-poc.blutv.com/live/U6D3B4S2/U6D3B4S2_720p.m3u8?pkg_hm=index.m3u8&pkg_svc=1
-https://nr1turk.blutv.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
-
-MİLYON TV
-#EXTINF:-1 tvg-id="milyontv.tr" tvg-language="Turkish" tvg-logo="    https://static.wixstatic.com/media/86e281_df1090d9ef2e4a4da93f571496ee70f2~mv2.png/v1/fill/w_360,h_360,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/milyontv.png      " group-title="MÜZİK",milyontv
-https://pull1-poc.blutv.com/live/2ZJ6X7A9/2ZJ6X7A9_720p.m3u8?pkg_hm=index.m3u8&pkg_svc=1
 
 NUMBER ONE TÜRK DAMAR
 #EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MÜZİK",Number 1 Türk Damar 
