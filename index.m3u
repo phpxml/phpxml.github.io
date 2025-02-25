@@ -179,10 +179,8 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 EXTINF:-1 tvg-id="  TRT.Avaz.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᴴᴰ
 https://canlitvulusal.xyz/live/trtavaz/index.m3u8
 
-
 DISCOVERY SCIENCE
 EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
-
 
 INVESTIGATION DISCOVERY
 EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
@@ -236,7 +234,6 @@ http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40730
 http://65.21.85.175:8000/play/a02d/index.m3u8?&token=livetv
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1873&extension=m3u8&live=true
 
-
 SHOWTÜRK
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
 http://162.212.179.34/dvrfl05/gin-showtvturk/playlist.m3u8
@@ -244,13 +241,11 @@ https://canlitvulusal.xyz/live/showturk/index.m3u8
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
 http://185.234.111.229:8000/play/a009
 
-
 EUROSTAR
 #EXTINF:-1 tvg-id=" Euro.Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="ULUSAL",EUROSTAR ᴴᴰ
 https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
 #EXTINF:-1 tvg-id=" Euro.Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="ULUSAL",EUROSTAR ᴴᴰ
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-
 
 EURO D
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",EURO D ᴴᴰ
@@ -300,7 +295,6 @@ http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40725
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1857&extension=m3u8&live=true
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1858&extension=m3u8&live=true
 
-
 TV 8.5
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 http://116.202.238.88/TV8.5_TR/tracks-v1a1/mono.m3u8
@@ -315,7 +309,6 @@ A2
 https://canlitvulusal.xyz/live/a2tv/index.m3u8
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 http://116.202.238.88/A2_TR/playlist.m3u8
-
 
 TEVE2
 #EXTINF:-1 tvg-id="   Teve2.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="ULUSAL",Teve2 ᴴᴰ
@@ -630,22 +623,6 @@ https://moondigitaledge.radyotvonline.net/mazidenbirdemet/playlist.m3u8
 NTV RADYO
 #EXTINF:-1 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title="RADYO", NTV radyo 
 https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
-
-NTV SPOR
-#EXTINF:-1 tvg-logo="  https://cdn.ntvradyo.com.tr/images/live_page_img.jpeg   " group-title="RADYO", NTV SPOR 
-https://ssldyg.radyotvonline.com/smil/smil:ntvspor.smil/chunklist_w1613490002_b128000.m3u8
-
-RADYO SPOR
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/tr/thumb/0/07/Radyospor-logo.PNG/250px-Radyospor-logo.PNG   " group-title="RADYO", radyo SPOR 
-https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
-
-LIG RADYO
-#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/tr/thumb/a/ac/Lig_Radyo_logo.png/200px-Lig_Radyo_logo.png    " group-title="RADYO", LIG RADYO 
-https://ligradyo.radyotvonline.net/ligradyo 
-
-ASPOR
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="    https://i.ibb.co/xSjB51j/aspor.png     " group-title="RADYO",a spor radyo
-https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8 
 
 ------
 ALMAN
