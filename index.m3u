@@ -356,8 +356,38 @@ EXTINF:-1 tvg-id="  Akilli.tv.tr  " tvg-language="" tvg-logo="  https://m.akilli
 EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli.tv/themes/youplay/img/wlogo.png      " 
 
 ------
-HABER
 
+
+SİNEMA TV
+#EXTINF:-1  tvg-name="Sinema 1001" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" group-title="sinema TV",Sinema 1001
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1789
+#EXTINF:-1  tvg-name="Sinema 1002" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/17ef2ad2d87a709c0e7c766a51fa9b50.png" group-title="sinema TV",Sinema 1002
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/76722
+#EXTINF:-1  tvg-name="Sinema TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" group-title="sinema TV",Sinema TV
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1790
+#EXTINF:-1  tvg-name="Sinema 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7e777b1a0307186c05cddf9b0854b309.png" group-title="sinema TV",Sinema 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1774
+#EXTINF:-1  tvg-name="Sinema Aile" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" group-title="sinema TV",Sinema Aile
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1794
+#EXTINF:-1  tvg-name="Sinema Aile 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/40c9ccd31d19fc0376a1de2b80a9d85d.png" group-title="sinema TV",Sinema Aile 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/165582
+#EXTINF:-1  tvg-name="Sinema Aksiyon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" group-title="sinema TV",Sinema Aksiyon
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1793
+#EXTINF:-1  tvg-name="Sinema Aksiyon 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7875332e0498d4fadcdfc0da1c2262ea.png" group-title="sinema TV",Sinema Aksiyon 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1772
+#EXTINF:-1  tvg-name="Sinema Komedi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="sinema TV",Sinema Komedi
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1795
+#EXTINF:-1  tvg-name="Sinema Komedi 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" group-title="sinema TV",Sinema Komedi 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/43541
+#EXTINF:-1  tvg-name="Sinema Yerli" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" group-title="sinema TV",Sinema Yerli
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1791
+#EXTINF:-1  tvg-name="Sinema Yerli 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3d499de7a9a333b823948cc8ec8deb1.png" group-title="sinema TV",Sinema Yerli 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/163186
+
+
+------
+
+HABER
 MAVİ KARADENİZ
 #EXTINF:-1 tvg-id="  mavikaradeniztv " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/b/b0/Mavi_Karadeniz_TV_Logosu.jpg?20230104170734     " group-title="HABER",mavi karadeniz ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
