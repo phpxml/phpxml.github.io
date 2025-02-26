@@ -45,6 +45,10 @@ http://116.202.238.88/FOXTV_TR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40734
 
+https://c.fulltvizle.com/fox/index.m3u8
+http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/358052
+
+
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
@@ -67,6 +71,9 @@ http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
 http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40742
+
+https://c.fulltvizle.com/aytv/index.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1849&extension=m3u8&live=true
 http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1850&extension=m3u8&live=true
@@ -396,6 +403,7 @@ https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=55x6qmpw8q6a&app=c86957
 
 KRT
 #EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
+https://tgn.bozztv.com/trn03/gt-krttv/tracks-v1a1/mono.m3u8
 https://krttv-live.daioncdn.net/krttv/krttv_720p.m3u8
 https://krttv-live.daioncdn.net/krttv/krttv_1080p.m3u8
 https://canlitvulusal.xyz/live/krt/index.m3u8
@@ -407,7 +415,7 @@ https://canlitvulusal.xyz/live/tele1/index.m3u8
 
 FLASH HABER
 #EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="   https://canlitvulusal.com/wp-content/uploads/2024/01/flashhaber-logo.png    " group-title="HABER",FLASH HABER ᴴᴰ
-https://canlitvulusal.xyz/live/flashhaber/index.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 SÖZCÜ
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="    https://canlitvulusal.com/wp-content/uploads/2024/01/sozcu-tv-logo.png     " group-title="HABER",SZC ᴴᴰ
@@ -421,9 +429,6 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 CNNTÜRK
 #EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN Türk ᴴᴰ
 http://116.202.238.88/CNNTURK_TR/playlist.m3u8
-https://canlitvulusal.xyz/live/cnnturk/index.m3u8
-https://canlitvulusal3.xyz/live/cnnturk/index.m3u8
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
 HABERTÜRK
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",Habertürk ciner ᴴᴰ
@@ -432,7 +437,6 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 NTV
 #EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8 
 
 BLOOMBERG
 EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
@@ -451,7 +455,7 @@ https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 
 A HABER
 EXTINF:-1 tvg-id="  a.Haber.tr    " tvg-name="" group-title="HABER"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
+
 ------
 
 ------
