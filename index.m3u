@@ -646,6 +646,10 @@ UNIVERSAL TV
 #EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://repo.ottshow.net/pikoni/skyde/universalchannelde.gif" group-title="ALMAN",Universal Channel
 http://v7.alternator.pro:80/SkyZaGradinu2024/SkyZaGradinu2024/2874
 
+SKY CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren" tvg-logo="http://repo.ottshow.net/pikoni/skyde/skycinemapremiren.gif" group-title="ALMAN",Sky Cinema Premieren
+http://v7.alternator.pro:80/SkyZaGradinu2024/SkyZaGradinu2024/132
+
 ZDF
 #EXTINF:-1 tvg-id="   ZDF.HD.de   " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF ᴴᴰ
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
