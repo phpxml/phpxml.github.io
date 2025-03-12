@@ -739,6 +739,41 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 DW
 #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+-----
+
+UNIVERSAL
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="YAKINDA SINEMALARDA" tvg-logo="http://logo.multicms.info/logoslar/upcoming.jpg" group-title="UNIVERSAL",YAKINDA SINEMALARDA
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/19291
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL SONVIZYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL SONVIZYON
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/222407
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL CHOICE" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL CHOICE
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/223731
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL AKSIYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL AKSIYON
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13739
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL BEST PICTURES" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL BEST PICTURES
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/64149
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL KORKU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL KORKU
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13737
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL KOMEDI
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13735
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL FANTEZI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL FANTEZI
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13734
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL BILIMKURGU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL BILIMKURGU
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13736
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL DRAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL DRAM
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13733
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL WESTERN" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL WESTERN
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/56020
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL TURK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL TURK
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13732
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL TURK KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL TURK KOMEDI
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/59396
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL YESILCAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL YESILCAM
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13731
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL YESILCAM KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL YESILCAM KOMEDI
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/64002
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL KEMAL SUNAL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL KEMAL SUNAL
+http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13741
 
 --------
 BEIN 1
@@ -866,3 +901,4 @@ http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/255710
 http://175772.ip07.eu:80/Oznur2Bicici/t8abmc1179/255711
 
 --------
+
