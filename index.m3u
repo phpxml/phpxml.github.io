@@ -350,33 +350,6 @@ EXTINF:-1 tvg-id=" Akilli.tv.tr   " tvg-language="" tvg-logo="  https://m.akilli
 
 ------
 
-SİNEMA TV
-#EXTINF:-1  tvg-name="Sinema 1001" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" group-title="sinema TV",Sinema 1001
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1789
-#EXTINF:-1  tvg-name="Sinema 1002" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/17ef2ad2d87a709c0e7c766a51fa9b50.png" group-title="sinema TV",Sinema 1002
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/76722
-#EXTINF:-1  tvg-name="Sinema TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" group-title="sinema TV",Sinema TV
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1790
-#EXTINF:-1  tvg-name="Sinema 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7e777b1a0307186c05cddf9b0854b309.png" group-title="sinema TV",Sinema 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1774
-#EXTINF:-1  tvg-name="Sinema Aile" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" group-title="sinema TV",Sinema Aile
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1794
-#EXTINF:-1  tvg-name="Sinema Aile 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/40c9ccd31d19fc0376a1de2b80a9d85d.png" group-title="sinema TV",Sinema Aile 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/165582
-#EXTINF:-1  tvg-name="Sinema Aksiyon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" group-title="sinema TV",Sinema Aksiyon
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1793
-#EXTINF:-1  tvg-name="Sinema Aksiyon 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7875332e0498d4fadcdfc0da1c2262ea.png" group-title="sinema TV",Sinema Aksiyon 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1772
-#EXTINF:-1  tvg-name="Sinema Komedi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="sinema TV",Sinema Komedi
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1795
-#EXTINF:-1  tvg-name="Sinema Komedi 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" group-title="sinema TV",Sinema Komedi 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/43541
-#EXTINF:-1  tvg-name="Sinema Yerli" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" group-title="sinema TV",Sinema Yerli
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1791
-#EXTINF:-1  tvg-name="Sinema Yerli 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3d499de7a9a333b823948cc8ec8deb1.png" group-title="sinema TV",Sinema Yerli 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/163186
-
-
 ------
 
 HABER
@@ -633,13 +606,6 @@ https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
 ------
 ALMAN
 
-KABEL 1
-#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="DE055:KABEL 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE055SkyCinemaAction.png" group-title="ALMAN",KABEL 1
-http://yesimes.oknirvana.club:8880/D12m3577/71335529/2628
-
-KABEL 1 CLASSICS
-#EXTINF:-1 tvg-id="kabel.eins.classics.de" tvg-name="DE056:KABEL 1 CLASSICS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE056SkyCinemaComedy.png" group-title="ALMAN",KABEL 1 CLASSICS
-http://yesimes.oknirvana.club:8880/D12m3577/71335529/2627
 
 WARNER TV
 #EXTINF:-1 tvg-id="tnt-film-de" tvg-name="Werner TV Film" tvg-logo="http://repo.ottshow.net/pikoni/skyde/tntfilmde.gif" group-title="ALMAN",Werner TV Film
@@ -742,41 +708,9 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 DW
 #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
------
 
-UNIVERSAL
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="YAKINDA SINEMALARDA" tvg-logo="http://logo.multicms.info/logoslar/upcoming.jpg" group-title="UNIVERSAL",YAKINDA SINEMALARDA
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/19291
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL SONVIZYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL SONVIZYON
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/222407
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL CHOICE" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL CHOICE
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/223731
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL AKSIYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL AKSIYON
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13739
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL BEST PICTURES" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL BEST PICTURES
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/64149
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL KORKU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL KORKU
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13737
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL KOMEDI
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13735
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL FANTEZI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL FANTEZI
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13734
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL BILIMKURGU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL BILIMKURGU
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13736
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL DRAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL DRAM
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13733
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL WESTERN" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL WESTERN
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/56020
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL TURK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL TURK
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13732
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL TURK KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL TURK KOMEDI
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/59396
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL YESILCAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL YESILCAM
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13731
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL YESILCAM KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL YESILCAM KOMEDI
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/64002
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="UNIVERSAL KEMAL SUNAL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="UNIVERSAL",UNIVERSAL KEMAL SUNAL
-http://105894.fly24.be:80/abdulcelil/skPMfdpf1k/13741
+--------
+
 
 --------
 
