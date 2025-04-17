@@ -374,7 +374,7 @@ https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=55x6qmpw8q6a&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
 KRT
-#EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
+EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
 https://tgn.bozztv.com/trn03/gt-krttv/tracks-v1a1/mono.m3u8
 https://krttv-live.daioncdn.net/krttv/krttv_720p.m3u8
 https://krttv-live.daioncdn.net/krttv/krttv_1080p.m3u8
@@ -387,7 +387,7 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 https://canlitvulusal.xyz/live/tele1/index.m3u8
 
 FLASH HABER
-#EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="   https://canlitvulusal.com/wp-content/uploads/2024/01/flashhaber-logo.png    " group-title="HABER",FLASH HABER ᴴᴰ
+EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="   https://canlitvulusal.com/wp-content/uploads/2024/01/flashhaber-logo.png    " group-title="HABER",FLASH HABER ᴴᴰ
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 SÖZCÜ
@@ -401,7 +401,7 @@ TV100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 CNNTÜRK
-#EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN Türk ᴴᴰ
+EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN Türk ᴴᴰ
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=kwLuVeuoBETDPNQ0sox0Yw&e=1742733527
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=kwLuVeuoBETDPNQ0sox0Yw&e=1742733527
 
@@ -412,14 +412,14 @@ HABERTÜRK
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
 NTV
-#EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
+EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 
 BLOOMBERG
 EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
 
 HABER GLOBAL
-#EXTINF:-1 tvg-id="   Haber.Global.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="HABER",Haber Global ᴴᴰ
+EXTINF:-1 tvg-id="   Haber.Global.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="HABER",Haber Global ᴴᴰ
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
 ER TV
