@@ -140,9 +140,9 @@ EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB
 
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
-
+https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayintrtspor.m3u8&a=&aa=five.04bf112a615942b5.sbs
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
-
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89337
 
 
 TRT SPOR YILDIZ
@@ -156,6 +156,9 @@ ASPOR
 https://live.canlitvulusal.xyz/live/aspor/index.m3u8
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
 https://live.canlitvulusal.xyz/live/asporlive/index.m3u8
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",A SPOR ᵁᴴᴰ
+https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayinas.m3u8&a=&aa=five.04bf112a615942b5.sbs
+
 
 TRT TÜRK
 #EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᴴᴰ
@@ -182,15 +185,13 @@ https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_
 
 TLC
 #EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
- 
+https://trn03.tulix.tv/gt-tlc-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 
 DMAX
 #EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
-
-EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
-
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 
 DISCOVERY
 EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
@@ -700,6 +701,50 @@ DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 --------
+BEIN 
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="TURK UHD",TR:BEINSPORTS 4K (MAÇ ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89599
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK UHD",TR:BEINSPORTS 1 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89012
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="TURK UHD",TR:BEINSPORTS 2 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89017
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 3 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="TURK UHD",TR:BEINSPORTS 3 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89019
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="TURK UHD",TR:BEINSPORTS 4 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89021
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 5 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="TURK UHD",TR:BEINSPORTS 5 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/104160
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS MAX 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="TURK UHD",TR:BEINSPORTS MAX 1 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89032
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS HABER UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TURK UHD",TR:BEINSPORTS HABER UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89034
+
+-----
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TURK UHD",TR:TABII SPOR UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/104337
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TURK UHD",TR:TABII SPOR 1 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103828
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 2 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="TURK UHD",TR:TABII SPOR 2 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103829
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 3 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="TURK UHD",TR:TABII SPOR 3 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103830
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 4 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="TURK UHD",TR:TABII SPOR 4 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103831
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 5 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="TURK UHD",TR:TABII SPOR 5 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103832
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 6 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="TURK UHD",TR:TABII SPOR 6 UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103833
+
+-----
+
+
+
+
+
+
+
+
 
 
 
