@@ -8,6 +8,8 @@ ULUSAL
 
 TRT 1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
+https://tatatam.trt1sultanfatihss.workers.dev/https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=7zizsdo5dlcj&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
 http://89.187.191.41:80/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
@@ -121,7 +123,7 @@ TRT 4K
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
 https://trn03.tulix.tv/gt-trt4k/tracks-v1a1/mono.m3u8
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
-http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/68949
+
 
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
 http://tgn.bozztv.com/trn03/gt-trt4k/tracks-v1a1/mono.m3u8
@@ -136,14 +138,17 @@ EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt
 
 EXTINF:-1 tvg-id="  trt.2.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/TB5N8cN/trt2.png  " group-title="ULUSAL",TRT 2 ᴴᴰ trt
 
-
+BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
+https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayin1.m3u8&a=&aa=five.04bf112a615942b5.sbs
 
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayintrtspor.m3u8&a=&aa=five.04bf112a615942b5.sbs
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
+https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayintrtspor2.m3u8&a=&aa=five.04bf112a615942b5.sbs
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89337
-
 
 TRT SPOR YILDIZ
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="ULUSAL",TRT SPOR YILDIZ ʜᴅ
