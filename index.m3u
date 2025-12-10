@@ -73,14 +73,11 @@ ATV
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
 http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
-http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40742
-
-https://c.fulltvizle.com/aytv/index.m3u8
-http://stream.tvcdn.net/ulusal/atv.m3u8
-
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1849&extension=m3u8&live=true
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1850&extension=m3u8&live=true
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88958
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88959
 
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
@@ -88,43 +85,21 @@ http://trn03.tulix.tv/gt-startv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR
-http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40731
-
-EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
-http://garaveli.serv00.net/Gledai?ID=startv&e=.m3u8
+#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
 http://116.202.238.88/STARTV_TR/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
-https://canlitvulusal.xyz/live/star/index.m3u8
-EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301835.ts
-
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1853&extension=m3u8&live=true
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1854&extension=m3u8&live=true
-
-EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR sd
-https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
-https://dygvideo.dygdigital.com/live/hls/puhustardai?m3u8
-
+#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88965
+#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88964
 
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ avrp
 http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/301853.ts
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88967
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D
-http://gradina2.info/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/40741
-
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1851&extension=m3u8&live=true
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=1852&extension=m3u8&live=true
-
-EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/96.ts
-EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/82324.ts
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88968
 
 TRT 4K
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
