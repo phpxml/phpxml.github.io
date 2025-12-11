@@ -732,7 +732,7 @@ DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 --------
-BEIN 
+BEIN 1
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="TURK UHD",TR:BEINSPORTS 4K (MAÇ ZAMANI)
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89599
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="TURK UHD",TR:BEINSPORTS 1 UHD
@@ -750,8 +750,8 @@ http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89032
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS HABER UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="TURK UHD",TR:BEINSPORTS HABER UHD
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89034
 
------
 
+TABII 1
 #EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TURK UHD",TR:TABII SPOR UHD
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/104337
 #EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 1 UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TURK UHD",TR:TABII SPOR 1 UHD
@@ -768,6 +768,172 @@ http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103832
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103833
 
 -----
+BEIN 2
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:SKY SPORTS F1 HD (almanca)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/ek/sjysportsf1.png" group-title="TURK SPOR",TR:SKY SPORTS F1 HD (almanca)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/115513
+#EXTINF:-1 tvg-id="" tvg-name="TR:SKY SPORTS F1 HD (ingiliz)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/ek/sjysportsf1.png" group-title="TURK SPOR",TR:SKY SPORTS F1 HD (ingiliz)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/115514
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURK SPOR",TR:EXXEN SPORT 1 HQ
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89035
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURK SPOR",TR:EXXEN SPORT 1 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89036
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HD (FEED YAYIN)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="TURK SPOR",TR:EXXEN SPORT 1 HD (FEED YAYIN)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89831
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 2 HD (MAC ZAMANI AKTİF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen2.png" group-title="TURK SPOR",TR:EXXEN SPORTS 2 HD (MAC ZAMANI AKTİF )
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101303
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 3 HD (MAC ZAMANI AKTİF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen3.png" group-title="TURK SPOR",TR:EXXEN SPORTS 3 HD (MAC ZAMANI AKTİF )
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101302
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 4 HD (MAC ZAMANI AKTİF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen4.png" group-title="TURK SPOR",TR:EXXEN SPORTS 4 HD (MAC ZAMANI AKTİF )
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101301
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 5  HD (MAC ZAMANI AKTİF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen5.png" group-title="TURK SPOR",TR:EXXEN SPORTS 5  HD (MAC ZAMANI AKTİF )
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101300
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 6 HD (MAC ZAMANI AKTİF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen6.png" group-title="TURK SPOR",TR:EXXEN SPORTS 6 HD (MAC ZAMANI AKTİF )
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101299
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 7 HD (MAC ZAMANI AKTİF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen7.png" group-title="TURK SPOR",TR:EXXEN SPORTS 7 HD (MAC ZAMANI AKTİF )
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101298
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 8 HD (MAC ZAMANI AKTİF )" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen8.png" group-title="TURK SPOR",TR:EXXEN SPORTS 8 HD (MAC ZAMANI AKTİF )
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101297
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="TURK SPOR",TR:S SPORTS 1 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89061
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="TURK SPOR",TR:S SPORTS 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89063
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 1 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport1.png" group-title="TURK SPOR",TR:S SPORT PLUS 1 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101359
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 2 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="TURK SPOR",TR:S SPORT PLUS 2 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101358
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 3 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport3.png" group-title="TURK SPOR",TR:S SPORT PLUS 3 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101357
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 4 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport4.png" group-title="TURK SPOR",TR:S SPORT PLUS 4 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101356
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 5 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport5.png" group-title="TURK SPOR",TR:S SPORT PLUS 5 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101355
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 6 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport6.png" group-title="TURK SPOR",TR:S SPORT PLUS 6 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101354
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 7 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport7.png" group-title="TURK SPOR",TR:S SPORT PLUS 7 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101353
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 8 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport8.png" group-title="TURK SPOR",TR:S SPORT PLUS 8 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101352
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 9 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport9.png" group-title="TURK SPOR",TR:S SPORT PLUS 9 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101351
+#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORT PLUS 10 UHD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport10.png" group-title="TURK SPOR",TR:S SPORT PLUS 10 UHD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101350
+#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport1.png" group-title="TURK SPOR",TR:EUROSPORT 1 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89094
+#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport2.png" group-title="TURK SPOR",TR:EUROSPORT 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89096
+#EXTINF:-1 tvg-id="" tvg-name="TR:SPOR SMART 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="TURK SPOR",TR:SPOR SMART 1 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103746
+#EXTINF:-1 tvg-id="" tvg-name="TR:SMART SPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="TURK SPOR",TR:SMART SPOR 1 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89057
+#EXTINF:-1 tvg-id="" tvg-name="TR:SPOR SMART 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="TURK SPOR",TR:SPOR SMART 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89059
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivibuspor.png" group-title="TURK SPOR",TR:TIVIBUSPOR HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89071
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="TURK SPOR",TR:TIVIBUSPOR 1 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/101505
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="TURK SPOR",TR:TIVIBUSPOR 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89075
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="TURK SPOR",TR:TIVIBUSPOR 3 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89077
+#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 4 HD (MAC ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="TURK SPOR",TR:TIVIBUSPOR 4 HD (MAC ZAMANI)
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89078
+
+RABII 2
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TURK SPOR",TR:TABII SPOR HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/104336
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="TURK SPOR",TR:TABII SPOR 1 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103838
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="TURK SPOR",TR:TABII SPOR 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103839
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="TURK SPOR",TR:TABII SPOR 3 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103840
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="TURK SPOR",TR:TABII SPOR 4 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103841
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="TURK SPOR",TR:TABII SPOR 5 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103842
+#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 6 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="TURK SPOR",TR:TABII SPOR 6 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/103843
+
+TRT
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="TURK SPOR",TR:TRT SPOR HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89081
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT 3 SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspo3.png" group-title="TURK SPOR",TR:TRT 3 SPOR HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89083
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT YILDIZ HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png" group-title="TURK SPOR",TR:TRT YILDIZ HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89084
+#EXTINF:-1 tvg-id="" tvg-name="TR:A SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="TURK SPOR",TR:A SPOR HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89086
+#EXTINF:-1 tvg-id="" tvg-name="TR:A SPOR HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="TURK SPOR",TR:A SPOR HQ
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89085
+#EXTINF:-1 tvg-id="" tvg-name="TR:HT SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="TURK SPOR",TR:HT SPOR HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/104546
+#EXTINF:-1 tvg-id="" tvg-name="TR:HT SPOR HQ" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="TURK SPOR",TR:HT SPOR HQ
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/115725
+#EXTINF:-1 tvg-id="" tvg-name="TR:EKOL SPORTS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ekolsports.png" group-title="TURK SPOR",TR:EKOL SPORTS HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/115882
+#EXTINF:-1 tvg-id="" tvg-name="TR:SIFIR TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/sifir.png" group-title="TURK SPOR",TR:SIFIR TV HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/116803
+
+------
+
+MAX
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX 4K UHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/max4k.png" group-title="TURK SINEMA",TR:MAX 4K UHD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90128
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxhd.png" group-title="TURK SINEMA",TR:MAX HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90118
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon.png" group-title="TURK SINEMA",TR:MAX VIZYON HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90113
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon2.png" group-title="TURK SINEMA",TR:MAX VIZYON 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90115
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon3.png" group-title="TURK SINEMA",TR:MAX VIZYON 3 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90114
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX VIZYON 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxvizyon4.png" group-title="TURK SINEMA",TR:MAX VIZYON 4 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90130
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX AKSIYON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxaksiyon.png" group-title="TURK SINEMA",TR:MAX AKSIYON HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90131
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX AKSYION 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxaksiyon2.png" group-title="TURK SINEMA",TR:MAX AKSYION 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90132
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX ANIMASYON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxanimasyon.png" group-title="TURK SINEMA",TR:MAX ANIMASYON HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90122
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX ANIMASYON 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxanimasyon2.png" group-title="TURK SINEMA",TR:MAX ANIMASYON 2 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90123
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX TURK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxturk.png" group-title="TURK SINEMA",TR:MAX TURK HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90116
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX GOLD HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxgold.png" group-title="TURK SINEMA",TR:MAX GOLD HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90120
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX PREMIER HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxpremier.png" group-title="TURK SINEMA",TR:MAX PREMIER HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90121
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX STAR WARS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxstarwars.png" group-title="TURK SINEMA",TR:MAX STAR WARS HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90117
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX WESTERN HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/maxwestern.png" group-title="TURK SINEMA",TR:MAX WESTERN HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90112
+#EXTINF:-1 tvg-id="" tvg-name="TR:MAX 007 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/max007.png" group-title="TURK SINEMA",TR:MAX 007 HD
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90124
+
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
