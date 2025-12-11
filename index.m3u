@@ -60,13 +60,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1765508802&st=tD0nAWYc7cpUrQcVpuHDtw
-
-
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=7fuWFVfiKEPMqjocEvhQIA&e=1765465602
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88970
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88971
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW
@@ -78,7 +73,6 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1765459331&st=UkOj9_Ob0bQr8Wn4VTZtCA&tv=1
-
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=7xfyonnw6bcl&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
@@ -110,9 +104,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7zioixc2yx6k&app=a20ac41
 http://116.202.238.88/STARTV_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88965
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88964
+https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=bhsaCNyRd0k97RltOgOjWQ&e=1765506159
 
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ avrp
@@ -126,9 +118,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_3_750/playlist.m3u8
 http://116.202.238.88/KANALD_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88967
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88968
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
 TRT 4K
 EXTINF:-1 tvg-id="  TRT.4K.tr    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/320px-TRT_4K_logo.svg.png    " group-title="ULUSAL",TRT 4K
@@ -307,9 +299,9 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 http://116.202.238.88/TV8_TR/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88973
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88974
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
 
 TV 8.5
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
@@ -319,7 +311,15 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 http://116.202.238.88/TV8.5_TR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
-http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/88982
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7zl72buaas66&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=2
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?=&sid=7zl72bhvayal&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=2
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
+https://ds.ayakkabiparti.lol/tv85/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
+https://boncuktv.atakan1983.workers.dev/stream/tv85/https://helga.iptv2022.com/TV8.5/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv85.m3u8
 
 A2
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
@@ -327,6 +327,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
+
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 http://116.202.238.88/A2_TR/playlist.m3u8
 
