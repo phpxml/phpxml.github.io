@@ -78,7 +78,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
-https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1765459331&st=UkOj9_Ob0bQr8Wn4VTZtCA&tv=1
+
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᴴᴰ
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=7xfyonnw6bcl&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
@@ -89,6 +89,8 @@ https://live.canlitvulusal.xyz/live/showmax/index.m3u8
 SHOWTÜRK
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
 https://live.canlitvulusal.xyz/live/showturk/index.m3u8
+#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="ULUSAL",SHOWTÜRK ᴴᴰ
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1765459331&st=UkOj9_Ob0bQr8Wn4VTZtCA&tv=1
 
 ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
@@ -272,10 +274,35 @@ TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 
+SINEMA TV
+#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA TV
+https://ds.ayakkabiparti.lol/sinema/tracks-v1a1/mono.ts.m3u8
+
+SINEMA AKSIYON
+#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA AKSIYON
+https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA AKSIYON 2
+https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
+
+SINEMA YERLI
+#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA YERLI
+https://ds.ayakkabiparti.lol/sinemayerli/tracks-v1a1/mono.ts.m3u8
+
+BEIN STAR
+#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN STAR
+https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
+BEIN PREMIER
+#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN STAR
+https://ds.ayakkabiparti.lol/bspremier1/tracks-v1a1/mono.ts.m3u8
+
+
 
 BEIN 1
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
+https://8.arectv30.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayin1.m3u8&a=&aa=five.04bf112a615942b5.sbs
+
 
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
