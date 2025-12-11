@@ -209,24 +209,24 @@ EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tv
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b2064000.m3u8
 
 BBC EARTH
-#EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᶠʰᵈ
+EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᶠʰᵈ
 http://yesimes.oknirvana.club:8880/D12m3577/71335529/33045
 
 FX
-#EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
+EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/2075.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX Hd" tvg-logo="https://i.hizliresim.com/2t6777u.png" group-title="ULUSAL",FX Hd
+EXTINF:-1 tvg-id="" tvg-name="FX Hd" tvg-logo="https://i.hizliresim.com/2t6777u.png" group-title="ULUSAL",FX Hd
 http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/203508
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302089.ts
 
 BEIN MOVIES STARS
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
+EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/6093.ts
 
 ATV AVRUPA
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
+EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
 http://162.212.179.34/dvrfl05/gin-atvavrupa/playlist.m3u8
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
+EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
 http://185.234.111.229:8000/play/a018
 
 SHOWMAX
@@ -412,18 +412,19 @@ TV100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 CNNTÜRK
-EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN Türk ᴴᴰ
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=kwLuVeuoBETDPNQ0sox0Yw&e=1742733527
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=kwLuVeuoBETDPNQ0sox0Yw&e=1742733527
+EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN 
 
-http://116.202.238.88/CNNTURK_TR/playlist.m3u8
+
+
 
 HABERTÜRK
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",Habertürk ciner ᴴᴰ
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
 NTV
-EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
+#EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
+https://live.canlitvulusal.xyz/live/ntv/index.m3u8
+#EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 
 BLOOMBERG
