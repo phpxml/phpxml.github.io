@@ -396,6 +396,8 @@ https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
 SÖZCÜ
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="    https://canlitvulusal.com/wp-content/uploads/2024/01/sozcu-tv-logo.png     " group-title="HABER",SZC ᴴᴰ
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1765479628/ei/bMA6aYuRC8awi9oP-4zt8QI/ip/2a09:bac5:58c6:2682:0:0:3d6:18/id/Yx7Vnj2_KxM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-nv47lnsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AYUSA3BywsHrpnndudVAqj67qm4vT9rRiJ_zXmBaZS5xGmzFyOC7StCzTvcTXgB4dMcRookN5rlCsLjG/spc/wH4Qq1VKk1ecP2KvrW-C_WfBYUDS2SsBxaqrK1NC-xRkWkaowr926-wQ9TjcmoizEqg/vprv/1/ns/LyZvtyGo9uBbaP57ugGxixMR/playlist_type/DVR/cps/520/initcwndbps/2136250/met/1765458913,/mh/No/mip/2a09:bac5:58c6:2682::3d6:18/mm/44/mn/sn-nv47lnsy/ms/lva/mv/m/mvi/1/pl/47/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/n/qbmAEGjEIDpzIsJ/mt/1765458528/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRQIgIgmROIYZ-P_CFUxmiu2b-BYlg213zKpYw0qcO2d1XvcCIQC2mxeFFuLu9i48Tnr5wMxw9gZ5LFtmbFz1jbNmN_mguw%3D%3D/lsparams/hls_chunk_host,cps,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgKSLXmynlV2w88D__j6Dk-Z_hR2oappwI-qDDqiwGFRkCIQDH4jcOqtVUaY6droOIF7GBFyqNw49qMdLa3yj-1uel-A%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="    https://canlitvulusal.com/wp-content/uploads/2024/01/sozcu-tv-logo.png     " group-title="HABER",SZC ᴴᴰ
 https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="    https://canlitvulusal.com/wp-content/uploads/2024/01/sozcu-tv-logo.png     " group-title="HABER",SZC ᴴᴰ
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
@@ -407,11 +409,6 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 KRT
 EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
-
-
-
-
-
 
 
 FLASH HABER
