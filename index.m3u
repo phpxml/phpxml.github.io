@@ -118,9 +118,8 @@ http://185.234.111.229:8000/play/a018
 
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STARᴴᴰ
-https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7zimgr1m4now&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=2
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
 http://116.202.238.88/STARTV_TR/tracks-v1a1/mono.m3u8
