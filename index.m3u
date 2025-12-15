@@ -300,17 +300,22 @@ BEIN STAR
 #EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN STAR
 https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
 BEIN PREMIER
-#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN STAR
+#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN PREMIER
 https://ds.ayakkabiparti.lol/bspremier1/tracks-v1a1/mono.ts.m3u8
-
-
 
 BEIN 1
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
 https://8.arectv30.sbs/static/bs11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayin1.m3u8&a=&aa=five.04bf112a615942b5.sbs
-
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
+https://8.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
+https://bs.arectv31.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
+https://bs.arectv19.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
+https://v.arectv30.sbs/static/bs1.m3u8
 
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
