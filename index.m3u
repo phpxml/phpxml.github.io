@@ -127,7 +127,8 @@ https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
 http://116.202.238.88/STARTV_TR/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ bozz
+#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL",STAR ᴴᴰ
+https://canlitv.site/hls/star.m3u8
 https://tgn.bozztv.com/gin-trn09/gin-startv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNSA3OjE3OjM0IFBNJmhhc2hfdmFsdWU9RE8rbDNGTno5L1FFMGR6eFBJRW9iQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIw
 
 EUROSTAR
