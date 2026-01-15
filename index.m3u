@@ -11,6 +11,8 @@ EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 TRT 1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
+EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1
+
 
 TRT2
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2
@@ -35,6 +37,8 @@ https://ds.ayakkabiparti.lol/atv/tracks-v1a1/mono.ts.m3u8
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 https://canlitv.site/hls/star.m3u8
+#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
+https://ds.ayakkabiparti.lol/startv/tracks-v1a1/mono.ts.m3u8
 
 EUROSTAR
 #EXTINF:-1 tvg-id=" Euro.Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="CANLI TV",EUROSTAR
@@ -43,6 +47,8 @@ https://canlitv.site/hls/eurostar.m3u8
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
 https://canlitv.site/hls/showtv.m3u8
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
+https://ds.ayakkabiparti.lol/showtv/tracks-v1a1/mono.ts.m3u8
 
 SHOW TÜRK
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="CANLI TV",SHOWTÜRK
@@ -59,7 +65,9 @@ https://ds.ayakkabiparti.lol/kanald/tracks-v1a1/mono.ts.m3u8
 TV8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="CANLI TV",TV8
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="CANLI TV",TV8
 https://ds.ayakkabiparti.lol/tv8/tracks-v1a1/mono.ts.m3u8
+
 KANAL 7
 #EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="CANLI TV",KANAL 7
 https://canlitv.site/hls/kanal7.m3u8
