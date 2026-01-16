@@ -99,10 +99,16 @@ https://canlitv.site/hls/tv360.m3u8
 HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
 https://canlitv.site/hls/halktv.m3u8
+HALK TV
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
 SÖZCÜ
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/sozcu-logo.png " group-title="CANLI TV",SZC
 https://canlitv.site/hls/sozcu.m3u8
+SÖZCÜ
+#EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/sozcu-logo.png " group-title="CANLI TV",SZC
+https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
 
 HABERTÜRK
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="CANLI TV",HABERTÜRK
