@@ -6,33 +6,8 @@ https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz
 EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 
 
-TRT 1
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="DORF",TRT 1
-https://tv.cdn-vizi.workers.dev/?ID=1
 
-TRT 2
-#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="DORF",TRT 2
-https://tv.cdn-vizi.workers.dev/?ID=34
 
-TRT BELGESEL
-#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="DORF",TRT BELGESEL
-https://tv.cdn-vizi.workers.dev/?ID=31
-
-TRT MÜZİK
-#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="   https://canlitv.site/wp-content/uploads/2026/01/trt-muzik-logo.png    " group-title="DORF",TRT MÜZİK
-https://tv.cdn-vizi.workers.dev/?ID=44
-
-ATV
-#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="   https://canlitv.site/wp-content/uploads/2026/01/trt-muzik-logo.png    " group-title="DORF",ATV 
-https://tv.cdn-vizi.workers.dev/?ID=2
-
-SHOW
-#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="   https://canlitv.site/wp-content/uploads/2026/01/trt-muzik-logo.png    " group-title="DORF",SHOW 
-https://tv.cdn-vizi.workers.dev/?ID=3
-
-SHOWMAX
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="DORF" ,SHOWMAX 
-https://tv.cdn-vizi.workers.dev/?ID=30
 
 
 ------
