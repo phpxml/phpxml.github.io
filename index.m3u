@@ -18,6 +18,22 @@ TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="DORF",TRT BELGESEL
 https://tv.cdn-vizi.workers.dev/?ID=31
 
+TRT MÜZİK
+#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="   https://canlitv.site/wp-content/uploads/2026/01/trt-muzik-logo.png    " group-title="DORF",TRT MÜZİK
+https://tv.cdn-vizi.workers.dev/?ID=44
+
+ATV
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="DORF",ATV
+https://tv.cdn-vizi.workers.dev/?ID=2
+
+SHOW
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="DORF",SHOW
+https://tv.cdn-vizi.workers.dev/?ID=3
+
+SHOWMAX
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="DORF" ,SHOWMAX
+https://tv.cdn-vizi.workers.dev/?ID=30
+
 
 ------
 CANLI TV
@@ -78,7 +94,7 @@ SHOW TÜRK
 https://canlitv.site/hls/showturk.m3u8
 
 SHOWMAX
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="CANLI TV" ,SHOWMAX
 https://canlitv.site/hls/showmax.m3u8
 
 KANAL D
