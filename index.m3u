@@ -23,11 +23,11 @@ TRT MÜZİK
 https://tv.cdn-vizi.workers.dev/?ID=44
 
 ATV
-#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="DORF",ATV
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="      " group-title="DORF",ATV
 https://tv.cdn-vizi.workers.dev/?ID=2
 
 SHOW
-#EXTINF:-1 tvg-id="Show.TV.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://i.ibb.co/BrGNZJ4/showtv.png   " aspect-ratio="Aspect"  group-title="DORF" ,SHOW
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="      " group-tiShowMax.tr"SHOW
 https://tv.cdn-vizi.workers.dev/?ID=3
 
 SHOWMAX
