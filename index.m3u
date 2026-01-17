@@ -7,6 +7,112 @@ EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 
 
 
+-----
+TRT 1
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL 2",TRT 1
+https://tv.cdn-vizi.workers.dev/?ID=1
+TRT 2
+#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL 2",TRT 2
+https://tv.cdn-vizi.workers.dev/?ID=34
+TRT BELGESEL
+#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL 2",TRT BELGESEL
+https://tv.cdn-vizi.workers.dev/?ID=31
+TRT MÜZİK
+#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="ULUSAL 2",TRT MÜZİK
+https://tv.cdn-vizi.workers.dev/?ID=44
+ATV
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL 2",ATV
+https://tv.cdn-vizi.workers.dev/?ID=2
+SHOW
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL 2",SHOW
+https://tv.cdn-vizi.workers.dev/?ID=3
+SHOWMAX
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL 2" ,SHOWMAX
+https://tv.cdn-vizi.workers.dev/?ID=30
+NOW
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL 2",NOW
+https://tv.cdn-vizi.workers.dev/?ID=4
+STAR
+#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="ULUSAL 2",STAR
+https://tv.cdn-vizi.workers.dev/?ID=5
+KANAL D
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL 2",KANAL D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
+EURO D
+#EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL 2",EURO D
+https://tv.cdn-vizi.workers.dev/?ID=6
+KANAL 7
+#EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="ULUSAL 2",KANAL 7
+https://tv.cdn-vizi.workers.dev/?ID=7
+TV8
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL 2",TV8
+https://tv.cdn-vizi.workers.dev/?ID=8
+TV 8.5
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL 2",TV 8.5
+https://tv.cdn-vizi.workers.dev/?ID=28
+360
+#EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="ULUSAL 2",360
+https://tv.cdn-vizi.workers.dev/?ID=29
+BEYAZ
+#EXTINF:-1 tvg-id="  Beyaz.TV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="ULUSAL 2",BEYAZ
+https://tv.cdn-vizi.workers.dev/?ID=9
+HALK TV
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="ULUSAL 2",HALK
+https://tv.cdn-vizi.workers.dev/?ID=16
+SÖZCÜ
+#EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="    https://canlitvulusal.com/wp-content/uploads/2024/01/sozcu-tv-logo.png     " group-title="ULUSAL 2",SZC
+https://tv.cdn-vizi.workers.dev/?ID=18
+HABERTÜRK
+#EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="ULUSAL 2",HABERTÜRK
+https://tv.cdn-vizi.workers.dev/?ID=96
+TRT HABER
+#EXTINF:-1 tvg-id=" TRT.Haber.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="ULUSAL 2",TRT HABER
+https://tv.cdn-vizi.workers.dev/?ID=15
+NTV
+#EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="ULUSAL 2",NTV 
+https://tv.cdn-vizi.workers.dev/?ID=17
+ASPOR
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL 2",A SPOR
+https://tv.cdn-vizi.workers.dev/?ID=19
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL 2",TRT SPOR
+https://tv.cdn-vizi.workers.dev/?ID=20
+TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="ULUSAL 2",TRT SPOR YILDIZ
+https://tv.cdn-vizi.workers.dev/?ID=54
+A2
+#EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL 2" tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",A2
+https://tv.cdn-vizi.workers.dev/?ID=26
+TEVE2
+#EXTINF:-1 tvg-id="   Teve2.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="ULUSAL 2",TV2
+https://tv.cdn-vizi.workers.dev/?ID=27
+TLC
+#EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL 2",TLC
+https://tv.cdn-vizi.workers.dev/?ID=32
+DMAX
+#EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL 2",DMAX
+https://tv.cdn-vizi.workers.dev/?ID=33
+TELE 1
+#EXTINF:-1 tvg-id="   Tele.1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="ULUSAL 2",TELE 1
+https://tv.cdn-vizi.workers.dev/?ID=35
+KANAL AVRUPA
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="      " group-title="ULUSAL 2",KANAL AVP
+https://tv.cdn-vizi.workers.dev/?ID=70
+ViziSinema
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="      " group-title="ULUSAL 2",ViziSinema 
+https://tv.cdn-vizi.workers.dev/?ID=94
+vizibelgesel
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="      " group-title="ULUSAL 2",ViziBelgesel
+https://tv.cdn-vizi.workers.dev/?ID=96
+viziklas
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="      " group-title="ULUSAL 2",ViziKlas
+https://tv.cdn-vizi.workers.dev/?ID=11
+ViziTürk
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="      " group-title="ULUSAL 2",ViziTürk
+https://tv.cdn-vizi.workers.dev/?ID=10
+------
+
+
 
 
 ------
