@@ -11,6 +11,9 @@ D-SMART
 
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 1 
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 1 
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 2 
 https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/trt2.m3u8
