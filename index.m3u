@@ -64,8 +64,30 @@ https://tv.cdn-vizi.workers.dev/?ID=3
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",showmax 
 https://tv.cdn-vizi.workers.dev/?ID=30
 
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Now 
+https://tv.cdn-vizi.workers.dev/?ID=4
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Star 
+https://tv.cdn-vizi.workers.dev/?ID=5
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Kanal D 
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Euro-D 
+https://tv.cdn-vizi.workers.dev/?ID=6
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Kanal 7 
+https://tv.cdn-vizi.workers.dev/?ID=7
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",tv8 
+https://tv.cdn-vizi.workers.dev/?ID=8
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",tv8,5 
+https://tv.cdn-vizi.workers.dev/?ID=28
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",360 
+https://tv.cdn-vizi.workers.dev/?ID=29
+
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
