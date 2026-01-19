@@ -28,6 +28,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Kanal D
 https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Kanal D
+https://ds.ayakkabiparti.lol/kanald/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Star
 https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
