@@ -88,10 +88,33 @@ https://tv.cdn-vizi.workers.dev/?ID=28
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",360 
 https://tv.cdn-vizi.workers.dev/?ID=29
 
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Beyaz Tv 
+https://tv.cdn-vizi.workers.dev/?ID=9
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Halk TV 
+https://tv.cdn-vizi.workers.dev/?ID=16
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",SZC 
+https://tv.cdn-vizi.workers.dev/?ID=18
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",Haber Türk 
+https://tv.cdn-vizi.workers.dev/?ID=96
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT Haber 
+https://tv.cdn-vizi.workers.dev/?ID=15
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",NTV  
+https://tv.cdn-vizi.workers.dev/?ID=17
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",aSpor 
+https://tv.cdn-vizi.workers.dev/?ID=19
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT Spor 
+https://tv.cdn-vizi.workers.dev/?ID=20
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT Spor Yıldız 
+https://tv.cdn-vizi.workers.dev/?ID=54
+
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="saray DORF",TRT1 
 
 
