@@ -52,7 +52,7 @@ EXTINF:-1 tvg-id="  TRT.Avaz.tr " tvg-language="" tvg-logo="      https://i.ibb.
 https://canlitvulusal.xyz/live/trtavaz/index.m3u8
 
 NOW
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="D-SMART",NOW
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo=" " group-title="D-SMART",NOW
 https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
