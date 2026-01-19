@@ -9,53 +9,59 @@ EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 -----
 D-SMART
 
+TRT1
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 1 
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 1 
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-
+TRT2
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 2 
 https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/trt2.m3u8
 
+TRT BELGESEL
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT Belgesel
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 
+ATV
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",atv
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",atv
 https://ds.ayakkabiparti.lol/atv/tracks-v1a1/mono.ts.m3u8
 
+KANAL D
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Kanal D
 https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Kanal D
 https://ds.ayakkabiparti.lol/kanald/tracks-v1a1/mono.ts.m3u8
 
+STAR
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Star
 https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Star
 https://ds.ayakkabiparti.lol/startv/tracks-v1a1/mono.ts.m3u8
 
-
+SHOW
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Show
 https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/showtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Show
 https://ds.ayakkabiparti.lol/showtv/tracks-v1a1/mono.ts.m3u8
 
-
+NOW
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Now
 https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 
-
-
+TV8
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",tv8
 https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",tv8
 https://ds.ayakkabiparti.lol/tv8/tracks-v1a1/mono.ts.m3u8
 
-
+HALK TV
 #EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",halk
 https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/halktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",halk
+https://ds.ayakkabiparti.lol/halk/tracks-v1a1/mono.ts.m3u8
 
 
 ------
