@@ -6,68 +6,6 @@ https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz
 EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 
 
------
-D-SMART
-
-TRT1
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 1 
-https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
-TRT1
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 1 
-http://95.174.71.114/TR-TRT1/index.m3u8
-
-TRT2
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT 2 
-https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/trt2.m3u8
-
-
-
-TRT BELGESEL
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",TRT Belgesel
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-
-ATV
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",atv
-https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
-ATV
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",atv
-https://ds.ayakkabiparti.lol/atv/tracks-v1a1/mono.ts.m3u8
-
-KANAL D
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Kanal D
-https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Kanal D
-https://ds.ayakkabiparti.lol/kanald/tracks-v1a1/mono.ts.m3u8
-
-STAR
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Star
-https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Star
-https://ds.ayakkabiparti.lol/startv/tracks-v1a1/mono.ts.m3u8
-
-SHOW
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Show
-https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/showtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Show
-https://ds.ayakkabiparti.lol/showtv/tracks-v1a1/mono.ts.m3u8
-
-NOW
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",Now
-https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
-
-TV8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",tv8
-https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",tv8
-https://ds.ayakkabiparti.lol/tv8/tracks-v1a1/mono.ts.m3u8
-
-HALK TV
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",halk
-https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/halktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="" group-title="D-SMART",halk
-https://ds.ayakkabiparti.lol/halk/tracks-v1a1/mono.ts.m3u8
-
-
 ------
 SARAY DORF TV1
 
@@ -291,6 +229,10 @@ https://canlitv.site/hls/showtv.m3u8
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
 https://ds.ayakkabiparti.lol/showtv/tracks-v1a1/mono.ts.m3u8
+SHOW
+#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
+https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/showtv.m3u8
+
 
 SHOW TÜRK
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="CANLI TV",SHOWTÜRK
@@ -300,6 +242,9 @@ SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="CANLI TV" ,SHOWMAX
 https://canlitv.site/hls/showmax.m3u8
 
+KANAL D
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D
+https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D
 https://ds.ayakkabiparti.lol/kanald/tracks-v1a1/mono.ts.m3u8
@@ -313,6 +258,10 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 NOW
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+NOW
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW
+https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
+
 
 TV8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="CANLI TV",TV8
@@ -320,6 +269,10 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 TV8
 #EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="CANLI TV",TV8-
 https://ds.ayakkabiparti.lol/tv8/tracks-v1a1/mono.ts.m3u8
+TV8
+#EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="CANLI TV",TV8-
+https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
+
 
 KANAL 7
 #EXTINF:-1 tvg-id="  Kanal.7.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="CANLI TV",KANAL 7
@@ -335,6 +288,14 @@ https://canlitv.site/hls/halktv.m3u8
 HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+HALK TV
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
+https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/halktv.m3u8
+HALK TV
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
+https://ds.ayakkabiparti.lol/halk/tracks-v1a1/mono.ts.m3u8
+
+
 
 SÖZCÜ
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/sozcu-logo.png " group-title="CANLI TV",SZC
