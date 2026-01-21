@@ -324,6 +324,14 @@ TV5
 #EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo=" https://canlitv.site/wp-content/uploads/2026/01/tv5-logo.png  " group-title="CANLI TV",5
 https://canlitv.site/hls/tv5.m3u8
 
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/697
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR
+http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89337
+
+
 HT SPOR
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="CANLI TV",HT SPOR
 https://canlitv.site/hls/htspor.m3u8
@@ -331,6 +339,8 @@ https://canlitv.site/hls/htspor.m3u8
 EKOL TV SPOR
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/ekolsports-logo.png  " group-title="CANLI TV",EKOL TV SPOR
 https://canlitv.site/hls/ekolsports.m3u8
+
+
 
 KRAL
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="   https://canlitv.site/wp-content/uploads/2026/01/kralpop-logo.png    " group-title="CANLI TV",KRAL
