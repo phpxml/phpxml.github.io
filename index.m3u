@@ -211,14 +211,16 @@ CANLI TV
 
 TRT 1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
+http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 TRT 1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1 
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+http://95.174.71.114/TR-TRT1/index.m3u8
 
 TRT2
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2
 https://canlitv.site/hls/trt2.m3u8
+#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2
+http://95.174.71.114/TR-TRT2/index.m3u8
 
 TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="CANLI TV",TRT BELGESEL
@@ -241,6 +243,10 @@ https://ds.ayakkabiparti.lol/atv/tracks-v1a1/mono.ts.m3u8
 ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="CANLI TV",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+ATV
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="CANLI TV",ATV
+http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
+
 
 STAR
 #EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
