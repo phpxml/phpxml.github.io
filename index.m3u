@@ -206,16 +206,16 @@ https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
 
 
 STAR
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
+#EXTINF:-1 tvg-id="   STAR.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 https://canlitv.site/hls/star.m3u8
 STAR
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
+#EXTINF:-1 tvg-id="   STAR.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 https://ds.ayakkabiparti.lol/startv/tracks-v1a1/mono.ts.m3u8
 STAR
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
+#EXTINF:-1 tvg-id="   STAR.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
 STAR
-#EXTINF:-1 tvg-id="   Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
+#EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 http://95.174.71.114/TR-STAR/index.m3u8
 
 
@@ -224,13 +224,13 @@ EUROSTAR
 https://canlitv.site/hls/eurostar.m3u8
 
 SHOW
-#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
 https://canlitv.site/hls/showtv.m3u8
 SHOW
-#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
 https://ds.ayakkabiparti.lol/showtv/tracks-v1a1/mono.ts.m3u8
 SHOW
-#EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
 https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/showtv.m3u8
 
 
