@@ -205,16 +205,19 @@ http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89337
 
 HT SPOR
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="CANLI TV",HT SPOR
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_720p.m3u8
 https://canlitv.site/hls/htspor.m3u8
 
 EKOL TV SPOR
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/ekolsports-logo.png  " group-title="CANLI TV",EKOL TV SPOR
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 https://canlitv.site/hls/ekolsports.m3u8
 
 
 
 KRAL
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="   https://canlitv.site/wp-content/uploads/2026/01/kralpop-logo.png    " group-title="CANLI TV",KRAL
+https://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 https://canlitv.site/hls/kralpop.m3u8
 
 TRT MÜZİK
