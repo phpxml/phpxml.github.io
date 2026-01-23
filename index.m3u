@@ -154,7 +154,12 @@ https://canlitv.site/hls/kanal7.m3u8
 
 360
 #EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="CANLI TV",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://canlitv.site/hls/tv360.m3u8
+360
+#EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="CANLI TV",360
+https://tv.ensonhaber.com/tv360/tv360_720p.m3u8
+https://tv.ensonhaber.com/tv360/tv360_1080p.m3u8
 
 HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
