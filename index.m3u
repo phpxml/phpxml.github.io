@@ -22,6 +22,9 @@ TRT1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1 ᴰ⁻ˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 TRT1
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1 ᴰ⁻ˢᵐᵃʳᵗ ˢᵈ
+https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1-audio_tur=96000-video=600000.m3u8
+TRT1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1 ᵀᴿᵀ
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
@@ -67,6 +70,9 @@ ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="CANLI TV",ATV ᴰ⁻ˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
 ATV
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="CANLI TV",ATV ᴰ⁻ˢᵐᵃʳᵗ ˢᵈ
+https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv-audio_tur=96000-video=600000.m3u8
+ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="CANLI TV",ATV ᵀʳᵃᶜᵏ
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.ts.m3u8
 ATV
@@ -86,6 +92,9 @@ https://ds.ayakkabiparti.lol/startv/tracks-v1a1/mono.ts.m3u8
 STAR
 #EXTINF:-1 tvg-id="   STAR.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR ᴰ⁻ˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
+STAR
+#EXTINF:-1 tvg-id="   STAR.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR ᴰ⁻ˢᵐᵃʳᵗ ˢᵈ
+https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star-audio_tur=96000-video=600000.m3u8
 STAR
 #EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 http://95.174.71.114/TR-STAR/index.m3u8
@@ -112,6 +121,9 @@ SHOW
 #EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW ᵈˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/showtv.m3u8
 SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW ᵈˢᵐᵃʳᵗ ˢᵈ
+https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/showtv-audio_tur=96000-video=600000.m3u8
+SHOW
 #EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW ᵉʳᶜᵈⁿ
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 SHOW
@@ -136,6 +148,9 @@ http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᵈˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
+KANAL D
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᵈˢᵐᵃʳᵗ ˢᵈ
+https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald-audio_TUR=96000-video=600000.m3u8
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᵈˢ
 https://ds.ayakkabiparti.lol/kanald/tracks-v1a1/mono.ts.m3u8
@@ -165,7 +180,7 @@ NOW
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW ᴰ⁻ˢᵐᵃʳᵗ ʰᵈ
 https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 NOW
-#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW D   
+EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW D   
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=siAiijdHDzTp_WKwTH43JA&e=1769175228
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=siAiijdHDzTp_WKwTH43JA&e=1769175228
 NOW
@@ -185,6 +200,9 @@ https://ds.ayakkabiparti.lol/tv8/tracks-v1a1/mono.ts.m3u8
 TV8
 #EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="CANLI TV",TV8 ᴰ⁻ˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
+TV8
+#EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="CANLI TV",TV8 ᴰ⁻ˢᵐᵃʳᵗ ˢᵈ
+https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8-audio_tur=96000-video=600000.m3u8
 TV8
 #EXTINF:-1 tvg-id=" TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="CANLI TV",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
