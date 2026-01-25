@@ -272,6 +272,14 @@ TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89337
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR HD" tvg-logo="" group-title="CANLI TV",TR: TRT 3 SPOR
+http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/115160
+#EXTINF:-1 tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="" group-title="CANLI TV",TR: TRT SPOR
+http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/16955
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ SD" tvg-logo="" group-title="CANLI TV",TR: TRT SPOR YILDIZ
+http://37.49.224.17:8000/besho1990/mLKFJqVKKejc/115205
+
+
 
 HT SPOR
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="CANLI TV",HT SPOR
