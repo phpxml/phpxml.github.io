@@ -93,7 +93,7 @@ STAR
 #EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 http://116.202.238.88/STARTV_TR/index.m3u8
 STAR
-#EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR ᴰᵒᵍᵘˢ
+#EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR ˢᵀᴬᴿ
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web
 
 
@@ -115,8 +115,11 @@ SHOW
 #EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW ᵉʳᶜᵈⁿ
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 SHOW
-#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW ᶜⁱⁿᵉʳ
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW ˢᴴᴼᵂ ᵀᵛ
 https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW ˢᴴᴼᵂ ᵀᵛ
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 
 SHOW TÜRK
@@ -137,17 +140,18 @@ KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᵈˢ
 https://ds.ayakkabiparti.lol/kanald/tracks-v1a1/mono.ts.m3u8
 KANAL D
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᴷᴬᴺᴬᴸ ᴰ ˢᵈ
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_3_750/playlist.m3u8
+KANAL D
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᴷᴬᴺᴬᴸ ᴰ ʰᵈ
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+KANAL D
 EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
 KANAL D
 EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D
 http://116.202.238.88/KANALD_TR/tracks-v1a1/index.m3u8
-KANAL D
-#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᴸⁱᵛᵉ ˢᵈ
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_3_750/playlist.m3u8
-KANAL D
-#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D ᴸⁱᵛᵉ ʰᵈ
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 
 
@@ -210,7 +214,7 @@ HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
 https://canlitv.site/hls/halktv.m3u8
 HALK TV
-#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
+#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK ᴴᴬᴸᴷ ᵀⱽ
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK ᴰ⁻ˢᵐᵃʳᵗ
