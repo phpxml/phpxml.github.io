@@ -99,7 +99,8 @@ STAR
 #EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
 http://95.174.71.114/TR-STAR/index.m3u8
 STAR
-#EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
+#EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR ˢᵗʳᵉᵉᵗ
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
 http://116.202.238.88/STARTV_TR/index.m3u8
 STAR
 #EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR ˢᵀᴬᴿ
@@ -138,6 +139,10 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ce=3&app=4bc856ef-4c68-4a94-
 SHOW TÜRK
 #EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="CANLI TV",SHOWTÜRK
 https://canlitv.site/hls/showturk.m3u8
+SHOW TÜRK
+#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="CANLI TV",SHOWTÜRK ˢᵗʳᵉᵉᵗ
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shturk.m3u8
+
 
 SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="CANLI TV" ,SHOWMAX
