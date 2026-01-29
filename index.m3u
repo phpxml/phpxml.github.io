@@ -343,6 +343,8 @@ https://canlitv.site/hls/powerturktv.m3u8
 TRT 1
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/358053
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/20484
 https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
@@ -399,12 +401,14 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1765508802&st=tD0nAWYc7cpUrQcVpuHDtw
+
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=7fuWFVfiKEPMqjocEvhQIA&e=1765465602
 
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ bozz
-https://tgn.bozztv.com/gin-trn09/gin-turkfoxtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyNSA3OjIzOjA5IFBNJmhhc2hfdmFsdWU9dTB2ZStsNXc5ZjhQTEpuQkdUWk9uZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6276
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᴴᴰ bozz
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/358052
+
 
 SHOW
 #EXTINF:-1 tvg-id="  Show.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW⁴⁸⁰
@@ -448,6 +452,10 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/mono.m3u8
 https://ds.ayakkabiparti.lol/atv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamliveatv.m3u8
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/192065
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",atv
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6266
 
 ATV AVRUPA
 EXTINF:-1 tvg-id="atv.tr" tvg-name="TR | ATV AVRUPA HD" tvg-logo="https://imagizer.imageshack.com/img923/6576/3pwGYA.png" group-title="ULUSAL",ATV AVRUPA ᴴᴰ
@@ -495,6 +503,9 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ bozz
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_720p.m3u8
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᴴᴰ bozz
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6275
+http://nuhproxtv.shop:8080/mhm4880/bh.mh333/192068
 
 EURO D
 #EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="ULUSAL",EURO D ᴴᴰ
@@ -715,44 +726,9 @@ BEIN MOVIES STARS
 EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/6093.ts
 
-
-
-
-
-
 ------
-NUHPROXTV ULUSAL
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="|TR| Trt 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="TR/ ULUSAL TV [HD]",|TR| Trt 1 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/20484
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Atv HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png" group-title="TR/ ULUSAL TV [HD]",|TR| Atv HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6266
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="|TR| Kanal D HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="TR/ ULUSAL TV [HD]",|TR| Kanal D HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6275
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Now Tv HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/now-tv-logo.png" group-title="TR/ ULUSAL TV [HD]",|TR| Now Tv HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6276
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="|TR| Star Tv HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/star.png" group-title="TR/ ULUSAL TV [HD]",|TR| Star Tv HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6270
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Show Tv HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" group-title="TR/ ULUSAL TV [HD]",|TR| Show Tv HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6273
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="|TR| Tv 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR/ ULUSAL TV [HD]",|TR| Tv 8 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/20742
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="|TR| Tv 8.5 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tv_8-5.png" group-title="TR/ ULUSAL TV [HD]",|TR| Tv 8.5 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6281
 
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Trt 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="TR/ ULUSAL TV [FHD]",|TR| Trt 1 FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/358053
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Atv FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png" group-title="TR/ ULUSAL TV [FHD]",|TR| Atv FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/192065
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Now FHD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/now-tv-logo.png" group-title="TR/ ULUSAL TV [FHD]",|TR| Now FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/358052
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal D FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/kanald.png" group-title="TR/ ULUSAL TV [FHD]",|TR| Kanal D FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/192068
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Star Tv FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/star.png" group-title="TR/ ULUSAL TV [FHD]",|TR| Star Tv FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/192066
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Show Tv FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/show.png" group-title="TR/ ULUSAL TV [FHD]",|TR| Show Tv FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/192067
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Tv 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR/ ULUSAL TV [FHD]",|TR| Tv 8 FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/192072
+
 
 ------
 
