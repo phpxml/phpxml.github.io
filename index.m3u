@@ -665,24 +665,6 @@ BEIN PREMIER
 #EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN PREMIER
 https://ds.ayakkabiparti.lol/bspremier1/tracks-v1a1/mono.ts.m3u8
 
-BEIN 1
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
-https://8.arectv30.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
-https://8.arectv30.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
-https://bs.arectv31.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
-https://bs.arectv19.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
-https://v.arectv30.sbs/static/bs1.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="ULUSAL",BEIN 1
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayin1.m3u8&a=&aa=five.04bf112a615942b5.sbs
-
-
-
-
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="ULUSAL",TRT SPOR ʰᵈ
 https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://five.04bf112a615942b5.sbs/yayintrtspor.m3u8&a=&aa=five.04bf112a615942b5.sbs
@@ -1106,6 +1088,63 @@ DW
 #EXTINF:-1 tvg-id="           " tvg-language="" tvg-logo="      https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png     " group-title="ALMAN",DW Deutsch
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+
+-----
+BEIN
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://bs.arectv19.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://bs.arectv19.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://8.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://8.arectv30.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://v.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://v.arectv30.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://bs.arectv31.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://bs.arectv31.sbs/static/bs11.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 2
+https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 3
+https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 4
+https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 5
+https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 2
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 3
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 4
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 5
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN m1
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN m2
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
+
+-----
+
+
+
+
+
 --------
 BEIN 1
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="TURK UHD",TR:BEINSPORTS 4K (MAÇ ZAMANI)
@@ -1349,64 +1388,6 @@ http://nuhproxtv.shop:8080/mhm4880/bh.mh333/372626
 http://nuhproxtv.shop:8080/mhm4880/bh.mh333/372627
 
 -----
-
-
------
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://bs.arectv19.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://bs.arectv19.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://8.arectv30.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://8.arectv30.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://v.arectv30.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://v.arectv30.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://bs.arectv31.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://bs.arectv31.sbs/static/bs11.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 2
-https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 3
-https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 4
-https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 5
-https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 1
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 2
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 3
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 4
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN 5
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN m1
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="beIN",BEIN m2
-https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
-
------
-
-
-
-
-
-
 
 
 
