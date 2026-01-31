@@ -32,7 +32,9 @@ https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1-audio_tur=96000-vid
 
 
 TRT2
-#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2 
+#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2 ᵀᴿᵀ
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2 ᶜ
 https://canlitv.site/hls/trt2.m3u8
 TRT2
 #EXTINF:-1 tvg-id=" trt.2.tr   " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2 ⁹⁵
@@ -56,10 +58,18 @@ https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 TRT HABER
 #EXTINF:-1 tvg-id=" TRT.Haber.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER
 https://canlitv.site/hls/trthaber.m3u8
+TRT HABER
+#EXTINF:-1 tvg-id=" TRT.Haber.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER ᵀᴿᵀ
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
 
 TRT TÜRK
 #EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="CANLI TV",TRT TÜRK
 https://canlitv.site/hls/trtturk.m3u8
+TRT TÜRK
+#EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="CANLI TV",TRT TÜRK ᵀᴿᵀ
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
 
 ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="CANLI TV",ATV ᴰˢ
@@ -179,7 +189,6 @@ EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.c
 http://116.202.238.88/KANALD_TR/tracks-v1a1/index.m3u8
 
 
-
 NOW
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW ˢᵈ
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
@@ -191,8 +200,8 @@ NOW
 https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 NOW
 EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW D   
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=siAiijdHDzTp_WKwTH43JA&e=1769175228
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=siAiijdHDzTp_WKwTH43JA&e=1769175228
+
+
 NOW
 #EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW
 http://95.174.71.114/TR-FOX/index.m3u8
