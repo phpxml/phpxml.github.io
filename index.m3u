@@ -1090,7 +1090,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
 -----
-BEIN
+BEIN OZEL
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
 https://bs.arectv19.sbs/static/bs1.m3u8
@@ -1139,13 +1139,189 @@ https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN m2
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
 
------
+-------------------------------------------
+
+
+TR SPOR
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 SD/MOBIL" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="ALMAN",TR: beIN SPORTS 1 SD/MOBIL
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/84
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="ALMAN",TR: beIN SPORTS 1 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/89
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="ALMAN",TR: beIN SPORTS 1 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/77238
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS" tvg-name="TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="ALMAN",TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/237081
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 4K (Mac Zamani)" tvg-logo="https://logo.multicms.info/logoslar/Bein-4K.jpg" group-title="ALMAN",TR: beIN SPORTS 4K (Mac Zamani)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/269805
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="ALMAN",TR: PLUS 1 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337958
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="ALMAN",TR: PLUS 2 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337959
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Bein Xtra" tvg-logo="https://logo.multicms.info/tvlogo/BeinsportsXtra.jpg" group-title="ALMAN",TR: Bein Xtra
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/256065
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="ALMAN",TR: BEIN SPORTS 2 SD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/116675
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="ALMAN",TR: BEIN SPORTS 2 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/31408
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="ALMAN",TR: beIN SPORTS 2 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/87
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: Bein Sports 2 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="ALMAN",TR: Bein Sports 2 (Yuksek Kalite) Mac Zamani
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/223132
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 3 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="ALMAN",TR: BEIN SPORTS 3 SD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/116676
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="ALMAN",TR: BEIN SPORTS 3 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/31409
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="ALMAN",TR: beIN SPORTS 3 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/31407
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: Bein Sports 3 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="ALMAN",TR: Bein Sports 3 (Yuksek Kalite) Mac Zamani
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/223133
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 4 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="ALMAN",TR: BEIN SPORTS 4 SD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/116677
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 4" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="ALMAN",TR: beIN SPORTS 4 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/81
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 4" tvg-name="TR: Bein Sports 4 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="ALMAN",TR: Bein Sports 4 (Yuksek Kalite) Mac Zamani
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/223134
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 5" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="ALMAN",TR: beIN SPORTS 5 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/172690
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS 5" tvg-name="TR: Bein Sports 5 (Yuksek Kalite) Mac Zamani" tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="ALMAN",TR: Bein Sports 5 (Yuksek Kalite) Mac Zamani
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/223135
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS MAX 1" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="ALMAN",TR: beIN SPORTS MAX 1 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/79
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS MAX 1" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="ALMAN",TR: beIN SPORTS MAX 1 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/80
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS MAX 2" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-2-qa-tr.png" group-title="ALMAN",TR: beIN SPORTS MAX 2 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/77
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS MAX 2" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-2-qa-tr.png" group-title="ALMAN",TR: beIN SPORTS MAX 2 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/78
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS HABER" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-haber-qa-tr.png" group-title="ALMAN",TR: beIN SPORTS HABER HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/76
+#EXTINF:0 user-agent="Firefox" tvg-id="A Spor" tvg-name="TR: ASPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/asporhd.png" group-title="ALMAN",TR: ASPOR FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/61
+#EXTINF:0 user-agent="Firefox" tvg-id="A Spor" tvg-name="TR: ASPOR HD" tvg-logo="http://logo.multicms.info/tvlogo/asporhd.png" group-title="ALMAN",TR: ASPOR HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/60
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKOL SPORTS" tvg-logo="https://canlitv.com/kanal/logo/13433.jpg" group-title="ALMAN",TR: EKOL SPORTS
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/314140
+#EXTINF:0 user-agent="Firefox" tvg-id="S Sport" tvg-name="TR: S Sport HD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="ALMAN",TR: S Sport HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/32058
+#EXTINF:0 user-agent="Firefox" tvg-id="S Sport" tvg-name="TR: S Sport FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="ALMAN",TR: S Sport FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/68
+#EXTINF:0 user-agent="Firefox" tvg-id="S Sport 2" tvg-name="TR: S Sport 2 HD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="ALMAN",TR: S Sport 2 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/15169
+#EXTINF:0 user-agent="Firefox" tvg-id="S Sport 2" tvg-name="TR: S Sport 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="ALMAN",TR: S Sport 2 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/232183
+#EXTINF:0 user-agent="Firefox" tvg-id="Tivibu Spor" tvg-name="TR: TIVIBUSPOR" tvg-logo="http://logo.multicms.info/logoslar/tivibu.png" group-title="ALMAN",TR: TIVIBUSPOR
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/216195
+#EXTINF:0 user-agent="Firefox" tvg-id="Tivibu Spor 1" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibu.png" group-title="ALMAN",TR: TIVIBUSPOR 1 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/75
+#EXTINF:0 user-agent="Firefox" tvg-id="Tivibu Spor 2" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor2hd.png" group-title="ALMAN",TR: TIVIBUSPOR 2 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/74
+#EXTINF:0 user-agent="Firefox" tvg-id="Tivibu Spor 3" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor3hd.png" group-title="ALMAN",TR: TIVIBUSPOR 3 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/73
+#EXTINF:0 user-agent="Firefox" tvg-id="Tivibu Spor 4" tvg-name="TR: TIVIBUSPOR 4 HD" tvg-logo="http://logo.multicms.info/tvlogo/tivibuspor4hd.png" group-title="ALMAN",TR: TIVIBUSPOR 4 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/96999
+#EXTINF:0 user-agent="Firefox" tvg-id="Spor Smart" tvg-name="TR: SPORSMART HD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor.png" group-title="ALMAN",TR: SPORSMART HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/231858
+#EXTINF:0 user-agent="Firefox" tvg-id="Spor Smart" tvg-name="TR: SPORSMART FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor.png" group-title="ALMAN",TR: SPORSMART FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/60118
+#EXTINF:0 user-agent="Firefox" tvg-id="SPOR SMART 2" tvg-name="TR: SPORSMART 2 FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor2.png" group-title="ALMAN",TR: SPORSMART 2 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/57772
+#EXTINF:0 user-agent="Firefox" tvg-id="Eurosport 1" tvg-name="TR: Eurosport 1 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport1hd.png" group-title="ALMAN",TR: Eurosport 1 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/65
+#EXTINF:0 user-agent="Firefox" tvg-id="Eurosport 2" tvg-name="TR: Eurosport 2 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport2hd.png" group-title="ALMAN",TR: Eurosport 2 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/64
+#EXTINF:0 user-agent="Firefox" tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/trtsporhd.png" group-title="ALMAN",TR: TRT SPOR FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/63
+#EXTINF:0 user-agent="Firefox" tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR HD" tvg-logo="http://logo.multicms.info/tvlogo/trtsporhd.png" group-title="ALMAN",TR: TRT SPOR HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/62
+#EXTINF:0 user-agent="Firefox" tvg-id="tabii Spor" tvg-name="TR: Tabii Spor" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/256704
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 1" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 1
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/255108
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 2" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 2
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/255107
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 3" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 3
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/255106
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 4" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 4
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/255105
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 5" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 5
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/255104
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 6" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 6
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/255103
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 7" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 7
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/333399
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 8" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 8
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/333398
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 9" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 9
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/333397
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 10" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="ALMAN",TR: Tabii Spor 10
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/333396
+#EXTINF:0 user-agent="Firefox" tvg-id="HT SPOR" tvg-name="TR: HT SPOR" tvg-logo="https://logo.multicms.info/TVlogolar/htspor.jpg" group-title="ALMAN",TR: HT SPOR
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/246337
+#EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="ALMAN",TR: TV 8.5 FHD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/28
+#EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 HD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="ALMAN",TR: TV 8.5 HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/27
+#EXTINF:0 user-agent="Firefox" tvg-id="TRT Spor Yıldız" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="http://logo.multicms.info/tvlogo/TRT_Spor_Yildiz_Logo.png" group-title="ALMAN",TR: TRT SPOR YILDIZ
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/97008
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: SIFIR TV" tvg-logo="https://logo.multicms.info/tvlogo/sifirtv.jpg" group-title="ALMAN",TR: SIFIR TV
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/316094
+#EXTINF:0 user-agent="Firefox" tvg-id="FB TV" tvg-name="TR: FBTV HD" tvg-logo="http://logo.multicms.info/logoslar/fbtv.png" group-title="ALMAN",TR: FBTV HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/57
+#EXTINF:0 user-agent="Firefox" tvg-id="NBA TV" tvg-name="TR: NBA TV HD" tvg-logo="http://logo.multicms.info/logoslar/nba.png" group-title="ALMAN",TR: NBA TV HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/67
+#EXTINF:0 user-agent="Firefox" tvg-id="TAY TV" tvg-name="TR: TJK TV" tvg-logo="http://logo.multicms.info/logoslar/tjkhd.png" group-title="ALMAN",TR: TJK TV
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/54
+#EXTINF:0 user-agent="Firefox" tvg-id="SPORTS TV" tvg-name="TR: SPORTS TV HD" tvg-logo="http://logo.multicms.info/logoslar/sportstv.png" group-title="ALMAN",TR: SPORTS TV HD
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/59
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 SD (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 1 SD (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/98582
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 HD (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 1 HD (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/97466
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 FHD (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 1 FHD (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/96896
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 2 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 2 (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/96972
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 3 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 3 (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/96973
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 4 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 4 (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/256328
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 5 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 5 (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/256329
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 6 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 6 (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/256330
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 7 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 7 (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/264314
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 8 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="ALMAN",TR: EXXEN 8 (MAC ZAMANI)
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/264315
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 1 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 1 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/233930
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 2 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 2 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/233931
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 3 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 3 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/233932
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 4 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 4 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337176
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 5 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 5 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337175
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 6 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 6 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337174
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 7 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 7 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337173
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 8 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 8 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337172
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 9 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 9 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337171
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 10 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="ALMAN",TR: S Sport+ 10 ( YAYIN ZAMANI AKTİF )
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/337170
 
 
 
 
 
---------
+
+-------------------------------------------
+
+
 BEIN 1
 #EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4K (MAÇ ZAMANI)" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="TURK UHD",TR:BEINSPORTS 4K (MAÇ ZAMANI)
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/89599
