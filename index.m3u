@@ -302,9 +302,16 @@ TV5
 #EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo=" https://canlitv.site/wp-content/uploads/2026/01/tv5-logo.png  " group-title="CANLI TV",5
 https://canlitv.site/hls/tv5.m3u8
 
+
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR 
+https://dsmartgo-live.ercdn.net/trtspor/trtspor_720p.m3u8
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR
+https://dsmartgo-live.ercdn.net/trtspor/trtspor_1080p.m3u8
+
+
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR
-https://p2zgpjpzhpu30th994bn1bknnekjv0.top/cekz.m3u8?dm=k4e.zirvedesin120.cfd&z=yayintrtspor
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/697
 TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR
