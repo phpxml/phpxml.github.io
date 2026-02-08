@@ -241,14 +241,14 @@ https://canlitv.site/hls/kanal7.m3u8
 360
 #EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="CANLI TV",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-https://canlitv.site/hls/tv360.m3u8
+
 360
 #EXTINF:-1 tvg-id="  360.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="CANLI TV",360
 https://tv.ensonhaber.com/tv360/tv360_720p.m3u8
 https://tv.ensonhaber.com/tv360/tv360_1080p.m3u8
 
 HALK TV
-#EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
+EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
 https://canlitv.site/hls/halktv.m3u8
 HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK ᴴᴬᴸᴷ ᵀⱽ
@@ -260,22 +260,22 @@ HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK ᴰˢ
 https://ds.ayakkabiparti.lol/halk/tracks-v1a1/mono.ts.m3u8
 
-
-
 SÖZCÜ
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/sozcu-logo.png " group-title="CANLI TV",SZC
-https://canlitv.site/hls/sozcu.m3u8
+https://dsmartgo-live.ercdn.net/sozcutv/sozcutv_720p.m3u8
 SÖZCÜ
+#EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/sozcu-logo.png " group-title="CANLI TV",SZC
+https://dsmartgo-live.ercdn.net/sozcutv/sozcutv_1080p.m3u8
 #EXTINF:-1 tvg-id=" SZC.tr " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/sozcu-logo.png " group-title="CANLI TV",SZC ᴰˢ
 https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
 
 HABERTÜRK
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="CANLI TV",HABERTÜRK
-https://canlitv.site/hls/haberturk.m3u8
+https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 HABERTÜRK
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="CANLI TV",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+
 
 CNNTÜRK
 #EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="CANLI TV",CNN 
@@ -287,7 +287,8 @@ https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 
 NTV
 #EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="CANLI TV",NTV
-https://canlitv.site/hls/ntv.m3u8
+https://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+
 
 EKOL TV
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://i.ibb.co/Ln92Dj2/Ekoltv.png   " group-title="CANLI TV",EKOL TV
