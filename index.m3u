@@ -876,7 +876,7 @@ BEST FM
 http://37.247.100.100/best/bestfm.stream/playlist.m3u8
 
 METROPOL BERLIN
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
+EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/160px-Coat_of_arms_of_Berlin.svg.png    " group-title="RADYO", Metropol FM BERLİN 
 https://135-125-135-127-85878c.sfn.edge-ovh-de1.streams.radiosphere.io/516f5978-5ba0-4c2a-96ea-0998d59c47a5/channels/252cbd88-bbec-459e-a8ee-79392644dff2/stream.aac?quality=4&quality=4&source=metropol-fm.api.radiosphere.io
 
 RADYO TURKUVAZ
