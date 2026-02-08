@@ -362,12 +362,9 @@ https://canlitv.site/hls/powerturktv.m3u8
 TRT 1
 
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/358053
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/20484
-https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
-https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵁᴴᴰ⁺™
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -839,8 +836,8 @@ MÜZİK
 TRT MÜZİK
 #EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT MÜZİK ᴴᴰ
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT MÜZİK ᴴᴰ
-https://canlitvulusal.xyz/live/trtmuzik/index.m3u8
+EXTINF:-1 tvg-id=" TRT.Müzik.tr " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="MÜZİK",TRT MÜZİK ᴴᴰ
+
 
 TATLISES TV
 #EXTINF:-1 tvg-logo="   https://i.ibb.co/cQfPfgR/tatlises.png     " group-title="MÜZİK",Tatlıses Tv 
@@ -1489,26 +1486,6 @@ http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90112
 http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90124
 
 -----
-
------
-
-
-TABI
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 1 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 1 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454312
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 2 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 2 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454316
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 3 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 3 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454318
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 4 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 4 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454320
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 5 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 5 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454322
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 6 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 6 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454324
-------
-
-
 
 
 ----------------------------------------------
