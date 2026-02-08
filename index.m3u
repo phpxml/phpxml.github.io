@@ -1100,25 +1100,25 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 -----
 BEIN OZEL
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-bs
 https://bs.arectv19.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-
 https://bs.arectv19.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-
 https://8.arectv30.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-
 https://8.arectv30.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-
 https://v.arectv30.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-
 https://v.arectv30.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-
 https://bs.arectv31.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-
 https://bs.arectv31.sbs/static/bs11.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1-core
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 2
 https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
@@ -1130,21 +1130,21 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1+okn
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 1+
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 2
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 2+
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 3+
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 4
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 4+
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 5
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN 5+
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN m1
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN m1+
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN m2
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="ALMAN",BEIN m2+
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
 
 -------------------------------------------
@@ -1492,58 +1492,6 @@ http://europlayiptv.de:8080/zYc5h0x7/bXEgnA7/90124
 
 -----
 
-BEIN 3
-
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 (TTNET ÖZEL)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 (TTNET ÖZEL)
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/334642
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 SD [480p]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 SD [480p]
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/35762
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 720p" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 720p
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/351541
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 HD [VIP]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD [VIP]
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/98925
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 FHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/126272
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 VIP H265" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 VIP H265
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/190072
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 4K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 4K [Feed]
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/35650
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 8K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 8K [Feed]
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/191152
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (Kutu Yayin)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD (Kutu Yayin)
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/456568
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BoX)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD (BoX)
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/456567
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 SD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/196216
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/35730
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 UHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/195811
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 3 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 3 SD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/196217
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 3 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 3 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6097
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 3 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 3 UHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/195812
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 4 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 4 SD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/196218
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 4 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 4 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6098
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 4 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 4 UHD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/195813
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 5 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/125936
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports Max 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports Max 1
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6099
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports Max 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports Max 2
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/6100
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Connect 1 |Mac Saati|" tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ BEIN SPOR",|TR| beIN Connect 1 |Mac Saati|
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/137710
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Connect 2 |Mac Saati|" tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ BEIN SPOR",|TR| beIN Connect 2 |Mac Saati|
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/137711
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Connect 3 |Mac Saati|" tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ BEIN SPOR",|TR| beIN Connect 3 |Mac Saati|
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/137712
 
 TABI
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 1 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 1 HD
@@ -1559,19 +1507,6 @@ http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454322
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tabii Spor 6 HD" tvg-logo="https://image.hurimg.com/i/hurriyet/75/0x0/64da73444e3fe11a44cb07eb.jpg" group-title="TR/ TABII SPOR",TR: Tabii Spor 6 HD
 http://nuhproxtv.shop:8080/mhm4880/bh.mh333/454324
 ------
-
-FİL TV
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 2 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="TR/ FIL SPORT",TR: Fil Spor [Maç Saati Aktif] 2 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/372624
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 3 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="TR/ FIL SPORT",TR: Fil Spor [Maç Saati Aktif] 3 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/372625
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 4 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="TR/ FIL SPORT",TR: Fil Spor [Maç Saati Aktif] 4 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/372626
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fil Spor [Maç Saati Aktif] 5 HD" tvg-logo="https://i.hizliresim.com/t8diqat.png" group-title="TR/ FIL SPORT",TR: Fil Spor [Maç Saati Aktif] 5 HD
-http://nuhproxtv.shop:8080/mhm4880/bh.mh333/372627
-
------
 
 
 
