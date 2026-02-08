@@ -774,9 +774,9 @@ EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2f
 
 
 FLASH HABER
-#EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="   https://canlitvulusal.com/wp-content/uploads/2024/01/flashhaber-logo.png    " group-title="HABER",FLASH HABER ᴴᴰ
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-#EXTINF:-1 tvg-id="   Flash.Haber.tr " tvg-language="" tvg-logo="   https://canlitvulusal.com/wp-content/uploads/2024/01/flashhaber-logo.png    " group-title="HABER",FLASH HABER ᴴᴰ
+#EXTINF:-1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_720p.m3u8
+#EXTINF:-1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
 
 
@@ -785,31 +785,69 @@ TV100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 CNNTÜRK
-EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN 
-
-
+#EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN 
+https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=1500000.m3u8
+#EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN 
+https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 
 
 HABERTÜRK
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",Habertürk ciner ᴴᴰ
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
+#EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",Habertürk ciner ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/haberturk.m3u8
+#EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",Habertürk ciner ᴴᴰ
+https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 
 NTV
 #EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
-https://live.canlitvulusal.xyz/live/ntv/index.m3u8
+https://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="  NTV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="HABER",NTV ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/ntv.m3u8
 
 BLOOMBERG
-EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
+#EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
+
 
 HABER GLOBAL
-EXTINF:-1 tvg-id="   Haber.Global.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="HABER",Haber Global ᴴᴰ
+#EXTINF:-1 tvg-id="   Haber.Global.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="HABER",Haber Global ᴴᴰ
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1 tvg-id="   Haber.Global.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="HABER",Haber Global ᴴᴰ
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+
+TV 24
+#EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="HABER",TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="HABER",TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
 ER TV
 #EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/ertv.png   " group-title="HABER",ER TV ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
+
+GZTTV
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="     " group-title="HABER",GZT TV ᴴᴰ
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="     " group-title="HABER",GZT TV ᴴᴰ
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+TGRT HABER
+#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+https://canli.tgrthaber.com/tgrt.m3u8
+
+ULKE TV
+#EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 MAVİ KARADENİZ
 #EXTINF:-1 tvg-id="  mavikaradeniztv " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/b/b0/Mavi_Karadeniz_TV_Logosu.jpg?20230104170734     " group-title="HABER",mavi karadeniz ᴴᴰ
@@ -824,7 +862,10 @@ EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/vu
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
 
 A HABER
-EXTINF:-1 tvg-id="  a.Haber.tr    " tvg-name="" group-title="HABER"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
+#EXTINF:-1 tvg-id="  a.Haber.tr    " tvg-name="" group-title="HABER"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/A_haber.m3u8
+#EXTINF:-1 tvg-id="  a.Haber.tr    " tvg-name="" group-title="HABER"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
+http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
 
 
 
