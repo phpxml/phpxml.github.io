@@ -377,8 +377,56 @@ SINEMA KOMEDI
 #EXTINF:-1 tvg-logo="   " group-title="SINEMA TV",SINEMA KOMEDI
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 
+SMART TÜRK
+#EXTINF:-1 tvg-logo="     " group-title="SINEMA TV",SMART TÜRK
+https://ds.ayakkabiparti.lol/mvturk/tracks-v1a1/mono.ts.m3u8
+
+TABII
+#EXTINF:-1 tvg-logo="    " group-title="SINEMA TV",TABII TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
 
 ------
+BEIN SINEMA
+
+BEIN ACTION
+#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN ACTION
+https://ds.ayakkabiparti.lol/bsaction1/tracks-v1a1/mono.ts.m3u8
+
+BEIN TÜRK
+#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN TÜRK
+https://ds.ayakkabiparti.lol/bsturk/tracks-v1a1/mono.ts.m3u8
+
+BEIN STAR
+#EXTINF:-1 tvg-logo=" http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png  " group-title="beIN SINEMA",BEIN STAR
+https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
+
+BEIN PREMIERE
+#EXTINF:-1 tvg-logo=" https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3   " group-title="beIN SINEMA",BEIN PREMIER
+https://ds.ayakkabiparti.lol/bspremier1/tracks-v1a1/mono.ts.m3u8
+
+BEIN FAMILY
+#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN FAMILY
+https://ds.ayakkabiparti.lol/bsfamily/tracks-v1a1/mono.ts.m3u8
+
+BEIN COMEDY
+#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN COMEDY
+https://ds.ayakkabiparti.lol/bscomedy/tracks-v1a1/mono.ts.m3u8
+
+BEIN BOX 1
+#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 1
+https://ds.ayakkabiparti.lol/box1/tracks-v1a1/mono.ts.m3u8
+BEIN BOX 2
+#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 2
+https://ds.ayakkabiparti.lol/box2/tracks-v1a1/mono.ts.m3u8
+BEIN BOX 3
+#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 3
+https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
+
+
+
+------
+
 BELGESEL
 
 BBC EARTH
@@ -402,9 +450,6 @@ https://ds.ayakkabiparti.lol/natgeo/tracks-v1a1/mono.ts.m3u8
 NAT GEO WILD
 #EXTINF:-1 tvg-logo="    " group-title="BELGESEL",NAT GEO WILD
 https://ds.ayakkabiparti.lol/natgeowild/tracks-v1a1/mono.ts.m3u8
-TABII
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",TABII TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 
 
