@@ -10,6 +10,24 @@ EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 ------
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ------
 CANLI TV
 
@@ -1664,7 +1682,7 @@ http://kalitemedya45.xyz:8080/Mkayhan846476/48DuwSgApZHt/6163
 -----
 WEB KANALI
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/5zu8a0z.jpeg" group-title="WEB SPOR KANALI" ,Selçuk-Sports1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -1695,6 +1713,83 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport [HD] 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://andro.2385437.xyz/checklist/receptestt.m3u8
+
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR 
+https://dsmartgo-live.ercdn.net/trtspor/trtspor_720p.m3u8
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR
+https://dsmartgo-live.ercdn.net/trtspor/trtspor_1080p.m3u8
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/63
+TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.Spor.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR
+http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/62
+
+HT SPOR
+#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="WEB SPOR KANALI",HT SPOR
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_720p.m3u8
+
+ASPOR
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+ASPOR
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+ASPOR
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+BEIN
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-bs
+https://bs.arectv19.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+https://bs.arectv19.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+https://8.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+https://8.arectv30.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+https://v.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+https://v.arectv30.sbs/static/bs11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+https://bs.arectv31.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+https://bs.arectv31.sbs/static/bs11.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-core
+https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 2
+https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 3
+https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 4
+https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 5
+https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1+okn
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1+
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 2+
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 3+
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 4+
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 5+
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN m1+
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN m2+
+https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebsm2.m3u8
+
+
 
 ----------
 SARAY-DORF
