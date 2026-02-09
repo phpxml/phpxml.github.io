@@ -316,84 +316,40 @@ TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
 MELTEM TV
-EXTINF:-1 tvg-id="meltemtv.tr " tvg-language="" tvg-logo="  https://canlitvulusal.com/wp-content/uploads/2023/12/meltemtv-logo.png      " group-title="ULUSAL",MELTEM ᴴᴰ
-MELTEM TV
-#EXTINF:-1 tvg-id="meltemtv.tr " tvg-language="" tvg-logo="  https://canlitvulusal.com/wp-content/uploads/2023/12/meltemtv-logo.png      " group-title="ULUSAL",MELTEM ᴴᴰ
+#EXTINF:-1 tvg-id="meltemtv.tr " tvg-language="" tvg-logo="  https://meltemtv.com.tr/uploads/logo.png      " group-title="ULUSAL",MELTEM ᴴᴰ
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 DENİZ POSTASI
-#EXTINF:-1 tvg-logo="  https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_31.png?v=3   " group-title="ULUSAL",DENiZ POSTASI
+#EXTINF:-1 tvg-logo="  https://www.denizpostasitv.com/wp-content/uploads/2019/02/logo-web.png   " group-title="ULUSAL",DENiZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-
-TİVİ TÜRK
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6U0FimhNMRWumIIiBOgbuQw9cDfaiLcS7c5c9ZBQ&s       " group-title="ULUSAL",tivi TÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8 
-
-AFYON TÜRK
-EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="     " group-title="ULUSAL",AFYONTÜRK ᴴᴰ
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
-TV4
-#EXTINF:-1 tvg-id=" TV4.tr  " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="ULUSAL",TV4 ᴴᴰ
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 TİVİ 6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 SINEMA TV
-#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA TV
+#EXTINF:-1 tvg-logo=" https://sinematv.com.tr/content/logo/SINEMATV-GRI.png  " group-title="ULUSAL",SINEMA TV
 https://ds.ayakkabiparti.lol/sinema/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AKSIYON
-#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA AKSIYON
+#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="ULUSAL",SINEMA AKSIYON
 https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AKSIYON 2
-#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA AKSIYON 2
+#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="ULUSAL",SINEMA AKSIYON 2
 https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
 SINEMA YERLI
-#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",SINEMA YERLI
+#EXTINF:-1 tvg-logo=" https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png  " group-title="ULUSAL",SINEMA YERLI
 https://ds.ayakkabiparti.lol/sinemayerli/tracks-v1a1/mono.ts.m3u8
 
 BEIN STAR
-#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN STAR
+#EXTINF:-1 tvg-logo=" http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png  " group-title="ULUSAL",BEIN STAR
 https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
 
 BEIN PREMIER
-#EXTINF:-1 tvg-logo="   " group-title="ULUSAL",BEIN PREMIER
+#EXTINF:-1 tvg-logo=" https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3   " group-title="ULUSAL",BEIN PREMIER
 https://ds.ayakkabiparti.lol/bspremier1/tracks-v1a1/mono.ts.m3u8
-
-DISCOVERY
-EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
-https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b4128000.m3u8
-EXTINF:-1 tvg-id=" Discovery.Channel.tr   " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/de/f/f4/Discovery_Channel_Logo_2019.png  ",Discovery Channel ᶠʰᵈ
-https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist_b2064000.m3u8
-
-BBC EARTH
-EXTINF:-1 tvg-id="   BBC.Earth.tr " tvg-name="" group-title="ULUSAL"  tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/250?cb=20171204084854  "   ,BBC EARTH ᶠʰᵈ
-http://yesimes.oknirvana.club:8880/D12m3577/71335529/33045
-
-DISCOVERY SCIENCE
-EXTINF:-1 tvg-id="   Discovery.Science.tr " tvg-name="" group-title="ULUSAL"  tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png",ᴴᴰ
-
-INVESTIGATION DISCOVERY
-EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
-https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b4128000.m3u8
-EXTINF:-1 tvg-id=" Investigation Discovery   " tvg-language="" tvg-logo="   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png  " group-title="ULUSAL",Investigation Discovery ᴴᴰ
-https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist_b2064000.m3u8
-
-FX
-EXTINF:-1 tvg-id="  FX.tr  " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/440px-FX_International_logo.svg.png     " group-title="ULUSAL",FX ᴴᴰ
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/2075.ts
-EXTINF:-1 tvg-id="" tvg-name="FX Hd" tvg-logo="https://i.hizliresim.com/2t6777u.png" group-title="ULUSAL",FX Hd
-http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/203508
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302089.ts
-
-BEIN MOVIES STARS
-EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
-http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/6093.ts
 
 ZAROK TV
 #EXTINF:-1 tvg-id="   " tvg-name="   " tvg-logo="  https://zaroktv.com.tr/wp-content/uploads/bfi_thumb/LOGO-8K-3ecl44zy3nujei4th6a1hm@2x.png  " group-title="ULUSAL",ZAROK TV ᴴᴰ
@@ -404,14 +360,14 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8?cachebust=5ffc8f
 HABER
 
 ER TV
-#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  http://yerelmedya.tv/logosTV/ertv.png   " group-title="HABER",ER TV ᴴᴰ
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  https://s.ertv.com.tr/dosya/logo/svg/logo-ana.svg   " group-title="HABER",ER TV ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
 
 GZT TV
-#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="     " group-title="HABER",GZT TV ᴴᴰ
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo=" https://gzttv.tr/logo.png    " group-title="HABER",GZT TV ᴴᴰ
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 GZT TV
-#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="     " group-title="HABER",GZT TV ᴴᴰ
+#EXTINF:-1 tvg-id=" " tvg-language="" tvg-logo="  https://gzttv.tr/logo.png   " group-title="HABER",GZT TV ᴴᴰ
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 TRT HABER
@@ -501,10 +457,10 @@ HABER GLOBAL
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
 TV 24
-#EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="HABER",TV 24
+#EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="  https://www.yirmidort.tv/assets/header/logoWhite.png  " group-title="HABER",TV 24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 TV 24
-#EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="HABER",TV 24
+#EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="  https://www.yirmidort.tv/assets/header/logoWhite.png  " group-title="HABER",TV 24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 
 TGRT HABER
@@ -530,7 +486,7 @@ EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2f
 EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
 
 TV5
-#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo="     " group-title="HABER",5 ᴴᴰ
+#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo=" https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png    " group-title="HABER",5 ᴴᴰ
 https://ip252.ozelip.com:1936/protv5/protv5/chunklist_w1107444239.m3u8
 
 A HABER
