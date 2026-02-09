@@ -159,11 +159,11 @@ SHOW TÜRK
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shturk.m3u8
 
 SHOWMAX
-EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX
-https://canlitv.site/hls/showmax.m3u8
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_720p.m3u8
 SHOWMAX
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://i.ibb.co/kxjKk89/showmax.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX
-http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 
 KANAL D
 #EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="ULUSAL",KANAL D ᵈˢᵐᵃʳᵗ
@@ -337,10 +337,6 @@ TV4
 #EXTINF:-1 tvg-id=" TV4.tr  " tvg-language="" tvg-logo="  https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1117   " group-title="ULUSAL",TV4 ᴴᴰ
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
-TV5
-#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo="  https://canlitvulusal.com/wp-content/uploads/2023/12/tv-5-logo.png   " group-title="ULUSAL",5 ᴴᴰ
-https://live.canlitvulusal.xyz/live/tv5/index.m3u8
-
 TİVİ 6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
@@ -398,6 +394,10 @@ http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/302089.ts
 BEIN MOVIES STARS
 EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="ULUSAL" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png" group-title="ULUSAL",beIN STARS ᴴᴰ
 http://izlesstvrs.xyz:80/live/sahinselat2/k6rd0vxMYg/6093.ts
+
+ZAROK TV
+#EXTINF:-1 tvg-id="   " tvg-name="   " tvg-logo="  https://zaroktv.com.tr/wp-content/uploads/bfi_thumb/LOGO-8K-3ecl44zy3nujei4th6a1hm@2x.png  " group-title="ULUSAL",ZAROK TV ᴴᴰ
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8?cachebust=5ffc8f
 
 ------
 
@@ -528,6 +528,10 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playli
 KRT
 EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
 EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
+
+TV5
+#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo="     " group-title="HABER",5 ᴴᴰ
+https://ip252.ozelip.com:1936/protv5/protv5/chunklist_w1107444239.m3u8
 
 A HABER
 #EXTINF:-1 tvg-id="  a.Haber.tr    " tvg-name="" group-title="HABER"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
@@ -1356,6 +1360,17 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 ASPOR
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+EKOL SPORT
+#EXTINF:-1 tvg-id="   " tvg-name="    " tvg-logo="      " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",EKOL SPORTS ᴴᴰ
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
+EKOL SPORT
+#EXTINF:-1 tvg-id="   " tvg-name="T   " tvg-logo="      " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",EKOL SPORTS ᵁᴴᴰ
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8
+
+SIFIR TV
+#EXTINF:-1 tvg-id="   " tvg-name="    " tvg-logo="  https://www.tvyayinakisi.com/wp-content/uploads/2025/09/sifir-tv.webp    " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",SIFIR TV ᴴᴰ
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 
 BEIN
 #EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-bs
