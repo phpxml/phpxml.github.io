@@ -1344,6 +1344,10 @@ HT SPOR
 #EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="WEB SPOR KANALI",HT SPOR
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor_720p.m3u8
 
+SPORTS TV
+#EXTINF:-1 tvg-id="  " tvg-language="" tvg-logo="  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBWv1Oz8OYZmxU3SMF3NXy70z3SPQzMnapE0JkrMjsa07Tn_jb6JquZjBNhMUKkj4-PhCY4SMt17hViPuBIEvPcT0Tto8gaYdRIr9gvnbrxKiaTlFZsA-WAuoTAs9xRKsWAZ2l_8HVC_4QSkVt1nYy_FbTvrfp2fDkS9tJmndCp2T49d9ZFt2pFUVNBw/s1600-rw/spor.jpg   " group-title="WEB SPOR KANALI",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
 ASPOR
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
