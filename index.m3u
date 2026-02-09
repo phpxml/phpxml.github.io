@@ -1491,7 +1491,58 @@ https://tv.cdn-vizi.workers.dev/?ID=10
 
 
 
-------
+
+---------------
+PERSIAN TV
+
+
+TRT1
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="PERSIAN TV",TRT 1
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48839.ts
+TRT4 K
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="    https://i.hizliresim.com/lezd6k8.png " group-title="PERSIAN TV",TRT 4K
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49172.ts
+ATV
+#EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="PERSIAN TV",ATV
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48846.m3u8
+STAR
+#EXTINF:-1 tvg-id="  STAR.TV.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="PERSIAN TV",STAR
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48851.m3u8
+KANAL D
+#EXTINF:-1 tvg-id="   Kanal.D.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="PERSIAN TV",KANAL D
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48854.m3u8
+SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="PERSIAN TV",SHOW
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48849.m3u8
+NOW
+#EXTINF:-1 tvg-id="  FOX.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="PERSIAN TV",NOW
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48858.m3u8
+TV8
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="PERSIAN TV",TV8
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48859.m3u8
+TV 8.5
+#EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="PERSIAN TV",TV 8.5
+http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/48862.m3u8
+
+---------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
