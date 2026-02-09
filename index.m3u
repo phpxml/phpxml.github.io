@@ -40,7 +40,10 @@ https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/trt2.m3u8
 
 TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
-https://tv.cdn-vizi.workers.dev/?ID=31
+https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_720p.m3u8
+TRT BELGESEL
+#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
+https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_1080p.m3u8
 
 TRT TÜRK
 #EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
@@ -279,14 +282,18 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 TLC
 #EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc-audio=96000-video=1500000.m3u8
 https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
 #EXTINF:-1 tvg-id="  TLC.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/volotv.m3u8
 https://trn03.tulix.tv/gt-tlc-tv/tracks-v1a1/mono.m3u8
 
 DMAX
 #EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax-audio_tur=96000-video=1500000.m3u8
 https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 #EXTINF:-1 tvg-id="  DMAX.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/volotv.m3u8
 https://trn03.tulix.tv/gt-dmax-tv/tracks-v1a1/mono.m3u8
 
 A2
