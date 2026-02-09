@@ -18,6 +18,9 @@ TRT1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ⁹⁵
 http://95.174.71.114/TR-TRT1/index.m3u8
 TRT1
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1
+http://116.202.238.88/TRT1_TR/tracks-v1a1/index.m3u8
+TRT1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᴰ⁻ˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 TRT1
@@ -114,7 +117,6 @@ https://ds.ayakkabiparti.lol/atv/tracks-v1a1/mono.ts.m3u8
 ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",ATV ᴱʳᶜᵈⁿ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",ATV ᴰ⁻ˢᵐᵃʳᵗ
 https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
@@ -237,6 +239,9 @@ http://95.174.71.114/TR-TV8/index.m3u8
 TV8
 #EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
 http://116.202.238.88/TV8_TR/tracks-v1a1/index.m3u8
+TV8
+#EXTINF:-1 tvg-id="  TV8.tr  " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
+http://89.187.191.41/TV8-HD-TR/tracks-v1a1/mono.ts.m3u8
 
 TV 8.5
 #EXTINF:-1 tvg-id=" TV.8,5.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
@@ -318,6 +323,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 A2
 #EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
 http://116.202.238.88/A2_TR/playlist.m3u8
+A2
+#EXTINF:-1 tvg-id=" a2.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
+http://89.187.191.41/A2-HD-TR/video.m3u8
 
 TEVE2
 #EXTINF:-1 tvg-id="   Teve2.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1Z22dCY/teve2.png      " group-title="ULUSAL",Teve2 ᴴᴰ
@@ -489,6 +497,9 @@ https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 HABERTÜRK
 #EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",HABERTÜRK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_720p.m3u8
+HABERTÜRK
+#EXTINF:-1 tvg-id="  Haber.Türk.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",HABERTÜRK
+http://116.202.238.88/HABERTURK_TR/tracks-v1a1/index.m3u8
 
 CNNTÜRK
 #EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN 
@@ -496,6 +507,9 @@ https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=
 CNNTÜRK
 #EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN 
 https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
+CNNTÜRK
+#EXTINF:-1 tvg-id="  CNN.TÜRK.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="HABER",CNN 
+http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
 
 HALK TV
 #EXTINF:-1 tvg-id="  Halk.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="HABER",HALK ᴴᴬᴸᴷ ᵀⱽ
@@ -568,6 +582,9 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 TV 24
 #EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="  https://www.yirmidort.tv/assets/header/logoWhite.png  " group-title="HABER",TV 24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+TV 24
+#EXTINF:-1 tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="  https://www.yirmidort.tv/assets/header/logoWhite.png  " group-title="HABER",TV 24
+http://116.202.238.88/KANAL24_TR/tracks-v1a1/index.m3u8
 
 TGRT HABER
 #EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER
@@ -582,6 +599,9 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 ULKE TV
 #EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+ULKE TV
+#EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
+http://116.202.238.88/ULKETV_TR/tracks-v1a1/index.m3u8
 
 MAVİ KARADENİZ
 #EXTINF:-1 tvg-id="  mavikaradeniztv " tvg-language="" tvg-logo="    https://upload.wikimedia.org/wikipedia/tr/b/b0/Mavi_Karadeniz_TV_Logosu.jpg?20230104170734     " group-title="HABER",mavi karadeniz ᴴᴰ
@@ -594,6 +614,10 @@ EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2f
 TV5
 #EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo=" https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png    " group-title="HABER",5 ᴴᴰ
 https://ip252.ozelip.com:1936/protv5/protv5/chunklist_w1107444239.m3u8
+
+ULUSAL
+#EXTINF:-1 tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
+http://116.202.238.88/ULUSALTV_TR/tracks-v1a1/index.m3u8
 
 A HABER
 #EXTINF:-1 tvg-id="  a.Haber.tr    " tvg-name="" group-title="HABER"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",aHBR ᴴᴰ
@@ -1426,6 +1450,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 ASPOR
 #EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+ASPOR
+#EXTINF:-1 tvg-id="  a.Spor.tr " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
+http://116.202.238.88/ASPOR_TR/tracks-v1a1/index.m3u8
 
 EKOL SPORT
 #EXTINF:-1 tvg-id="   " tvg-name="    " tvg-logo="      " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",EKOL SPORTS ᴴᴰ
