@@ -100,6 +100,13 @@ https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ce=3&app=4bc856ef-4c68-4a94-b
 SHOW
 #EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW ᶜⁱⁿᵉʳ ᶠʰᵈ
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW
+http://116.202.238.88/SHOWTV_TR/index.m3u8
+SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="ULUSAL",SHOW
+http://95.174.71.114/TR-SHOW/index.m3u8
+
 
 ATV
 #EXTINF:-1 tvg-id="ATV.tr"tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",ATV ᴰˢ
