@@ -39,17 +39,11 @@ TRT2
 https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/trt2.m3u8
 
 TRT BELGESEL
-EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
-
-TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
-https://1508980f6c544f2db07e6f823b6473c8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/10aaf274-2618-4857-b809-b8adc82719cf/0.m3u8
-TRT BELGESEL
-#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+https://tv.cdn-vizi.workers.dev/?ID=31
 
 TRT TÜRK
-EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
+#EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 TRT TÜRK
 #EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
