@@ -48,24 +48,24 @@ TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 
 TRT BELGESEL
-#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
+#EXTINF:-1 tvg-id="   TRT.BELGESEL.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
 https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_720p.m3u8
 TRT BELGESEL
-#EXTINF:-1 tvg-id="   TRT.Belgesel.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
+#EXTINF:-1 tvg-id="   TRT.BELGESEL.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL
 https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_1080p.m3u8
 
 TRT TÜRK
-#EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
+#EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 TRT TÜRK
-#EXTINF:-1 tvg-id="  TRT.Türk.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
+#EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 
 TRT AVAZ
-#EXTINF:-1 tvg-id="  TRT.Avaz.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ
+#EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 TRT AVAZ
-#EXTINF:-1 tvg-id="  TRT.Avaz.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ
+#EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 
 NOW
@@ -445,25 +445,25 @@ https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
 BELGESEL
 
 BBC EARTH
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",bbc EARTH
+#EXTINF:-1  tvg-id=" BBC.ENTERTAINMENT.tr " tvg-logo="    " group-title="BELGESEL",bbc EARTH
 https://ds.ayakkabiparti.lol/bbc/tracks-v1a1/mono.ts.m3u8
 TARIH TV
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",TARIH TV
+#EXTINF:-1  tvg-id=" " tvg-logo="    " group-title="BELGESEL",TARIH TV
 https://ds.ayakkabiparti.lol/tarihtv/tracks-v1a1/mono.ts.m3u8
 VIASAT HISTORY
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",VIASAT HOSTORY
+#EXTINF:-1  tvg-id=" VIASAT.NATURE.-.HISTORY.tr " tvg-logo="    " group-title="BELGESEL",VIASAT HOSTORY
 https://ds.ayakkabiparti.lol/viasathistory/tracks-v1a1/mono.ts.m3u8
 VIASAT EXPLORE 
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",VIASAT EXPLORE
+#EXTINF:-1  tvg-id=" VIASAT.EXPLORE.tr"  tvg-logo="    " group-title="BELGESEL",VIASAT EXPLORE
 https://ds.ayakkabiparti.lol/history/tracks-v1a1/mono.ts.m3u8
 DISCOVERY
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",DISCOVERY
+#EXTINF:-1 tvg-id=" DISCOVERY.ID.tr " tvg-logo="    " group-title="BELGESEL",DISCOVERY
 https://ds.ayakkabiparti.lol/discovery/tracks-v1a1/mono.ts.m3u8
 NATIONAL GEOGRAPHIC 
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id=" NATIONAL.GEOGRAPHIC.HD.tr" tvg-logo="    " group-title="BELGESEL",NATIONAL GEOGRAPHIC
 https://ds.ayakkabiparti.lol/natgeo/tracks-v1a1/mono.ts.m3u8
 NAT GEO WILD
-#EXTINF:-1 tvg-logo="    " group-title="BELGESEL",NAT GEO WILD
+#EXTINF:-1 tvg-id=" NAT.GEO.PEOPLE.HD.tr " tvg-logo="    " group-title="BELGESEL",NAT GEO WILD
 https://ds.ayakkabiparti.lol/natgeowild/tracks-v1a1/mono.ts.m3u8
 
 
@@ -563,10 +563,10 @@ TELE 1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
 BLOOMBERG
-#EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
+#EXTINF:-1 tvg-id="   BLOOMBERG.HT.HD.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght_720p.m3u8
 BLOOMBERG
-#EXTINF:-1 tvg-id="   Bloomberg.HT.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
+#EXTINF:-1 tvg-id="   BLOOMBERG.HT.HD.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="HABER",Bloomberg HT ᴴᴰ
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
 
 HABER GLOBAL
@@ -594,13 +594,13 @@ TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 
 ULKE TV
-#EXTINF:-1  tvg-id="    " tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
+#EXTINF:-1  tvg-id=" ÜLKE.TV.HD.tr   " tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 ULKE TV
-#EXTINF:-1   tvg-id="    " tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
+#EXTINF:-1   tvg-id="  ÜLKE.TV.HD.tr  " tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 ULKE TV
-#EXTINF:-1   tvg-id="    " tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
+#EXTINF:-1   tvg-id="  ÜLKE.TV.HD.tr  " tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
 http://116.202.238.88/ULKETV_TR/tracks-v1a1/index.m3u8
 
 MAVİ KARADENİZ
@@ -612,11 +612,11 @@ EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2f
 EXTINF:-1 tvg-id="  KRT.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="HABER",KRT ᴴᴰ
 
 TV5
-#EXTINF:-1 tvg-id="tivi5.tr " tvg-language="" tvg-logo=" https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png    " group-title="HABER",5 ᴴᴰ
+#EXTINF:-1   tvg-id="  TV5.MONDE.tr  " tvg-id="tivi5.tr " tvg-language="" tvg-logo=" https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png    " group-title="HABER",5 ᴴᴰ
 https://ip252.ozelip.com:1936/protv5/protv5/chunklist_w1107444239.m3u8
 
 ULUSAL
-#EXTINF:-1 tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
+#EXTINF:-1   tvg-id="    " tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
 http://116.202.238.88/ULUSALTV_TR/tracks-v1a1/index.m3u8
 
 A HABER
