@@ -616,7 +616,7 @@ TV5
 https://ip252.ozelip.com:1936/protv5/protv5/chunklist_w1107444239.m3u8
 
 ULUSAL
-#EXTINF:-1   tvg-id="    " tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
+#EXTINF:-1 tvg-id="  ULUSAL.KANAL.tr  " tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
 http://116.202.238.88/ULUSALTV_TR/tracks-v1a1/index.m3u8
 
 A HABER
