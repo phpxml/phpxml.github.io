@@ -1677,6 +1677,7 @@ http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49219.m3u8
 BEIN 4
 #EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",4
 http://hdlocal.de:8080/live/obsfullhd.tv/xARq84vdxdfsh/10040.ts
+
 BEIN 5
 #EXTINF:0 user-agent="Firefox" tvg-id="beIN SPORTS" tvg-name="TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="WEB-beIN",1 (Yuksek Kalite) Mac Zamani
 http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/237081
@@ -1684,7 +1685,13 @@ BEIN 6
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 4K (Mac Zamani)" tvg-logo="https://logo.multicms.info/logoslar/Bein-4K.jpg" group-title="WEB-beIN",1 4K (Mac Zamani)
 http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/269805
 
+BEIN 7
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",7
+https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
 
+BEIN 8
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",8
+https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
 
 --------------
 
