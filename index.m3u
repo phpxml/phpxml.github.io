@@ -880,7 +880,16 @@ DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
------
+-----------------
+
+KABEL EINS CLASSIC
+#EXTINF:-1 group-title="ALMAN",kabel 1 classic 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1260&extension=ts&play_token=ULTEDQusgW
+#EXTINF:-1 group-title="ALMAN",kabel 1 classic 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1261&extension=ts&play_token=p0BK81Kh0N
+
+
+
 SAT GOLD
 #EXTINF:-1 tvg-id="  " tvg-logo="   " group-title="ALMAN",SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
