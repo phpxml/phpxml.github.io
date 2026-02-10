@@ -890,26 +890,84 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1261&extension
 
 
 
+
+
+
 SAT GOLD
 #EXTINF:-1 tvg-id="  " tvg-logo="   " group-title="ALMAN",SAT.1 Gold
+https://s6.hopslan.com/goldX/index.m3u8
+#EXTINF:-1 tvg-id="  " tvg-logo="   " group-title="ALMAN",SAT.1 Gold
+https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="  " tvg-logo="   " group-title="ALMAN",SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+
+SAT1
+#EXTINF:-1 tvg-id="  " tvg-logo="   " group-title="ALMAN",SAT 1
+https://s6.hopslan.com/sat1z/index.m3u8
+#EXTINF:-1 tvg-id="  " tvg-logo="   " group-title="ALMAN",SAT 1
+https://s6.hopslan.com/sat1z/tracks-v1a1/mono.m3u8
+
 KABEL EINS
 #EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",KABEL 1
+https://s6.hopslan.com/kabel1z/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",KABEL 1
 https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
+
+KABEL EINS DOKU
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",KABEL 1 DOKU
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",KABEL 1 DOKU
+https://s6.hopslan.com/dokuX/tracks-v1a1/mono.m3u8
+
+N24
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",N24
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",N24
+https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8
+
 RTL NITRO
 #EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",RTL nitro
+https://s6.hopslan.com/nitro1/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",RTL nitro
 https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
+
 RTL
 #EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",RTL
+https://s6.hopslan.com/rtla11/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",RTL
+https://s6.hopslan.com/rtla11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",RTL
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+
+SUPER RTL
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",SUPER RTL
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",SUPER RTL
+https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+
 PRO7
 #EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",PRO 7
+https://s6.hopslan.com/pro7z/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",PRO 7
 https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
+
 PRO7 MAXX
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",PRO 7 MAX
+https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",PRO 7 MAX
 https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
 
+SIXX
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",SIXX
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",SIXX
+https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
 
+COMEDY CENTRAL
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",COMEDY CENTRAL
+https://s6.hopslan.com/vivaX/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",COMEDY CENTRAL
+https://s6.hopslan.com/vivaX/tracks-v1a1/mono.m3u8
 
 
 -------------------------------------------
