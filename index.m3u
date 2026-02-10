@@ -18,7 +18,7 @@ TRT1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ⁹⁵
 http://95.174.71.114/TR-TRT1/index.m3u8
 TRT1
-#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1
+#EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 HD
 http://116.202.238.88/TRT1_TR/tracks-v1a1/index.m3u8
 TRT1
 #EXTINF:-1 tvg-id="  TRT.1.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᴰ⁻ˢᵐᵃʳᵗ
@@ -357,39 +357,39 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8?cachebust=5ffc8f
 SINEMA TV
 
 SINEMA TV
-#EXTINF:-1 tvg-logo=" https://sinematv.com.tr/content/logo/SINEMATV-GRI.png  " group-title="SINEMA TV",SINEMA TV
+#EXTINF:-1 tvg-logo=" https://sinematv.com.tr/content/logo/SINEMATV-GRI.png  " group-title="SINEMA TV",SİNEMA TV HD
 https://ds.ayakkabiparti.lol/sinema/tracks-v1a1/mono.ts.m3u8
 
 SINEMA TV 2
-#EXTINF:-1 tvg-logo=" https://sinematv2.com.tr/content/logo/SINEMATV-2.png  " group-title="SINEMA TV",SINEMA TV 2
+#EXTINF:-1 tvg-logo=" https://sinematv2.com.tr/content/logo/SINEMATV-2.png  " group-title="SINEMA TV",SİNEMA 2 HD
 https://ds.ayakkabiparti.lol/sinema2/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AKSIYON
-#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SINEMA AKSIYON
+#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SİNEMA AKSİYON HD
 https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AKSIYON 2
-#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SINEMA AKSIYON 2
+#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SİNEMA AKSİYON HD
 https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
 SINEMA YERLI
-#EXTINF:-1 tvg-logo=" https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png  " group-title="SINEMA TV",SINEMA YERLI
+#EXTINF:-1 tvg-logo=" https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png  " group-title="SINEMA TV",SİNEMA YERLİ
 https://ds.ayakkabiparti.lol/sinemayerli/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AILE
-#EXTINF:-1 tvg-logo=" https://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png  " group-title="SINEMA TV",SINEMA AILE
+#EXTINF:-1 tvg-logo=" https://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png  " group-title="SINEMA TV",SİNEMA AİLE HD
 https://ds.ayakkabiparti.lol/sinemaaile/tracks-v1a1/mono.ts.m3u8
 
 SINEMA 1001
-#EXTINF:-1 tvg-logo="  https://1001.sinematv.com.tr/content/logo/SINEMATV-1001-GRI.png " group-title="SINEMA TV",SINEMA 1001
+#EXTINF:-1 tvg-logo="  https://1001.sinematv.com.tr/content/logo/SINEMATV-1001-GRI.png " group-title="SINEMA TV",SİNEMA 1001 HD
 https://ds.ayakkabiparti.lol/sinema1001/tracks-v1a1/mono.ts.m3u8
 
 SINEMA 1002
-#EXTINF:-1 tvg-logo=" https://1002.sinematv.com.tr/content/logo/SINEMATV-1002.png  " group-title="SINEMA TV",SINEMA 1002
+#EXTINF:-1 tvg-logo=" https://1002.sinematv.com.tr/content/logo/SINEMATV-1002.png  " group-title="SINEMA TV",SİNEMA 1002
 https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
 
 SINEMA KOMEDI
-#EXTINF:-1 tvg-logo="   " group-title="SINEMA TV",SINEMA KOMEDI
+#EXTINF:-1 tvg-logo="   " group-title="SINEMA TV",SİNEMA KOMEDİ HD
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 
 SMART TÜRK
