@@ -480,11 +480,15 @@ https://ds.ayakkabiparti.lol/history/tracks-v1a1/mono.ts.m3u8
 DISCOVERY
 #EXTINF:-1 tvg-id=" DISCOVERY.CHANNEL.HD.tr " tvg-logo="    " group-title="BELGESEL",DISCOVERY
 https://ds.ayakkabiparti.lol/discovery/tracks-v1a1/mono.ts.m3u8
+LOVE NATURE
+#EXTINF:-1 tvg-id="  " tvg-logo="    " group-title="BELGESEL",LOVE NATURE
+https://ds.ayakkabiparti.lol/lovenature/tracks-v1a1/mono.ts.m3u8
+
 NATIONAL GEOGRAPHIC 
-#EXTINF:-1 tvg-id=" NATIONAL.GEOGRAPHIC.HD.tr" tvg-logo="    " group-title="BELGESEL",NATIONAL GEOGRAPHIC
+EXTINF:-1 tvg-id=" NATIONAL.GEOGRAPHIC.HD.tr" tvg-logo="    " group-title="BELGESEL",NATIONAL GEOGRAPHIC
 https://ds.ayakkabiparti.lol/natgeo/tracks-v1a1/mono.ts.m3u8
 NAT GEO WILD
-#EXTINF:-1 tvg-id="  NATIONAL.GEOGRAPHIC.WILD.HD.tr  " tvg-logo="    " group-title="BELGESEL",NAT GEO WILD
+EXTINF:-1 tvg-id="  NATIONAL.GEOGRAPHIC.WILD.HD.tr  " tvg-logo="    " group-title="BELGESEL",NAT GEO WILD
 https://ds.ayakkabiparti.lol/natgeowild/tracks-v1a1/mono.ts.m3u8
 
 
