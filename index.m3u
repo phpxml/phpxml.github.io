@@ -1861,25 +1861,25 @@ https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
 BEIN 4CAN
 
 BEIN 9
-#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",9 Haber 4Can
+#EXTINF:-1 group-title="WEB-beIN",beIN SPORTS HABER HD
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxN8JRGHL4NnWwkU4H8O2wNEbVFliWHjftnSrnhBg8SPpcR9CEpo2ub8zLKFpxTY_GVn2zOW8fEuHcys1qy_RUrX?ext=.ts
 BEIN 10
-#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",10 1-4Can
+#EXTINF:-1 group-title="WEB-beIN",beIN SPORTS 1
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPiXQppq9wWvH2aOmbFdcI19cq9U1jx-UEASeHoxo4A50kbrV8bSeZwP81L-tO30K4epgmXTcHegWegGLQUsynt?ext=.ts
 BEIN 11
-#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",11 2-4Can
+#EXTINF:-1 group-title="WEB-beIN",beIN SPORTS 2
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOK0ARooc3cvDPrymsTIjhs4t40qGvkpuDf0IYK0K1R46VreOfAj6BDCs0XommMCMPtKFYp-jeSyZ0TVwIiAFDO?ext=.ts
 BEIN 12
-#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",12 3-4Can
+#EXTINF:-1 group-title="WEB-beIN",beIN SPORTS 3
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPlvj8yEn4VoSY-14n0aqk3pt3TQ0stM46_0TWt9sgslDkL_0lW4RnZRATYlWGb-sAV3blHaBHP3pZaXkj9J_mM?ext=.ts
 BEIN 13
-#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",13 4-4Can
+#EXTINF:-1 group-title="WEB-beIN",beIN SPORTS 4
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPfehyUko44w-RMKzoGTyqi7QwudlWsoGpDD0tk-kvQPNATyUUK2zYDQQVuBniicv3ZazixetrerAn_jnthTZ7F?ext=.ts
 BEIN 14
-#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",14 max-4Can
+#EXTINF:-1 group-title="WEB-beIN",beIN SPORTS MAX 1
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMWrirL7dN0ArOpA150sGdNxjr49qDSkoPPcyzhPENpEQTjXnGxf1FiJXjb0BoTJykioGvTnnx-yquDVfsDoSaT?ext=.ts
 BEIN 15
-#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",15 max-4Can
+#EXTINF:-1 group-title="WEB-beIN",beIN SPORTS MAX 2
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOWIQCpW0dpArbX7-0BNzaMTJp80WkRHDgQ5F6ATtpMi2PmVgRmM7BWhWTcgnH5bujH1nTb4xVh02TR20xGrss7?ext=.ts
 
 
