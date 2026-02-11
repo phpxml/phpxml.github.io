@@ -970,6 +970,20 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=550272&extensi
 #EXTINF:-1 group-title="ALMAN",kabel 1 classic 4
 http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=550273&extension=ts&play_token=eiqw5GsNWy
 
+KABEL 1
+#EXTINF:-1 group-title="ALMAN",Kabel eins 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1258&extension=ts&play_token=v3AmdUzDXn
+#EXTINF:-1 group-title="ALMAN",Kabel eins 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1259&extension=ts&play_token=OL9catpnvv
+#EXTINF:-1 group-title="ALMAN",Kabel eins 3
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1153&extension=ts&play_token=umnUkuPczZ
+#EXTINF:-1 group-title="ALMAN",Kabel eins 4
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1152&extension=ts&play_token=LdBY8MtPSv
+#EXTINF:-1 group-title="ALMAN",Kabel eins 5
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=472443&extension=ts&play_token=unIGLCmFOP
+#EXTINF:-1 group-title="ALMAN",Kabel eins 6
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=603801&extension=ts&play_token=i3kwIYqb26
+
 KINOWELT
 #EXTINF:-1 group-title="ALMAN",KinoWelt 1
 http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=195394&extension=ts&play_token=5NLpQr5Mko
