@@ -40,6 +40,9 @@ TRT2
 #EXTINF:-1 tvg-id=" TRT.2.HD.tr  " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᵀᴿᵀ
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 TRT2
+#EXTINF:-1 tvg-id=" TRT.2.HD.tr  " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᵀᴿᵀ 4K
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+TRT2
 #EXTINF:-1 tvg-id=" TRT.2.HD.tr  " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ⁹⁵
 http://95.174.71.114/TR-TRT2/index.m3u8
 TRT2
@@ -64,15 +67,15 @@ TRT TÜRK
 #EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 TRT TÜRK
-#EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ
-https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ 4K
+https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
 
 TRT AVAZ
 #EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 TRT AVAZ
-#EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ
-https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ 4K
+https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
 
 NOW
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW ᵘʸᶜ ˢᵈ
@@ -506,8 +509,8 @@ TRT HABER
 #EXTINF:-1 tvg-id=" TRT.HABER.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER ᵀᴿᵀ
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 TRT HABER
-#EXTINF:-1 tvg-id=" TRT.HABER.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER ᵀᴿᵀ
-https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id=" TRT.HABER.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="HABER",TRT HABER ᵀᴿᵀ 4K
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
 
 HABERTÜRK
 #EXTINF:-1 tvg-id="  HABERTÜRK.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="HABER",HABERTÜRK
