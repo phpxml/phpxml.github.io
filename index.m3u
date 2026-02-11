@@ -882,17 +882,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 -----------------
 
-KABEL EINS CLASSIC
-#EXTINF:-1 group-title="ALMAN",kabel 1 classic 1
-http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1260&extension=ts&play_token=ULTEDQusgW
-#EXTINF:-1 group-title="ALMAN",kabel 1 classic 2
-http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1261&extension=ts&play_token=p0BK81Kh0N
-
-
-
-
-
-
 SAT GOLD
 #EXTINF:-1 tvg-id="  " tvg-logo="   " group-title="ALMAN",SAT.1 Gold
 https://s6.hopslan.com/goldX/index.m3u8
@@ -969,10 +958,65 @@ https://s6.hopslan.com/vivaX/index.m3u8
 #EXTINF:-1 tvg-id="   " tvg-logo="   " group-title="ALMAN",COMEDY CENTRAL
 https://s6.hopslan.com/vivaX/tracks-v1a1/mono.m3u8
 
+----------
+
+KABEL EINS CLASSIC
+#EXTINF:-1 group-title="ALMAN",kabel 1 classic 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1260&extension=ts&play_token=ULTEDQusgW
+#EXTINF:-1 group-title="ALMAN",kabel 1 classic 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=1261&extension=ts&play_token=p0BK81Kh0N
+#EXTINF:-1 group-title="ALMAN",kabel 1 classic 3
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=550272&extension=ts&play_token=kbbPCGij7y
+#EXTINF:-1 group-title="ALMAN",kabel 1 classic 4
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=550273&extension=ts&play_token=eiqw5GsNWy
+
+KINOWELT
+#EXTINF:-1 group-title="ALMAN",KinoWelt 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=195394&extension=ts&play_token=5NLpQr5Mko
+#EXTINF:-1 group-title="ALMAN",KinoWelt 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2820&extension=ts&play_token=3DeA7lejBJ
+
+WARNER FILM
+#EXTINF:-1 group-title="ALMAN",Warner FILM 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2828&extension=ts&play_token=bcX57sbOuG
+#EXTINF:-1 group-title="ALMAN",Warner FILM 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2829&extension=ts&play_token=ySnRp1DGzx
+
+UNIVERSAL
+#EXTINF:-1 group-title="ALMAN",Universal 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2834&extension=ts&play_token=eq0rDIjchE
+#EXTINF:-1 group-title="ALMAN",Universal 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2835&extension=ts&play_token=TCSPdv07Iy
+
+SKY PREMIERE
+#EXTINF:-1 group-title="ALMAN",SKY premiere 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2804&extension=ts&play_token=o906MkVoyz
+#EXTINF:-1 group-title="ALMAN",SKY premiere 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2805&extension=ts&play_token=lsnJIGbnN7
+
+SKY Highlights
+#EXTINF:-1 group-title="ALMAN",SKY Highlights 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=531966&extension=ts&play_token=NHt78e3FMc
+#EXTINF:-1 group-title="ALMAN",SKY Highlights 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=531967&extension=ts&play_token=nBc60loSQz
+
+MAX
+#EXTINF:-1 group-title="ALMAN",max 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11266&extension=ts&play_token=eSDOSwZftS
+#EXTINF:-1 group-title="ALMAN",max 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11267&extension=ts&play_token=UEazYtmCr2
+#EXTINF:-1 group-title="ALMAN",max 3
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11268&extension=ts&play_token=tO089UBhhT
+#EXTINF:-1 group-title="ALMAN",max 4
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11269&extension=ts&play_token=7Dwc0KuyyT
+#EXTINF:-1 group-title="ALMAN",max 5
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11270&extension=ts&play_token=RvPhFXpv2z
+#EXTINF:-1 group-title="ALMAN",max 6
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11271&extension=ts&play_token=segV3FbjfC
+#EXTINF:-1 group-title="ALMAN",max 7
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11272&extension=ts&play_token=QXjrrGNncs
 
 -------------------------------------------
-
-
 
 
 USER SPOR
