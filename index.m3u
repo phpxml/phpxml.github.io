@@ -29,6 +29,9 @@ https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1-audio_tur=96000-vid
 TRT1
 #EXTINF:-1 tvg-id=" TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵒᵏⁿ
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
+TRT1
+#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPjIXp8wQzVN7BTuBduFR6dYxaMerwH8L7QxO6_aMWDc5ftJZJDX693Wl46FDSmN5JjnEmtbKbvXKMaNecEhJf3?ext=.ts
 
 TRT2
 #EXTINF:-1 tvg-id=" TRT.2.HD.tr  " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᵀᴿᵀ
@@ -242,6 +245,10 @@ http://116.202.238.88/TV8_TR/tracks-v1a1/index.m3u8
 TV8
 #EXTINF:-1 tvg-id=" TV8.HD.tr   " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8
 http://89.187.191.41/TV8-HD-TR/tracks-v1a1/mono.ts.m3u8
+TV8
+#EXTINF:-1 tvg-id=" TV8.HD.tr   " tvg-language=""  tvg-name="" tvg-logo="    https://i.ibb.co/tXKXNDz/tv8.png      " group-title="ULUSAL",TV8 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMrQ4YlhLdPYe_JpTQV337RGPiYcIINj_T5H4D1hZz7_7_64pCsXa1RcNcG_yu2r59FCRZEt08Wqh0DLXwnCZXq?ext=.ts
+
 
 TV 8.5
 #EXTINF:-1 tvg-id=" TV8,5.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
@@ -267,6 +274,10 @@ https://boncuktv.atakan1983.workers.dev/stream/tv85/https://helga.iptv2022.com/T
 TV 8.5
 #EXTINF:-1 tvg-id="  TV8,5.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 ᴴᴰ
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv85.m3u8
+TV 8.5
+#EXTINF:-1 tvg-id="  TV8,5.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 8.5 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMAE3gwAGE3QFue4oF-auvTvJM_FngRDXnOvWoXVfs_oRbJriAHMJtUMvGCFIH88pi2JxRPcgD-xcZESB5BKWAa?ext=.ts
+
 
 KANAL 7
 #EXTINF:-1 tvg-id="  KANAL.7.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="ULUSAL",KANAL 7
@@ -443,6 +454,10 @@ https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
 ------
 
 BELGESEL
+
+TRT BELGESEL
+#EXTINF:-1 tvg-id="   TRT.BELGESEL.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="BELGESEL",TRT BELGESEL 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOPqSWaXK8hjSL1J2LkySv6mCUt9UhQgcELHWGfMH0Zz1yGLM__UzhsQXIf66dtuqKW-xcVsWfpVOfkbGLQWyKp?ext=.ts
 
 BBC EARTH
 #EXTINF:-1  tvg-id=" BBC.ENTERTAINMENT.tr " tvg-logo="    " group-title="BELGESEL",bbc EARTH
@@ -1563,6 +1578,9 @@ TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR
 https://dsmartgo-live.ercdn.net/trtspor/trtspor_1080p.m3u8
 TRT SPOR
+#EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMJa6dhdTUiFfnHUG_keOIs_j1kByS7V8yzuUSQ4kPKywoBXbHYFLHUXzDk5riZ6uKBs4j57fRx-MRMjGCvGMTu?ext=.ts
+TRT SPOR
 #EXTINF:-1 tvg-id="  TRT.SPOR.HD.tr   " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR
 http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/63
 TRT SPOR
@@ -1570,8 +1588,8 @@ TRT SPOR
 http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/62
 
 TRT SPOR YILDIZ
-EXTINF:-1   tvg-id="  TRT.SPOR.YILDIZ.tr   "  tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="WEB SPOR KANALI",TRT SPOR YILDIZ ʜᴅ
-https://live.canlitvulusal.xyz/live/trtsporyildiz/index.m3u8
+#EXTINF:-1   tvg-id="  TRT.SPOR.YILDIZ.tr   "  tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="WEB SPOR KANALI",TRT SPOR YILDIZ 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOXIL34y0Kncjcs8d5WqylJaz1Gb37xm-rtvMfrgG-3Y27jwTpW0lf7mFN-mWFC5pxdgcx2bF7jRCWP7YAH607j?ext=.ts
 
 HT SPOR
 #EXTINF:-1 tvg-id=" HT.SPOR.tr  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="WEB SPOR KANALI",HT SPOR
@@ -1593,6 +1611,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 ASPOR
 #EXTINF:-1 tvg-id=" A.SPOR.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR ᵁᴴᴰ
 http://116.202.238.88/ASPOR_TR/tracks-v1a1/index.m3u8
+ASPOR
+#EXTINF:-1 tvg-id=" A.SPOR.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMQU_zKBbq1_OWwprLCgm84ZO8awRzqmBvAod55cp4hO6WXh5sTCITMZmxIuGIMSyBNZUqFBt_-3qSU1QmTywoA?ext=.ts
 
 EKOL SPORT
 #EXTINF:-1 tvg-id=" Ekol.Sports.tr  " tvg-name="    " tvg-logo="      " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",EKOL SPORTS ᴴᴰ
@@ -1832,6 +1853,32 @@ https://raspy-forest-b1e4.aykara463.workers.dev/709.m3u8
 BEIN 8
 #EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",8
 https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
+
+-----
+BEIN 4CAN
+
+BEIN 9
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",9 Haber 4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxN8JRGHL4NnWwkU4H8O2wNEbVFliWHjftnSrnhBg8SPpcR9CEpo2ub8zLKFpxTY_GVn2zOW8fEuHcys1qy_RUrX?ext=.ts
+BEIN 10
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",10 1-4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPiXQppq9wWvH2aOmbFdcI19cq9U1jx-UEASeHoxo4A50kbrV8bSeZwP81L-tO30K4epgmXTcHegWegGLQUsynt?ext=.ts
+BEIN 11
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",11 2-4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOK0ARooc3cvDPrymsTIjhs4t40qGvkpuDf0IYK0K1R46VreOfAj6BDCs0XommMCMPtKFYp-jeSyZ0TVwIiAFDO?ext=.ts
+BEIN 12
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",12 3-4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPlvj8yEn4VoSY-14n0aqk3pt3TQ0stM46_0TWt9sgslDkL_0lW4RnZRATYlWGb-sAV3blHaBHP3pZaXkj9J_mM?ext=.ts
+BEIN 13
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",13 4-4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPfehyUko44w-RMKzoGTyqi7QwudlWsoGpDD0tk-kvQPNATyUUK2zYDQQVuBniicv3ZazixetrerAn_jnthTZ7F?ext=.ts
+BEIN 14
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",14 max-4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMWrirL7dN0ArOpA150sGdNxjr49qDSkoPPcyzhPENpEQTjXnGxf1FiJXjb0BoTJykioGvTnnx-yquDVfsDoSaT?ext=.ts
+BEIN 15
+#EXTINF:-1 tvg-id="  " tvg-name="" tvg-language="" tvg-logo="     https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/500px-2016_beIN_Sports_logo.svg.png     " group-title="WEB-beIN",15 max-4Can
+http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOWIQCpW0dpArbX7-0BNzaMTJp80WkRHDgQ5F6ATtpMi2PmVgRmM7BWhWTcgnH5bujH1nTb4xVh02TR20xGrss7?ext=.ts
+
 
 --------------
 
