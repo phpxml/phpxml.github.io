@@ -1760,6 +1760,156 @@ https://tv.cdn-vizi.workers.dev/?ID=10
 
 ---------------
 
+CANLI TV
+
+
+TRT1
+#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="CANLI TV",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+TRT2
+#EXTINF:-1 tvg-id=" TRT.2.HD.tr  " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="CANLI TV",TRT 2
+https://canlitv.tech/hls/trt2.m3u8
+TRT BELGESEL
+#EXTINF:-1 tvg-id="   TRT.BELGESEL.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="CANLI TV",TRT BELGESEL
+https://canlitv.tech/hls/trtbelgesel.m3u8
+TRT TÜRK
+#EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="CANLI TV",TRT TÜRK
+https://canlitv.tech/hls/trtturk.m3u8
+TRT HABER
+#EXTINF:-1 tvg-id=" TRT.HABER.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/Bt6frts/trthaber.png   " group-title="CANLI TV",TRT HABER
+https://canlitv.tech/hls/trthaber.m3u8
+TRT AVAZ
+#EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="CANLI TV",TRT AVAZ
+https://canlitv.tech/hls/trtavaz.m3u8
+TRT MÜZİK
+#EXTINF:-1 tvg-id="  TRT.MÜZİK.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/d6Zfm2P/trtmuzik21c.png    " group-title="CANLI TV",TRT MÜZİK
+https://canlitv.tech/hls/trtmuzik.m3u8
+STAR
+#EXTINF:-1 tvg-id="   STAR.TV.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/PcDpxSH/startr1.png      " group-title="CANLI TV",STAR
+https://canlitv.tech/hls/star.m3u8
+EUROSTAR
+#EXTINF:-1 tvg-id=" Euro.Star.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/Lg90xsB/eurostar22.png      " group-title="CANLI TV",EUROSTAR
+https://canlitv.tech/hls/eurostar.m3u8
+SHOW
+#EXTINF:-1 tvg-id="  SHOW.TV.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/BrGNZJ4/showtv.png       " group-title="CANLI TV",SHOW
+https://canlitv.tech/hls/showtv.m3u8
+SHOWMAX
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-url="" tvg-name="Showmax.tr" tvg-logo="  https://imagizer.imageshack.com/img922/8932/XakUPf.png   " aspect-ratio="Aspect"  group-title="ULUSAL" ,SHOWMAX
+https://canlitv.tech/hls/showmax.m3u8
+SHOW TÜRK
+#EXTINF:-1 tvg-id=" ShowTurk.tr " tvg-language=""   tvg-logo="      https://i.ibb.co/WvhGGP0/showturk1.png    " group-title="CANLI TV",SHOWTÜRK
+https://canlitv.tech/hls/showturk.m3u8
+ATV
+#EXTINF:-1 tvg-id="  ATV.HD.tr  "tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="CANLI TV",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+KANAL D
+#EXTINF:-1 tvg-id=" KANAL.D.HD.tr " tvg-language="" tvg-logo="     https://i.ibb.co/s9mVqWH/kanald.png    " group-title="CANLI TV",KANAL D
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_3_750/playlist.m3u8
+EURO D
+#EXTINF:-1 tvg-id="  Euro.D.tr   " tvg-language="" tvg-logo="     https://i.ibb.co/THj0Jrg/eurod22.png     " group-title="CANLI TV",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+NOW
+#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="CANLI TV",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+TV8
+#EXTINF:-1 tvg-id=" TV8.HD.tr  " tvg-language=""  tvg-name="" tvg-logo="  https://i.ibb.co/tXKXNDz/tv8.png   " group-title="CANLI TV",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_720p.m3u8
+TV 8.5
+#EXTINF:-1 tvg-id="  TV8,5.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="CANLI TV",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_720p.m3u8
+KANAL 7
+#EXTINF:-1 tvg-id="  KANAL.7.HD.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/1s3fHfm/k7tr1.png     " group-title="CANLI TV",KANAL 7
+https://canlitv.tech/hls/kanal7.m3u8
+KANAL 7 AVRUPA
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-language="" tvg-logo="     https://i.ibb.co/cDxKJy1/k7avr1.png   " group-title="CANLI TV",KANAL 7 AVRUPA
+https://canlitv.tech/hls/kanal7avrupa.m3u8
+360
+#EXTINF:-1 tvg-id="  360.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/FVnG3Zr/360tv.png   " group-title="CANLI TV",360
+https://canlitv.tech/hls/tv360.m3u8
+BEYAZ
+#EXTINF:-1 tvg-id="  BEYAZ.TV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/0tc3PYz/beyaz22b.png    " group-title="CANLI TV",BEYAZ
+https://canlitv.tech/hls/beyaztv.m3u8
+A2
+#EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2
+https://canlitv.tech/hls/a2.m3u8
+TV5
+#EXTINF:-1   tvg-id="  TV5.tr  " tvg-id="tivi5.tr " tvg-language="" tvg-logo=" https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png    " group-title="CANLI TV",5
+https://canlitv.tech/hls/tv5.m3u8
+MELTEM TV
+#EXTINF:-1 tvg-id="  MELTEM.TV.tr  " tvg-language="" tvg-logo="  https://meltemtv.com.tr/uploads/logo.png      " group-title="CANLI TV",MELTEM
+https://canlitv.tech/hls/meltemtv.m3u8
+TİVİ 6
+#EXTINF:-1   tvg-id=" TİVİ6.tr " tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="CANLI TV",TIVI 6
+https://canlitv.tech/hls/tivi6.m3u8
+EKOL TV
+#EXTINF:-1 tvg-id=" EKOL.TV.tr " tvg-language="" tvg-logo="  https://i.ibb.co/Ln92Dj2/Ekoltv.png   " group-title="CANLI TV",EKOL TV
+https://canlitv.tech/hls/ekoltv.m3u8
+CNBC-e
+#EXTINF:-1 tvg-id="  CNBC-e " tvg-name="" group-title="CANLI TV" tvg-logo="    ",CNBC-e
+https://canlitv.tech/hls/cnbce.m3u8
+HABERTÜRK
+#EXTINF:-1 tvg-id="  HABERTÜRK.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/wdwm0fn/haberturk.png     " group-title="CANLI TV",HABERTÜRK
+https://canlitv.tech/hls/haberturk.m3u8
+GZT TV
+#EXTINF:-1 tvg-id=" GZT.TV.tr " tvg-language="" tvg-logo=" https://gzttv.tr/logo.png    " group-title="CANLI TV",GZT TV
+https://canlitv.tech/hls/gzttv.m3u8
+CNNTÜRK
+#EXTINF:-1 tvg-id="  CNN.TÜRK.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/JqWCczW/cnnturk1.png  " group-title="CANLI TV",CNN 
+https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk-audio_TUR=96000-video=1500000.m3u8
+HALK TV
+#EXTINF:-1 tvg-id="  HALK.TV.tr  " tvg-language="" tvg-logo="    https://i.ibb.co/BtYMK4q/halk21a.png     " group-title="CANLI TV",HALK
+https://canlitv.tech/hls/halktv.m3u8
+SÖZCÜ
+#EXTINF:-1 tvg-id=" SÖZCÜ.TV.tr " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/sozcu-logo.png " group-title="CANLI TV",SZC
+https://canlitv.tech/hls/sozcu.m3u8
+NTV
+#EXTINF:-1 tvg-id="  NTV.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/9c7MvWX/ntv.png     " group-title="CANLI TV",NTV
+https://canlitv.tech/hls/ntv.m3u8
+FLASH HABER
+#EXTINF:-1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="CANLI TV",FLASH HABER
+https://canlitv.tech/hls/flashhaber.m3u8
+TV100
+#EXTINF:-1 tvg-id="  Tv.100.tr  " tvg-language="" tvg-logo="     https://i.ibb.co/bLpTdYZ/tv100.png    " group-title="CANLI TV",TV 100
+https://canlitv.tech/hls/tv100.m3u8
+TELE 1
+#EXTINF:-1 tvg-id="   TELE1.tr  " tvg-language="" tvg-logo="  https://i.ibb.co/4Mhmggc/tele1.png    " group-title="CANLI TV",TELE 1
+https://canlitv.tech/hls/tele1.m3u8
+TV 24
+#EXTINF:-1 tvg-id=" 24.TV.tr    " tvg-name="Kanal 24" tvg-id="Kanal 24.tr" tvg-logo="  https://www.yirmidort.tv/assets/header/logoWhite.png  " group-title="CANLI TV",TV 24
+https://canlitv.tech/hls/tv24.m3u8
+ULKE TV
+#EXTINF:-1  tvg-id=" ÜLKE.TV.HD.tr   " tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="CANLI TV",ULKE TV
+https://canlitv.tech/hls/ulketv.m3u8
+ULUSAL
+#EXTINF:-1 tvg-id="  ULUSAL.KANAL.tr  " tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="CANLI TV",ULUSAL TV
+https://canlitv.tech/hls/ulusalkanal.m3u8
+KRT
+#EXTINF:-1 tvg-id=" KRT.TV.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/ZT2fQq3/krt.png      " group-title="CANLI TV",KRT
+https://canlitv.tech/hls/krttv.m3u8
+HABER GLOBAL
+#EXTINF:-1 tvg-id="   Haber.Global.tr  " tvg-logo="     https://i.ibb.co/vw0q9KH/haberglobal22.png   " group-title="CANLI TV",Haber Global
+https://canlitv.tech/hls/haberglobal.m3u8
+BLOOMBERG
+#EXTINF:-1 tvg-id="   BLOOMBERG.HT.HD.tr  " tvg-logo="    https://i.ibb.co/HXKrJRC/blght22.png   " group-title="CANLI TV",Bloomberg HT
+https://canlitv.tech/hls/bloomberght.m3u8
+A HABER
+#EXTINF:-1 tvg-id="  A.HABER.HD.tr  " tvg-name="" group-title="CANLI TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png  ",AHBR
+https://canlitv.tech/hls/ahaber.m3u8
+TRT SPOR
+#EXTINF:-1 tvg-id="   TRT.SPOR.HD.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",TRT SPOR 
+https://dsmartgo-live.ercdn.net/trtspor/trtspor_720p.m3u8
+HT SPOR
+#EXTINF:-1 tvg-id=" HT.SPOR.tr  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="CANLI TV",HT SPOR
+https://canlitv.tech/hls/htspor.m3u8
+ASPOR
+#EXTINF:-1 tvg-id=" A.SPOR.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="CANLI TV",ASPOR
+https://canlitv.tech/hls/aspor.m3u8
+EKOL SPORT
+#EXTINF:-1 tvg-id=" Ekol.Sports.tr  " tvg-name="    " tvg-logo="      " tvg-id2="Mzk2NzI=" group-title="CANLI TV",EKOL SPORTS
+https://canlitv.tech/hls/ekolsports.m3u8
+SIFIR TV
+#EXTINF:-1 tvg-id="   " tvg-name="    " tvg-logo="  https://www.tvyayinakisi.com/wp-content/uploads/2025/09/sifir-tv.webp    " tvg-id2="Mzk2NzI=" group-title="CANLI TV",SIFIR TV
+https://canlitv.tech/hls/sifirtv.m3u8
 
 
 
