@@ -1039,6 +1039,12 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=531966&extensi
 #EXTINF:-1 group-title="ALMAN",SKY Highlights 2
 http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=531967&extension=ts&play_token=nBc60loSQz
 
+SKY CLASSICS
+#EXTINF:-1 group-title="ALMAN",SKY Classics 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=264870&extension=ts&play_token=etVl1ulh8E
+#EXTINF:-1 group-title="ALMAN",SKY Classics 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=2818&extension=ts&play_token=1mjz04IYU0
+
 MAX
 #EXTINF:-1 group-title="ALMAN",max 1
 http://pars01.com:8080/play/live.php?mac=00:1A:79:13:51:e5&stream=11266&extension=ts&play_token=eSDOSwZftS
