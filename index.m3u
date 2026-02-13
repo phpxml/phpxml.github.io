@@ -80,6 +80,9 @@ TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
 
 NOW
+#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png   " group-title="ULUSAL",NOW
+https://tgn.bozztv.com/gin-trn09/gin-turkfoxtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDExOjAzOjE3IEFNJmhhc2hfdmFsdWU9VmQ4ckdVL3BrU05CUks2elB3U25OQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
+NOW
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 NOW
@@ -122,6 +125,10 @@ SHOW
 http://95.174.71.114/TR-SHOW/index.m3u8
 
 
+
+ATV
+#EXTINF:-1 tvg-id="  ATV.HD.tr  "tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",ATV
+https://tgn.bozztv.com/gin-trn09/gin-atv-tv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDExOjA0OjI3IEFNJmhhc2hfdmFsdWU9Uis2NWIvRE05VEZRWloyTSt0cmU1QT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIw
 ATV
 #EXTINF:-1 tvg-id="  ATV.HD.tr  "tvg-name="ATV TR" tvg-logo=" https://i.ibb.co/n1SCYqN/atv.png "  group-title="ULUSAL",ATV 
 https://ds.ayakkabiparti.lol/atv/tracks-v1a1/mono.ts.m3u8
