@@ -81,9 +81,6 @@ TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
 
 NOW
-#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png   " group-title="ULUSAL",NOW 
-https://tgn.bozztv.com/gin-trn09/gin-turkfoxtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDExOjAzOjE3IEFNJmhhc2hfdmFsdWU9VmQ4ckdVL3BrU05CUks2elB3U25OQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
-NOW
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png       " group-title="ULUSAL",NOW 
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 NOW
@@ -95,6 +92,9 @@ https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 NOW
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png   " group-title="ULUSAL",NOW 
 http://95.174.71.114/TR-FOX/index.m3u8
+NOW
+#EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png   " group-title="ULUSAL",NOW 
+https://tgn.bozztv.com/gin-trn09/gin-turkfoxtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDI2IDExOjAzOjE3IEFNJmhhc2hfdmFsdWU9VmQ4ckdVL3BrU05CUks2elB3U25OQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
 NOW
 #EXTINF:-1 tvg-id="  FOX.HD.tr  " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png   " group-title="ULUSAL",NOW 
 http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
