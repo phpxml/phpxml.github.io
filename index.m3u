@@ -35,9 +35,6 @@ https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1-audio_tur=96000-vid
 TRT1
 #EXTINF:-1 tvg-id=" TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
-TRT1
-#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
-http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxPjIXp8wQzVN7BTuBduFR6dYxaMerwH8L7QxO6_aMWDc5ftJZJDX693Wl46FDSmN5JjnEmtbKbvXKMaNecEhJf3?ext=.ts
 
 TRT2
 #EXTINF:-1 tvg-id=" TRT.2.HD.tr  " tvg-language="" tvg-logo="  https://cdn-i.pr.trt.com.tr/trttv/w256/h144/q80/7900419.png   " group-title="ULUSAL",TRT 2 ᵀᴿᵀ
@@ -325,21 +322,6 @@ EKOL TV
 #EXTINF:-1 tvg-id=" EKOL.TV.tr " tvg-language="" tvg-logo="  https://i.ibb.co/Ln92Dj2/Ekoltv.png   " group-title="ULUSAL",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
-TLC
-#EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
-https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc-audio=96000-video=1500000.m3u8
-TLC
-#EXTINF:-1 tvg-id=" TLC.HD.tr    " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="ULUSAL",TLC ᴴᴰ
-https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/volotv.m3u8
-
-
-DMAX
-#EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
-https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax-audio_tur=96000-video=1500000.m3u8
-DMAX
-#EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="ULUSAL",DMAX ᴴᴰ
-https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/volotv.m3u8
-
 
 A2
 #EXTINF:-1 tvg-id=" A2.HD.tr " tvg-name="" group-title="ULUSAL"tvg-logo="  https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png ",a2 ᴴᴰ
@@ -384,85 +366,82 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8?cachebust=5ffc8f
 SINEMA TV
 
 SINEMA TV
-#EXTINF:-1 tvg-logo=" https://sinematv.com.tr/content/logo/SINEMATV-GRI.png  " group-title="SINEMA TV",SİNEMA TV HD
+EXTINF:-1 tvg-logo=" https://sinematv.com.tr/content/logo/SINEMATV-GRI.png  " group-title="SINEMA TV",SİNEMA TV HD
 https://ds.ayakkabiparti.lol/sinema/tracks-v1a1/mono.ts.m3u8
 
 SINEMA TV 2
-#EXTINF:-1 tvg-logo=" https://sinematv2.com.tr/content/logo/SINEMATV-2.png  " group-title="SINEMA TV",SİNEMA 2 HD
+EXTINF:-1 tvg-logo=" https://sinematv2.com.tr/content/logo/SINEMATV-2.png  " group-title="SINEMA TV",SİNEMA 2 HD
 https://ds.ayakkabiparti.lol/sinema2/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AKSIYON
-#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SİNEMA AKSİYON HD
+EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SİNEMA AKSİYON HD
 https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AKSIYON 2
-#EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SİNEMA AKSİYON HD
+EXTINF:-1 tvg-logo=" https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png  " group-title="SINEMA TV",SİNEMA AKSİYON HD
 https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
 
 SINEMA YERLI
-#EXTINF:-1 tvg-logo=" https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png  " group-title="SINEMA TV",SİNEMA YERLİ
+EXTINF:-1 tvg-logo=" https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png  " group-title="SINEMA TV",SİNEMA YERLİ
 https://ds.ayakkabiparti.lol/sinemayerli/tracks-v1a1/mono.ts.m3u8
 
 SINEMA AILE
-#EXTINF:-1 tvg-logo=" https://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png  " group-title="SINEMA TV",SİNEMA AİLE HD
+EXTINF:-1 tvg-logo=" https://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png  " group-title="SINEMA TV",SİNEMA AİLE HD
 https://ds.ayakkabiparti.lol/sinemaaile/tracks-v1a1/mono.ts.m3u8
 
 SINEMA 1001
-#EXTINF:-1 tvg-logo="  https://1001.sinematv.com.tr/content/logo/SINEMATV-1001-GRI.png " group-title="SINEMA TV",SİNEMA 1001 HD
+EXTINF:-1 tvg-logo="  https://1001.sinematv.com.tr/content/logo/SINEMATV-1001-GRI.png " group-title="SINEMA TV",SİNEMA 1001 HD
 https://ds.ayakkabiparti.lol/sinema1001/tracks-v1a1/mono.ts.m3u8
 
 SINEMA 1002
-#EXTINF:-1 tvg-logo=" https://1002.sinematv.com.tr/content/logo/SINEMATV-1002.png  " group-title="SINEMA TV",SİNEMA 1002
+EXTINF:-1 tvg-logo=" https://1002.sinematv.com.tr/content/logo/SINEMATV-1002.png  " group-title="SINEMA TV",SİNEMA 1002
 https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
 
 SINEMA KOMEDI
-#EXTINF:-1 tvg-logo="   " group-title="SINEMA TV",SİNEMA KOMEDİ HD
+EXTINF:-1 tvg-logo="   " group-title="SINEMA TV",SİNEMA KOMEDİ HD
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 
 SMART TÜRK
-#EXTINF:-1 tvg-logo="     " group-title="SINEMA TV",SMART TÜRK
+EXTINF:-1 tvg-logo="     " group-title="SINEMA TV",SMART TÜRK
 https://ds.ayakkabiparti.lol/mvturk/tracks-v1a1/mono.ts.m3u8
 
-TABII
-#EXTINF:-1 tvg-logo="    " group-title="SINEMA TV",TABII TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
 
 ------
 BEIN SINEMA
 
 BEIN ACTION
-#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN ACTION
+EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN ACTION
 https://ds.ayakkabiparti.lol/bsaction1/tracks-v1a1/mono.ts.m3u8
 
 BEIN TÜRK
-#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN TÜRK
+EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN TÜRK
 https://ds.ayakkabiparti.lol/bsturk/tracks-v1a1/mono.ts.m3u8
 
 BEIN STAR
-#EXTINF:-1 tvg-logo=" http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png  " group-title="beIN SINEMA",BEIN STAR
+EXTINF:-1 tvg-logo=" http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/Bein_Movies_Stars.png  " group-title="beIN SINEMA",BEIN STAR
 https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
 
 BEIN PREMIERE
-#EXTINF:-1 tvg-logo=" https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3   " group-title="beIN SINEMA",BEIN PREMIER
+EXTINF:-1 tvg-logo=" https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3   " group-title="beIN SINEMA",BEIN PREMIER
 https://ds.ayakkabiparti.lol/bspremier1/tracks-v1a1/mono.ts.m3u8
 
 BEIN FAMILY
-#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN FAMILY
+EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN FAMILY
 https://ds.ayakkabiparti.lol/bsfamily/tracks-v1a1/mono.ts.m3u8
 
 BEIN COMEDY
-#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN COMEDY
+EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN COMEDY
 https://ds.ayakkabiparti.lol/bscomedy/tracks-v1a1/mono.ts.m3u8
 
 BEIN BOX 1
-#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 1
+EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 1
 https://ds.ayakkabiparti.lol/box1/tracks-v1a1/mono.ts.m3u8
 BEIN BOX 2
-#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 2
+EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 2
 https://ds.ayakkabiparti.lol/box2/tracks-v1a1/mono.ts.m3u8
 BEIN BOX 3
-#EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 3
+EXTINF:-1 tvg-logo="     " group-title="beIN SINEMA",BEIN BOX 3
 https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
 
 
@@ -475,23 +454,38 @@ TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.BELGESEL.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="BELGESEL",TRT BELGESEL 4Can
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOPqSWaXK8hjSL1J2LkySv6mCUt9UhQgcELHWGfMH0Zz1yGLM__UzhsQXIf66dtuqKW-xcVsWfpVOfkbGLQWyKp?ext=.ts
 
+TLC
+#EXTINF:-1 tvg-id="  TLC.HD.tr   " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/tlc-audio=96000-video=1500000.m3u8
+TLC
+#EXTINF:-1 tvg-id=" TLC.HD.tr    " tvg-language="" tvg-logo="    https://i.ibb.co/Z1vHy41/tlc.png   " group-title="BELGESEL",TLC ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/volotv.m3u8
+
+
+DMAX
+#EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="BELGESEL",DMAX ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax-audio_tur=96000-video=1500000.m3u8
+DMAX
+#EXTINF:-1 tvg-id="  DMAX.HD.tr   " tvg-language="" tvg-logo="   https://i.ibb.co/QQQR6VK/dmax.png      " group-title="BELGESEL",DMAX ᴴᴰ
+https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/volotv.m3u8
+
 BBC EARTH
-#EXTINF:-1  tvg-id=" BBC.ENTERTAINMENT.tr " tvg-logo="    " group-title="BELGESEL",bbc EARTH
+EXTINF:-1  tvg-id=" BBC.ENTERTAINMENT.tr " tvg-logo="    " group-title="BELGESEL",bbc EARTH
 https://ds.ayakkabiparti.lol/bbc/tracks-v1a1/mono.ts.m3u8
 TARIH TV
-#EXTINF:-1  tvg-id="  TARIH.TV.tr  " tvg-logo="    " group-title="BELGESEL",TARIH TV
+EXTINF:-1  tvg-id="  TARIH.TV.tr  " tvg-logo="    " group-title="BELGESEL",TARIH TV
 https://ds.ayakkabiparti.lol/tarihtv/tracks-v1a1/mono.ts.m3u8
 VIASAT HISTORY
-#EXTINF:-1  tvg-id=" VIASAT.HISTORY.HD.tr " tvg-logo="    " group-title="BELGESEL",VIASAT HOSTORY
+EXTINF:-1  tvg-id=" VIASAT.HISTORY.HD.tr " tvg-logo="    " group-title="BELGESEL",VIASAT HOSTORY
 https://ds.ayakkabiparti.lol/viasathistory/tracks-v1a1/mono.ts.m3u8
 VIASAT EXPLORE 
-#EXTINF:-1  tvg-id=" VIASAT.EXPLORE.tr"  tvg-logo="    " group-title="BELGESEL",VIASAT EXPLORE
+EXTINF:-1  tvg-id=" VIASAT.EXPLORE.tr"  tvg-logo="    " group-title="BELGESEL",VIASAT EXPLORE
 https://ds.ayakkabiparti.lol/history/tracks-v1a1/mono.ts.m3u8
 DISCOVERY
-#EXTINF:-1 tvg-id=" DISCOVERY.CHANNEL.HD.tr " tvg-logo="    " group-title="BELGESEL",DISCOVERY
+EXTINF:-1 tvg-id=" DISCOVERY.CHANNEL.HD.tr " tvg-logo="    " group-title="BELGESEL",DISCOVERY
 https://ds.ayakkabiparti.lol/discovery/tracks-v1a1/mono.ts.m3u8
 LOVE NATURE
-#EXTINF:-1 tvg-id="  " tvg-logo="    " group-title="BELGESEL",LOVE NATURE
+EXTINF:-1 tvg-id="  " tvg-logo="    " group-title="BELGESEL",LOVE NATURE
 https://ds.ayakkabiparti.lol/lovenature/tracks-v1a1/mono.ts.m3u8
 
 NATIONAL GEOGRAPHIC 
