@@ -358,6 +358,10 @@ TİVİ 6
 #EXTINF:-1   tvg-id=" TİVİ6.tr " tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
+BEIN STARS
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="" group-title="ULUSAL",beIN MOVIES STARS HD
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/10619
+
 ZAROK TV
 #EXTINF:-1 tvg-id="   " tvg-name="   " tvg-logo="  https://zaroktv.com.tr/wp-content/uploads/bfi_thumb/LOGO-8K-3ecl44zy3nujei4th6a1hm@2x.png  " group-title="ULUSAL",ZAROK TV ᴴᴰ
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8?cachebust=5ffc8f
