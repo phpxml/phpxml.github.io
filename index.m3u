@@ -1486,22 +1486,19 @@ https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 
 BEIN
 
-One
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-one
-https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
 
 Arec-bs
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-bs
 https://8.arectv30.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
 https://8.arectv30.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
 https://v.arectv30.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
 https://v.arectv30.sbs/static/bs11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
 https://bs.arectv31.sbs/static/bs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
+EXTINF:-1 tvg-id="" tvg-name="beIN" tvg-logo="   " group-title="WEB SPOR KANALI",BEIN 1-
 https://bs.arectv31.sbs/static/bs11.m3u8
 
 Corestream
