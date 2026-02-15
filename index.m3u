@@ -1071,7 +1071,7 @@ http://69973.unimaster.us:80/furkanrecep/M0QUwrYu9K/13735
 -------------------------
 
 -------------------------
-WEB KANALI
+WEB SPOR KANALI
 
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/5zu8a0z.jpeg" group-title="WEB SPOR KANALI" ,Selçuk-Sports1 HD
@@ -1104,6 +1104,15 @@ https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,Web BeIN Sport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://andro.2385437.xyz/checklist/receptestt.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,BeIN Sports 4K uro-levene
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://uro-levene-1012.mywire.org/index.php?id=10698&token=DeaTHLesS
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="WEB SPOR KANALI" ,BeIN Sports FHD 1 uro-levene
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+http://uro-levene-1012.mywire.org/index.php?id=1162637&token=DeaTHLesS
+
 
 TRT SPOR
 #EXTINF:-1 tvg-id="   TRT.SPOR.HD.tr  " tvg-name="TR | TRT SPOR ᵁᴴᴰ" tvg-logo="  https://i.ibb.co/3WmLjwG/trtspor22c.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",TRT SPOR-1
