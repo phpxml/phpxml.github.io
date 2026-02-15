@@ -9,31 +9,31 @@ EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 ------
 
 TRT1
-#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵀᴿᵀ
+#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵀᴿᵀ 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 TRT1
-#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵀᴿᵀ
+#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵀᴿᵀ 2
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 TRT1
-#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵀᴿᵀ 4K
+#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 ᵀᴿᵀ 4K 3
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 TRT 1
-#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
+#EXTINF:-1 tvg-id="  TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 4
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.ts.m3u8
 TRT1
-#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
+#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 5
 http://95.174.71.114/TR-TRT1/index.m3u8
 TRT1
-#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
+#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 6
 http://116.202.238.88/TRT1_TR/tracks-v1a1/index.m3u8
 TRT1
-#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
+#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 7
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 TRT1
-#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
+#EXTINF:-1 tvg-id=" TRT.1.HD.tr " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 8
 https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1-audio_tur=96000-video=600000.m3u8
 TRT1
-#EXTINF:-1 tvg-id=" TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 
+#EXTINF:-1 tvg-id=" TRT.1.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/d6c87Km/trt122.png  " group-title="ULUSAL",TRT 1 9
 https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
 
 TRT2
