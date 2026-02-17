@@ -324,6 +324,10 @@ TİVİ 6
 #EXTINF:-1   tvg-id=" TİVİ6.tr " tvg-logo="https://i.ibb.co/sRNHKjS/tivi622.png" group-title="ULUSAL",TIVI 6 ᴴᴰ
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
+TV4
+#EXTINF:-1 tvg-name="TV 4" tvg-id="tv4.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="ULUSAL",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
 BEIN STARS
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="" group-title="ULUSAL",beIN MOVIES STARS ᴴᴰ
 http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/10619
