@@ -1134,8 +1134,12 @@ TRT SPOR
 http://69973.unimaster.us:80/canpolat65392735426/canpolat89357426548/62
 
 TRT SPOR YILDIZ
-#EXTINF:-1   tvg-id="  TRT.SPOR.YILDIZ.tr   "  tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="WEB SPOR KANALI",TRT SPOR YILDIZ 4Can
+#EXTINF:-1   tvg-id="  TRT.SPOR.YILDIZ.tr   "  tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="WEB SPOR KANALI",TRT SPOR YILDIZ sd
+https://dsmartgo-live.ercdn.net/trtspor2/trtspor2_720p.m3u8
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxOXIL34y0Kncjcs8d5WqylJaz1Gb37xm-rtvMfrgG-3Y27jwTpW0lf7mFN-mWFC5pxdgcx2bF7jRCWP7YAH607j?ext=.ts
+TRT SPOR YILDIZ
+#EXTINF:-1   tvg-id="  TRT.SPOR.YILDIZ.tr   "  tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="WEB SPOR KANALI",TRT SPOR YILDIZ hd
+https://dsmartgo-live.ercdn.net/trtspor2/trtspor2_1080p.m3u8
 
 HT SPOR
 #EXTINF:-1 tvg-id=" HT.SPOR.tr  " tvg-language="" tvg-logo="  https://canlitv.site/wp-content/uploads/2026/01/htspor-logo.png   " group-title="WEB SPOR KANALI",HT SPOR-1
@@ -1160,6 +1164,12 @@ http://116.202.238.88/ASPOR_TR/tracks-v1a1/index.m3u8
 ASPOR
 #EXTINF:-1 tvg-id=" A.SPOR.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR 4Can
 http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMQU_zKBbq1_OWwprLCgm84ZO8awRzqmBvAod55cp4hO6WXh5sTCITMZmxIuGIMSyBNZUqFBt_-3qSU1QmTywoA?ext=.ts
+ASPOR
+#EXTINF:-1 tvg-id=" A.SPOR.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR hd
+https://dsmartgo-live.ercdn.net/aspor/aspor_7200p.m3u8
+ASPOR
+#EXTINF:-1 tvg-id=" A.SPOR.HD.tr  " tvg-name="TR | A SPOR ᵁᴴᴰ" tvg-logo="   https://i.ibb.co/xSjB51j/aspor.png   " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",A SPOR fhd
+https://dsmartgo-live.ercdn.net/aspor/aspor_1080p.m3u8
 
 EKOL SPORT
 #EXTINF:-1 tvg-id=" Ekol.Sports.tr  " tvg-name="    " tvg-logo="      " tvg-id2="Mzk2NzI=" group-title="WEB SPOR KANALI",EKOL SPORTS ᴴᴰ-1
