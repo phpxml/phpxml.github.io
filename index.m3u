@@ -234,10 +234,10 @@ http://4can.net:80/play/QZhkhGttICFJuU6uNmNxFgPW0jxbTxFl6MshNbJZvxMrQ4YlhLdPYe_J
 
 
 TV 8.5
-#EXTINF:-1 tvg-id=" TV8,5.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 85-a
+#EXTINF:-1 tvg-id=" TV85.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 85-a
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 TV 8.5
-#EXTINF:-1 tvg-id="  TV8,5.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 85-b
+#EXTINF:-1 tvg-id="  TV8.5.HD.tr " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 85-b
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 TV 8.5
 #EXTINF:-1 tvg-id=" TV8,5.HD.tr  " tvg-name="" tvg-language="" tvg-logo="    https://i.ibb.co/dgj3MTh/tv85.png      " group-title="ULUSAL",TV 85-c
