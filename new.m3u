@@ -30,3 +30,17 @@ TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 
+ZDF
+#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+ZDF INFO
+#EXTINF:-1 tvg-id="        " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png    " group-title="ALMAN",Zdfinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
+ZDF NEO
+#EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title="ALMAN",Zdfneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+
+
+
