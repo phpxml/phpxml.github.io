@@ -42,5 +42,19 @@ ZDF NEO
 #EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title="ALMAN",Zdfneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
+ONE
+#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title="ALMAN",ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+
+DAS ERSTE
+#EXTINF:-1 tvg-id="       " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title="ALMAN",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+
+
+
+
+
+
 
 
