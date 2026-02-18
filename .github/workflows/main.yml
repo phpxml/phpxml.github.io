@@ -2,7 +2,7 @@ name: M3U Daily Auto Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
