@@ -30,27 +30,6 @@ TİVİ 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 
-ZDF
-#EXTINF:-1 tvg-id="     " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png " group-title="ALMAN",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-
-ZDF INFO
-#EXTINF:-1 tvg-id="        " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png    " group-title="ALMAN",Zdfinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-ZDF NEO
-#EXTINF:-1 tvg-id="      " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png" group-title="ALMAN",Zdfneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-
-ONE
-#EXTINF:-1 tvg-id="    " tvg-language="" tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/500px-One_TV_Logo.svg.png" group-title="ALMAN",ONE
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
-
-DAS ERSTE
-#EXTINF:-1 tvg-id="       " tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Das_Erste_HD_Corner-Logo_2015.png/800px-Das_Erste_HD_Corner-Logo_2015.png" group-title="ALMAN",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-
-
 
 
 
