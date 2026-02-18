@@ -1,6 +1,4 @@
 #EXTM3U
-   #EXTINF:-1, ZUGRIFF VERWEIGERT - ERISIM REDDEDILDI
-   [http://0.0.0.0/iptal.ts](http://0.0.0.0/iptal.ts)
    #EXTINF:-1, NEUE INDEX-VEREINBARUNG FEHLGESCHLAGEN
    [http://0.0.0.0/iptal2.ts](http://0.0.0.0/iptal2.ts)
 
