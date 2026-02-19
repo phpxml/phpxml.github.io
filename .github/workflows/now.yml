@@ -1,1 +1,26 @@
+name: NOW TV Update
 
+on:
+  schedule:
+    - cron: '0 */3 * * *' # 3 saatte bir çalışır
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - run: python update_now.py
+      - run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add now.m3u
+          git commit -m "NOW TV Update: $(date)" || exit 0
+          git push
