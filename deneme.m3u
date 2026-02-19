@@ -25,6 +25,19 @@ TRT BELGESEL
 #EXTINF:-1 tvg-id="   TRT.BELGESEL.HD.tr  " tvg-language="" tvg-logo="   https://i.ibb.co/N1h8m96/trtbelgesel.png    " group-title="ULUSAL",TRT BELGESEL-2
 https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel_1080p.m3u8
 
+TRT TÜRK
+#EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ-1
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+TRT TÜRK
+#EXTINF:-1 tvg-id="  TRT.TÜRK.tr " tvg-language="" tvg-logo="       https://i.ibb.co/swtn1kV/trtturk.png      " group-title="ULUSAL",TRT TÜRK ᵀᴿᵀ 4K-2
+https://tv-trtturk.medya.trt.com.tr/master_1440.m3u8
+
+TRT AVAZ
+#EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ-1
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+TRT AVAZ
+#EXTINF:-1 tvg-id="  TRT.AVAZ.HD.tr " tvg-language="" tvg-logo="      https://i.ibb.co/xzZk0Yq/trtavaz.png    " group-title="ULUSAL",TRT AVAZ ᵀᴿᵀ 4K-2
+https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8
 
 
 
