@@ -1,1 +1,32 @@
+name: Star TV Guncelleyici
 
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Her 15 dakikada bir çalışır
+  workflow_dispatch: # Manuel çalıştırmak için buton açar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yukle
+        run: pip install requests
+
+      - name: Linki Guncelle
+        run: python star.py
+
+      - name: Kaydet ve Pushla
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add star.m3u8
+          git commit -m "Star TV tazeledi: $(date)" || exit 0
+          git push
